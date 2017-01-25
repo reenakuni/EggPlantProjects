@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[115, 776, 139, 789], command:@"Image at", eventNum:2, hotSpot:[1.3153125000000000e+02, 1.1343750000000000e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"SzS", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[154, 776, 182, 789], command:@"Image at", eventNum:3, hotSpot:[1.5644921900000000e+02, 8.2187500000000000e+00], imageName:@"", infoDict:{folderPath:@"/", imageName:@"FileEditViewGoWindowxzxz", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0003.png"}, {captureRect:[199, 776, 232, 789], command:@"Image at", eventNum:4, hotSpot:[2.2298828100000000e+02, 1.1429688000000001e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"xzxzxz", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0004.png"}, {captureRect:[249, 776, 269, 789], command:@"Image at", eventNum:5, hotSpot:[2.5472656200000000e+02, 1.4511718999999999e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"xzzx", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0005.png"}, {captureRect:[286, 776, 339, 789], command:@"Image at", eventNum:6, hotSpot:[3.0532031200000000e+02, 1.2082031000000001e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"xz", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0006.png"}, {captureRect:[61, 773, 660, 793], command:@"Image at", eventNum:7, hotSpot:[3.6101562500000000e+02, 1.6246093999999999e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Help", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0007.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Image at "SzS"</string>
+		<string>Image at "FileEditViewGoWindowxzxz"</string>
+		<string>Image at "xzxzxz"</string>
+		<string>Image at "xzzx"</string>
+		<string>Image at "xz"</string>
+		<string>Image at "Help"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>Help.png</string>
+			<string>Help.png</string>
+			<string>SzS.png</string>
+			<string>FileEditViewGoWindowxzxz.png</string>
+			<string>xzxzxz.png</string>
+			<string>xzzx.png</string>
+			<string>xz.png</string>
+			<string>SzS.png</string>
+			<string>FileEditViewGoWindowxzxz.png</string>
+			<string>xzxzxz.png</string>
+			<string>xzzx.png</string>
+			<string>xz.png</string>
+			<string>Help.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>rapidSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

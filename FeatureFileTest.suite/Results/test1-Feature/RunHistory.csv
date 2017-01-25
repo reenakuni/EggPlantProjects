@@ -1,0 +1,48 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2016-06-03 15:52:04.813 -0600,"Success",0:00:00,0,3,0,"20160603_155204.813/LogFile.txt","","",1
+2016-06-03 15:53:11.199 -0600,"Success",0:00:00,0,0,0,"20160603_155311.199/LogFile.txt","","",6
+2016-06-03 15:53:13.766 -0600,"Success",0:00:00,0,0,0,"20160603_155313.766/LogFile.txt","","",6
+2016-06-10 17:26:30.254 -0600,"Success",0:00:00,0,4,0,"20160610_172630.254/LogFile.txt","","",1
+2016-06-10 17:27:50.879 -0600,"Success",0:00:00,0,0,0,"20160610_172750.879/LogFile.txt","","",8
+2016-06-10 22:52:14.099 -0600,"Success",0:00:00,0,3,0,"20160610_225214.099/LogFile.txt","","",1
+2016-06-10 22:53:31.654 -0600,"Failure",0:00:00,2,0,0,"20160610_225331.654/LogFile.txt","","SenseTalk Runtime Exception -- Invalid operands for addition: expected numbers, dates and/or lists; got 'y' and 'x'",5
+2016-06-10 22:57:36.641 -0600,"Failure",0:00:00,2,0,0,"20160610_225736.641/LogFile.txt","","SenseTalk Runtime Exception -- Invalid operands for addition: expected numbers, dates and/or lists; got 'y' and 'x'",5
+2016-06-10 22:58:02.658 -0600,"Failure",0:00:00,2,0,0,"20160610_225802.658/LogFile.txt","","STInvalidNumber -- Value is not a number: 'y'",5
+2016-06-10 22:58:05.205 -0600,"Failure",0:00:00,2,0,0,"20160610_225805.205/LogFile.txt","","STInvalidNumber -- Value is not a number: 'y'",5
+2016-06-10 22:58:33.334 -0600,"Success",0:00:00,0,0,0,"20160610_225833.334/LogFile.txt","","",6
+2016-06-10 22:59:23.031 -0600,"Success",0:00:00,0,0,0,"20160610_225923.031/LogFile.txt","","",6
+2016-06-10 23:00:01.103 -0600,"Success",0:00:00,0,0,0,"20160610_230001.103/LogFile.txt","","",6
+2016-06-10 23:00:02.219 -0600,"Success",0:00:00,0,0,0,"20160610_230002.219/LogFile.txt","","",6
+2016-06-10 23:08:53.726 -0600,"Success",0:00:00,0,3,0,"20160610_230853.726/LogFile.txt","","",2
+2016-06-10 23:09:09.715 -0600,"Success",0:00:00,0,4,0,"20160610_230909.715/LogFile.txt","","",1
+2016-06-10 23:09:46.955 -0600,"Success",0:00:00,0,0,0,"20160610_230946.955/LogFile.txt","","",8
+2016-06-10 23:10:56.439 -0600,"Failure",0:00:00,2,0,0,"20160610_231056.439/LogFile.txt","","SenseTalk Runtime Exception -- Invalid operands for addition: expected numbers, dates and/or lists; got 'num2' and 'num1'",7
+2016-06-10 23:12:07.138 -0600,"Failure",0:00:00,2,0,0,"20160610_231207.138/LogFile.txt","","SenseTalk Runtime Exception -- Invalid operands for addition: expected numbers, dates and/or lists; got 'y' and 'x'",7
+2016-06-10 23:12:09.042 -0600,"Failure",0:00:00,2,0,0,"20160610_231209.042/LogFile.txt","","SenseTalk Runtime Exception -- Invalid operands for addition: expected numbers, dates and/or lists; got 'y' and 'x'",7
+2016-06-10 23:13:00.909 -0600,"Success",0:00:00,0,0,0,"20160610_231300.909/LogFile.txt","","",8
+2016-06-10 23:14:19.451 -0600,"Success",0:00:00,0,0,0,"20160610_231419.451/LogFile.txt","","",8
+2016-06-10 23:16:00.124 -0600,"Success",0:00:00,0,0,0,"20160610_231600.124/LogFile.txt","","",8
+2016-06-10 23:16:02.629 -0600,"Success",0:00:00,0,0,0,"20160610_231602.629/LogFile.txt","","",8
+2016-06-10 23:16:29.632 -0600,"Success",0:00:00,0,1,0,"20160610_231629.632/LogFile.txt","","",6
+2016-06-10 23:16:57.834 -0600,"Success",0:00:00,0,0,0,"20160610_231657.834/LogFile.txt","","",8
+2016-06-10 23:18:48.973 -0600,"Success",0:00:00,0,0,0,"20160610_231848.973/LogFile.txt","","",8
+2016-06-10 23:19:40.165 -0600,"Success",0:00:00,0,0,0,"20160610_231940.165/LogFile.txt","","",8
+2016-06-10 23:20:49.624 -0600,"Success",0:00:00,0,0,0,"20160610_232049.624/LogFile.txt","","",8
+2016-06-10 23:22:28.186 -0600,"Success",0:00:00,0,0,0,"20160610_232228.186/LogFile.txt","","",8
+2016-06-10 23:24:04.207 -0600,"Success",0:00:00,0,0,0,"20160610_232404.207/LogFile.txt","","",8
+2016-06-10 23:24:40.356 -0600,"Success",0:00:00,0,0,0,"20160610_232440.356/LogFile.txt","","",8
+2016-06-10 23:25:28.619 -0600,"Success",0:00:00,0,0,0,"20160610_232528.619/LogFile.txt","","",8
+2016-06-10 23:48:29.817 -0600,"Failure",0:00:00,2,0,0,"20160610_234829.817/LogFile.txt","","STUnknownMessage -- ERROR: 'params' was called as a Command, but is only available as a Function",7
+2016-06-10 23:58:01.983 -0600,"Failure",0:00:00,2,0,0,"20160610_235801.983/LogFile.txt","","STUnknownMessage -- ERROR: 'params' was called as a Command, but is only available as a Function",7
+2016-06-11 00:00:33.111 -0600,"Failure",0:00:00,2,0,0,"20160611_000033.111/LogFile.txt","","STUnknownMessage -- ERROR: 'params' was called as a Command, but is only available as a Function",7
+2016-06-11 00:00:35.103 -0600,"Failure",0:00:00,2,0,0,"20160611_000035.103/LogFile.txt","","STUnknownMessage -- ERROR: 'params' was called as a Command, but is only available as a Function",7
+2016-06-11 00:00:55.667 -0600,"Success",0:00:00,0,0,0,"20160611_000055.667/LogFile.txt","","",8
+2016-06-11 00:01:09.949 -0600,"Failure",0:00:00,2,0,0,"20160611_000109.949/LogFile.txt","","STUnknownMessage -- ERROR: 'params' was called as a Command, but is only available as a Function",7
+2016-06-11 00:01:44.842 -0600,"Success",0:00:00,0,0,0,"20160611_000144.842/LogFile.txt","","",8
+2016-06-11 00:02:04.525 -0600,"Success",0:00:00,0,0,0,"20160611_000204.525/LogFile.txt","","",8
+2016-06-11 00:02:05.733 -0600,"Success",0:00:00,0,0,0,"20160611_000205.733/LogFile.txt","","",8
+2016-06-12 00:25:00.810 -0600,"Success",0:00:00,0,0,0,"20160612_002500.810/LogFile.txt","","",8
+2016-06-13 11:28:14.905 -0600,"Success",0:00:00,0,0,0,"20160613_112814.905/LogFile.txt","","",8
+2016-06-13 11:29:20.813 -0600,"Success",0:00:00,0,0,0,"20160613_112920.813/LogFile.txt","","",8
+2016-06-13 11:29:47.228 -0600,"Success",0:00:00,0,0,0,"20160613_112947.228/LogFile.txt","","",8
+2016-06-13 11:30:47.317 -0600,"Success",0:00:00,0,0,0,"20160613_113047.317/LogFile.txt","","",8

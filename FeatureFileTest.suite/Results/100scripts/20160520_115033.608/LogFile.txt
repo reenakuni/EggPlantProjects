@@ -1,0 +1,4 @@
+﻿2016-05-20 11:50:33.609 -0600	START		Running 100scripts.script
+2016-05-20 11:50:33.686 -0600	Log		reena	7	on_100scripts	100scripts.script
+2016-05-20 11:50:33.922 -0600	EndTestCase		(Duration:"0.307406", Errors:"0", Exceptions:"0", StartTime:"2016-05-20 11:50:33 -0600", Successes:"1", TestCase:"100scripts.script", Warnings:"0")
+2016-05-20 11:50:33.926 -0600	SUCCESS		Execution Time 0:00:00 100scripts.script

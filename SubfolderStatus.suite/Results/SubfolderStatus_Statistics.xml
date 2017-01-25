@@ -1,0 +1,107 @@
+﻿<?xml version="1.0"?>
+<statistics>
+ <script name="Tab1">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-10-20 10:33:46 -0600</FirstRun>
+  <LastRun>2016-10-20 10:33:46 -0600</LastRun>
+  <TotalTimeOnSuccess>2.946576</TotalTimeOnSuccess>
+ </script>
+ <script name="HelperSubfolder/featureStep">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-11-14 14:27:57 -0700</FirstRun>
+  <LastRun>2016-11-14 14:27:57 -0700</LastRun>
+  <TotalTimeOnSuccess>0.011677</TotalTimeOnSuccess>
+ </script>
+ <script name="Helper2">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>12</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2016-10-18 10:19:04 -0600</FirstRun>
+  <LastRun>2016-11-14 14:30:08 -0700</LastRun>
+  <TotalTimeOnSuccess>5.480967</TotalTimeOnSuccess>
+ </script>
+ <script name="HelperSubfolder/handlerscript">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-10-18 12:25:43 -0600</FirstRun>
+  <LastRun>2016-10-18 12:25:43 -0600</LastRun>
+  <TotalTimeOnSuccess>0.003238</TotalTimeOnSuccess>
+ </script>
+ <script name="HelperScript">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>18</NumberOfRuns>
+  <NumberOfFails>2</NumberOfFails>
+  <FirstRun>2016-10-18 09:59:38 -0600</FirstRun>
+  <LastRun>2016-10-20 11:55:48 -0600</LastRun>
+  <TotalTimeOnSuccess>24.948239</TotalTimeOnSuccess>
+ </script>
+ <script name="AccessibilityDemo (2)">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>5</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2016-10-19 09:34:59 -0600</FirstRun>
+  <LastRun>2016-10-28 16:17:50 -0600</LastRun>
+  <TotalTimeOnSuccess>6.725400</TotalTimeOnSuccess>
+ </script>
+ <script name="HelperSubfolder/Scp1">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>15</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-10-18 10:45:48 -0600</FirstRun>
+  <LastRun>2016-10-20 12:02:48 -0600</LastRun>
+  <TotalTimeOnSuccess>18.238172</TotalTimeOnSuccess>
+ </script>
+ <script name="Untitled">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>5</NumberOfRuns>
+  <NumberOfFails>3</NumberOfFails>
+  <FirstRun>2016-10-20 11:48:58 -0600</FirstRun>
+  <LastRun>2016-10-20 14:00:02 -0600</LastRun>
+  <TotalTimeOnSuccess>3.502599</TotalTimeOnSuccess>
+ </script>
+ <script name="s1">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>6</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-10-20 11:48:44 -0600</FirstRun>
+  <LastRun>2016-10-24 13:58:38 -0600</LastRun>
+  <TotalTimeOnSuccess>9.486745</TotalTimeOnSuccess>
+ </script>
+ <script name="HelperSubfolder/Sc2">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>16</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2016-10-18 10:45:47 -0600</FirstRun>
+  <LastRun>2016-11-14 14:28:10 -0700</LastRun>
+  <TotalTimeOnSuccess>21.288495</TotalTimeOnSuccess>
+ </script>
+ <script name="HelperSubfolder/subs1">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>2</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-10-20 10:15:16 -0600</FirstRun>
+  <LastRun>2016-11-14 14:28:17 -0700</LastRun>
+  <TotalTimeOnSuccess>0.272735</TotalTimeOnSuccess>
+ </script>
+ <script name="HelperSubfolder/callhandlerscript">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>7</NumberOfRuns>
+  <NumberOfFails>4</NumberOfFails>
+  <FirstRun>2016-10-18 12:17:22 -0600</FirstRun>
+  <LastRun>2016-10-18 12:19:21 -0600</LastRun>
+  <TotalTimeOnSuccess>1.632747</TotalTimeOnSuccess>
+ </script>
+ <script name="Helperf1">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>5</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-10-20 10:45:48 -0600</FirstRun>
+  <LastRun>2016-10-20 12:19:03 -0600</LastRun>
+  <TotalTimeOnSuccess>1.072812</TotalTimeOnSuccess>
+ </script>
+</statistics>

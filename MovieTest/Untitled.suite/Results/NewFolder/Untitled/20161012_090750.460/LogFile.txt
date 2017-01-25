@@ -1,0 +1,7 @@
+﻿2016-10-12 09:07:50.462 -0600	START		Running NewFolder/Untitled.script
+2016-10-12 09:07:50.874 -0600	click	image0001	at (26, 805)	1	on_newfolder_untitled	NewFolder/Untitled.script
+2016-10-12 09:07:51.665 -0600	typetext		Notepad	2	on_newfolder_untitled	NewFolder/Untitled.script
+2016-10-12 09:07:57.255 -0600	click	Notepad	at (60, 364)	4	on_newfolder_untitled	NewFolder/Untitled.script
+2016-10-12 09:07:58.023 -0600	typetext		Hello	5	on_newfolder_untitled	NewFolder/Untitled.script
+2016-10-12 09:07:58.565 -0600	EndTestCase		(Duration:"8.101789", Errors:"0", Exceptions:"0", StartTime:"2016-10-12 09:07:50 -0600", Successes:"1", TestCase:"NewFolder/Untitled.script", Warnings:"0")
+2016-10-12 09:07:58.572 -0600	SUCCESS		Execution Time 0:00:08 NewFolder/Untitled.script

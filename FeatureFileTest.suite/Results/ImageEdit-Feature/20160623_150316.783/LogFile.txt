@@ -1,0 +1,8 @@
+﻿2016-06-23 15:03:16.783 -0600	START		Running ImageEdit.feature
+2016-06-23 15:03:16.791 -0600	Log		connected to a sut	2	on_connected_to_a_sut	ImageEdit.script<SOURCE>
+2016-06-23 15:03:16.794 -0600	LogSuccess		Connected to a SUT
+2016-06-23 15:03:16.796 -0600	Exception		Remote Connection Unavailable	2	on_select_an_image	ImageEdit.script<SOURCE>
+2016-06-23 15:03:16.799 -0600	LogError		Select an image
+2016-06-23 15:03:16.800 -0600	LogSuccess		image should appear on the images list
+2016-06-23 15:03:16.801 -0600	EndTestCase		(Duration:"0.016084", Errors:"2", Exceptions:"1", StartTime:"2016-06-23 15:03:16 -0600", Successes:"2", TestCase:"ImageEdit.feature", Warnings:"0")
+2016-06-23 15:03:16.810 -0600	FAILURE		1 scenarios (1 failed, 0 passed) 3 steps (1 failed, 0 skipped, 2 passed) Execution Time 0:00:00

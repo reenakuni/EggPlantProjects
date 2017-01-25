@@ -1,0 +1,4 @@
+﻿2017-01-12 12:23:57.834 -0700	START		Running Untitled1.script
+2017-01-12 12:24:06.161 -0700	Exception	image0064	No Image Found On Screen: "image0064"	8	on_untitled1	Untitled1.script
+2017-01-12 12:24:06.638 -0700	EndTestCase		(Duration:"8.801823", Errors:"1", Exceptions:"1", StartTime:"2017-01-12 12:23:57 -0700", Successes:"0", TestCase:"Untitled1.script", Warnings:"0")
+2017-01-12 12:24:06.639 -0700	ABORTED		Execution Time 0:00:08 Untitled1.script

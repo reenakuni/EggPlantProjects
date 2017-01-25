@@ -1,0 +1,4 @@
+﻿2016-10-31 11:10:55.721 -0600	START		Running Return.script
+2016-10-31 11:10:55.818 -0600	Exception		Remote Connection Unavailable	2	on_untitled3	Untitled3.script
+2016-10-31 11:10:57.156 -0600	EndTestCase		(Duration:"1.433499", Errors:"1", Exceptions:"1", StartTime:"2016-10-31 11:10:55 -0600", Successes:"0", TestCase:"Return.script", Warnings:"0")
+2016-10-31 11:10:57.174 -0600	FAILURE		No Remote Connection moveto Error - Remote Connection Unavailable -- Execution Time 0:00:01 Return.script

@@ -1,0 +1,4 @@
+﻿2016-11-01 09:41:41.885 -0600	START		Running Untitled.script
+2016-11-01 09:41:42.512 -0600	click	image0007	at (591, 276)	1	on_untitled	Untitled.script
+2016-11-01 09:41:46.805 -0600	EndTestCase		(Duration:"4.917429", Errors:"0", Exceptions:"0", StartTime:"2016-11-01 09:41:41 -0600", Successes:"1", TestCase:"Untitled.script", Warnings:"0")
+2016-11-01 09:41:46.823 -0600	SUCCESS		Execution Time 0:00:04 Untitled.script

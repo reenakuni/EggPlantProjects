@@ -1,0 +1,4 @@
+﻿2016-06-22 09:57:44.977 -0600	START		Running Untitled1.script
+2016-06-22 09:57:45.003 -0600	connect		10.1.11.128:(null)	1	on_untitled1	Untitled1.script
+2016-06-22 09:57:45.710 -0600	EndTestCase		(Duration:"0.731392", Errors:"1", Exceptions:"0", StartTime:"2016-06-22 09:57:44 -0600", Successes:"0", TestCase:"Untitled1.script", Warnings:"0")
+2016-06-22 09:57:46.090 -0600	FAILURE	Screen_Error.png	STUnknownMessage ERROR: 'connectioninfo' was called as a Command, but is only available as a Function -- Execution Time 0:00:00 Untitled1.script

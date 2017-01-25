@@ -1,0 +1,18 @@
+﻿2016-06-30 17:20:19.724 -0600	START		Running Ft1.feature
+2016-06-30 17:20:19.732 -0600	LogWarning		page is open
+2016-06-30 17:20:19.733 -0600	LogWarning		<num3> suntract
+2016-06-30 17:20:19.733 -0600	LogWarning		enter <num1>
+2016-06-30 17:20:19.734 -0600	LogWarning		enter second number <num2>
+2016-06-30 17:20:19.734 -0600	LogWarning		log <num1> and <num2> to get <num3> and <num4> and <num5>
+2016-06-30 17:20:19.735 -0600	LogWarning		page is open
+2016-06-30 17:20:19.735 -0600	LogWarning		<num3> suntract
+2016-06-30 17:20:19.736 -0600	LogWarning		enter <num1>
+2016-06-30 17:20:19.736 -0600	LogWarning		enter second number <num2>
+2016-06-30 17:20:19.737 -0600	LogWarning		log <num1> and <num2> to get <num3> and <num4> and <num5>
+2016-06-30 17:20:19.738 -0600	LogWarning		page is open
+2016-06-30 17:20:19.738 -0600	LogWarning		<num3> suntract
+2016-06-30 17:20:19.739 -0600	LogWarning		enter <num1>
+2016-06-30 17:20:19.739 -0600	LogWarning		enter second number <num2>
+2016-06-30 17:20:19.740 -0600	LogWarning		log <num1> and <num2> to get <num3> and <num4> and <num5>
+2016-06-30 17:20:19.741 -0600	EndTestCase		(Duration:"0.016335", Errors:"0", Exceptions:"0", StartTime:"2016-06-30 17:20:19 -0600", Successes:"1", TestCase:"Ft1.feature", Warnings:"15")
+2016-06-30 17:20:19.889 -0600	FAILURE	Screen_Error.png	3 scenarios (3 failed, 0 passed) 15 steps (0 failed, 15 skipped, 0 passed) Execution Time 0:00:00

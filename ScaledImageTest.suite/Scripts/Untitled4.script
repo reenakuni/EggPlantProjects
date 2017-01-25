@@ -1,0 +1,16 @@
+﻿//click (image:"return",SCALEDIMAGEOCRREAD:YES,scale:1.5)
+MoveTo (image:"photos",SCALEDIMAGEOCRREAD:YES,scale:1.5)
+
+
+MoveTo (image:"photos",scale:1.0)
+
+MoveTo (image:"photos", scale:1.0)
+set the searchRectangle to (0,0,500,500)
+MoveTo (text: "iMovie")
+
+MoveTo (image:"Learnmore",SCALEDIMAGEOCRREAD:YES, scale:1.5)
+MoveTo (image:"New",SCALEDIMAGEOCRREAD:YES,scale:1.65)
+
+MoveTo (image:"TBD",SCALEDIMAGEOCRREAD:YES,scale:1.0)
+MoveTo (image:"TBDscale1",scale:0.65)
+Helper2

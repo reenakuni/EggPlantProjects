@@ -1,0 +1,5 @@
+﻿2016-10-25 10:51:35.896 -0600	START		Running Untitled.script
+2016-10-25 10:51:37.074 -0600	click	wahoozoomedin	at (547, 636)	4	on_untitled	Untitled.script
+2016-10-25 10:51:37.791 -0600	typetext		[HomeButton]	5	on_untitled	Untitled.script
+2016-10-25 10:51:38.794 -0600	EndTestCase		(Duration:"2.896376", Errors:"0", Exceptions:"0", StartTime:"2016-10-25 10:51:35 -0600", Successes:"1", TestCase:"Untitled.script", Warnings:"0")
+2016-10-25 10:51:38.801 -0600	SUCCESS		Execution Time 0:00:02 Untitled.script

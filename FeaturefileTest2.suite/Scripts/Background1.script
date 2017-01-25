@@ -1,0 +1,30 @@
+﻿
+global left 
+to handle I_have_VAR_apples
+	params num
+	log num
+	set me.value to num
+	log me.value
+end I_have_VAR_apples
+
+(*
+to handle i_give_VAR_to_mickey
+	params num
+	set global left to me.value - num
+	log global left
+end i_give_VAR_to_mickey
+
+to handle I_am_left_with_VAR
+	params num
+	if global left  = num
+	then 
+		log "s"
+	else
+		log "f"
+	end if
+end I_am_left_with_VAR
+*)
+
+to handle I_log
+	log me.value	
+end I_log

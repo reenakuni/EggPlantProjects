@@ -1,0 +1,6 @@
+﻿2017-01-17 13:58:07.961 -0700	START		Running Untitled8.script
+2017-01-17 13:58:08.561 -0700	click	FileEditViewGo_0005	at (128, 15)	8	on_untitled8	Untitled8.script
+2017-01-17 13:58:09.766 -0700	drag	NewFinderWindow_0002	at (138, 40)	9	on_untitled8	Untitled8.script
+2017-01-17 13:58:20.239 -0700	Exception	NewFinderWindow_0003	No Image Found On Screen: "NewFinderWindow_0003"	10	on_untitled8	Untitled8.script
+2017-01-17 13:58:21.087 -0700	EndTestCase		(Duration:"13.124422", Errors:"1", Exceptions:"1", StartTime:"2017-01-17 13:58:07 -0700", Successes:"0", TestCase:"Untitled8.script", Warnings:"0")
+2017-01-17 13:58:21.088 -0700	ABORTED		Execution Time 0:00:13 Untitled8.script

@@ -1,0 +1,3 @@
+﻿2016-07-05 21:11:11.315 -0600	START		Running Testdocs.script
+2016-07-05 21:11:12.026 -0600	EndTestCase		(Duration:"0.709936", Errors:"0", Exceptions:"0", StartTime:"2016-07-05 21:11:11 -0600", Successes:"1", TestCase:"Testdocs.script", Warnings:"0")
+2016-07-05 21:11:12.072 -0600	SUCCESS		Execution Time 0:00:00 Testdocs.script

@@ -1,0 +1,2 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2017-01-12 16:25:49.775 -0700,"Failure",0:00:00,1,0,0,"20170112_162549.775/LogFile.txt","","SenseTalk Compiler Exception -- in rapid3:\nSyntax Error at line 8: Syntax Error - can't understand ""MyPortfolio"" at or near character 270",0

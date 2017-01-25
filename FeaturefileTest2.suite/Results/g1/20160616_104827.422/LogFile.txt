@@ -1,0 +1,8 @@
+﻿2016-06-16 10:48:27.423 -0600	START		Running g1.script
+2016-06-16 10:48:27.487 -0600	Log		30	3	on_i_have_num_apples	g.script
+2016-06-16 10:48:27.490 -0600	Log		30	5	on_i_have_num_apples	g.script
+2016-06-16 10:48:27.493 -0600	Log		10	4	on_i_give_num_apples_to_a_monkey	g.script
+2016-06-16 10:48:27.504 -0600	Log		20	3	on_i_am_left_with_num_apples	g.script
+2016-06-16 10:48:27.507 -0600	Log		success	8	on_i_am_left_with_num_apples	g.script
+2016-06-16 10:48:28.174 -0600	EndTestCase		(Duration:"0.749334", Errors:"0", Exceptions:"0", StartTime:"2016-06-16 10:48:27 -0600", Successes:"1", TestCase:"g1.script", Warnings:"0")
+2016-06-16 10:48:28.195 -0600	SUCCESS		Execution Time 0:00:00 g1.script

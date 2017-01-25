@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[52, 777, 387, 793], command:@"Image at", eventNum:2, hotSpot:[8.0093750000000000e+01, 9.8437500000000000e+00], imageName:@"", infoDict:{folderPath:@"/", imageName:@"FinderFileEditViewGoWindowHelp", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[52, 777, 387, 793], command:@"Image at", eventNum:3, hotSpot:[1.2046875000000000e+02, 1.0535156000000001e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"FinderFileEditViewGoWindowHelp_0001", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0003.png"}, {captureRect:[52, 777, 387, 793], command:@"Image at", eventNum:4, hotSpot:[1.6517968800000000e+02, 9.4960939999999994e+00], imageName:@"", infoDict:{folderPath:@"/", imageName:@"FinderFileEditViewGoWindowHelp_0002", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0004.png"}, {captureRect:[52, 777, 387, 793], command:@"Image at", eventNum:5, hotSpot:[2.2171875000000000e+02, 1.5746093999999999e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"FinderFileEditViewGoWindowHelp_0003", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0005.png"}, {captureRect:[198, 779, 339, 793], command:@"Image at", eventNum:6, hotSpot:[2.5892968800000000e+02, 1.3703125000000000e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"ViewGoWindow_0003", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0006.png"}, {captureRect:[52, 777, 387, 793], command:@"Image at", eventNum:7, hotSpot:[3.0016406200000000e+02, 1.3703125000000000e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"FinderFileEditViewGoWindowHelp_0004", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0007.png"}, {captureRect:[248, 777, 387, 793], command:@"Image at", eventNum:8, hotSpot:[3.6956640599999997e+02, 1.2660156000000001e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"GoWindowHelp_0004", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0008.png"}, {captureRect:[194, 620, 264, 650], command:@"Image at", eventNum:9, hotSpot:[2.2915234400000000e+02, 1.5781250000000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0029", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0009.png"}, {captureRect:[172, 598, 242, 628], command:@"Image at", eventNum:10, hotSpot:[2.0755468800000000e+02, 1.7902343800000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0030", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0010.png"}, {captureRect:[216, 583, 256, 596], command:@"Image at", eventNum:11, hotSpot:[2.4364843800000000e+02, 2.0860546900000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Chess", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0011.png"}, {captureRect:[274, 278, 344, 308], command:@"Image at", eventNum:12, hotSpot:[3.0992968800000000e+02, 4.9941015599999997e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0031", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0012.png"}, {captureRect:[447, 287, 517, 317], command:@"Image at", eventNum:13, hotSpot:[4.8291406200000000e+02, 4.9046484400000003e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0032", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0013.png"}, {captureRect:[450, 346, 497, 359], command:@"Image at", eventNum:14, hotSpot:[4.3081640599999997e+02, 4.4085546900000003e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Details_0002", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0014.png"}, {captureRect:[450, 377, 535, 392], command:@"Image at", eventNum:15, hotSpot:[4.3285937500000000e+02, 3.9943750000000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Connectivity_0002", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0015.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Image at "FinderFileEditViewGoWindowHelp"</string>
+		<string>Image at "FinderFileEditViewGoWindowHelp_0001"</string>
+		<string>Image at "FinderFileEditViewGoWindowHelp_0002"</string>
+		<string>Image at "FinderFileEditViewGoWindowHelp_0003"</string>
+		<string>Image at "ViewGoWindow_0003"</string>
+		<string>Image at "FinderFileEditViewGoWindowHelp_0004"</string>
+		<string>Image at "GoWindowHelp_0004"</string>
+		<string>Image at "image0029"</string>
+		<string>Image at "image0030"</string>
+		<string>Image at "Chess"</string>
+		<string>Image at "image0031"</string>
+		<string>Image at "image0032"</string>
+		<string>Image at "Details_0002"</string>
+		<string>Image at "Connectivity_0002"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>FinderFileEditViewGoWindowHelp.png</string>
+			<string>FinderFileEditViewGoWindowHelp.png</string>
+			<string>FinderFileEditViewGoWindowHelp_0001.png</string>
+			<string>FinderFileEditViewGoWindowHelp_0001.png</string>
+			<string>FinderFileEditViewGoWindowHelp_0002.png</string>
+			<string>FinderFileEditViewGoWindowHelp_0002.png</string>
+			<string>FinderFileEditViewGoWindowHelp_0003.png</string>
+			<string>FinderFileEditViewGoWindowHelp_0003.png</string>
+			<string>ViewGoWindow_0003.png</string>
+			<string>ViewGoWindow_0003.png</string>
+			<string>FinderFileEditViewGoWindowHelp_0004.png</string>
+			<string>FinderFileEditViewGoWindowHelp_0004.png</string>
+			<string>GoWindowHelp_0004.png</string>
+			<string>GoWindowHelp_0004.png</string>
+			<string>image0029.png</string>
+			<string>image0029.png</string>
+			<string>image0030.png</string>
+			<string>image0030.png</string>
+			<string>Chess.png</string>
+			<string>Chess.png</string>
+			<string>image0031.png</string>
+			<string>image0031.png</string>
+			<string>image0032.png</string>
+			<string>image0032.png</string>
+			<string>Details_0002.png</string>
+			<string>Details_0002.png</string>
+			<string>Connectivity_0002.png</string>
+			<string>Connectivity_0002.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>rapidSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

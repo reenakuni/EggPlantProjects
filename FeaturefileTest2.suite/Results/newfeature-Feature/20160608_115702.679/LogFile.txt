@@ -1,0 +1,18 @@
+﻿2016-06-08 11:57:02.680 -0600	START		Running newfeature.feature
+2016-06-08 11:57:02.693 -0600	Log		something	2	on_log_something	newfeature.script<SOURCE>
+2016-06-08 11:57:02.695 -0600	LogSuccess		log something
+2016-06-08 11:57:02.696 -0600	LogSuccess		log something
+2016-06-08 11:57:02.697 -0600	Log		see a message	2	on_when_you_see_the_message	newfeature.script<SOURCE>
+2016-06-08 11:57:02.698 -0600	LogSuccess		when you see the message
+2016-06-08 11:57:02.699 -0600	LogSuccess		when you see the message
+2016-06-08 11:57:02.700 -0600	Log		success	2	on_log_success	newfeature.script<SOURCE>
+2016-06-08 11:57:02.701 -0600	LogSuccess		log success
+2016-06-08 11:57:02.702 -0600	LogSuccess		log success
+2016-06-08 11:57:02.703 -0600	LogSuccess		log something else
+2016-06-08 11:57:02.703 -0600	LogSuccess		log something else
+2016-06-08 11:57:02.704 -0600	LogSuccess		when you see some message
+2016-06-08 11:57:02.705 -0600	LogSuccess		when you see some message
+2016-06-08 11:57:02.706 -0600	LogSuccess		log successful
+2016-06-08 11:57:02.706 -0600	LogSuccess		log successful
+2016-06-08 11:57:02.707 -0600	EndTestCase		(Duration:"0.024203", Errors:"0", Exceptions:"0", StartTime:"2016-06-08 11:57:02 -0600", Successes:"12", TestCase:"newfeature.feature", Warnings:"0")
+2016-06-08 11:57:02.725 -0600	SUCCESS		2 scenarios (0 failed, 2 passed) 6 steps (0 failed, 0 skipped, 6 passed) Execution Time 0:00:00

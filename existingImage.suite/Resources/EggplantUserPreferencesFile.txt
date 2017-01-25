@@ -1,0 +1,908 @@
+{
+    ABBYYCleanup = YES;
+    "ABBYY_DevKey" = "SWAD-1121-1004-0180-9874-9186";
+    "ABBYY_Pass" = "aby#283196Mac#TestPlant";
+    "ABBYY_RunKey" = "SWAO-1121-1004-0229-6068-3616.ABBYY.LocalLicense";
+    ADBAllowedTypes = device;
+    ADBDevicePollingInterval = 4;
+    ADBPath = "";
+    ADBStartServerOnLaunch = YES;
+    ADBStopServerOnQuit = NO;
+    ADBTimeout = 1;
+    ADBVersion = "1.0.31";
+    AKDeviceUnlockState = 0;
+    Achievements =     (
+                {
+            date = "2016-01-20 18:15:58 +0000";
+            name = Log;
+        },
+                {
+            date = "2016-01-20 18:15:59 +0000";
+            name = RunCLI;
+        }
+    );
+    "Achievements.suite - Untitled6.script-BP" =     {
+        "function_untitled6" =         (
+        );
+        "on_untitled6" =         (
+        );
+        "to_handle_untitled6" =         (
+        );
+    };
+    AchievementsProgress = "0.0716";
+    AlertOnError = YES;
+    AlertOnFailedConnections = 1;
+    AllowOffscreenCoordinates = 0;
+    AllowReverseConnections = 1;
+    AllowReverseMobileConnections = 0;
+    AllowTextDragging = NO;
+    AlwaysCheckForAppId = NO;
+    AlwaysRelaunchSN2 = YES;
+    AndroidVNCServers = "com.testplant.eggon,com.vmlite.vncserver,SystemNative2";
+    AppleActionOnDoubleClick = Minimize;
+    AppleAntiAliasingThreshold = 4;
+    AppleDockIconEnabled = 1;
+    AppleGCIdleTimeInterval = "1.0";
+    AppleLanguages =     (
+        en,
+        de
+    );
+    AppleLocale = "en_DE";
+    AppleMeasurementUnits = Centimeters;
+    AppleMetricUnits = 1;
+    AppleMiniaturizeOnDoubleClick = 1;
+    AppleTextDirection = 0;
+    AutoCompleteCommas = YES;
+    AutoCompleteCurlyBraces = YES;
+    AutoCompleteHandlers = YES;
+    AutoCompleteIfStatements = YES;
+    AutoCompleteParentheses = YES;
+    AutoCompleteQuotes = YES;
+    AutoCompleteRepeatStatements = YES;
+    AutoCompleteSquareBrackets = YES;
+    AutoDoctorCaptureScreen = YES;
+    AutoDoctorSearchTypes =     (
+        Tolerance,
+        SearchType,
+        Crop,
+        Scale,
+        Discrepancy
+    );
+    AutoSaveScripts = 1;
+    AutoShowRunWindow = YES;
+    AutoSubmitCrashReports = YES;
+    AutoUpgradeSuites = NO;
+    AutoWaitForFactor = "1.5";
+    AutoWaitForMax = 600;
+    AutoWaitForMin = "2.5";
+    AvailableOCRLanguages =     (
+        English,
+        French,
+        German,
+        Spanish
+    );
+    BoldCommands = YES;
+    BoldComments = NO;
+    BoldContainers = NO;
+    BoldFunctions = NO;
+    BoldKeywords = YES;
+    BoldLiterals = NO;
+    BoldNumbers = NO;
+    BoldOperators = NO;
+    BoldRemoteCommands = YES;
+    BoldRemoteFunctions = NO;
+    BoldUserCommands = NO;
+    BoldVariables = YES;
+    BonjourDiscoveryEnabled = 1;
+    BugSubmitTimeout = 20;
+    CSPollInterval = 10;
+    CaptureModeToggleKeyMask = 1048576;
+    CheckForUpdates = YES;
+    CheckHostAvailabilityInterval = "-1234567";
+    ClipboardAlertThreshold = 100000;
+    CloseConnectionPanel = 0;
+    ColorCommands = YES;
+    ColorComments = YES;
+    ColorContainers = YES;
+    ColorFunctions = YES;
+    ColorKeywords = NO;
+    ColorLiterals = YES;
+    ColorNumbers = YES;
+    ColorOperators = YES;
+    ColorRemoteCommands = YES;
+    ColorRemoteFunctions = YES;
+    ColorUserCommands = YES;
+    ColorVariables = YES;
+    CommandColor = <040b7374 7265616d 74797065 6481e803 84014084 8484074e 53436f6c 6f720084 84084e53 4f626a65 63740085 84016302 84046666 66660083 0000a83d 830000dc 3e0186>;
+    CommandLineOutput = 0;
+    CommandLineTableOutputWidth = 20;
+    CommentColor = <040b7374 7265616d 74797065 6481e803 84014084 8484074e 53436f6c 6f720084 84084e53 4f626a65 63740085 84016302 84046666 66660083 0000dc3e 830000a0 3c0186>;
+    ConectionListHeadersOptionDisabled = 1;
+    ConnectionListHeadersEnabled = 0;
+    ContainerColor = <040b7374 7265616d 74797065 6481e803 84014084 8484074e 53436f6c 6f720084 84084e53 4f626a65 63740085 84016302 84046666 66660083 00001d3f 83000026 3f0186>;
+    Country = US;
+    CrashSubmitTimeout = 100;
+    CustomModalAlerts = 1;
+    CustomSnippetsPath = "~/Library/Eggplant/CustomSnippets.rtf";
+    DCManagerConnectionRequestTimeout = "10.0";
+    DefaultDocumentDirectory = "~/Documents";
+    DefaultIgnoreColorTolerance = 10;
+    DefaultKeepColorTolerance = 10;
+    DefaultSearchType = Tolerant;
+    DelayForDoctor = 20;
+    DetectImageText = 1;
+    DetectImageType = 1;
+    DiagnosticSearchLimit = 10;
+    DisabledEncodings =     (
+        RichClipboard
+    );
+    DiscrepancySearchMaximum = "0.05";
+    DiscrepancySearchStep = "0.01";
+    DocumentationRoot = "http://docs.testplant.com";
+    DragConnectionInfoModifierKey = AlternateKey;
+    DrawBitmapEnabled = 0;
+    DrawEachFBURectangle = 1;
+    EPRunning = 1;
+    EPVersionNumber = 1601200946;
+    EditScriptModifierKey = CommandKey;
+    EmailDebug = NO;
+    ExternalTIGDelay = "0.08";
+    ExternalTIGRetryCount = 5;
+    FileNotifierPollInterval = "1.0";
+    FixedFLSPort = YES;
+    FixedLicensePort = YES;
+    ForceLaunchDaemon = YES;
+    FormatContinuously = YES;
+    FormatIndent = YES;
+    FormatInsertTab = NO;
+    FormatOnSave = NO;
+    FormatOnTab = YES;
+    FormatSyntax = YES;
+    FullRFBPoll = 1;
+    FullScreenAutoscroll = 1;
+    FullScreenFailsafe = 1;
+    FunctionColor = <040b7374 7265616d 74797065 6481e803 84014084 8484074e 53436f6c 6f720084 84084e53 4f626a65 63740085 84016302 84046666 66668300 00903e00 8300001f 3f0186>;
+    GSDisableDistributedNotifications = YES;
+    GSMemoryLoggingFile = "";
+    GSSilenceInitializeWarning = YES;
+    GSSuppressMissingFontWarnings = YES;
+    GenerateJunitXMLResults = YES;
+    GrabViewBox = 1;
+    GreenHouseTimeout = 100;
+    HostLookupTimeout = 10;
+    HotSpotModifierKey = CommandKey;
+    IgnoredImageFiles =     (
+        CVS
+    );
+    IgnoredServers =     (
+    );
+    ImageDoctor = 1;
+    ImageDoctorSearchTypes =     (
+        Standard,
+        Tolerance,
+        SearchType,
+        Scale,
+        Crop,
+        Discrepancy,
+        OCR,
+        PriorLocation,
+        CaptureLocation
+    );
+    ImageFormat = tiff;
+    ImageHighlightDuration = "1.200000";
+    ImageHighlighting = 1;
+    ImportedImageSearchType = Tolerant;
+    IncludeAllTextMatches = NO;
+    IndentContinString = "\t\t";
+    IndentString = "\t";
+    KeywordColor = <040b7374 7265616d 74797065 6481e803 84014084 8484074e 53436f6c 6f720084 84084e53 4f626a65 63740085 84016302 84046666 66660000 000186>;
+    KillOldHelpers = NO;
+    KillRogueSN2Processes = YES;
+    LSAppNapIsDisabled = 1;
+    LicenseExpiringNotices = YES;
+    ListFoldersFirst = YES;
+    LiteralColor = <040b7374 7265616d 74797065 6481e803 84014084 8484074e 53436f6c 6f720084 84084e53 4f626a65 63740085 84016302 84046666 66668300 001f3f00 83000030 3d0186>;
+    LiveCommandKeyMask = 1048576;
+    LiveMiniWindows = 0;
+    LiveModeAutoscroll = 1;
+    LiveModeCursor = "Local Cursor";
+    LiveOptionKeyMask = 536870912;
+    LogTimeFormat = "%H:%M:%S.%F";
+    MainSuitePath = "~/Documents/Eggplant.suite";
+    MaxCallDepth = 40;
+    MaxFileTransferSize = 268435456;
+    MaxOpenConnections = 0;
+    MaxScaledSize =     (
+        1600,
+        1200
+    );
+    MaxScriptLineLength = 0;
+    MaxVNCTimeout = 18;
+    MaxWaitForLicense = 0;
+    MaximumDoctorCropAmount = 12;
+    MiddleClickModifierKeyMask = 0;
+    MinVNCTimeout = 12;
+    MinimalMainThreadCallBacks = 0;
+    MinimumDoctorCropSize = 9;
+    MinimumScaledImageSize = 4;
+    MultipleFound = 100;
+    NSAppSleepDisabled = 1;
+    NSAutomaticDashSubstitutionEnabled = 1;
+    NSAutomaticQuoteSubstitutionEnabled = 1;
+    NSAutomaticSpellingCorrectionEnabled = 1;
+    NSBoldSystemFont = ".SFNSText-Bold";
+    NSButtonDelay = "0.4";
+    NSButtonPeriod = "0.075";
+    NSDisplayLinkApplicationDutyCycle = "0.75";
+    NSDisplayLinkWindowServerDutyCycle = "0.75";
+    NSDragAutoscrollAreaWidth = "5.0";
+    NSDragCancelLimit = "100000.0";
+    NSDraggingAutoscrollDelay = "0.4";
+    NSEnableAutoCollapseOutlineDuringDragsDefault = NO;
+    NSEnableAutoExpandOutlineDuringDragsDefault = YES;
+    NSFixedPitchFont = "Menlo-Regular";
+    NSFixedPitchFontSize = 11;
+    NSFont = Helvetica;
+    NSFontSize = 12;
+    NSInputServerLaunchTimeout = 60;
+    NSInterfaceStyle = macintosh;
+    NSLanguages =     (
+        en,
+        de
+    );
+    NSMargins = "72 72 90 90";
+    NSMenuFlashCount = 3;
+    NSMenuScrollingOffset = 3;
+    NSMenuScrollingSpeed = 5;
+    NSNavLastRootDirectory = "~";
+    NSNavPanelExpandedSizeForOpenMode = "{712, 448}";
+    NSNavPanelExpandedSizeForSaveMode = "{712, 521}";
+    NSNavPanelFileLastListModeForOpenModeKey = 2;
+    NSNavPanelFileLastListModeForSaveModeKey = 1;
+    NSNavPanelFileListModeForOpenMode2 = 2;
+    NSNavPanelFileListModeForSaveMode2 = 1;
+    NSNavPanelSidebarKeyForOpen =     (
+    );
+    NSNavRecentPlaces =     (
+        "~",
+        "~/Documents/SVNCheckout/Resources/v12regression_refactor",
+        "~/Documents/Untit232323.suite/Resources",
+        "~/Documents/Untitled232334.suite/Results",
+        "/Volumes/C/Users/reenakuni/AppData/Roaming/eggPlant"
+    );
+    NSPersonNameDefaultDisplayNameOrder = 0;
+    NSPersonNameDefaultShortNameFormat = 0;
+    NSPersonNameDefaultShouldPreferNicknamesPreference = 0;
+    NSPreferredSpellServerVendors =     {
+        English = "NeXT-OpenStep";
+    };
+    NSPreferredWebServices =     {
+        NSWebServicesProviderWebSearch =         {
+            NSDefaultDisplayName = Google;
+            NSProviderIdentifier = "com.google.www";
+        };
+    };
+    NSQuotedKeystrokeBinding = "^q";
+    NSRequireAutoCollapseOutlineAfterDropsDefault = NO;
+    NSResetIncrementalSearchOnFailure = YES;
+    NSScrollAnimationEnabled = YES;
+    NSScrollerButtonAcceleration = 8;
+    NSScrollerButtonDelay = "0.5";
+    NSScrollerButtonPeriod = "0.05";
+    NSScrollerHasSeparateArrows = YES;
+    NSScrollerKnobCount = 2;
+    NSScrollerKnobDelay = "0.001";
+    NSSmartCMYKColorConversion = YES;
+    NSSystemFont = ".SFNSText-Regular";
+    NSSystemFontSize = 13;
+    "NSToolbar Configuration RemoteWindowToolbar" =     {
+        "TB Display Mode" = 1;
+        "TB Icon Size Mode" = 1;
+        "TB Is Shown" = 1;
+        "TB Size Mode" = 1;
+    };
+    "NSToolbar Configuration RunToolbar" =     {
+        "TB Display Mode" = 1;
+        "TB Icon Size Mode" = 1;
+        "TB Is Shown" = 1;
+        "TB Size Mode" = 1;
+    };
+    "NSToolbar Configuration com.apple.NSColorPanel" =     {
+        "TB Is Shown" = 1;
+    };
+    NSUIHeartBeatCycle = "0.03";
+    NSUseCocoaInputServers = YES;
+    NSUserDictionaryReplacementItems =     (
+                {
+            on = 1;
+            replace = omw;
+            with = "On my way!";
+        }
+    );
+    NSWindowResizeTime = ".20";
+    NavPanelFileListModeForOpenMode = 2;
+    NavPanelFileListModeForSaveMode = 1;
+    NotifyOnScriptUpdates = YES;
+    NumberColor = <040b7374 7265616d 74797065 6481e803 84014084 8484074e 53436f6c 6f720084 84084e53 4f626a65 63740085 84016302 84046666 66668300 00523f83 0000f23e 000186>;
+    OCRAutoDoctorSearchTypes =     (
+        CaseSensitive,
+        IgnoreSpaces,
+        TextDifference,
+        ValidCharacters,
+        ValidWords,
+        DPI,
+        Language
+    );
+    OCRDisabled = NO;
+    OCRDoctorSearchTypes =     (
+        CaseSensitive,
+        IgnoreSpaces,
+        TextDifference,
+        ValidCharacters,
+        ValidWords,
+        DPI,
+        Language
+    );
+    OCRLogAllResults = NO;
+    OCRVisualDebug = NO;
+    "OpenSuiteWindows /Users/reenakuni/Documents/Achievements.suite" =     (
+                {
+            filePath = "/Users/reenakuni/Documents/Achievements.suite";
+            id = 2;
+            languageBrowserCollapsed = 0;
+            mainSplit = 208;
+            openTabs =             (
+                "/Users/reenakuni/Documents/Achievements.suite/Scripts/Untitled5.script",
+                "/Users/reenakuni/Documents/Achievements.suite/Images/image0001/image0001/image0003.tiff",
+                "/Users/reenakuni/Documents/Achievements.suite/Images/image0001/image0001/CentOSLinuxScreen1pvm201601in.tiff",
+                "/Users/reenakuni/Documents/Achievements.suite/TableScripts/Untitled2.table",
+                "~~schedule~~Schedule 1",
+                "~~Sessions~~",
+                "/Users/reenakuni/Documents/Achievements.suite/Scripts/s1.script",
+                "/Users/reenakuni/Documents/Achievements.suite/Scripts/Untitled7.script",
+                "~~Settings~~",
+                "/Users/reenakuni/Documents/Achievements.suite/Images/iBooks/iBooks.tiff",
+                "/Users/reenakuni/Documents/Achievements.suite/Scripts/Untitled6.script",
+                "~~Guide~~",
+                "/Users/reenakuni/Documents/Achievements.suite/Scripts/Untitled1.script"
+            );
+            scriptBrowserInnerSplitPosition = 0;
+            scriptBrowserOuterSplitPosition = 0;
+            scriptInfoVisible = 0;
+            scriptSortOrder = 0;
+            sectionPositions =             {
+                HiddenSections =                 (
+                );
+                SectionPositions =                 (
+                    0,
+                    134,
+                    243,
+                    377,
+                    489,
+                    597
+                );
+            };
+            selectedTab = "/Users/reenakuni/Documents/Achievements.suite/Scripts/Untitled5.script";
+            tableActionHighlight = 0;
+            tableScriptSortOrder = 0;
+            uncollapsedOuterSplitPosition = 0;
+            windowIsMiniaturized = 0;
+        }
+    );
+    "OpenSuiteWindows /Users/reenakuni/Documents/Achievementscript.suite" =     (
+                {
+            filePath = "/Users/reenakuni/Documents/Achievementscript.suite";
+            id = 1;
+            languageBrowserCollapsed = 0;
+            mainSplit = 208;
+            openTabs =             (
+                "~~Guide~~"
+            );
+            scriptBrowserInnerSplitPosition = 0;
+            scriptBrowserOuterSplitPosition = 0;
+            scriptInfoVisible = 0;
+            scriptSortOrder = 0;
+            sectionPositions =             {
+                HiddenSections =                 (
+                );
+                SectionPositions =                 (
+                    0,
+                    134,
+                    243,
+                    377,
+                    489,
+                    597
+                );
+            };
+            selectedTab = "/Users/reenakuni/Documents/Achievementscript.suite/Scripts/Untitled2.script";
+            tableActionHighlight = 0;
+            tableScriptSortOrder = 0;
+            uncollapsedOuterSplitPosition = 0;
+            windowIsMiniaturized = 0;
+        }
+    );
+    "OpenSuiteWindows /Users/reenakuni/Documents/SVNCheckout/Resources/v12regression_refactor/CoreV12Regression.suite" =     (
+                {
+            filePath = "/Users/reenakuni/Documents/SVNCheckout/Resources/v12regression_refactor/CoreV12Regression.suite";
+            id = 3;
+            languageBrowserCollapsed = 0;
+            mainSplit = 208;
+            openTabs =             (
+                "~~Guide~~"
+            );
+            scriptBrowserInnerSplitPosition = 0;
+            scriptBrowserOuterSplitPosition = 0;
+            scriptInfoVisible = 0;
+            scriptSortOrder = 0;
+            sectionPositions =             {
+                HiddenSections =                 (
+                );
+                SectionPositions =                 (
+                    0,
+                    134,
+                    243,
+                    377,
+                    489,
+                    597
+                );
+            };
+            selectedTab = "/Users/reenakuni/Documents/SVNCheckout/Resources/v12regression_refactor/CoreV12Regression.suite/Scripts/TurboCapture.script";
+            tableActionHighlight = 0;
+            tableScriptSortOrder = 0;
+            uncollapsedOuterSplitPosition = 0;
+            windowIsMiniaturized = 0;
+        }
+    );
+    "OpenSuiteWindows /Users/reenakuni/Documents/Untitled232334.suite" =     (
+                {
+            filePath = "/Users/reenakuni/Documents/Untitled232334.suite";
+            id = 0;
+            languageBrowserCollapsed = 1;
+            mainSplit = 386;
+            openTabs =             (
+                "/Users/reenakuni/Documents/Untitled232334.suite/Scripts/Untitled5.script",
+                "/Users/reenakuni/Documents/Untitled232334.suite/Scripts/Untitled1.script",
+                "/Users/reenakuni/Documents/Untitled232334.suite/Scripts/Untitled.script",
+                "/Users/reenakuni/Documents/Untitled232334.suite/Scripts/imageFound.script",
+                "/Users/reenakuni/Documents/Untitled232334.suite/Scripts/s1.script",
+                "/Users/reenakuni/Documents/Untitled232334.suite/Scripts/Untitled2.script",
+                "/Users/reenakuni/Documents/Untitled232334.suite/Scripts/Untitled3.script",
+                "/Users/reenakuni/Documents/Untitled232334.suite/Scripts/Untitled6.script",
+                "~~schedule~~Schedule 5",
+                "~~schedule~~Schedule 4",
+                "~~schedule~~Schedule 3",
+                "~~Guide~~",
+                "~~Settings~~",
+                "~~schedule~~Schedule 2",
+                "/Users/reenakuni/Documents/Untitled232334.suite/Scripts/Run.script"
+            );
+            scriptBrowserInnerSplitPosition = 412;
+            scriptBrowserOuterSplitPosition = 582;
+            scriptInfoVisible = 0;
+            scriptSortOrder = 0;
+            sectionPositions =             {
+                HiddenSections =                 (
+                    Tables,
+                    Results,
+                    Schedules
+                );
+                SectionPositions =                 (
+                    0,
+                    172,
+                    345
+                );
+            };
+            selectedTab = "/Users/reenakuni/Documents/Untitled232334.suite/Scripts/Untitled5.script";
+            tableActionHighlight = 0;
+            tableScriptSortOrder = 0;
+            uncollapsedOuterSplitPosition = 0;
+            windowIsMiniaturized = 0;
+        }
+    );
+    "OpenSuiteWindows /Users/reenakuni/Documents/Untitledcxcx.suite" =     (
+                {
+            filePath = "/Users/reenakuni/Documents/Untitledcxcx.suite";
+            id = 0;
+            languageBrowserCollapsed = 0;
+            mainSplit = 208;
+            openTabs =             (
+                "~~Guide~~",
+                "/Users/reenakuni/Documents/Untitledcxcx.suite/Scripts/Untitled.script",
+                "/Users/reenakuni/Documents/Untitledcxcx.suite/Scripts/Untitled1.script",
+                "~~Settings~~"
+            );
+            scriptBrowserInnerSplitPosition = 0;
+            scriptBrowserOuterSplitPosition = 0;
+            scriptInfoVisible = 0;
+            scriptSortOrder = 0;
+            sectionPositions =             {
+                HiddenSections =                 (
+                );
+                SectionPositions =                 (
+                    0,
+                    134,
+                    243,
+                    377,
+                    489,
+                    597
+                );
+            };
+            selectedTab = "/Users/reenakuni/Documents/Untitledcxcx.suite/Scripts/Untitled.script";
+            tableActionHighlight = 0;
+            tableScriptSortOrder = 0;
+            uncollapsedOuterSplitPosition = 0;
+            windowIsMiniaturized = 0;
+        }
+    );
+    "OpenSuiteWindows /Users/reenakuni/Documents/hgghghghgh.suite" =     (
+                {
+            filePath = "/Users/reenakuni/Documents/hgghghghgh.suite";
+            id = 0;
+            languageBrowserCollapsed = 0;
+            mainSplit = 208;
+            openTabs =             (
+                "~~Guide~~",
+                "/Users/reenakuni/Documents/hgghghghgh.suite/Scripts/Untitled2.script",
+                "/Users/reenakuni/Documents/hgghghghgh.suite/Images/image0002/image0002.tiff",
+                "/Users/reenakuni/Documents/hgghghghgh.suite/Images/image0003.tiff"
+            );
+            scriptBrowserInnerSplitPosition = 0;
+            scriptBrowserOuterSplitPosition = 0;
+            scriptInfoVisible = 0;
+            scriptSortOrder = 0;
+            sectionPositions =             {
+                HiddenSections =                 (
+                );
+                SectionPositions =                 (
+                    0,
+                    134,
+                    243,
+                    377,
+                    489,
+                    597
+                );
+            };
+            selectedTab = "/Users/reenakuni/Documents/hgghghghgh.suite/Scripts/Untitled1.script";
+            tableActionHighlight = 0;
+            tableScriptSortOrder = 0;
+            uncollapsedOuterSplitPosition = 0;
+            windowIsMiniaturized = 0;
+        }
+    );
+    OperatorColor = <040b7374 7265616d 74797065 6481e803 84014084 8484074e 53436f6c 6f720084 84084e53 4f626a65 63740085 84016302 84046666 66668300 001f3f00 830000d4 3e0186>;
+    PopoverAutoCloseDelay = 5;
+    PreventSleep = YES;
+    PreviewTabEnabled = YES;
+    PulsingTries = 1;
+    PulsingWait = "0.25";
+    RTFConversionWarning = YES;
+    RebootDelay = "15.000000";
+    ReloadOnExternalScriptChanges = 2;
+    RememberImageFolder = YES;
+    RemoteCommandColor = <040b7374 7265616d 74797065 6481e803 84014084 8484074e 53436f6c 6f720084 84084e53 4f626a65 63740085 84016302 84046666 66668300 00053f00 8300001f 3f0186>;
+    RemoteFunctionColor = <040b7374 7265616d 74797065 6481e803 84014084 8484074e 53436f6c 6f720084 84084e53 4f626a65 63740085 84016302 84046666 66668300 00053f00 8300001f 3f0186>;
+    ReopenDocuments = YES;
+    ReportFailures = YES;
+    ResizeCaptureAreaModifierKey = AlternateKey;
+    ResourcePopoversEnabled = YES;
+    RestoreConnection = 1;
+    ReverseConnectionPort = 5500;
+    ReverseMobileConnectionPort = 5501;
+    RichClipboardTimeout = 60;
+    RightClickModifierKeyMask = 262144;
+    RunDebugModifierKey = AlternateKey;
+    RunLogOutputLimit = 1000000;
+    SGTRecentFileSearches =     (
+                {
+            attributes =             (
+                kMDItemKind
+            );
+            enforceStrictMatch = 1;
+            exactMatch = 0;
+            name = EggplantTestScript;
+            scope = 3;
+            type = "com.apple.finder";
+            values =             (
+                "com.testplant.testscript"
+            );
+        }
+    );
+    "SMTP_TYPE" = Automatic;
+    SSHConnectTimeout = 15;
+    SSHTaskPath = "/usr/bin/ssh";
+    SaveBreakpoints = YES;
+    SaveImageSheetSplit = 0;
+    SaveRunLogOutput = NO;
+    SaveThumbnails = NO;
+    ScaleRemoteScreenProportionally = 1;
+    ScalingSearchFactors =     (
+        "1.0",
+        "1.1",
+        "1.2",
+        "1.25",
+        "1.3",
+        "1.4",
+        "1.5",
+        "1.6",
+        "1.7",
+        "1.75",
+        "1.8",
+        "1.9",
+        "2.0",
+        "0.95",
+        "0.9",
+        "0.85",
+        "0.8",
+        "0.75",
+        "0.7",
+        "0.65",
+        "0.6",
+        "0.55",
+        "0.5"
+    );
+    ScriptAnimation = 0;
+    ScriptFont = "";
+    ScriptLogFont = "";
+    ScriptPopoversEnabled = YES;
+    ScriptTracing = 0;
+    ScrollWheelDefault = "Local Window";
+    SelectedRdpKeyboardLayout = "US English";
+    ShareClipboard = 1;
+    ShowReleaseNotes = YES;
+    ShowResourceModifierKey = AlternateKey;
+    SocketTimeout = 10;
+    SortEveryImageLocationResults = 1;
+    SpecialCodeLogPrefix = "[";
+    SpecialCodeLogSuffix = "]";
+    StandardizeTextLineEndings = YES;
+    SuggestImagesAutocomplete = YES;
+    SuggestKeywordsAutocomplete = YES;
+    SuggestScriptsAutocomplete = YES;
+    SuggestVariablesAutocomplete = YES;
+    SuggestionsActionAutocomplete = "Tab or Return";
+    SuggestionsAppearAutomatic = YES;
+    SuggestionsSelectFirstItem = NO;
+    SuggestionsTypingDelayAutocomplete = "0.5";
+    SuiteIconEnabled = NO;
+    SuiteLockingEnabled = YES;
+    SupportFormURL = "http://www2.testplant.com/form/eggPlant_support";
+    SupportRequestUserEmail = "fsdf@e.com";
+    SupportRequestUserName = "";
+    TIGConnectTimeout = "8.0";
+    TextCache = 0;
+    TextConnectionStatus = 0;
+    TextImageTolerance = "0.29";
+    TextPlatformPath = "~/Library/Eggplant/TextPlatforms.plist";
+    ToleranceScanMaximum = 100;
+    ToleranceScanStep = 5;
+    "URL_Account_EmailPassword" = "http://www.testplant.com/account/email_password";
+    "URL_Downloads_Current" = "http://www.testplant.com/support/downloads/current";
+    "URL_Downloads_TIG" = "http://www.testplant.com/downloads/index.html#TIG";
+    "URL_EP_DeactivateLicense" = "http://ep_lic.testplant.com/ep/deactivate_license";
+    "URL_EP_FreeTrial" = "http://www.testplant.com/eggplant/free-trial/";
+    "URL_EP_GenerateLicense" = "http://ep_lic.testplant.com/ep/generate_license";
+    "URL_EP_UserLicenses" = "http://ep_lic.testplant.com/ep/user_licenses";
+    "URL_Eggman_Documentation" = "http://docs.testplant.com/?q=eggMan";
+    "URL_Eggman_GetEggmanLicense" = "http://greenhouse.testplant.com/eggman/get_eggman_license";
+    "URL_Eggman_GetTempEpLicense" = "http://greenhouse.testplant.com/eggman/get_temp_ep_license";
+    "URL_Greenhouse" = "http://greenhouse.testplant.com";
+    "URL_Support_Forum" = "http://www.testplant.com/phpbb2/viewforum.php?f=5";
+    "URL_Support_Tutorials" = "http://www.testplant.com/support/tutorials";
+    "USE_ALTGR_FIX" = NO;
+    UpdateImageAutoStartsDiagnostics = YES;
+    UpdateImageDiagnosticsDelay = 3;
+    UseKQueue = YES;
+    UseWindowsLineEndings = NO;
+    UserCommandColor = <040b7374 7265616d 74797065 6481e803 84014084 8484074e 53436f6c 6f720084 84084e53 4f626a65 63740085 84016302 84046666 66668300 00903e00 8300001f 3f0186>;
+    VNCDisabledColumns =     (
+        password,
+        sshPassword
+    );
+    VNCInactivityDelay = 0;
+    VNCPollingDelay = "0.05";
+    ValidateImageFound = 0;
+    ValidateSuccessfulSearches = 0;
+    ValidateTableTestReferences = YES;
+    VariableColor = <040b7374 7265616d 74797065 6481e803 84014084 8484074e 53436f6c 6f720084 84084e53 4f626a65 63740085 84016302 84046666 66668300 00c03c83 0000cc3e 83000026 3f0186>;
+    VariableWatcher = 1;
+    VerboseCLILogging = YES;
+    VerboseStartupMessages = NO;
+    WebAutomaticSpellingCorrectionEnabled = 1;
+    "WriteUTF8_BOM" = YES;
+    "com.apple.AppleModemSettingTool.LastCountryCode" = US;
+    "com.apple.ColorSync.Devices" =     {
+        "Device.cmra.00000000-0000-0000-3762-613465306339" =         {
+            DeviceDescriptions =             {
+                "en_US" = "Onetouch Idol 3 (4.7)";
+            };
+            FactoryProfiles =             {
+                555810816 =                 {
+                    DeviceModeDescriptions =                     {
+                        "en_US" = Default;
+                    };
+                    DeviceProfileURL = "/System/Library/Frameworks/ICADevices.framework/Versions/A/Resources/Camera RGB Profile.icc";
+                };
+                DeviceDefaultProfileID = 555810816;
+            };
+        };
+        "Device.cmra.00000000-4854-3434-5957-4D3030333137" =         {
+            DeviceDescriptions =             {
+                "en_US" = "HTC One_M8";
+            };
+            FactoryProfiles =             {
+                555810816 =                 {
+                    DeviceModeDescriptions =                     {
+                        "en_US" = Default;
+                    };
+                    DeviceProfileURL = "/System/Library/Frameworks/ICADevices.framework/Versions/A/Resources/Camera RGB Profile.icc";
+                };
+                DeviceDefaultProfileID = 555810816;
+            };
+        };
+        "Device.cmra.31383962-6138-3739-3035-653966623363" =         {
+            DeviceDescriptions =             {
+                "en_US" = "Reena's iPhone";
+            };
+            FactoryProfiles =             {
+                555810816 =                 {
+                    DeviceModeDescriptions =                     {
+                        "en_US" = Default;
+                    };
+                    DeviceProfileURL = "/System/Library/Frameworks/ICADevices.framework/Versions/A/Resources/Camera RGB Profile.icc";
+                };
+                DeviceDefaultProfileID = 555810816;
+            };
+        };
+        "Device.cmra.32353938-3665-6632-3866-346438393634" =         {
+            DeviceDescriptions =             {
+                "en_US" = iPhone;
+            };
+            FactoryProfiles =             {
+                555810816 =                 {
+                    DeviceModeDescriptions =                     {
+                        "en_US" = Default;
+                    };
+                    DeviceProfileURL = "/System/Library/Frameworks/ICADevices.framework/Versions/A/Resources/Camera RGB Profile.icc";
+                };
+                DeviceDefaultProfileID = 555810816;
+            };
+        };
+        "Device.cmra.34626234-6362-3436-6663-383461633038" =         {
+            DeviceDescriptions =             {
+                "en_US" = "Vikram Singhal\U2019s iPhone";
+            };
+            FactoryProfiles =             {
+                555810816 =                 {
+                    DeviceModeDescriptions =                     {
+                        "en_US" = Default;
+                    };
+                    DeviceProfileURL = "/System/Library/Frameworks/ICADevices.framework/Versions/A/Resources/Camera RGB Profile.icc";
+                };
+                DeviceDefaultProfileID = 555810816;
+            };
+        };
+        "Device.mntr.1FBF2F7F-57EC-56E5-521F-556A305D1A61" =         {
+            CustomProfiles =             {
+                1 = "/System/Library/ColorSync/Profiles/AdobeRGB1998.icc";
+            };
+        };
+        "Device.mntr.683B0D97-2491-B3A7-E1B7-075882DF73EE" =         {
+            CustomProfiles =             {
+                "HDMI HD" = "/Library/ColorSync/Profiles/Displays/Color LCD-1FBF2F7F-57EC-56E5-521F-556A305D1A61.icc";
+            };
+        };
+    };
+    "com.apple.CommonPanels.CalibrateDisplay.identifier-04280BC2" = "com.apple.ColorSyncCalibrator";
+    "com.apple.CommonPanels.CalibrateDisplay.seed" = "-1120508567";
+    "com.apple.TimeZonePref.Last_Selected_City" =     (
+        "40.01583",
+        "-105.2793",
+        0,
+        "America/Denver",
+        US,
+        Boulder,
+        "U.S.A.",
+        Boulder,
+        "U.S.A.",
+        "DEPRECATED IN 10.6"
+    );
+    "com.apple.mouse.scaling" = "0.6875";
+    "com.apple.mouse.tapBehavior" = 1;
+    "com.apple.preferences.timezone.selected_city" =     {
+        AppleMapID = 144150080724670501;
+        CountryCode = US;
+        Latitude = "40.01583";
+        LocalizedNames =         {
+            de = Boulder;
+            en = Boulder;
+        };
+        Longitude = "-105.2793";
+        Name = Boulder;
+        Population = 97385;
+        RegionalCode = CO;
+        TimeZoneName = "America/Denver";
+        Version = 1;
+    };
+    "com.apple.springing.delay" = "0.5";
+    "com.apple.springing.enabled" = 1;
+    "com.apple.trackpad.enableSecondaryClick" = 1;
+    "com.apple.trackpad.fiveFingerPinchSwipeGesture" = 2;
+    "com.apple.trackpad.forceClick" = 1;
+    "com.apple.trackpad.fourFingerHorizSwipeGesture" = 2;
+    "com.apple.trackpad.fourFingerPinchSwipeGesture" = 2;
+    "com.apple.trackpad.fourFingerVertSwipeGesture" = 2;
+    "com.apple.trackpad.momentumScroll" = 1;
+    "com.apple.trackpad.pinchGesture" = 1;
+    "com.apple.trackpad.rotateGesture" = 1;
+    "com.apple.trackpad.scaling" = 2;
+    "com.apple.trackpad.scrollBehavior" = 2;
+    "com.apple.trackpad.threeFingerDragGesture" = 0;
+    "com.apple.trackpad.threeFingerHorizSwipeGesture" = 2;
+    "com.apple.trackpad.threeFingerTapGesture" = 0;
+    "com.apple.trackpad.threeFingerVertSwipeGesture" = 2;
+    "com.apple.trackpad.twoFingerDoubleTapGesture" = 1;
+    "com.apple.trackpad.twoFingerFromRightEdgeSwipeGesture" = 3;
+    "com.apple.trackpad.version" = 5;
+    "com.apple.updatesettings_did_disable_ftp" = 1;
+    compressionType = "5.000000";
+    connectionListScreenNumber = 1;
+    connectionWindowFrame = "{{1875, 307}, {780, 395}}";
+    defaultCaptureScreenSize = "";
+    defaultScale = "";
+    dragEndDelay = "0.300000";
+    eggCloudPollInterval = "5.0";
+    enableBackslashEscapeCodes = 0;
+    forceScreenRefresh = 0;
+    hotSpotScaling = Inner;
+    imageSearchCount = 7;
+    imageSearchDelay = "0.300000";
+    keyDownDelay = "0.001000";
+    knownVNCList =     (
+                {
+            blendScaledScreen = 0;
+            captureMode = 1;
+            colorDepth = 0;
+            height = 768;
+            hideHorizontalToolbar = 0;
+            hideVerticalToolbar = 1;
+            name = "reenakunis-Mac";
+            portNum = 5900;
+            scaleRemoteScreen = 0;
+            serverID = "10.1.11.226";
+            serverIsAndroidUSBDevice = 0;
+            skipAvailabilityCheck = 0;
+            temporary = 0;
+            username = "";
+            width = 1024;
+        }
+    );
+    mouseClickDelay = "0.020000";
+    mouseDoubleClickDelay = "0.010000";
+    mouseDownDelay = "0.050000";
+    mouseDragSpeed = "10.000000";
+    mouseMoveDelay = "0.010000";
+    mouseMoveMode = 0;
+    mouseMoveSegments = 1;
+    mouseMoveSpeed = "0.000000";
+    mouseRepositionSpeed = "0.000000";
+    nextKeyDelay = "0.010000";
+    numberOfImages = 1;
+    numberOfScripts = 3;
+    openSuites =     (
+        "/Users/reenakuni/Documents/Untitled232334.suite"
+    );
+    preciseImageTolerance = 1;
+    remoteWindowScreenNumber = 1;
+    remoteWorkDelay = "0.000000";
+    remoteWorkInterval = "0.700000";
+    repositionPointX = "-1";
+    repositionPointY = "-3";
+    scaleMultiplier = "1.000000";
+    sendShiftForCaps = 1;
+    shouldRepositionMouse = 1;
+    standardImageTolerance = 45;
+    swipeSpeed = "40.000000";
+    syncExecuteRemoteCommandAsFunctionWaitFor = "60.000000";
+    wiggleMouseAfterClick = 0;
+    wiggleMouseAfterTyping = 0;
+}

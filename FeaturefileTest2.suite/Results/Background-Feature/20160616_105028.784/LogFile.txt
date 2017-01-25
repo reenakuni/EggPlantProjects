@@ -1,0 +1,6 @@
+﻿2016-06-16 10:50:28.784 -0600	START		Running Background.feature
+2016-06-16 10:50:28.791 -0600	LogError		I have 20 apples
+2016-06-16 10:50:28.792 -0600	LogSuccess		I give 10 apples to a monkey
+2016-06-16 10:50:28.792 -0600	LogSuccess		I am left with 10 apples
+2016-06-16 10:50:28.793 -0600	EndTestCase		(Duration:"0.008127", Errors:"1", Exceptions:"0", StartTime:"2016-06-16 10:50:28 -0600", Successes:"2", TestCase:"Background.feature", Warnings:"0")
+2016-06-16 10:50:28.800 -0600	FAILURE		1 scenarios (0 failed, 1 passed) 3 steps (0 failed, 0 skipped, 3 passed) Execution Time 0:00:00

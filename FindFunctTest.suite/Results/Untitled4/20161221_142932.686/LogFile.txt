@@ -1,0 +1,5 @@
+﻿2016-12-21 14:29:32.688 -0700	START		Running Untitled4.script
+2016-12-21 14:29:32.749 -0700	Log		parent after	1	on_untitled4	Untitled4.script
+2016-12-21 14:29:32.772 -0700	Log		parent before	1	on__users_reenakuni_documents_findfuncttest_suite_scripts_untitled2	Users/reenakuni/Documents/FindFunctTest.suite/Scripts/Untitled2.script
+2016-12-21 14:29:33.533 -0700	EndTestCase		(Duration:"0.843565", Errors:"0", Exceptions:"0", StartTime:"2016-12-21 14:29:32 -0700", Successes:"1", TestCase:"Untitled4.script", Warnings:"0")
+2016-12-21 14:29:33.557 -0700	SUCCESS		Execution Time 0:00:00 Untitled4.script

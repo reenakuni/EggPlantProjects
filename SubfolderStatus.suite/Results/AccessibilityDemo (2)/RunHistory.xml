@@ -1,0 +1,27 @@
+﻿<?xml version="1.0"?>
+<runHistory script="AccessibilityDemo (2)">
+ <run>
+  <RunDate>2016-10-28 16:16:49.156 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>2.929596</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161028_161649.156/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-10-28 16:17:50.961 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>1.160890</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161028_161750.961/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

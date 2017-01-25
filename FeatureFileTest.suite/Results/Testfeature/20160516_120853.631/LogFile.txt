@@ -1,0 +1,3 @@
+﻿2016-05-16 12:08:53.632 -0600	START		Running Untitled.script
+2016-05-16 12:08:54.067 -0600	EndTestCase		(Duration:"0.428294", Errors:"1", Exceptions:"0", StartTime:"2016-05-16 12:08:53 -0600", Successes:"0", TestCase:"Untitled.script", Warnings:"0")
+2016-05-16 12:08:54.070 -0600	FAILURE		STInvalidBoolean Value '¼' is not TRUE, FALSE, YES, NO, ON, OFF or empty -- Execution Time 0:00:00 Untitled.script

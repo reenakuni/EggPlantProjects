@@ -1,0 +1,3 @@
+﻿2016-06-16 10:41:23.564 -0600	START		Running Background.script
+2016-06-16 10:41:24.255 -0600	EndTestCase		(Duration:"0.689349", Errors:"0", Exceptions:"0", StartTime:"2016-06-16 10:41:23 -0600", Successes:"1", TestCase:"Background.script", Warnings:"0")
+2016-06-16 10:41:24.264 -0600	SUCCESS		Execution Time 0:00:00 Background.script

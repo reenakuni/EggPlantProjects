@@ -1,0 +1,27 @@
+﻿<?xml version="1.0"?>
+<runHistory script="FirstFeaturefile">
+ <run>
+  <RunDate>2016-05-25 10:25:26.068 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.013354</Duration>
+  <Errors>0</Errors>
+  <Warnings>4</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160525_102526.068/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-25 10:25:29.148 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.011681</Duration>
+  <Errors>0</Errors>
+  <Warnings>4</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160525_102529.148/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

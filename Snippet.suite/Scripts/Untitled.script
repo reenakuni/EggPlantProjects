@@ -1,0 +1,5 @@
+﻿repeat with each line of file "￹filePath￺TP-EPF-TOKEN￻"
+	set ￹plistVariable￺TP-EPF-TOKEN￻ to an empty property list
+	put (trim of each item of it) into the (￹property1￺TP-EPF-TOKEN￻,￹property2￺TP-EPF-TOKEN￻,￹property3￺TP-EPF-TOKEN￻) of ￹plistVariable￺TP-EPF-TOKEN￻
+	￹statements￺TP-EPF-TOKEN￻
+end repeat

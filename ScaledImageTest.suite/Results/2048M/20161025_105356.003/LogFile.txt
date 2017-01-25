@@ -1,0 +1,5 @@
+﻿2016-10-25 10:53:56.005 -0600	START		Running Untitled.script
+2016-10-25 10:53:57.176 -0600	click	2048MOBILE	at (395, 634)	3	on_untitled	Untitled.script
+2016-10-25 10:53:57.895 -0600	typetext		[HomeButton]	5	on_untitled	Untitled.script
+2016-10-25 10:53:58.883 -0600	EndTestCase		(Duration:"2.876132", Errors:"0", Exceptions:"0", StartTime:"2016-10-25 10:53:56 -0600", Successes:"1", TestCase:"Untitled.script", Warnings:"0")
+2016-10-25 10:53:58.889 -0600	SUCCESS		Execution Time 0:00:02 Untitled.script

@@ -1,0 +1,5 @@
+﻿2016-12-06 10:25:54.178 -0700	Log		heloo from helper	1	on_nov29	/Users/reenakuni/Documents/NewhelperNov29.suite/Scripts/Nov29.script
+2016-12-06 10:25:54.663 -0700	START		Running Folder1/NewFolder/hello.script
+2016-12-06 10:25:54.672 -0700	Log		Dino	3	on_folder1_newfolder_hello	Folder1/NewFolder/hello.script
+2016-12-06 10:25:54.675 -0700	EndTestCase		(Duration:"0.009555", Errors:"0", Exceptions:"0", StartTime:"2016-12-06 10:25:54 -0700", Successes:"1", TestCase:"Folder1/NewFolder/hello.script", Warnings:"0")
+2016-12-06 10:25:54.695 -0700	SUCCESS		Execution Time 0:00:00 Folder1/NewFolder/hello.script

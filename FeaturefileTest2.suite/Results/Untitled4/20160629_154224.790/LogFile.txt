@@ -1,0 +1,5 @@
+﻿2016-06-29 15:42:24.790 -0600	START		Running Untitled4.script
+2016-06-29 15:42:24.832 -0600	set		SEARCHRECTANGLE = (0,0,250,250)	1	on_untitled4	Untitled4.script
+2016-06-29 15:44:02.695 -0600	Exception	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", text:"eggplants", TextPlatform:"Generic OCR")	No Image Found On Screen: "(TEXT:"eggplants")"	2	on_untitled4	Untitled4.script
+2016-06-29 15:44:02.884 -0600	EndTestCase		(Duration:"98.092567", Errors:"1", Exceptions:"1", StartTime:"2016-06-29 15:42:24 -0600", Successes:"0", TestCase:"Untitled4.script", Warnings:"0")
+2016-06-29 15:44:02.885 -0600	ABORTED		Execution Time 0:01:38 Untitled4.script

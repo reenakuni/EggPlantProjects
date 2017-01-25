@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="HelperSubfolder/featureStep.script" package="SubfolderStatus.suite" timestamp="2016-11-14 14:27:57.269 -0700"
+ tests="1" successes="1" errors="0" time="0.011677">
+  <properties>
+   <property name="RunDate" value="2016-11-14 14:27:57.269 -0700"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="HelperSubfolder/featureStep.script" assertions="1" successes="1" errors="0" time="0.000433">
+  </testcase>
+ </testsuite>
+</testsuites>

@@ -1,0 +1,4 @@
+﻿2016-11-01 12:36:28.420 -0600	START		Running Untitled2.script
+2016-11-01 12:36:35.765 -0600	Exception	image0028	No Image Found On Screen: "image0028"	8	on_untitled2	Untitled2.script
+2016-11-01 12:36:37.121 -0600	EndTestCase		(Duration:"8.699285", Errors:"1", Exceptions:"1", StartTime:"2016-11-01 12:36:28 -0600", Successes:"0", TestCase:"Untitled2.script", Warnings:"0")
+2016-11-01 12:36:37.122 -0600	ABORTED		Execution Time 0:00:08 Untitled2.script

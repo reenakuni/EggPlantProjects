@@ -1,0 +1,99 @@
+﻿<?xml version="1.0"?>
+<runHistory script="FirstFeaturefile-Feature">
+ <run>
+  <RunDate>2016-06-03 15:53:22.252 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.010962</Duration>
+  <Errors>0</Errors>
+  <Warnings>4</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160603_155322.252/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-08 15:02:31.596 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.025664</Duration>
+  <Errors>0</Errors>
+  <Warnings>3</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>2</Successes>
+  <LogFile>20160608_150231.596/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-08 15:03:24.185 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.019469</Duration>
+  <Errors>0</Errors>
+  <Warnings>3</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>2</Successes>
+  <LogFile>20160608_150324.185/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-08 15:04:39.036 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.019235</Duration>
+  <Errors>0</Errors>
+  <Warnings>2</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>4</Successes>
+  <LogFile>20160608_150439.036/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-08 15:04:56.191 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.021262</Duration>
+  <Errors>0</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>6</Successes>
+  <LogFile>20160608_150456.191/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-08 15:05:18.515 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.021021</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>8</Successes>
+  <LogFile>20160608_150518.515/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-13 16:09:34.745 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.020834</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>4</Successes>
+  <LogFile>20160613_160934.745/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-23 15:00:36.888 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.033837</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>4</Successes>
+  <LogFile>20160623_150036.888/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

@@ -1,0 +1,7 @@
+﻿2016-06-20 14:40:37.578 -0600	START		Running Background1.feature
+2016-06-20 14:40:37.585 -0600	LogSuccess		I have <num> apples
+2016-06-20 14:40:37.599 -0600	LogError		i give <num> to mickey
+2016-06-20 14:40:37.600 -0600	Log		f	7	on_i_am_left_with_var	Background1.script<SOURCE>
+2016-06-20 14:40:37.601 -0600	LogSuccess		I am left with <num>
+2016-06-20 14:40:37.603 -0600	EndTestCase		(Duration:"0.023645", Errors:"2", Exceptions:"0", StartTime:"2016-06-20 14:40:37 -0600", Successes:"2", TestCase:"Background1.feature", Warnings:"0")
+2016-06-20 14:40:37.713 -0600	FAILURE	Screen_Error.png	1 scenarios (1 failed, 0 passed) 3 steps (1 failed, 0 skipped, 2 passed) Execution Time 0:00:00

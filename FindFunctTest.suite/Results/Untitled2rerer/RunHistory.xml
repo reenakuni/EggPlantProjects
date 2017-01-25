@@ -1,0 +1,51 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Untitled2">
+ <run>
+  <RunDate>2016-12-06 23:05:58.708 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.403269</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161206_230558.708/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-12-21 14:26:28.655 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.814233</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161221_142628.655/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-12-28 14:07:17.214 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.556901</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161228_140717.214/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-12-28 14:07:23.186 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.558370</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161228_140723.186/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

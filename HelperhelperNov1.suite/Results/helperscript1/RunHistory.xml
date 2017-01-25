@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<runHistory script="helperscript1">
+ <run>
+  <RunDate>2016-11-22 11:49:03.899 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.937210</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20161122_114903.899/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Command: &#x27;fine&#x27;</ErrorMessage>
+ </run>
+</runHistory>

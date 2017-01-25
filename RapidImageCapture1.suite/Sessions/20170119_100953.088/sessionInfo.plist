@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[337, 661, 341, 665], command:@"Image at", eventNum:2, hotSpot:[3.3935546900000003e+02, 1.3019531200000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0254", searchType:@"Precise", skipStep:False, waitFor:@""}, screenShotFile:@"Screen0002.png", skipStep:@"YES"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>-skipped- Image at "image0254"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>image0254.png</string>
+			<string>image0254.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>rapidSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

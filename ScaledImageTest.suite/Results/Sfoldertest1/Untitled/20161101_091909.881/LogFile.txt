@@ -1,0 +1,4 @@
+﻿2016-11-01 09:19:09.882 -0600	START		Running Sfoldertest1/Untitled.script
+2016-11-01 09:19:09.941 -0600	Log		subfolder	1	on_sfoldertest1_untitled	Sfoldertest1/Untitled.script
+2016-11-01 09:19:13.793 -0600	EndTestCase		(Duration:"3.90811", Errors:"0", Exceptions:"0", StartTime:"2016-11-01 09:19:09 -0600", Successes:"1", TestCase:"Sfoldertest1/Untitled.script", Warnings:"0")
+2016-11-01 09:19:13.815 -0600	SUCCESS		Execution Time 0:00:03 Sfoldertest1/Untitled.script

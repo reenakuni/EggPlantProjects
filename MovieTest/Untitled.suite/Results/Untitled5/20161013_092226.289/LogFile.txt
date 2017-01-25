@@ -1,0 +1,5 @@
+﻿2016-10-13 09:22:26.290 -0600	START		Running Untitled5.script
+2016-10-13 09:22:27.285 -0600	click	image0002	at (37, 421)	8	on_untitled5	Untitled5.script
+2016-10-13 09:22:29.022 -0600	Exception		Retrieving Frame Buffer:No Connection to Server\nREENAKUNI8D42\n	9	on_untitled5	Untitled5.script
+2016-10-13 09:22:29.784 -0600	EndTestCase		(Duration:"3.49162", Errors:"1", Exceptions:"1", StartTime:"2016-10-13 09:22:26 -0600", Successes:"0", TestCase:"Untitled5.script", Warnings:"0")
+2016-10-13 09:22:29.850 -0600	FAILURE	Screen_Error.png	No Remote Connection doubleclick Error - Retrieving Frame Buffer:No Connection to Server\nREENAKUNI8D42\n -- Execution Time 0:00:03 Untitled5.script

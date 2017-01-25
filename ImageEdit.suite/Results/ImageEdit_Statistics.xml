@@ -1,0 +1,19 @@
+﻿<?xml version="1.0"?>
+<statistics>
+ <script name="ImageeditStart">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-05-20 12:03:28 -0600</FirstRun>
+  <LastRun>2016-05-20 12:03:28 -0600</LastRun>
+  <TotalTimeOnSuccess>0.364336</TotalTimeOnSuccess>
+ </script>
+ <script name="ImageEdit">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>3</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2015-11-10 11:26:58 -0700</FirstRun>
+  <LastRun>2016-05-20 12:02:16 -0600</LastRun>
+  <TotalTimeOnSuccess>27.012370</TotalTimeOnSuccess>
+ </script>
+</statistics>

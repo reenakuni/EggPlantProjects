@@ -1,0 +1,3 @@
+﻿2016-06-03 15:47:09.431 -0600	START		Running ImageEdit.script
+2016-06-03 15:47:09.657 -0600	EndTestCase		(Duration:"0.224575", Errors:"0", Exceptions:"0", StartTime:"2016-06-03 15:47:09 -0600", Successes:"1", TestCase:"ImageEdit.script", Warnings:"0")
+2016-06-03 15:47:09.665 -0600	SUCCESS		Execution Time 0:00:00 ImageEdit.script

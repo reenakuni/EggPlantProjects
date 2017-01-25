@@ -1,0 +1,43 @@
+﻿<?xml version="1.0"?>
+<statistics>
+ <script name="Untitled2">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>7</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-11-01 12:36:46 -0600</FirstRun>
+  <LastRun>2016-11-01 12:53:35 -0600</LastRun>
+  <TotalTimeOnSuccess>57.144593</TotalTimeOnSuccess>
+ </script>
+ <script name="MacSUT">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>4</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-11-04 10:36:10 -0600</FirstRun>
+  <LastRun>2016-11-04 11:06:50 -0600</LastRun>
+  <TotalTimeOnSuccess>364.480829</TotalTimeOnSuccess>
+ </script>
+ <script name="Untitled">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-10-24 12:06:44 -0600</FirstRun>
+  <LastRun>2016-10-24 12:06:44 -0600</LastRun>
+  <TotalTimeOnSuccess>3.452119</TotalTimeOnSuccess>
+ </script>
+ <script name="Untitled1">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>2</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-10-28 14:58:14 -0600</FirstRun>
+  <LastRun>2016-10-28 14:59:10 -0600</LastRun>
+  <TotalTimeOnSuccess>7.897847</TotalTimeOnSuccess>
+ </script>
+ <script name="NewFolder/Untitled">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>4</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2016-10-12 09:06:18 -0600</FirstRun>
+  <LastRun>2016-10-12 09:11:00 -0600</LastRun>
+  <TotalTimeOnSuccess>18.614990</TotalTimeOnSuccess>
+ </script>
+</statistics>

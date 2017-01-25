@@ -1,0 +1,7 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2017-01-19 14:43:11.908 -0700,"Failure",0:00:01,1,0,1,"20170119_144311.908/LogFile.txt","","File Not Found -- click Error - Could Not Open Image: image00051",0
+2017-01-19 14:44:07.022 -0700,"Running",0:00:00,0,0,0,"20170119_144407.022/LogFile.txt","","",0
+2017-01-19 14:44:48.181 -0700,"Success",0:00:04,0,0,0,"20170119_144448.181/LogFile.txt","","",1
+2017-01-19 14:45:02.282 -0700,"Success",0:00:04,0,0,0,"20170119_144502.282/LogFile.txt","","",1
+2017-01-19 14:45:25.928 -0700,"Success",0:00:04,0,0,0,"20170119_144525.928/LogFile.txt","","",1
+2017-01-19 14:45:58.280 -0700,"Success",0:00:04,0,0,0,"20170119_144558.280/LogFile.txt","","",1

@@ -1,0 +1,32 @@
+﻿{
+    EPVersionNumber = 1609190217;
+    Schedules =     (
+                {
+            ChangeCount = 0;
+            Name = "Schedule 1";
+            Schedule =             (
+            );
+        },
+                {
+            ChangeCount = 0;
+            Name = "Schedule 2";
+            Schedule =             (
+            );
+        },
+                {
+            ChangeCount = 2;
+            Name = "Schedule 3";
+            Schedule =             (
+            );
+        }
+    );
+    ScriptMetaData =     {
+        Untitled1 =         {
+            Description = "";
+        };
+    };
+    helpedSuitesInfo =     (
+    );
+    helperSuitesInfo =     (
+    );
+}

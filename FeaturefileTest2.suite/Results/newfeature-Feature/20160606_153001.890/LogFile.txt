@@ -1,0 +1,8 @@
+﻿2016-06-06 15:30:01.891 -0600	START		Running newfeature.feature
+2016-06-06 15:30:01.903 -0600	LogSuccess		log something
+2016-06-06 15:30:01.904 -0600	LogSuccess		log something
+2016-06-06 15:30:01.904 -0600	LogSuccess		when you see the message
+2016-06-06 15:30:01.905 -0600	LogSuccess		when you see the message
+2016-06-06 15:30:01.906 -0600	LogWarning		log success
+2016-06-06 15:30:01.908 -0600	EndTestCase		(Duration:"0.013307", Errors:"0", Exceptions:"0", StartTime:"2016-06-06 15:30:01 -0600", Successes:"4", TestCase:"newfeature.feature", Warnings:"1")
+2016-06-06 15:30:01.911 -0600	FAILURE		1 scenarios (1 failed, 0 passed) 3 steps (0 failed, 1 skipped, 2 passed) Execution Time 0:00:00

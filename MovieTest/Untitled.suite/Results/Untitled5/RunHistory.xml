@@ -1,0 +1,43 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Untitled5">
+ <run>
+  <RunDate>2016-10-13 08:57:57.356 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>8.870229</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161013_085757.356/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-10-13 09:00:09.165 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>3.416589</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20161013_090009.165/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>No Remote Connection -- doubleclick Error - Retrieving Frame Buffer:No Connection to Server
+REENAKUNI8D42
+</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-10-13 09:22:26.289 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>3.494197</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20161013_092226.289/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>No Remote Connection -- doubleclick Error - Retrieving Frame Buffer:No Connection to Server
+REENAKUNI8D42
+</ErrorMessage>
+ </run>
+</runHistory>

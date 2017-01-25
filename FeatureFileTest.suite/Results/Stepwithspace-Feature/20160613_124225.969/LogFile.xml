@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Stepwithspace.feature" package="FeatureFileTest.suite" timestamp="2016-06-13 12:42:25.969 -0600"
+ tests="1" successes="1" errors="0" time="0.011976">
+  <properties>
+   <property name="RunDate" value="2016-06-13 12:42:25.969 -0600"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="Stepwithspace.feature" assertions="1" successes="1" errors="0" time="0.010835">
+  </testcase>
+ </testsuite>
+</testsuites>

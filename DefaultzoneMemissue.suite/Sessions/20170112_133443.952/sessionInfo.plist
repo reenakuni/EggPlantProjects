@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[890, 360, 960, 390], command:@"Click", eventNum:2, hotSpot:[9.2506988100000001e+02, 4.1756663300000002e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0095", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[1060, 310, 1130, 340], command:@"Click", eventNum:4, hotSpot:[1.0954466060000000e+03, 4.6798602299999999e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0096", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0004.png"}, {captureRect:[1145, 330, 1215, 360], command:@"Drag", eventNum:6, hotSpot:[1.1803222790000000e+03, 4.4708648299999999e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0097", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0006.png"}, {captureRect:[1146, 330, 1216, 360], command:@"Drop", eventNum:6, hotSpot:[1.1810847249999999e+03, 4.4708648299999999e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0098", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0006.png"}, {captureRect:[1172, 582, 1242, 612], command:@"Click", eventNum:8, hotSpot:[1.2073120150000000e+03, 1.9533657500000001e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0099", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0008.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Click "image0095"</string>
+		<string>Click "image0096"</string>
+		<string>Drag "image0097"</string>
+		<string>Drop "image0098"</string>
+		<string>Click "image0099"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>image0095.png</string>
+			<string>image0095.png</string>
+			<string>image0096.png</string>
+			<string>image0096.png</string>
+			<string>image0097.png</string>
+			<string>image0097.png</string>
+			<string>image0098.png</string>
+			<string>image0098.png</string>
+			<string>image0099.png</string>
+			<string>image0099.png</string>
+			<string>image0095.png</string>
+			<string>image0096.png</string>
+			<string>image0097.png</string>
+			<string>image0098.png</string>
+			<string>image0099.png</string>
+			<string>image0095.png</string>
+			<string>image0096.png</string>
+			<string>image0097.png</string>
+			<string>image0098.png</string>
+			<string>image0099.png</string>
+			<string>image0095.png</string>
+			<string>image0096.png</string>
+			<string>image0097.png</string>
+			<string>image0098.png</string>
+			<string>image0099.png</string>
+		</array>
+	</dict>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+﻿
+to handle Hello
+	log "hello"
+end Hello
+
+to handle How_are_you
+	log "How are you"
+end How_are_you
+
+to handle fine_thanks
+	log "Thanks"
+end fine_thanks

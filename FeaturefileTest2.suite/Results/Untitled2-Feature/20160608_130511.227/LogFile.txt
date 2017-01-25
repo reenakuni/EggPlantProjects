@@ -1,0 +1,6 @@
+﻿2016-06-08 13:05:11.228 -0600	START		Running Untitled2.feature
+2016-06-08 13:05:11.235 -0600	LogWarning		this <num1>
+2016-06-08 13:05:11.235 -0600	LogWarning		add  <num2>
+2016-06-08 13:05:11.236 -0600	LogWarning		get <num3>
+2016-06-08 13:05:11.237 -0600	EndTestCase		(Duration:"0.007635", Errors:"0", Exceptions:"0", StartTime:"2016-06-08 13:05:11 -0600", Successes:"1", TestCase:"Untitled2.feature", Warnings:"3")
+2016-06-08 13:05:11.243 -0600	FAILURE		1 scenarios (1 failed, 0 passed) 3 steps (0 failed, 3 skipped, 0 passed) Execution Time 0:00:00

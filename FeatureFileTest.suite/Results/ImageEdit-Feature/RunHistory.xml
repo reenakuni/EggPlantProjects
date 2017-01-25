@@ -1,0 +1,328 @@
+﻿<?xml version="1.0"?>
+<runHistory script="ImageEdit-Feature">
+ <run>
+  <RunDate>2016-06-03 08:46:33.718 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.018310</Duration>
+  <Errors>0</Errors>
+  <Warnings>5</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160603_084633.718/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-03 13:46:57.302 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.014767</Duration>
+  <Errors>0</Errors>
+  <Warnings>4</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>2</Successes>
+  <LogFile>20160603_134657.302/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-03 15:39:30.569 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>10.047335</Duration>
+  <Errors>2</Errors>
+  <Warnings>4</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160603_153930.569/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Connection Failed -- Unable to connect to Server:10.211.55.17 on port:0
+Connection Timed Out - Unable to connect to host</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-03 15:40:13.400 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.009179</Duration>
+  <Errors>0</Errors>
+  <Warnings>5</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160603_154013.400/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-03 15:40:16.583 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.010351</Duration>
+  <Errors>0</Errors>
+  <Warnings>5</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160603_154016.583/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-03 15:41:22.205 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.014754</Duration>
+  <Errors>0</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>8</Successes>
+  <LogFile>20160603_154122.205/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-03 15:42:04.130 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.012938</Duration>
+  <Errors>0</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>8</Successes>
+  <LogFile>20160603_154204.130/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-03 15:42:06.859 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.012334</Duration>
+  <Errors>0</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>8</Successes>
+  <LogFile>20160603_154206.859/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-03 15:43:06.690 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.014800</Duration>
+  <Errors>0</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>8</Successes>
+  <LogFile>20160603_154306.690/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-03 15:43:07.798 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.012402</Duration>
+  <Errors>0</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>8</Successes>
+  <LogFile>20160603_154307.798/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-03 15:43:08.799 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.012383</Duration>
+  <Errors>0</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>8</Successes>
+  <LogFile>20160603_154308.799/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-03 15:43:23.000 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.010807</Duration>
+  <Errors>0</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>6</Successes>
+  <LogFile>20160603_154323.000/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-03 15:43:29.285 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.011706</Duration>
+  <Errors>0</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>6</Successes>
+  <LogFile>20160603_154329.285/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-03 15:43:50.021 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.011769</Duration>
+  <Errors>0</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>6</Successes>
+  <LogFile>20160603_154350.021/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-03 15:47:19.249 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.018914</Duration>
+  <Errors>3</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>4</Successes>
+  <LogFile>20160603_154719.249/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>No Remote Connection -- click Error - Remote Connection Unavailable</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-03 15:47:33.241 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.015149</Duration>
+  <Errors>3</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>4</Successes>
+  <LogFile>20160603_154733.241/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>No Remote Connection -- click Error - Remote Connection Unavailable</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-03 15:47:54.102 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.012962</Duration>
+  <Errors>2</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>3</Successes>
+  <LogFile>20160603_154754.102/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>No Remote Connection -- click Error - Remote Connection Unavailable</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-03 15:48:07.922 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.014285</Duration>
+  <Errors>2</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>3</Successes>
+  <LogFile>20160603_154807.922/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>No Remote Connection -- click Error - Remote Connection Unavailable</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-03 15:48:09.976 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.013460</Duration>
+  <Errors>2</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>3</Successes>
+  <LogFile>20160603_154809.976/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>No Remote Connection -- click Error - Remote Connection Unavailable</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-03 15:50:37.339 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.007778</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160603_155037.339/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-03 15:50:38.944 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.012590</Duration>
+  <Errors>2</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>3</Successes>
+  <LogFile>20160603_155038.944/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>No Remote Connection -- click Error - Remote Connection Unavailable</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-06 11:10:10.911 -0600</RunDate>
+  <Status>Running</Status>
+  <Duration>0.000000</Duration>
+  <Errors></Errors>
+  <Warnings></Warnings>
+  <Exceptions></Exceptions>
+  <Successes></Successes>
+  <LogFile>20160606_111010.911/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-06 11:11:19.029 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.013018</Duration>
+  <Errors>2</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>3</Successes>
+  <LogFile>20160606_111119.029/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>No Remote Connection -- click Error - Remote Connection Unavailable</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-06 11:11:22.568 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.013707</Duration>
+  <Errors>2</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>3</Successes>
+  <LogFile>20160606_111122.568/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>No Remote Connection -- click Error - Remote Connection Unavailable</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-06 11:12:19.033 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.014376</Duration>
+  <Errors>2</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>3</Successes>
+  <LogFile>20160606_111219.033/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>No Remote Connection -- click Error - Remote Connection Unavailable</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-23 15:01:08.298 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.020347</Duration>
+  <Errors>2</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160623_150108.298/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>No Remote Connection -- click Error - Remote Connection Unavailable</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-23 15:03:16.783 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.017459</Duration>
+  <Errors>2</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>2</Successes>
+  <LogFile>20160623_150316.783/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>No Remote Connection -- click Error - Remote Connection Unavailable</ErrorMessage>
+ </run>
+</runHistory>

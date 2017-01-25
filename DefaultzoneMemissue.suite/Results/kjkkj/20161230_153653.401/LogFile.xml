@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="test1.script" package="DefaultzoneMemissue.suite" timestamp="2016-12-30 15:36:53.401 -0700"
+ tests="1" successes="1" errors="0" time="1.295717">
+  <properties>
+   <property name="RunDate" value="2016-12-30 15:36:53.401 -0700"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="test1.script" assertions="1" successes="1" errors="0" time="1.293721">
+  </testcase>
+ </testsuite>
+</testsuites>

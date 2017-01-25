@@ -1,0 +1,4 @@
+﻿2016-12-09 10:57:04.194 -0700	Log		parent before	1	on_untitled2	Untitled2.script
+2016-12-09 10:57:04.618 -0700	START		Running Fldr1/subfolder2/Untitled.script
+2016-12-09 10:57:04.621 -0700	EndTestCase		(Duration:"0.00074", Errors:"1", Exceptions:"0", StartTime:"2016-12-09 10:57:04 -0700", Successes:"0", TestCase:"Fldr1/subfolder2/Untitled.script", Warnings:"0")
+2016-12-09 10:57:04.646 -0700	FAILURE		SenseTalk Compiler Exception in fldr1_subfolder2_untitled:\nSyntax Error at line 1: Syntax Error - can't understand "." at or near character 17 -- Execution Time 0:00:00 Fldr1/subfolder2/Untitled.script

@@ -1,0 +1,7 @@
+﻿2016-06-10 17:26:30.255 -0600	START		Running Untitled.feature
+2016-06-10 17:26:30.271 -0600	LogWarning		I have a variable with the numeric value "five"
+2016-06-10 17:26:30.271 -0600	LogWarning		I have a variable with the numeric value "three"
+2016-06-10 17:26:30.272 -0600	LogWarning		I add the two variables
+2016-06-10 17:26:30.273 -0600	LogWarning		the result should be the numeric value "eight"
+2016-06-10 17:26:30.274 -0600	EndTestCase		(Duration:"0.017411", Errors:"0", Exceptions:"0", StartTime:"2016-06-10 17:26:30 -0600", Successes:"1", TestCase:"Untitled.feature", Warnings:"4")
+2016-06-10 17:26:30.286 -0600	FAILURE		1 scenarios (1 failed, 0 passed) 4 steps (0 failed, 4 skipped, 0 passed) Execution Time 0:00:00

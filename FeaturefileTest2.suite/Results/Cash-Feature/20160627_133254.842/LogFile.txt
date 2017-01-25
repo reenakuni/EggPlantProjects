@@ -1,0 +1,16 @@
+﻿2016-06-27 13:32:54.843 -0600	START		Running Cash.feature
+2016-06-27 13:32:54.850 -0600	LogSuccess		the balance is $100
+2016-06-27 13:32:54.851 -0600	LogSuccess		the machine contains enough money
+2016-06-27 13:32:54.852 -0600	Log		20	3	on_the_account_holder_requests__num	Cash.script<SOURCE>
+2016-06-27 13:32:54.854 -0600	LogSuccess		the account holder requests @20
+2016-06-27 13:32:54.855 -0600	LogWarning		the account balance should be $80
+2016-06-27 13:32:54.855 -0600	LogWarning		the card should be returned
+2016-06-27 13:32:54.856 -0600	LogWarning		success
+2016-06-27 13:32:54.857 -0600	LogWarning		log something
+2016-06-27 13:32:54.857 -0600	LogWarning		when you see the message
+2016-06-27 13:32:54.858 -0600	LogWarning		log success
+2016-06-27 13:32:54.858 -0600	LogWarning		log something else
+2016-06-27 13:32:54.859 -0600	LogWarning		when you see some message
+2016-06-27 13:32:54.859 -0600	LogWarning		log successful
+2016-06-27 13:32:54.860 -0600	EndTestCase		(Duration:"0.016383", Errors:"0", Exceptions:"0", StartTime:"2016-06-27 13:32:54 -0600", Successes:"3", TestCase:"Cash.feature", Warnings:"9")
+2016-06-27 13:32:55.467 -0600	FAILURE	Screen_Error.png	3 scenarios (3 failed, 0 passed) 12 steps (0 failed, 9 skipped, 3 passed) Execution Time 0:00:00

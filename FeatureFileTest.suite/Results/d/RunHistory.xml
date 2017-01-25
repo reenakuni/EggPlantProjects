@@ -1,0 +1,222 @@
+﻿<?xml version="1.0"?>
+<runHistory script="d">
+ <run>
+  <RunDate>2016-06-01 11:17:51.927 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.634601</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160601_111751.927/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Command: &#x27;putt&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-01 11:19:13.217 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.456736</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160601_111913.217/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Command: &#x27;putt&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-01 11:19:30.254 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.434832</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160601_111930.254/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-01 11:19:57.951 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.453910</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160601_111957.951/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-10 22:55:13.292 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.873881</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160610_225513.292/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in add:
+Warning at line 3: Warning - Non-matching handler name: area</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-10 22:55:42.473 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.833041</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160610_225542.473/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in add:
+Warning at line 3: Warning - Non-matching handler name: area</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-10 22:56:07.455 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.855803</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160610_225607.455/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in add:
+Warning at line 3: Warning - Non-matching handler name: area</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-10 22:56:25.440 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.878034</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160610_225625.440/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-10 22:56:55.218 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.877246</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160610_225655.218/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-11 00:03:39.922 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.925976</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160611_000339.922/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Command: &#x27;add1&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-11 00:03:57.802 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.890106</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160611_000357.802/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-11 00:06:11.899 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.924235</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160611_000611.899/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-11 00:06:43.754 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.912292</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160611_000643.754/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-11 00:08:47.922 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.897606</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160611_000847.922/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-11 00:15:05.993 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.896110</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160611_001505.993/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-13 11:14:14.454 -0600</RunDate>
+  <Status>Running</Status>
+  <Duration>0.000000</Duration>
+  <Errors></Errors>
+  <Warnings></Warnings>
+  <Exceptions></Exceptions>
+  <Successes></Successes>
+  <LogFile>20160613_111414.454/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-13 11:16:29.037 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>26.043899</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160613_111629.037/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-13 12:39:48.263 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>13.621316</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160613_123948.263/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

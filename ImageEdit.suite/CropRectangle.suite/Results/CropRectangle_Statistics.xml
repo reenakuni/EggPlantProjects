@@ -1,0 +1,11 @@
+﻿<?xml version="1.0"?>
+<statistics>
+ <script name="Croprectangle">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>5</NumberOfRuns>
+  <NumberOfFails>2</NumberOfFails>
+  <FirstRun>2015-11-11 15:36:52 -0700</FirstRun>
+  <LastRun>2015-11-11 15:44:38 -0700</LastRun>
+  <TotalTimeOnSuccess>6.043308</TotalTimeOnSuccess>
+ </script>
+</statistics>

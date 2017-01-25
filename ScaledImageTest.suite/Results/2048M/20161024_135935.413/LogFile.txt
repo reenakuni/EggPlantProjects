@@ -1,0 +1,4 @@
+﻿2016-10-24 13:59:35.415 -0600	START		Running Untitled.script
+2016-10-24 13:59:37.677 -0600	imagefound	helperimage	Unable to Find Image helperimage within 2.00 seconds	6	on_s1	/Users/reenakuni/Documents/SubfolderStatus.suite/Scripts/s1.script
+2016-10-24 13:59:38.609 -0600	EndTestCase		(Duration:"3.192458", Errors:"0", Exceptions:"0", StartTime:"2016-10-24 13:59:35 -0600", Successes:"1", TestCase:"Untitled.script", Warnings:"0")
+2016-10-24 13:59:38.615 -0600	SUCCESS		Execution Time 0:00:03 Untitled.script

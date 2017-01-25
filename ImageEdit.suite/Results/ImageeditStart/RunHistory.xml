@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<runHistory script="ImageeditStart">
+ <run>
+  <RunDate>2016-05-20 12:03:28.277 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.364336</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160520_120328.277/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

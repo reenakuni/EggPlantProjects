@@ -1,0 +1,5 @@
+﻿2017-01-09 13:41:49.812 -0700	START		Running Untitled.feature
+2017-01-09 13:41:49.822 -0700	LogWarning		subtract 30
+2017-01-09 13:41:49.822 -0700	LogWarning		I am left with 9 apples
+2017-01-09 13:41:49.824 -0700	EndTestCase		(Duration:"0.009154", Errors:"0", Exceptions:"0", StartTime:"2017-01-09 13:41:49 -0700", Successes:"1", TestCase:"Untitled.feature", Warnings:"2")
+2017-01-09 13:41:49.838 -0700	FAILURE		1 scenarios (1 failed, 0 passed) 2 steps (0 failed, 2 skipped, 0 passed) Execution Time 0:00:00

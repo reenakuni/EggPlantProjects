@@ -1,0 +1,5 @@
+﻿2016-05-13 12:41:06.123 -0600	START		Running Untitled1.script
+2016-05-13 12:41:06.189 -0600	Log		x	1	on_untitled1	Untitled1.script
+2016-05-13 12:41:06.189 -0600	Log		y	2	on_untitled1	Untitled1.script
+2016-05-13 12:41:06.358 -0600	EndTestCase		(Duration:"0.231498", Errors:"1", Exceptions:"0", StartTime:"2016-05-13 12:41:06 -0600", Successes:"0", TestCase:"Untitled1.script", Warnings:"0")
+2016-05-13 12:41:06.362 -0600	FAILURE		STUnknownMessage ERROR: 'resourcepath' was called as a Command, but is only available as a Function -- Execution Time 0:00:00 Untitled1.script

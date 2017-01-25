@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[522, 578, 592, 608], command:@"Drag", eventNum:2, hotSpot:[5.5702685899999994e+02, 1.9929112100000000e+02], imageName:@"", infoDict:{folderPath:@"/NewFolder-1", imageName:@"image0001", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[522, 577, 592, 607], command:@"Drop", eventNum:2, hotSpot:[5.5702685899999994e+02, 2.0005375300000000e+02], imageName:@"", infoDict:{folderPath:@"/NewFolder-1", imageName:@"image0002", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[467, 566, 537, 596], command:@"Click", eventNum:4, hotSpot:[5.0227637399999998e+02, 2.1109906100000001e+02], imageName:@"", infoDict:{folderPath:@"/NewFolder-1", imageName:@"image0003", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0004.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Drag "NewFolder-1/image0001"</string>
+		<string>Drop "NewFolder-1/image0002"</string>
+		<string>Click "NewFolder-1/image0003"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key>NewFolder-1</key>
+		<array>
+			<string>image0001.png</string>
+			<string>image0002.png</string>
+			<string>image0003.png</string>
+			<string>image0001.png</string>
+			<string>image0002.png</string>
+			<string>image0003.png</string>
+		</array>
+	</dict>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

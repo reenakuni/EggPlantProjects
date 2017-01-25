@@ -1,0 +1,3 @@
+﻿2016-10-31 10:57:42.107 -0600	START		Running NewFolder/Untitled.script
+2016-10-31 10:57:42.109 -0600	EndTestCase		(Duration:"0.000564", Errors:"1", Exceptions:"0", StartTime:"2016-10-31 10:57:42 -0600", Successes:"0", TestCase:"NewFolder/Untitled.script", Warnings:"0")
+2016-10-31 10:57:42.177 -0600	FAILURE		SenseTalk Compiler Exception in newfolder_untitled:\nSyntax Error at line 2: Syntax Error - can't understand [end of line] at or near character 11 -- Execution Time 0:00:00 NewFolder/Untitled.script

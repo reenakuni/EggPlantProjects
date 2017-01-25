@@ -1,0 +1,6 @@
+﻿2017-01-09 13:51:13.717 -0700	START		Running Untitled.feature
+2017-01-09 13:51:13.727 -0700	LogSuccess		I have 39 apples
+2017-01-09 13:51:13.728 -0700	LogSuccess		subtract 30
+2017-01-09 13:51:13.728 -0700	LogSuccess		I am left with 9 apples
+2017-01-09 13:51:13.730 -0700	EndTestCase		(Duration:"0.011013", Errors:"0", Exceptions:"0", StartTime:"2017-01-09 13:51:13 -0700", Successes:"3", TestCase:"Untitled.feature", Warnings:"0")
+2017-01-09 13:51:13.747 -0700	SUCCESS		1 scenarios (0 failed, 1 passed) 3 steps (0 failed, 0 skipped, 3 passed) Execution Time 0:00:00

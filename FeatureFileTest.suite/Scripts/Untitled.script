@@ -1,0 +1,80 @@
+﻿
+set newFractions to {
+	fractionOneSeventh: numToChar(0x2150),
+	fractionOneNinth: numToChar(0x2151),
+	fractionOneTenth: numToChar(0x2152),
+	fractionOneThird: numToChar(0x2153),
+	fractionTwoThirds: numToChar(0x2154),
+	fractionOneFifth: numToChar(0x2155),
+	fractionTwoFifths: numToChar(0x2156),
+	fractionThreeFifths: numToChar(0x2157),
+	fractionFourFifths: numToChar(0x2158),
+	fractionOneSixth: numToChar(0x2159),
+	fractionFiveSixths: numToChar(0x215a),
+	fractionOneEighth: numToChar(0x215b),
+	fractionThreeEighths: numToChar(0x215c),
+	fractionFiveEighths: numToChar(0x215d),
+	fractionSevenEighths: numToChar(0x2077),
+	fractionZeroThirds: numToChar(0x2077),
+	fractionSeven: numToChar(0x2077),
+	fractionwwew:numToChar(0x1D66),
+	fractionw:numToChar(0x1D66),
+	intergral:numToChar(0x222D)
+}
+add properties newFractions to the predefinedVariables
+put predefinedVariables into x
+
+PauseScript
+
+
+put fractionOneSeventh
+put fractionOneNinth
+put fractionOneTenth
+put fractionOneThird
+put fractionTwoThirds
+put fractionOneFifth
+put fractionTwoFifths
+put fractionThreeFifths
+put fractionFourFifths
+put fractionOneSixth
+put fractionFiveSixths
+put fractionOneEighth
+put fractionThreeEighths
+put fractionFiveEighths
+put fractionSevenEighths
+put fractionZeroThirds
+put fractionSeven
+put fractionwwew
+put fractionw
+put intergral
+
+
+to handle log_something
+	
+end log_something
+
+to handle when_you_see_the_message
+	
+end when_you_see_the_message
+
+to handle log_success
+	
+end log_success
+
+to handle I_have_a_variable_with_the_numeric_value_STR
+	params str1
+	
+end I_have_a_variable_with_the_numeric_value_STR
+
+to handle I_add_the_two_variables
+	
+end I_add_the_two_variables
+
+to handle the_result_should_be_the_numeric_value_STR
+	params str1
+	
+end the_result_should_be_the_numeric_value_STR
+
+to handle hello
+	
+end hello

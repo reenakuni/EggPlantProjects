@@ -1,0 +1,4 @@
+﻿2016-10-12 09:06:18.205 -0600	START		Running NewFolder/Untitled.script
+2016-10-12 09:06:19.198 -0600	click	image0001	at (26, 805)	1	on_newfolder_untitled	NewFolder/Untitled.script
+2016-10-12 09:06:19.748 -0600	EndTestCase		(Duration:"1.541553", Errors:"0", Exceptions:"0", StartTime:"2016-10-12 09:06:18 -0600", Successes:"1", TestCase:"NewFolder/Untitled.script", Warnings:"0")
+2016-10-12 09:06:19.757 -0600	SUCCESS		Execution Time 0:00:01 NewFolder/Untitled.script

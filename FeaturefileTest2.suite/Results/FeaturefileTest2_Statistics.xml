@@ -1,0 +1,155 @@
+﻿<?xml version="1.0"?>
+<statistics>
+ <script name="scenriooutline">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-06-30 12:51:24 -0600</FirstRun>
+  <LastRun>2016-06-30 12:51:24 -0600</LastRun>
+  <TotalTimeOnSuccess>0.016536</TotalTimeOnSuccess>
+ </script>
+ <script name="newfeature">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>12</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-06-06 15:49:14 -0600</FirstRun>
+  <LastRun>2016-06-27 13:43:52 -0600</LastRun>
+  <TotalTimeOnSuccess>0.277304</TotalTimeOnSuccess>
+ </script>
+ <script name="OCRHandler">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>5</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-06-23 00:11:09 -0600</FirstRun>
+  <LastRun>2016-06-29 16:22:00 -0600</LastRun>
+  <TotalTimeOnSuccess>0.049920</TotalTimeOnSuccess>
+ </script>
+ <script name="Untitled1">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>32</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-06-08 13:01:25 -0600</FirstRun>
+  <LastRun>2016-06-27 13:29:51 -0600</LastRun>
+  <TotalTimeOnSuccess>0.604073</TotalTimeOnSuccess>
+ </script>
+ <script name="Testdocs">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>10</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-06-15 12:34:56 -0600</FirstRun>
+  <LastRun>2016-07-05 21:11:11 -0600</LastRun>
+  <TotalTimeOnSuccess>1.590154</TotalTimeOnSuccess>
+ </script>
+ <script name="g">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>13</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-06-03 15:58:00 -0600</FirstRun>
+  <LastRun>2016-06-16 10:48:23 -0600</LastRun>
+  <TotalTimeOnSuccess>4.921900</TotalTimeOnSuccess>
+ </script>
+ <script name="OCRtest">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>2</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-06-29 16:22:12 -0600</FirstRun>
+  <LastRun>2016-06-29 16:22:54 -0600</LastRun>
+  <TotalTimeOnSuccess>53.352093</TotalTimeOnSuccess>
+ </script>
+ <script name="Ft1">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>16</NumberOfRuns>
+  <NumberOfFails>2</NumberOfFails>
+  <FirstRun>2016-06-27 13:46:41 -0600</FirstRun>
+  <LastRun>2016-07-05 21:32:00 -0600</LastRun>
+  <TotalTimeOnSuccess>27.755349</TotalTimeOnSuccess>
+ </script>
+ <script name="g1">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>10</NumberOfRuns>
+  <NumberOfFails>7</NumberOfFails>
+  <FirstRun>2016-06-15 10:50:22 -0600</FirstRun>
+  <LastRun>2016-06-27 09:38:36 -0600</LastRun>
+  <TotalTimeOnSuccess>2.484224</TotalTimeOnSuccess>
+ </script>
+ <script name="Untitled">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>28</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2016-06-13 14:45:12 -0600</FirstRun>
+  <LastRun>2016-06-30 10:46:12 -0600</LastRun>
+  <TotalTimeOnSuccess>1.039227</TotalTimeOnSuccess>
+ </script>
+ <script name="GherkinScripts">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>3</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-06-13 16:06:05 -0600</FirstRun>
+  <LastRun>2016-06-13 16:47:25 -0600</LastRun>
+  <TotalTimeOnSuccess>0.204591</TotalTimeOnSuccess>
+ </script>
+ <script name="Background3">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-06-29 16:57:31 -0600</FirstRun>
+  <LastRun>2016-06-29 16:57:31 -0600</LastRun>
+  <TotalTimeOnSuccess>28.331536</TotalTimeOnSuccess>
+ </script>
+ <script name="Cash">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>28</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-06-09 13:58:03 -0600</FirstRun>
+  <LastRun>2016-06-29 15:31:57 -0600</LastRun>
+  <TotalTimeOnSuccess>1.844229</TotalTimeOnSuccess>
+ </script>
+ <script name="Untitled4">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>11</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2016-06-27 09:50:19 -0600</FirstRun>
+  <LastRun>2016-06-29 16:07:08 -0600</LastRun>
+  <TotalTimeOnSuccess>52.793560</TotalTimeOnSuccess>
+ </script>
+ <script name="scenoutline">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>20</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-06-22 09:25:33 -0600</FirstRun>
+  <LastRun>2016-06-27 15:40:48 -0600</LastRun>
+  <TotalTimeOnSuccess>0.954673</TotalTimeOnSuccess>
+ </script>
+ <script name="outline">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>29</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-06-14 11:21:09 -0600</FirstRun>
+  <LastRun>2016-06-29 16:30:59 -0600</LastRun>
+  <TotalTimeOnSuccess>472.772236</TotalTimeOnSuccess>
+ </script>
+ <script name="Background">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>146</NumberOfRuns>
+  <NumberOfFails>30</NumberOfFails>
+  <FirstRun>2016-06-14 15:24:05 -0600</FirstRun>
+  <LastRun>2016-06-27 14:15:52 -0600</LastRun>
+  <TotalTimeOnSuccess>14.518446</TotalTimeOnSuccess>
+ </script>
+ <script name="RenamedBackgroundScript">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>4</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2016-06-14 15:16:05 -0600</FirstRun>
+  <LastRun>2016-06-29 15:34:41 -0600</LastRun>
+  <TotalTimeOnSuccess>0.029268</TotalTimeOnSuccess>
+ </script>
+ <script name="featurefilescript">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-06-14 16:17:47 -0600</FirstRun>
+  <LastRun>2016-06-14 16:17:47 -0600</LastRun>
+  <TotalTimeOnSuccess>0.680020</TotalTimeOnSuccess>
+ </script>
+</statistics>

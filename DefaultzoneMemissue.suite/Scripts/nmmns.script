@@ -1,0 +1,6 @@
+﻿params PreferencesArea
+
+tar "ContactUs"
+WaitFor 20.0, "ContactUs_Header"
+tar "DisplayPreferences"
+tar (text:"LINKS AND tarS",searchRectangle:PreferencesArea)

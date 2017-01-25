@@ -1,0 +1,11 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2016-12-12 10:11:45.622 -0700,"Success",0:00:00,0,0,0,"20161212_101145.622/LogFile.txt","","",1
+2016-12-12 10:13:32.559 -0700,"Success",0:00:00,0,0,0,"20161212_101332.559/LogFile.txt","","",1
+2017-01-10 12:23:57.257 -0700,"Failure",0:00:00,1,0,0,"20170110_122357.257/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'big'",0
+2017-01-10 12:24:03.273 -0700,"Failure",0:00:00,1,0,0,"20170110_122403.273/LogFile.txt","","SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got '~/reenakuni/Documents/Helper1.suite/Scripts/Untitled'.",0
+2017-01-11 08:41:51.349 -0700,"Failure",0:00:00,1,0,0,"20170111_084151.349/LogFile.txt","","SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got '~/reenakuni/Documents/Helper1.suite/Scripts/Untitled'.",0
+2017-01-11 08:42:06.980 -0700,"Success",0:00:00,0,0,0,"20170111_084206.980/LogFile.txt","","",1
+2017-01-11 08:42:20.560 -0700,"Failure",0:00:00,1,0,0,"20170111_084220.560/LogFile.txt","","SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got '~/Documents/Helper1.suite/Scripts/Untitled'.",0
+2017-01-11 08:42:50.210 -0700,"Failure",0:00:00,1,0,0,"20170111_084250.210/LogFile.txt","","SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got '~/Documents/Helper1.suite/Scripts/Untitled'.",0
+2017-01-11 08:43:50.617 -0700,"Failure",0:00:00,1,0,0,"20170111_084350.617/LogFile.txt","","SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got '~/Documents/Helper1.suite/Scripts/Untitled'.",0
+2017-01-11 08:44:00.920 -0700,"Failure",0:00:00,1,0,0,"20170111_084400.920/LogFile.txt","","SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got '~/Documents/Helper1.suite/Scripts/Untitled'.",0

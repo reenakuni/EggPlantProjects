@@ -1,0 +1,4 @@
+﻿2016-06-03 16:35:25.202 -0600	START		Running Untitled1.script
+2016-06-03 16:35:25.268 -0600	Log		hello	1	on_untitled1	Untitled1.script
+2016-06-03 16:35:25.502 -0600	EndTestCase		(Duration:"0.298892", Errors:"0", Exceptions:"0", StartTime:"2016-06-03 16:35:25 -0600", Successes:"1", TestCase:"Untitled1.script", Warnings:"0")
+2016-06-03 16:35:25.508 -0600	SUCCESS		Execution Time 0:00:00 Untitled1.script

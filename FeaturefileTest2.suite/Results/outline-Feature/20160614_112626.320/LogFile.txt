@@ -1,0 +1,14 @@
+﻿2016-06-14 11:26:26.321 -0600	START		Running outline.feature
+2016-06-14 11:26:26.329 -0600	LogSuccess		page is open
+2016-06-14 11:26:26.330 -0600	Log		6	3	on_enter_var	outline.script<SOURCE>
+2016-06-14 11:26:26.331 -0600	LogSuccess		enter <num1>
+2016-06-14 11:26:26.332 -0600	Log		4	3	on_enter_second_number_var	outline.script<SOURCE>
+2016-06-14 11:26:26.334 -0600	LogSuccess		enter second number <num2>
+2016-06-14 11:26:26.334 -0600	Log		num3	3	on_enter_third_number_var	outline.script<SOURCE>
+2016-06-14 11:26:26.336 -0600	LogSuccess		enter third number <num3>
+2016-06-14 11:26:26.337 -0600	Log		6	3	on_add_var_and_var_to_get_var	outline.script<SOURCE>
+2016-06-14 11:26:26.339 -0600	Log		4	4	on_add_var_and_var_to_get_var	outline.script<SOURCE>
+2016-06-14 11:26:26.340 -0600	Log		num3	5	on_add_var_and_var_to_get_var	outline.script<SOURCE>
+2016-06-14 11:26:26.341 -0600	LogSuccess		add <num1> and <num2> to get <num3>
+2016-06-14 11:26:26.342 -0600	EndTestCase		(Duration:"0.020202", Errors:"0", Exceptions:"0", StartTime:"2016-06-14 11:26:26 -0600", Successes:"5", TestCase:"outline.feature", Warnings:"0")
+2016-06-14 11:26:26.349 -0600	SUCCESS		1 scenarios (0 failed, 1 passed) 5 steps (0 failed, 0 skipped, 5 passed) Execution Time 0:00:00

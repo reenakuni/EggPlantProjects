@@ -1,0 +1,39 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Outline">
+ <run>
+  <RunDate>2016-06-22 10:13:47.287 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.775858</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160622_101347.287/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-22 10:24:35.983 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.810050</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160622_102435.983/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-22 10:31:54.869 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.846821</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160622_103154.869/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

@@ -1,0 +1,3 @@
+﻿2016-06-16 10:48:23.836 -0600	START		Running g.script
+2016-06-16 10:48:24.561 -0600	EndTestCase		(Duration:"0.723924", Errors:"0", Exceptions:"0", StartTime:"2016-06-16 10:48:23 -0600", Successes:"1", TestCase:"g.script", Warnings:"0")
+2016-06-16 10:48:24.579 -0600	SUCCESS		Execution Time 0:00:00 g.script

@@ -1,0 +1,29 @@
+﻿{
+    EPVersionNumber = 1701090218;
+    Schedules =     (
+                {
+            ChangeCount = 6;
+            Name = sh1;
+            Schedule =             (
+                                {
+                    Num = 1;
+                    Parameters = "4e4545,ghg,ghghg";
+                    Run = YES;
+                    Script = "Untitled.script";
+                },
+                                {
+                    Num = 3;
+                    Parameters = "/Users/reenakuni/Documents/existingImage.Suite/Resources/EggplantPreferencesFile.txt";
+                    Run = YES;
+                    Script = "Untitled1.script";
+                }
+            );
+        }
+    );
+    ScriptMetaData =     {
+    };
+    helpedSuitesInfo =     (
+    );
+    helperSuitesInfo =     (
+    );
+}

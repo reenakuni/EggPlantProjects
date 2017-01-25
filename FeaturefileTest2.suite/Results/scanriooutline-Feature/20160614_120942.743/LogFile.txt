@@ -1,0 +1,39 @@
+﻿2016-06-14 12:09:42.744 -0600	START		Running scanriooutline.feature
+2016-06-14 12:09:42.752 -0600	Log		page is open	2	on_page_is_open	scanriooutline.script<SOURCE>
+2016-06-14 12:09:42.754 -0600	LogSuccess		page is open
+2016-06-14 12:09:42.754 -0600	Log		10	3	on_var_suntract	scanriooutline.script<SOURCE>
+2016-06-14 12:09:42.756 -0600	LogSuccess		<num3> suntract
+2016-06-14 12:09:42.757 -0600	Log		4	3	on_enter_var	scanriooutline.script<SOURCE>
+2016-06-14 12:09:42.758 -0600	LogSuccess		enter <num1>
+2016-06-14 12:09:42.759 -0600	Log		6	3	on_enter_second_number_var	scanriooutline.script<SOURCE>
+2016-06-14 12:09:42.760 -0600	LogSuccess		enter second number <num2>
+2016-06-14 12:09:42.761 -0600	Log		4	3	on_add_var_and_var_to_get_var	scanriooutline.script<SOURCE>
+2016-06-14 12:09:42.763 -0600	Log		6	4	on_add_var_and_var_to_get_var	scanriooutline.script<SOURCE>
+2016-06-14 12:09:42.764 -0600	Log		10	5	on_add_var_and_var_to_get_var	scanriooutline.script<SOURCE>
+2016-06-14 12:09:42.766 -0600	LogSuccess		add <num1> and <num2> to get <num3>
+2016-06-14 12:09:42.767 -0600	Log		page is open	2	on_page_is_open	scanriooutline.script<SOURCE>
+2016-06-14 12:09:42.769 -0600	LogSuccess		page is open
+2016-06-14 12:09:42.769 -0600	Log		67	3	on_var_suntract	scanriooutline.script<SOURCE>
+2016-06-14 12:09:42.771 -0600	LogSuccess		<num3> suntract
+2016-06-14 12:09:42.771 -0600	Log		6	3	on_enter_var	scanriooutline.script<SOURCE>
+2016-06-14 12:09:42.773 -0600	LogSuccess		enter <num1>
+2016-06-14 12:09:42.773 -0600	Log		6	3	on_enter_second_number_var	scanriooutline.script<SOURCE>
+2016-06-14 12:09:42.775 -0600	LogSuccess		enter second number <num2>
+2016-06-14 12:09:42.775 -0600	Log		6	3	on_add_var_and_var_to_get_var	scanriooutline.script<SOURCE>
+2016-06-14 12:09:42.776 -0600	Log		6	4	on_add_var_and_var_to_get_var	scanriooutline.script<SOURCE>
+2016-06-14 12:09:42.779 -0600	Log		67	5	on_add_var_and_var_to_get_var	scanriooutline.script<SOURCE>
+2016-06-14 12:09:42.781 -0600	LogSuccess		add <num1> and <num2> to get <num3>
+2016-06-14 12:09:42.781 -0600	Log		page is open	2	on_page_is_open	scanriooutline.script<SOURCE>
+2016-06-14 12:09:42.783 -0600	LogSuccess		page is open
+2016-06-14 12:09:42.784 -0600	Log		565	3	on_var_suntract	scanriooutline.script<SOURCE>
+2016-06-14 12:09:42.785 -0600	LogSuccess		<num3> suntract
+2016-06-14 12:09:42.786 -0600	Log		76	3	on_enter_var	scanriooutline.script<SOURCE>
+2016-06-14 12:09:42.787 -0600	LogSuccess		enter <num1>
+2016-06-14 12:09:42.789 -0600	Log		67	3	on_enter_second_number_var	scanriooutline.script<SOURCE>
+2016-06-14 12:09:42.791 -0600	LogSuccess		enter second number <num2>
+2016-06-14 12:09:42.792 -0600	Log		76	3	on_add_var_and_var_to_get_var	scanriooutline.script<SOURCE>
+2016-06-14 12:09:42.793 -0600	Log		67	4	on_add_var_and_var_to_get_var	scanriooutline.script<SOURCE>
+2016-06-14 12:09:42.795 -0600	Log		565	5	on_add_var_and_var_to_get_var	scanriooutline.script<SOURCE>
+2016-06-14 12:09:42.796 -0600	LogSuccess		add <num1> and <num2> to get <num3>
+2016-06-14 12:09:42.797 -0600	EndTestCase		(Duration:"0.05156", Errors:"0", Exceptions:"0", StartTime:"2016-06-14 12:09:42 -0600", Successes:"15", TestCase:"scanriooutline.feature", Warnings:"0")
+2016-06-14 12:09:42.804 -0600	SUCCESS		3 scenarios (0 failed, 3 passed) 15 steps (0 failed, 0 skipped, 15 passed) Execution Time 0:00:00

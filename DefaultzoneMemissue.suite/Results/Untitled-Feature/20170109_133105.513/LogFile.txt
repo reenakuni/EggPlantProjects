@@ -1,0 +1,6 @@
+﻿2017-01-09 13:31:05.514 -0700	START		Running Untitled.feature
+2017-01-09 13:31:05.532 -0700	LogWarning		band log
+2017-01-09 13:31:05.535 -0700	LogWarning		band log
+2017-01-09 13:31:05.537 -0700	LogWarning		band log
+2017-01-09 13:31:05.539 -0700	EndTestCase		(Duration:"0.022065", Errors:"0", Exceptions:"0", StartTime:"2017-01-09 13:31:05 -0700", Successes:"1", TestCase:"Untitled.feature", Warnings:"3")
+2017-01-09 13:31:05.558 -0700	FAILURE		1 scenarios (1 failed, 0 passed) 3 steps (0 failed, 3 skipped, 0 passed) Execution Time 0:00:00

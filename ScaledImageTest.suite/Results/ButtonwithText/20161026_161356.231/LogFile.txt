@@ -1,0 +1,5 @@
+﻿2016-10-26 16:13:56.232 -0600	START		Running Untitled.script
+2016-10-26 16:13:57.182 -0600	click	Createandcontinue	at (111, 652)	1	on_untitled	Untitled.script
+2016-10-26 16:14:24.355 -0600	Exception	Newissue	No Image Found On Screen: "Newissue"	2	on_untitled	Untitled.script
+2016-10-26 16:14:25.184 -0600	EndTestCase		(Duration:"28.950789", Errors:"1", Exceptions:"1", StartTime:"2016-10-26 16:13:56 -0600", Successes:"0", TestCase:"Untitled.script", Warnings:"0")
+2016-10-26 16:14:25.247 -0600	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "Newissue" -- Execution Time 0:00:28 Untitled.script

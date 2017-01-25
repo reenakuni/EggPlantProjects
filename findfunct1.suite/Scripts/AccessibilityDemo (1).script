@@ -1,0 +1,36 @@
+﻿set the RemoteWorkInterval to 2
+PinchIn (At:"click0001.png")
+
+put Rectangles.ScreenSection(.5,0,1,.4) into PreferencesArea
+
+click "ContactUs"
+WaitFor 20.0, "ContactUs_Header"
+click "DisplayPreferences"
+click (text:"LINKS AND BUTTONS",searchRectangle:PreferencesArea)
+
+Put clickRectangle("EmphasizeLinks_Option") into Rectangle
+if clickFound(click:"CheckBox",searchRectangle:(Rectangle.TopLeft - (30,0),Rectangle.BottomLeft),waitFor:0) then 
+	click foundclickLocation()
+	Log "EMPHASIZE LINKS is now selected."
+else if clickFound(click:"CheckedBox",searchRectangle:(Rectangle.TopLeft - (30,0),Rectangle.BottomLeft),waitFor:0) then
+	Log "EMPHASIZE LINKS already selected."
+end if
+
+click (text:"Hide Preferences",searchRectangle:Rectangles.ScreenSection(.5,.5,1,1))
+
+Assert that clickFound("Getinvolved_Emphasized_Default") with exception "Checking the size and color scheme of the Get involved button - Emphasized and Default."
+
+WaitFor 8, (text:"Display Preferences",searchRectangle:PreferencesArea)
+imagefound (text:"Display Preferences",searchRectangle:PreferencesArea)
+imagefound (text:"TEXT AND DISPLAY",searchRectangle:PreferencesArea)
+
+put imagefoundRectangle("ColourandContrast_Option") into Rectangle
+imagefound (click:"RtF_DropDown",searchRectangle:(Rectangle.BottomLeft,Rectangle.BottomRight + (0,30)))
+click "YellowonBlack_Option"
+click (text:"Hide Preferences",searchRectangle:Rectangles.ScreenSection(.5,.5,1,1))
+
+Assert that clickFound("Getinvolved_Emphasized_YoB") with exception "Checking the size and color scheme of the Get involved button - Emphasized and YoB."
+
+
+
+

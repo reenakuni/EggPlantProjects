@@ -1,0 +1,7 @@
+﻿2016-06-06 15:46:22.424 -0600	START		Running scanriooutline.feature
+2016-06-06 15:46:22.431 -0600	LogWarning		page is open
+2016-06-06 15:46:22.432 -0600	LogWarning		enter <email>
+2016-06-06 15:46:22.434 -0600	LogWarning		enter <pword>
+2016-06-06 15:46:22.434 -0600	LogWarning		log success
+2016-06-06 15:46:22.436 -0600	EndTestCase		(Duration:"0.010036", Errors:"0", Exceptions:"0", StartTime:"2016-06-06 15:46:22 -0600", Successes:"1", TestCase:"scanriooutline.feature", Warnings:"4")
+2016-06-06 15:46:22.439 -0600	FAILURE		1 scenarios (1 failed, 0 passed) 4 steps (0 failed, 4 skipped, 0 passed) Execution Time 0:00:00

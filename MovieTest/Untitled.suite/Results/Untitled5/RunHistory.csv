@@ -1,0 +1,4 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2016-10-13 08:57:57.356 -0600,"Success",0:00:08,0,0,0,"20161013_085757.356/LogFile.txt","","",1
+2016-10-13 09:00:09.165 -0600,"Failure",0:00:03,1,0,1,"20161013_090009.165/LogFile.txt","","No Remote Connection -- doubleclick Error - Retrieving Frame Buffer:No Connection to Server\nREENAKUNI8D42\n",0
+2016-10-13 09:22:26.289 -0600,"Failure",0:00:03,1,0,1,"20161013_092226.289/LogFile.txt","","No Remote Connection -- doubleclick Error - Retrieving Frame Buffer:No Connection to Server\nREENAKUNI8D42\n",0

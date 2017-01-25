@@ -1,0 +1,9 @@
+﻿2016-06-22 10:01:07.268 -0600	START		Running Untitled.feature
+2016-06-22 10:01:07.275 -0600	Log		I have a VM	2	on_i_have_a_vm	Untitled.script<SOURCE>
+2016-06-22 10:01:07.278 -0600	LogSuccess		I have a VM
+2016-06-22 10:01:07.280 -0600	connect		10.1.11.128:(null)	2	on_i_connect	Untitled.script<SOURCE>
+2016-06-22 10:01:07.281 -0600	LogSuccess		I connect
+2016-06-22 10:01:07.282 -0600	Log		success	4	on_log_success	Untitled.script<SOURCE>
+2016-06-22 10:01:07.284 -0600	LogSuccess		log success
+2016-06-22 10:01:07.285 -0600	EndTestCase		(Duration:"0.015693", Errors:"0", Exceptions:"0", StartTime:"2016-06-22 10:01:07 -0600", Successes:"3", TestCase:"Untitled.feature", Warnings:"0")
+2016-06-22 10:01:07.338 -0600	SUCCESS		1 scenarios (0 failed, 1 passed) 3 steps (0 failed, 0 skipped, 3 passed) Execution Time 0:00:00

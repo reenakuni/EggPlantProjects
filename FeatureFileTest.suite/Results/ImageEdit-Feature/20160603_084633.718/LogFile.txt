@@ -1,0 +1,8 @@
+﻿2016-06-03 08:46:33.718 -0600	START		Running ImageEdit.feature
+2016-06-03 08:46:33.733 -0600	LogWarning		Connected to a SUT
+2016-06-03 08:46:33.734 -0600	LogWarning		Select an image
+2016-06-03 08:46:33.734 -0600	LogWarning		double click on it
+2016-06-03 08:46:33.735 -0600	LogWarning		click save
+2016-06-03 08:46:33.735 -0600	LogWarning		image should appear on the images list
+2016-06-03 08:46:33.737 -0600	EndTestCase		(Duration:"0.015078", Errors:"0", Exceptions:"0", StartTime:"2016-06-03 08:46:33 -0600", Successes:"1", TestCase:"ImageEdit.feature", Warnings:"5")
+2016-06-03 08:46:33.743 -0600	FAILURE		1 scenarios (1 failed, 0 passed) 5 steps (0 failed, 5 skipped, 0 passed) Execution Time 0:00:00

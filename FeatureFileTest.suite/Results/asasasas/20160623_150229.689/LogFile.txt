@@ -1,0 +1,3 @@
+﻿2016-06-23 15:02:29.690 -0600	START		Running asasasas.script
+2016-06-23 15:02:30.780 -0600	EndTestCase		(Duration:"1.089384", Errors:"0", Exceptions:"0", StartTime:"2016-06-23 15:02:29 -0600", Successes:"1", TestCase:"asasasas.script", Warnings:"0")
+2016-06-23 15:02:30.791 -0600	SUCCESS		Execution Time 0:00:01 asasasas.script

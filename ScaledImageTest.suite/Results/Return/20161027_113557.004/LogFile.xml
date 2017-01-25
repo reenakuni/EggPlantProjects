@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Return.script" package="ScaledImageTest.suite" timestamp="2016-10-27 11:35:57.004 -0600"
+ tests="1" successes="1" errors="0" time="14.295693">
+  <properties>
+   <property name="RunDate" value="2016-10-27 11:35:57.004 -0600"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="Return.script" assertions="1" successes="1" errors="0" time="14.291865">
+  </testcase>
+ </testsuite>
+</testsuites>

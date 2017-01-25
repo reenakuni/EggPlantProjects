@@ -1,0 +1,27 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Fldr1/Hello">
+ <run>
+  <RunDate>2016-11-16 23:29:52.773 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.482740</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161116_232952.773/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-11-16 23:30:02.051 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.479977</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161116_233002.051/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

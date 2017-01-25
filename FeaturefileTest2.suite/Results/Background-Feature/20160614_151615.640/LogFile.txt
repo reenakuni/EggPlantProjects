@@ -1,0 +1,6 @@
+﻿2016-06-14 15:16:15.640 -0600	START		Running Background.feature
+2016-06-14 15:16:15.647 -0600	LogSuccess		fgfg
+2016-06-14 15:16:15.648 -0600	LogSuccess		fgfgdsdsd
+2016-06-14 15:16:15.649 -0600	LogSuccess		gffgfg
+2016-06-14 15:16:15.650 -0600	EndTestCase		(Duration:"0.008623", Errors:"0", Exceptions:"0", StartTime:"2016-06-14 15:16:15 -0600", Successes:"3", TestCase:"Background.feature", Warnings:"0")
+2016-06-14 15:16:15.655 -0600	SUCCESS		1 scenarios (0 failed, 1 passed) 3 steps (0 failed, 0 skipped, 3 passed) Execution Time 0:00:00

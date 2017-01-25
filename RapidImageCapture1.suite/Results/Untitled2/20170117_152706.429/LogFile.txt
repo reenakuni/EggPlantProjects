@@ -1,0 +1,5 @@
+﻿2017-01-17 15:27:06.431 -0700	START		Running Untitled2.script
+2017-01-17 15:27:07.091 -0700	click	UFinder	at (84, 16)	8	on_untitled2	Untitled2.script
+2017-01-17 15:27:59.194 -0700	Exception	UFinder_0001	No Image Found On Screen: "UFinder_0001"	9	on_untitled2	Untitled2.script
+2017-01-17 15:28:00.041 -0700	EndTestCase		(Duration:"53.607122", Errors:"1", Exceptions:"1", StartTime:"2017-01-17 15:27:06 -0700", Successes:"0", TestCase:"Untitled2.script", Warnings:"0")
+2017-01-17 15:28:00.042 -0700	ABORTED		Execution Time 0:00:53 Untitled2.script

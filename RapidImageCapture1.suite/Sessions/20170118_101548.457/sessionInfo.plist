@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[363, 623, 396, 636], command:@"Image at", eventNum:2, hotSpot:[3.7076562500000000e+02, 1.6020703100000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"l2iCIoudDrive", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[320, 592, 397, 608], command:@"Image at", eventNum:3, hotSpot:[3.7697265599999997e+02, 1.9020703100000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Applications", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0003.png"}, {captureRect:[295, 571, 373, 589], command:@"Image at", eventNum:4, hotSpot:[3.6455468800000000e+02, 2.1442968800000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"ODesktop", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0004.png"}, {captureRect:[296, 544, 391, 565], command:@"Image at", eventNum:5, hotSpot:[3.6042968800000000e+02, 2.3648437500000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"JDocuments", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0005.png"}, {captureRect:[320, 516, 389, 530], command:@"Image at", eventNum:6, hotSpot:[3.5869531200000000e+02, 2.7089843800000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Downloads", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0006.png"}, {captureRect:[281, 297, 433, 664], command:@"Image at", eventNum:7, hotSpot:[3.3126562500000000e+02, 3.2935937500000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0122", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0007.png"}, {captureRect:[320, 408, 345, 422], command:@"Image at", eventNum:8, hotSpot:[3.3439062500000000e+02, 3.7463671900000003e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Red", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0008.png"}, {captureRect:[320, 379, 367, 395], command:@"Image at", eventNum:9, hotSpot:[3.2601562500000000e+02, 4.0171875000000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Orange", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0009.png"}, {captureRect:[320, 356, 361, 370], command:@"Image at", eventNum:10, hotSpot:[3.4251562500000000e+02, 4.2994140599999997e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Yellow", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0010.png"}, {captureRect:[320, 330, 359, 344], command:@"Image at", eventNum:11, hotSpot:[3.4664062500000000e+02, 4.5616406200000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Green", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0011.png"}, {captureRect:[320, 304, 349, 318], command:@"Image at", eventNum:12, hotSpot:[3.4390234400000003e+02, 4.8105078099999997e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Blue", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0012.png"}, {captureRect:[844, 267, 888, 281], command:@"Image at", eventNum:13, hotSpot:[8.6872265600000003e+02, 5.0764843800000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Cancel", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0013.png"}, {captureRect:[929, 266, 964, 281], command:@"Image at", eventNum:14, hotSpot:[9.4077734399999997e+02, 5.2319140600000003e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Open", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0014.png"}, {captureRect:[844, 267, 888, 281], command:@"Image at", eventNum:15, hotSpot:[8.8673437500000000e+02, 5.1773046899999997e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Cancel_0001", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0015.png"}, {captureRect:[113, 779, 327, 793], command:@"Image at", eventNum:16, hotSpot:[2.4351562500000000e+02, 9.5390619999999995e+00], imageName:@"", infoDict:{folderPath:@"/", imageName:@"GameEditMovesWindow", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0016.png"}, {captureRect:[224, 665, 292, 682], command:@"Image at", eventNum:17, hotSpot:[2.8162500000000000e+02, 1.1251171900000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"GameLog", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0017.png"}, {captureRect:[837, 719, 894, 735], command:@"Image at", eventNum:18, hotSpot:[8.6538671899999997e+02, 6.4496093999999999e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"testplant", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0018.png"}, {captureRect:[834, 685, 897, 701], command:@"Image at", eventNum:19, hotSpot:[8.7059765600000003e+02, 1.0164843800000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Computer", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0019.png"}, {captureRect:[815, 655, 915, 669], command:@"Image at", eventNum:20, hotSpot:[8.7163671899999997e+02, 1.2687109400000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"EditGameInfo", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0020.png"}, {captureRect:[758, 194, 974, 626], command:@"Image at", eventNum:21, hotSpot:[8.3066406199999994e+02, 1.7873437500000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0123", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0021.png"}, {captureRect:[758, 194, 974, 626], command:@"Image at", eventNum:22, hotSpot:[8.3170703100000003e+02, 1.9310937500000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0124", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0022.png"}, {captureRect:[758, 194, 974, 626], command:@"Image at", eventNum:23, hotSpot:[8.3378906199999994e+02, 2.0626171900000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0125", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0023.png"}, {captureRect:[758, 194, 974, 626], command:@"Image at", eventNum:24, hotSpot:[8.3378906199999994e+02, 2.2241406200000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0126", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0024.png"}, {captureRect:[758, 194, 974, 626], command:@"Image at", eventNum:25, hotSpot:[8.3517968800000006e+02, 2.5713671900000003e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0127", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0025.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Image at "l2iCIoudDrive"</string>
+		<string>Image at "Applications"</string>
+		<string>Image at "ODesktop"</string>
+		<string>Image at "JDocuments"</string>
+		<string>Image at "Downloads"</string>
+		<string>Image at "image0122"</string>
+		<string>Image at "Red"</string>
+		<string>Image at "Orange"</string>
+		<string>Image at "Yellow"</string>
+		<string>Image at "Green"</string>
+		<string>Image at "Blue"</string>
+		<string>Image at "Cancel"</string>
+		<string>Image at "Open"</string>
+		<string>Image at "Cancel_0001"</string>
+		<string>Image at "GameEditMovesWindow"</string>
+		<string>Image at "GameLog"</string>
+		<string>Image at "testplant"</string>
+		<string>Image at "Computer"</string>
+		<string>Image at "EditGameInfo"</string>
+		<string>Image at "image0123"</string>
+		<string>Image at "image0124"</string>
+		<string>Image at "image0125"</string>
+		<string>Image at "image0126"</string>
+		<string>Image at "image0127"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>l2iCIoudDrive.png</string>
+			<string>l2iCIoudDrive.png</string>
+			<string>Applications.png</string>
+			<string>Applications.png</string>
+			<string>ODesktop.png</string>
+			<string>ODesktop.png</string>
+			<string>JDocuments.png</string>
+			<string>JDocuments.png</string>
+			<string>Downloads.png</string>
+			<string>Downloads.png</string>
+			<string>image0122.png</string>
+			<string>image0122.png</string>
+			<string>Red.png</string>
+			<string>Red.png</string>
+			<string>Orange.png</string>
+			<string>Orange.png</string>
+			<string>Yellow.png</string>
+			<string>Yellow.png</string>
+			<string>Green.png</string>
+			<string>Green.png</string>
+			<string>Blue.png</string>
+			<string>Blue.png</string>
+			<string>Cancel.png</string>
+			<string>Cancel.png</string>
+			<string>Open.png</string>
+			<string>Open.png</string>
+			<string>Cancel_0001.png</string>
+			<string>Cancel_0001.png</string>
+			<string>GameEditMovesWindow.png</string>
+			<string>GameEditMovesWindow.png</string>
+			<string>GameLog.png</string>
+			<string>GameLog.png</string>
+			<string>testplant.png</string>
+			<string>testplant.png</string>
+			<string>Computer.png</string>
+			<string>Computer.png</string>
+			<string>EditGameInfo.png</string>
+			<string>EditGameInfo.png</string>
+			<string>image0123.png</string>
+			<string>image0123.png</string>
+			<string>image0124.png</string>
+			<string>image0124.png</string>
+			<string>image0125.png</string>
+			<string>image0125.png</string>
+			<string>image0126.png</string>
+			<string>image0126.png</string>
+			<string>image0127.png</string>
+			<string>image0127.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>rapidSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

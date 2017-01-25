@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="ImageEdit.feature" package="FeatureFileTest.suite" timestamp="2016-06-23 15:01:08.298 -0600"
+ tests="1" successes="1" errors="2" time="0.020347">
+  <properties>
+   <property name="RunDate" value="2016-06-23 15:01:08.298 -0600"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="ImageEdit.feature" assertions="3" successes="1" errors="2" time="0.017315">
+    <failure type="LogError">Select an image</failure>
+  </testcase>
+ </testsuite>
+</testsuites>

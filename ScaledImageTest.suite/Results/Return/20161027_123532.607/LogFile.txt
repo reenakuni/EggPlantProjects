@@ -1,0 +1,4 @@
+﻿2016-10-27 12:35:32.609 -0600	START		Running Return.script
+2016-10-27 12:35:33.166 -0600	click	return	at (559, 1090)	1	on_return	Return.script
+2016-10-27 12:35:33.726 -0600	EndTestCase		(Duration:"1.115348", Errors:"0", Exceptions:"0", StartTime:"2016-10-27 12:35:32 -0600", Successes:"1", TestCase:"Return.script", Warnings:"0")
+2016-10-27 12:35:33.736 -0600	SUCCESS		Execution Time 0:00:01 Return.script

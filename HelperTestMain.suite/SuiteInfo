@@ -1,0 +1,29 @@
+﻿{
+    EPVersionNumber = 1701100802;
+    Schedules =     (
+    );
+    ScriptMetaData =     {
+    };
+    helpedSuitesInfo =     (
+                {
+            filePath = "EggplantProjects/DefaultzoneMemissue.suite";
+        }
+    );
+    helperSuitesInfo =     (
+                {
+            filePath = "/Users/reenakuni/Documents/TurboTest.suite";
+        },
+                {
+            filePath = "/Users/reenakuni/Documents/HelperNov3.suite";
+        },
+                {
+            filePath = "/Users/reenakuni/Documents/HelperSuiteTest.suite";
+        },
+                {
+            filePath = "/Users/reenakuni/Documents/GitNove1-1/Suite5.suite";
+        },
+                {
+            filePath = "/Users/reenakuni/Documents/GitNove1-1/Suite6.suite";
+        }
+    );
+}

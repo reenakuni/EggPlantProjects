@@ -1,0 +1,19 @@
+﻿{
+    CaptureDate = "2016-12-01 21:11:54 +0000";
+    CaptureHost = REENAKUNI8D42;
+    CaptureScreenSize =     (
+        1374,
+        726
+    );
+    HasAlpha = 1;
+    HotSpotX = 32;
+    HotSpotY = 32;
+    ImageDescription = <>;
+    LastKnownLocationX = 0;
+    LastKnownLocationY = 0;
+    OriginalLocationX = 9;
+    OriginalLocationY = 96;
+    Precise = 0;
+    Pulsing = 0;
+    Scale = 1;
+}

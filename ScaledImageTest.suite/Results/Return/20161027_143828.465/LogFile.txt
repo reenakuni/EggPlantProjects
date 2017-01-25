@@ -1,0 +1,4 @@
+﻿2016-10-27 14:38:28.468 -0600	START		Running Return.script
+2016-10-27 14:38:41.115 -0600	Exception	photos	No Image Found On Screen: "photos"	2	on_return	Return.script
+2016-10-27 14:38:41.820 -0600	EndTestCase		(Duration:"13.350393", Errors:"1", Exceptions:"1", StartTime:"2016-10-27 14:38:28 -0600", Successes:"0", TestCase:"Return.script", Warnings:"0")
+2016-10-27 14:38:41.822 -0600	ABORTED		Execution Time 0:00:13 Return.script

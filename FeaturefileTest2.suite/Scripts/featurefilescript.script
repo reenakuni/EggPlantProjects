@@ -1,0 +1,20 @@
+﻿
+to handle I_have_NUM_dollars
+	params num1
+	
+end I_have_NUM_dollars
+
+to handle Give_NUM_to_Mickey
+	params num1
+	
+end Give_NUM_to_Mickey
+
+to handle I_should_have_NUM_left
+	params num1
+	
+end I_should_have_NUM_left
+
+to handle I_should_have_NUM_dollars_left
+	params num1
+	
+end I_should_have_NUM_dollars_left

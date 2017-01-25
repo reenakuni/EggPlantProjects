@@ -1,0 +1,4 @@
+﻿Script,Last Status,Runs,Fails,First Run,Last Run,Avg Time(Success)
+Untitled,Success,2,0,2016-11-01 12:10:26 -0600,2016-11-01 12:26:28 -0600,0:00:01
+Untitled1,Success,2,0,2016-11-04 11:15:28 -0600,2016-11-04 11:15:38 -0600,0:00:00
+Untitled2,Failure,3,1,2016-11-04 11:15:51 -0600,2016-11-04 11:20:13 -0600,0:00:00

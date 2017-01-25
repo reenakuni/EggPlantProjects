@@ -1,0 +1,19 @@
+﻿{
+    EPVersionNumber = 1701171104;
+    PostRunScript = "Untitled1.script";
+    PreRunScript = "Untitled1.script";
+    Schedules =     (
+    );
+    ScriptMetaData =     {
+    };
+    helpedSuitesInfo =     (
+                {
+            filePath = "gitdec4/Helperst1.suite";
+        },
+                {
+            filePath = "gitdec4/Helperst1.suite";
+        }
+    );
+    helperSuitesInfo =     (
+    );
+}

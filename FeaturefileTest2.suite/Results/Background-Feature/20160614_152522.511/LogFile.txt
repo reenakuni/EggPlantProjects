@@ -1,0 +1,6 @@
+﻿2016-06-14 15:25:22.511 -0600	START		Running Background.feature
+2016-06-14 15:25:22.519 -0600	LogWarning		I have 20 apples
+2016-06-14 15:25:22.519 -0600	LogWarning		I give 10 to the monkeys
+2016-06-14 15:25:22.520 -0600	LogWarning		i am left with 10 apples
+2016-06-14 15:25:22.521 -0600	EndTestCase		(Duration:"0.00845", Errors:"0", Exceptions:"0", StartTime:"2016-06-14 15:25:22 -0600", Successes:"1", TestCase:"Background.feature", Warnings:"3")
+2016-06-14 15:25:22.541 -0600	FAILURE		1 scenarios (1 failed, 0 passed) 3 steps (0 failed, 3 skipped, 0 passed) Execution Time 0:00:00

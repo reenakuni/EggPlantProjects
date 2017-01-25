@@ -1,0 +1,6 @@
+﻿2016-10-12 09:11:00.297 -0600	START		Running NewFolder/Untitled.script
+2016-10-12 09:11:00.867 -0600	click	image0001	at (26, 805)	1	on_newfolder_untitled	NewFolder/Untitled.script
+2016-10-12 09:11:01.661 -0600	typetext		Notepad	2	on_newfolder_untitled	NewFolder/Untitled.script
+2016-10-12 09:11:16.160 -0600	Exception		Retrieving Frame Buffer:No Connection to Server\nREENAKUNI8D42\n	4	on_newfolder_untitled	NewFolder/Untitled.script
+2016-10-12 09:11:16.760 -0600	EndTestCase		(Duration:"16.4622", Errors:"1", Exceptions:"1", StartTime:"2016-10-12 09:11:00 -0600", Successes:"0", TestCase:"NewFolder/Untitled.script", Warnings:"0")
+2016-10-12 09:11:16.837 -0600	FAILURE	Screen_Error.png	No Remote Connection click Error - Retrieving Frame Buffer:No Connection to Server\nREENAKUNI8D42\n -- Execution Time 0:00:16 NewFolder/Untitled.script

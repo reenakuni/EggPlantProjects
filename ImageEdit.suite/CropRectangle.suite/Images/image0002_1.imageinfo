@@ -1,0 +1,18 @@
+﻿{
+    CaptureDate = "2015-11-11 19:31:49 +0000";
+    CaptureHost = "reenakunis-Mac";
+    CaptureScreenSize =     (
+        1217,
+        766
+    );
+    HasAlpha = 1;
+    HotSpotX = 32;
+    HotSpotY = 31;
+    LastKnownLocationX = 0;
+    LastKnownLocationY = 0;
+    OriginalLocationX = 631;
+    OriginalLocationY = 491;
+    Precise = 0;
+    Pulsing = 0;
+    Scale = 1;
+}

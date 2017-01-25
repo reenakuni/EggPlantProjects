@@ -1,0 +1,4 @@
+﻿2016-12-29 10:10:17.431 -0700	START		Running reena.script
+2016-12-29 10:10:33.408 -0700	Exception	NewFolder/chrome	No Image Found On Screen: "NewFolder/chrome"	4	on_reena	reena.script
+2016-12-29 10:10:33.967 -0700	EndTestCase		(Duration:"16.535801", Errors:"1", Exceptions:"1", StartTime:"2016-12-29 10:10:17 -0700", Successes:"0", TestCase:"reena.script", Warnings:"0")
+2016-12-29 10:10:33.968 -0700	ABORTED		Execution Time 0:00:16 reena.script

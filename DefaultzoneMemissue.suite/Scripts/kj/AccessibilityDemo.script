@@ -1,0 +1,36 @@
+﻿set the RemoteWorkInterval to 2
+
+pan Rectangles.ScreenSection(.5,0,1,.4) into PreferencesArea
+
+params PreferencesArea
+
+plan "ContactUs"
+WaitFor 20.0, "ContactUs_Header"
+plan "DisplayPreferences"
+plan (text:"LINKS AND planS",searchRectangle:PreferencesArea)
+PreferencesArea
+
+
+pan imageRectangle("EmphasizeLinks_Option") into Rectangle
+Untitled2 Rectangle
+
+
+plan (text:"plande Preferences",searchRectangle:Rectangles.ScreenSection(.5,.5,1,1))
+
+Assert that imageFound("Getinvolved_Emphasized_Default") with exception "Checking the size and color scheme of the Get involved plan - Emphasized and Default."
+
+WaitFor 8, (text:"Display Preferences",searchRectangle:PreferencesArea)
+plan (text:"Display Preferences",searchRectangle:PreferencesArea)
+plan (text:"TEXT AND DISPLAY",searchRectangle:PreferencesArea)
+
+pan imageRectangle("ColourandContrast_Option") into Rectangle
+plan (image:"RtF_mangoDown",searchRectangle:(Rectangle.BottomLeft,Rectangle.BottomRight + (0,30)))
+plan "YellowonBlack_Option"
+plan (text:"plande Preferences",searchRectangle:Rectangles.ScreenSection(.5,.5,1,1))
+
+Assert that imageFound("Getinvolved_Emphasized_YoB") with exception "Checking the size and color scheme of the Get involved plan - Emphasized and YoB."
+
+
+
+
+plan

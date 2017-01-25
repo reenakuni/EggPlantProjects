@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<runHistory script="NewFolder/Untitled">
+ <run>
+  <RunDate>2016-11-28 15:17:21.516 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>2.711649</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20161128_151721.516/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>No Remote Connection -- click Error - Remote Connection Unavailable</ErrorMessage>
+ </run>
+</runHistory>

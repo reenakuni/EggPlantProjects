@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<statistics>
+ <script name="Untitled">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>10</NumberOfRuns>
+  <NumberOfFails>2</NumberOfFails>
+  <FirstRun>2016-05-02 12:01:03 -0600</FirstRun>
+  <LastRun>2016-05-02 12:55:33 -0600</LastRun>
+  <TotalTimeOnSuccess>1.746314</TotalTimeOnSuccess>
+ </script>
+ <script name="LoginTest">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>29</NumberOfRuns>
+  <NumberOfFails>15</NumberOfFails>
+  <FirstRun>2016-04-13 16:34:26 -0600</FirstRun>
+  <LastRun>2016-05-02 09:11:10 -0600</LastRun>
+  <TotalTimeOnSuccess>8.102175</TotalTimeOnSuccess>
+ </script>
+ <script name="s">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>6</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-04-14 09:27:05 -0600</FirstRun>
+  <LastRun>2016-04-29 14:50:59 -0600</LastRun>
+  <TotalTimeOnSuccess>1.208018</TotalTimeOnSuccess>
+ </script>
+ <script name="Untitled1">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>7</NumberOfRuns>
+  <NumberOfFails>3</NumberOfFails>
+  <FirstRun>2016-05-10 12:05:47 -0600</FirstRun>
+  <LastRun>2016-05-10 14:37:14 -0600</LastRun>
+  <TotalTimeOnSuccess>0.929515</TotalTimeOnSuccess>
+ </script>
+</statistics>

@@ -1,0 +1,4 @@
+﻿2017-01-10 12:24:03.275 -0700	START		Running hello.script
+2017-01-10 12:24:03.332 -0700	Log		simple	1	on_hello	hello.script
+2017-01-10 12:24:03.909 -0700	EndTestCase		(Duration:"0.631766", Errors:"1", Exceptions:"0", StartTime:"2017-01-10 12:24:03 -0700", Successes:"0", TestCase:"hello.script", Warnings:"0")
+2017-01-10 12:24:03.934 -0700	FAILURE		SRUN_BadValue Bad value for Object expression.  Looking for an object or script identifier, got '~/reenakuni/Documents/Helper1.suite/Scripts/Untitled'. -- Execution Time 0:00:00 hello.script

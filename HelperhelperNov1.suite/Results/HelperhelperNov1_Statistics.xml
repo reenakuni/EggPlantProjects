@@ -1,0 +1,19 @@
+﻿<?xml version="1.0"?>
+<statistics>
+ <script name="Untitled3">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-11-22 16:43:38 -0700</FirstRun>
+  <LastRun>2016-11-22 16:43:38 -0700</LastRun>
+  <TotalTimeOnSuccess>0.645759</TotalTimeOnSuccess>
+ </script>
+ <script name="fgfg">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-11-29 16:00:38 -0700</FirstRun>
+  <LastRun>2016-11-29 16:00:38 -0700</LastRun>
+  <TotalTimeOnSuccess>0.916800</TotalTimeOnSuccess>
+ </script>
+</statistics>

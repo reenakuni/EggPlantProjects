@@ -1,0 +1,20 @@
+﻿
+to handle Connected_to_a_SUT
+	log "connected to a sut"
+end Connected_to_a_SUT
+
+
+to handle Select_an_image
+	click "image0001"
+end Select_an_image
+
+
+
+to handle image_should_appear_on_the_images_list_
+	log "success"
+end image_should_appear_on_the_images_list_
+
+to handle image_should_appear_on_the_images_list
+	
+end image_should_appear_on_the_images_list
+//janmmnsamns

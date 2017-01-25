@@ -1,0 +1,4 @@
+﻿2017-01-04 12:06:17.691 -0700	START		Running test1.script
+2017-01-04 12:06:22.743 -0700	Exception		Remote Connection Unavailable	3	on_test1	test1.script
+2017-01-04 12:06:23.415 -0700	EndTestCase		(Duration:"5.722359", Errors:"1", Exceptions:"1", StartTime:"2017-01-04 12:06:17 -0700", Successes:"0", TestCase:"test1.script", Warnings:"0")
+2017-01-04 12:06:23.428 -0700	FAILURE		No Remote Connection click Error - Remote Connection Unavailable -- Execution Time 0:00:05 test1.script

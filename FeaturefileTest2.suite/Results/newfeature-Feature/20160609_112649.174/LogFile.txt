@@ -1,0 +1,15 @@
+﻿2016-06-09 11:26:49.175 -0600	START		Running newfeature.feature
+2016-06-09 11:26:49.182 -0600	LogSuccess		log something
+2016-06-09 11:26:49.183 -0600	LogSuccess		log something
+2016-06-09 11:26:49.184 -0600	LogSuccess		when you see the message
+2016-06-09 11:26:49.185 -0600	LogSuccess		when you see the message
+2016-06-09 11:26:49.186 -0600	LogSuccess		log success
+2016-06-09 11:26:49.186 -0600	LogSuccess		log success
+2016-06-09 11:26:49.187 -0600	LogSuccess		log something else
+2016-06-09 11:26:49.187 -0600	LogSuccess		log something else
+2016-06-09 11:26:49.188 -0600	LogSuccess		when you see some message
+2016-06-09 11:26:49.188 -0600	LogSuccess		when you see some message
+2016-06-09 11:26:49.189 -0600	LogSuccess		log successful
+2016-06-09 11:26:49.190 -0600	LogSuccess		log successful
+2016-06-09 11:26:49.191 -0600	EndTestCase		(Duration:"0.014681", Errors:"0", Exceptions:"0", StartTime:"2016-06-09 11:26:49 -0600", Successes:"12", TestCase:"newfeature.feature", Warnings:"0")
+2016-06-09 11:26:49.195 -0600	SUCCESS		2 scenarios (0 failed, 2 passed) 6 steps (0 failed, 0 skipped, 6 passed) Execution Time 0:00:00

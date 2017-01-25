@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[1124, 457, 1194, 487], command:@"Image at", eventNum:2, hotSpot:[1.1594963630000000e+03, 3.2093089800000001e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0131", searchType:@"Precise", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[251, 556, 375, 577], command:@"Image at", eventNum:3, hotSpot:[3.0537680499999999e+02, 2.2709290700000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"bvgfYouTube_0002", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0003.png"}, {captureRect:[251, 556, 375, 577], command:@"Image at", eventNum:4, hotSpot:[3.0537680499999999e+02, 2.2709290700000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"bvgfYouTube_0003", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0004.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Image at "image0131"</string>
+		<string>Image at "bvgfYouTube_0002"</string>
+		<string>Image at "bvgfYouTube_0003"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>image0131.png</string>
+			<string>image0131.png</string>
+			<string>bvgfYouTube_0002.png</string>
+			<string>bvgfYouTube_0002.png</string>
+			<string>bvgfYouTube_0003.png</string>
+			<string>bvgfYouTube_0003.png</string>
+		</array>
+	</dict>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

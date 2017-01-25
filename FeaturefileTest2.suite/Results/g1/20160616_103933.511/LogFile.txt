@@ -1,0 +1,4 @@
+﻿2016-06-16 10:39:33.511 -0600	START		Running g1.script
+2016-06-16 10:39:33.591 -0600	Log		30	4	on_apples	g.script
+2016-06-16 10:39:34.480 -0600	EndTestCase		(Duration:"0.967832", Errors:"0", Exceptions:"0", StartTime:"2016-06-16 10:39:33 -0600", Successes:"1", TestCase:"g1.script", Warnings:"0")
+2016-06-16 10:39:34.500 -0600	SUCCESS		Execution Time 0:00:00 g1.script

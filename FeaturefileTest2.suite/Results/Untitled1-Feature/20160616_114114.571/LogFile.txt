@@ -1,0 +1,15 @@
+﻿2016-06-16 11:41:14.574 -0600	START		Running Untitled1.feature
+2016-06-16 11:41:14.586 -0600	Log		hello	2	on_log_something	Untitled1.script<SOURCE>
+2016-06-16 11:41:14.589 -0600	LogSuccess		log something
+2016-06-16 11:41:14.590 -0600	Log		saw hello	2	on_see_the_message	Untitled1.script<SOURCE>
+2016-06-16 11:41:14.593 -0600	LogSuccess		see the message
+2016-06-16 11:41:14.594 -0600	Log		success	2	on_log_success	Untitled1.script<SOURCE>
+2016-06-16 11:41:14.596 -0600	LogSuccess		log success
+2016-06-16 11:41:14.597 -0600	Log		greetings	2	on_log_something_else	Untitled1.script<SOURCE>
+2016-06-16 11:41:14.599 -0600	LogSuccess		log something else
+2016-06-16 11:41:14.600 -0600	Log		Greetings	2	on_you_see_the_message	Untitled1.script<SOURCE>
+2016-06-16 11:41:14.602 -0600	LogSuccess		you see the message
+2016-06-16 11:41:14.602 -0600	Log		successful greeting	2	on_log_successful	Untitled1.script<SOURCE>
+2016-06-16 11:41:14.604 -0600	LogSuccess		log successful
+2016-06-16 11:41:14.605 -0600	EndTestCase		(Duration:"0.029796", Errors:"0", Exceptions:"0", StartTime:"2016-06-16 11:41:14 -0600", Successes:"6", TestCase:"Untitled1.feature", Warnings:"0")
+2016-06-16 11:41:14.617 -0600	SUCCESS		2 scenarios (0 failed, 2 passed) 6 steps (0 failed, 0 skipped, 6 passed) Execution Time 0:00:00

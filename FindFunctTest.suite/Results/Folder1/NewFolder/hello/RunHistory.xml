@@ -1,0 +1,27 @@
+﻿<?xml version="1.0"?>
+<runHistory script="assa/NewFolder/hello">
+ <run>
+  <RunDate>2016-11-28 09:30:14.701 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.768709</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161128_093014.701/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-12-06 10:25:54.168 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.505821</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161206_102554.168/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

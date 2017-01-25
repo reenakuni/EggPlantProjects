@@ -1,0 +1,7 @@
+﻿2016-10-28 14:58:14.559 -0600	START		Running Untitled1.script
+2016-10-28 14:58:15.012 -0600	click	Issues	at (416, 293)	8	on_untitled1	Untitled1.script
+2016-10-28 14:58:15.878 -0600	click	NewissueWikiFiles	at (544, 294)	9	on_untitled1	Untitled1.script
+2016-10-28 14:58:16.741 -0600	click	image0026	at (449, 295)	10	on_untitled1	Untitled1.script
+2016-10-28 14:58:17.646 -0600	click	image0027	at (444, 286)	11	on_untitled1	Untitled1.script
+2016-10-28 14:58:18.464 -0600	EndTestCase		(Duration:"3.903143", Errors:"0", Exceptions:"0", StartTime:"2016-10-28 14:58:14 -0600", Successes:"1", TestCase:"Untitled1.script", Warnings:"0")
+2016-10-28 14:58:18.481 -0600	SUCCESS		Execution Time 0:00:03 Untitled1.script

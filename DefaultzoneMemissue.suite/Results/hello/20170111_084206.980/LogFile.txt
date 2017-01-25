@@ -1,0 +1,5 @@
+﻿2017-01-11 08:42:06.981 -0700	START		Running hello.script
+2017-01-11 08:42:07.047 -0700	Log		simple	1	on_hello	hello.script
+2017-01-11 08:42:07.054 -0700	Log		ssd	1	on_untitled	/Users/reenakuni/Documents/Helper1.suite/Scripts/Untitled.script
+2017-01-11 08:42:07.572 -0700	EndTestCase		(Duration:"0.589044", Errors:"0", Exceptions:"0", StartTime:"2017-01-11 08:42:06 -0700", Successes:"1", TestCase:"hello.script", Warnings:"0")
+2017-01-11 08:42:07.583 -0700	SUCCESS		Execution Time 0:00:00 hello.script

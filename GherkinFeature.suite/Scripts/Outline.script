@@ -1,0 +1,27 @@
+﻿
+to handle Connected_to_a_SUT
+	connect "10.211.55.19"
+end Connected_to_a_SUT
+
+to handle I_click_an_VAR
+	params image
+	click image
+	wait 2
+end I_click_an_VAR
+
+to handle log_success
+
+	if ImageFound(2, "wiki")
+	then
+		log "success"
+	else
+		log "error"
+	end if
+	wait 2
+	click "Backbutton"
+	
+end log_success
+
+to handle NewConnection_s_I_have_a_VM
+	
+end NewConnection_s_I_have_a_VM

@@ -1,0 +1,3 @@
+﻿2016-06-13 12:43:46.074 -0600	START		Running Stepwithspace.script
+2016-06-13 12:43:46.845 -0600	EndTestCase		(Duration:"0.769617", Errors:"0", Exceptions:"0", StartTime:"2016-06-13 12:43:46 -0600", Successes:"1", TestCase:"Stepwithspace.script", Warnings:"0")
+2016-06-13 12:43:46.857 -0600	SUCCESS		Execution Time 0:00:00 Stepwithspace.script

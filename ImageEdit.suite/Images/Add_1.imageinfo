@@ -1,0 +1,19 @@
+﻿{
+    CaptureDate = "2015-11-10 20:04:37 +0000";
+    CaptureHost = "testplants-Mac-Pro-3 (testplant)";
+    CaptureScreenSize =     (
+        1344,
+        860
+    );
+    HasAlpha = 1;
+    HotSpotX = 32;
+    HotSpotY = 10;
+    LastKnownLocationX = 0;
+    LastKnownLocationY = 0;
+    OriginalLocationX = 1050;
+    OriginalLocationY = 389;
+    Precise = 0;
+    Pulsing = 1;
+    Scale = 1;
+    SearchAlgorithm = TextSmoothSquare;
+}

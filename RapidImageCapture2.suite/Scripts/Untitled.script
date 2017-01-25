@@ -1,0 +1,15 @@
+(* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+  Script generated:  2017-01-17 13:24:18
+  From session:  untitled session
+  Captured on:  2017-01-17 13:23:50
+  From server:  testplants-Mac-2
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *)
+
+Drag "FinderFileEditViewGoWindowHelp_0005"
+Drop "FinderFileEditViewGoWindowHelp_0006"
+Click "File"
+Click "FileEditView_0001"
+Click "View"
+Click "ViewGoWindow_0004"
+Click "Window"
+Click "FileEditViewGoWindowHelp_0001"

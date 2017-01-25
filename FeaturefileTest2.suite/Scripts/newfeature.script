@@ -1,0 +1,21 @@
+﻿
+to handle log_something
+	
+end log_something
+
+to handle when_you_see_the_message
+	
+end when_you_see_the_message
+
+
+to handle log_something_else
+	
+end log_something_else
+
+to handle when_you_see_some_message
+	
+end when_you_see_some_message
+
+to handle log_successful
+	
+end log_successful

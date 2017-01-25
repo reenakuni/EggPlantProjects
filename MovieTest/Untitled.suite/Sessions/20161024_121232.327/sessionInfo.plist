@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[871, 449, 941, 479], command:@"DoubleClick", eventNum:2, hotSpot:[9.0624609399999997e+02, 5.0884375000000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0009", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {command:@"TypeText", eventNum:6, screenShotFile:@"Screen0006.png", text:@"\"testplant\",Return"}, {captureRect:[311, 916, 381, 946], command:@"Drag", eventNum:26, hotSpot:[3.4617968800000000e+02, 4.1218750000000000e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0010", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0026.png"}, {captureRect:[311, 916, 381, 946], command:@"Drop", eventNum:26, hotSpot:[3.4617968800000000e+02, 4.1218750000000000e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0011", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0027.png"}, {captureRect:[757, 506, 827, 536], command:@"Click", eventNum:28, hotSpot:[7.9270312500000000e+02, 4.5189843800000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0012", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0028.png"}, {captureRect:[757, 506, 827, 536], command:@"DoubleClick", eventNum:30, hotSpot:[7.9270312500000000e+02, 4.5189843800000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0013", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0030.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>DoubleClick "image0009"</string>
+		<string>TypeText "testplant",Return</string>
+		<string>Drag "image0010"</string>
+		<string>Drop "image0011"</string>
+		<string>Click "image0012"</string>
+		<string>DoubleClick "image0013"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>image0009.png</string>
+			<string>image0009.png</string>
+			<string>image0010.png</string>
+			<string>image0010.png</string>
+			<string>image0011.png</string>
+			<string>image0011.png</string>
+			<string>image0012.png</string>
+			<string>image0012.png</string>
+			<string>image0013.png</string>
+			<string>image0013.png</string>
+		</array>
+	</dict>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

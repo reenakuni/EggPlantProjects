@@ -1,0 +1,20 @@
+﻿{
+    EPVersionNumber = 1701100802;
+    Schedules =     (
+    );
+    ScriptMetaData =     {
+    };
+    helpedSuitesInfo =     (
+                {
+            filePath = "EggplantProjects/DefaultzoneMemissue.suite";
+        }
+    );
+    helperSuitesInfo =     (
+                {
+            filePath = "/Users/reenakuni/Documents/GitNov1/SCM3.suite";
+        },
+                {
+            filePath = "/Users/reenakuni/Documents/Newhelper.suite";
+        }
+    );
+}

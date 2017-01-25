@@ -1,0 +1,4 @@
+﻿2017-01-10 12:23:57.260 -0700	START		Running hello.script
+2017-01-10 12:23:57.518 -0700	Log		simple	1	on_hello	hello.script
+2017-01-10 12:23:58.101 -0700	EndTestCase		(Duration:"0.837122", Errors:"1", Exceptions:"0", StartTime:"2017-01-10 12:23:57 -0700", Successes:"0", TestCase:"hello.script", Warnings:"0")
+2017-01-10 12:23:58.126 -0700	FAILURE		STUnknownMessage ERROR: No Such Command: 'big' -- Execution Time 0:00:00 hello.script

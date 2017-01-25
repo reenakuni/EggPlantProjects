@@ -1,0 +1,19 @@
+﻿2016-06-22 10:30:16.369 -0600	START		Running Outline.feature
+2016-06-22 10:30:16.377 -0600	connect		10.1.11.128:(null)	2	on_connected_to_a_sut	Outline.script<SOURCE>
+2016-06-22 10:30:16.377 -0600	LogSuccess		Connected to a SUT
+2016-06-22 10:30:16.958 -0600	click	wiki	at (1039, 188)	3	on_i_click_an_var	Outline.script<SOURCE>
+2016-06-22 10:30:16.959 -0600	LogSuccess		I click an <image>
+2016-06-22 10:30:17.424 -0600	imagefound	wiki	found at (1039, 188)	3	on_log_success	Outline.script<SOURCE>
+2016-06-22 10:30:17.425 -0600	Log		success	5	on_log_success	Outline.script<SOURCE>
+2016-06-22 10:30:19.758 -0600	click	Backbutton	at (89, 91)	10	on_log_success	Outline.script<SOURCE>
+2016-06-22 10:30:19.759 -0600	LogSuccess		log success
+2016-06-22 10:30:19.761 -0600	connect		10.1.11.128:(null)	2	on_connected_to_a_sut	Outline.script<SOURCE>
+2016-06-22 10:30:19.762 -0600	LogSuccess		Connected to a SUT
+2016-06-22 10:30:20.622 -0600	click	twitter	at (458, 307)	3	on_i_click_an_var	Outline.script<SOURCE>
+2016-06-22 10:30:20.623 -0600	LogSuccess		I click an <image>
+2016-06-22 10:30:20.699 -0600	imagefound	wiki	found at (1039, 188)	3	on_log_success	Outline.script<SOURCE>
+2016-06-22 10:30:20.700 -0600	Log		success	5	on_log_success	Outline.script<SOURCE>
+2016-06-22 10:30:23.261 -0600	click	Backbutton	at (89, 91)	10	on_log_success	Outline.script<SOURCE>
+2016-06-22 10:30:23.261 -0600	LogSuccess		log success
+2016-06-22 10:30:23.264 -0600	EndTestCase		(Duration:"6.893091", Errors:"0", Exceptions:"0", StartTime:"2016-06-22 10:30:16 -0600", Successes:"6", TestCase:"Outline.feature", Warnings:"0")
+2016-06-22 10:30:23.298 -0600	SUCCESS		2 scenarios (0 failed, 2 passed) 6 steps (0 failed, 0 skipped, 6 passed) Execution Time 0:00:06

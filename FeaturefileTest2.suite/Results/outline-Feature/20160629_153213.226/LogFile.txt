@@ -1,0 +1,25 @@
+﻿2016-06-29 15:32:13.227 -0600	START		Running outline.feature
+2016-06-29 15:32:13.237 -0600	LogSuccess		page is open
+2016-06-29 15:32:13.238 -0600	Log		6	3	on_enter_var	outline.script<SOURCE>
+2016-06-29 15:32:13.241 -0600	LogSuccess		enter <num1>
+2016-06-29 15:32:13.242 -0600	Log		4	3	on_enter_second_number_var	outline.script<SOURCE>
+2016-06-29 15:32:13.244 -0600	LogSuccess		enter second number <num2>
+2016-06-29 15:32:13.245 -0600	Log		6	3	on_enter_third_number_var	outline.script<SOURCE>
+2016-06-29 15:32:13.248 -0600	LogSuccess		enter third number <num3>
+2016-06-29 15:32:13.249 -0600	Log		6	3	on_add_var_and_var_to_get_var	outline.script<SOURCE>
+2016-06-29 15:32:13.252 -0600	Log		4	4	on_add_var_and_var_to_get_var	outline.script<SOURCE>
+2016-06-29 15:32:13.254 -0600	Log		6	5	on_add_var_and_var_to_get_var	outline.script<SOURCE>
+2016-06-29 15:32:13.257 -0600	LogSuccess		add <num1> and <num2> to get <num3>
+2016-06-29 15:32:13.258 -0600	LogSuccess		page is open
+2016-06-29 15:32:13.259 -0600	Log		7	3	on_enter_var	outline.script<SOURCE>
+2016-06-29 15:32:13.262 -0600	LogSuccess		enter <num1>
+2016-06-29 15:32:13.263 -0600	Log		8	3	on_enter_second_number_var	outline.script<SOURCE>
+2016-06-29 15:32:13.265 -0600	LogSuccess		enter second number <num2>
+2016-06-29 15:32:13.266 -0600	Log		15	3	on_enter_third_number_var	outline.script<SOURCE>
+2016-06-29 15:32:13.268 -0600	LogSuccess		enter third number <num3>
+2016-06-29 15:32:13.268 -0600	Log		7	3	on_add_var_and_var_to_get_var	outline.script<SOURCE>
+2016-06-29 15:32:13.271 -0600	Log		8	4	on_add_var_and_var_to_get_var	outline.script<SOURCE>
+2016-06-29 15:32:13.274 -0600	Log		15	5	on_add_var_and_var_to_get_var	outline.script<SOURCE>
+2016-06-29 15:32:13.276 -0600	LogSuccess		add <num1> and <num2> to get <num3>
+2016-06-29 15:32:13.278 -0600	EndTestCase		(Duration:"0.04887", Errors:"0", Exceptions:"0", StartTime:"2016-06-29 15:32:13 -0600", Successes:"10", TestCase:"outline.feature", Warnings:"0")
+2016-06-29 15:32:13.294 -0600	SUCCESS		2 scenarios (0 failed, 2 passed) 10 steps (0 failed, 0 skipped, 10 passed) Execution Time 0:00:00

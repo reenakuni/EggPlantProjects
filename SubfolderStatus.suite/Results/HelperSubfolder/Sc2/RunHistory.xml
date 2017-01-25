@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<runHistory script="HelperSubfolder/Sc2">
+ <run>
+  <RunDate>2016-11-14 14:28:10.916 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.265304</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20161114_142810.916/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>No Remote Connection -- typetext Error - Remote Connection Unavailable</ErrorMessage>
+ </run>
+</runHistory>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[172, 736, 242, 766], command:@"Click", eventNum:2, hotSpot:[2.0750528000000000e+02, 4.1833354999999997e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0122", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[173, 737, 243, 767], command:@"Click", eventNum:4, hotSpot:[2.0860183200000000e+02, 4.0736536000000001e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0123", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0004.png"}, {captureRect:[250, 610, 279, 623], command:@"Click", eventNum:6, hotSpot:[2.7014579700000002e+02, 1.8399135500000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Web", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0006.png"}, {captureRect:[311, 606, 359, 622], command:@"Drag", eventNum:8, hotSpot:[3.3473526399999997e+02, 1.7599229000000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Images", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0008.png"}, {captureRect:[311, 606, 359, 622], command:@"Drop", eventNum:8, hotSpot:[3.3587893300000002e+02, 1.7599229000000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Images_0001", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0008.png"}, {captureRect:[737, 671, 807, 701], command:@"Click", eventNum:10, hotSpot:[7.7240932099999998e+02, 1.0605723800000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0124", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0010.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Click "image0122"</string>
+		<string>Click "image0123"</string>
+		<string>Click "Web"</string>
+		<string>Drag "Images"</string>
+		<string>Drop "Images_0001"</string>
+		<string>Click "image0124"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>image0122.png</string>
+			<string>image0122.png</string>
+			<string>image0123.png</string>
+			<string>image0123.png</string>
+			<string>Web.png</string>
+			<string>Web.png</string>
+			<string>Images.png</string>
+			<string>Images.png</string>
+			<string>Images_0001.png</string>
+			<string>Images_0001.png</string>
+			<string>image0124.png</string>
+			<string>image0124.png</string>
+			<string>image0122.png</string>
+			<string>image0123.png</string>
+			<string>Web.png</string>
+			<string>Images.png</string>
+			<string>Images_0001.png</string>
+			<string>image0124.png</string>
+			<string>image0122.png</string>
+			<string>image0123.png</string>
+			<string>Web.png</string>
+			<string>Images.png</string>
+			<string>Images_0001.png</string>
+			<string>image0124.png</string>
+			<string>image0122.png</string>
+			<string>image0123.png</string>
+			<string>Web.png</string>
+			<string>Images.png</string>
+			<string>Images_0001.png</string>
+			<string>image0124.png</string>
+		</array>
+	</dict>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

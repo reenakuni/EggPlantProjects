@@ -1,0 +1,6 @@
+﻿2016-06-23 15:01:49.421 -0600	START		Running Untitled.feature
+2016-06-23 15:01:49.431 -0600	LogWarning		hello
+2016-06-23 15:01:49.432 -0600	LogWarning		there
+2016-06-23 15:01:49.432 -0600	LogWarning		ride
+2016-06-23 15:01:49.433 -0600	EndTestCase		(Duration:"0.011011", Errors:"0", Exceptions:"0", StartTime:"2016-06-23 15:01:49 -0600", Successes:"1", TestCase:"Untitled.feature", Warnings:"3")
+2016-06-23 15:01:49.454 -0600	FAILURE		1 scenarios (1 failed, 0 passed) 3 steps (0 failed, 3 skipped, 0 passed) Execution Time 0:00:00

@@ -1,0 +1,19 @@
+﻿{
+    CaptureDate = "2016-10-25 21:50:13 +0000";
+    CaptureHost = "Reenakunis-MacBook-Pro.local";
+    CaptureScreenSize =     (
+        640,
+        1136
+    );
+    HasAlpha = 1;
+    HotSpotX = "-113";
+    HotSpotY = "-58";
+    LastKnownLocationX = 0;
+    LastKnownLocationY = 0;
+    OriginalLocationX = 482;
+    OriginalLocationY = 581;
+    Precise = 0;
+    Pulsing = 0;
+    Scale = 1;
+    SearchAlgorithm = TextSmoothSquare;
+}

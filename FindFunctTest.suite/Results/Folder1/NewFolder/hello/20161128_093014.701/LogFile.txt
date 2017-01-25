@@ -1,0 +1,3 @@
+﻿2016-11-28 09:30:14.702 -0700	START		Running assa/NewFolder/hello.script
+2016-11-28 09:30:15.470 -0700	EndTestCase		(Duration:"0.766052", Errors:"0", Exceptions:"0", StartTime:"2016-11-28 09:30:14 -0700", Successes:"1", TestCase:"assa/NewFolder/hello.script", Warnings:"0")
+2016-11-28 09:30:15.503 -0700	SUCCESS		Execution Time 0:00:00 assa/NewFolder/hello.script

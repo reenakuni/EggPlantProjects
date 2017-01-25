@@ -1,0 +1,20 @@
+﻿{
+    CaptureDate = "2016-11-04 16:30:11 +0000";
+    CaptureHost = "testplants-Mac";
+    CaptureScreenSize =     (
+        1272,
+        793
+    );
+    CropRectangle = "6,6,64,24";
+    HasAlpha = 1;
+    HotSpotX = 35;
+    HotSpotY = 15;
+    ImageDescription = <>;
+    LastKnownLocationX = 0;
+    LastKnownLocationY = 0;
+    OriginalLocationX = 381;
+    OriginalLocationY = 409;
+    Precise = 0;
+    Pulsing = 0;
+    Scale = 1;
+}

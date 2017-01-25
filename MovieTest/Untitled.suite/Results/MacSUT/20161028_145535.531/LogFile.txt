@@ -1,0 +1,5 @@
+﻿2016-10-28 14:55:35.532 -0600	START		Running Untitled3.script
+2016-10-28 14:55:35.992 -0600	click	image0021	at (514, 285)	8	on_untitled3	Untitled3.script
+2016-10-28 14:56:03.089 -0600	Exception	image0022	No Image Found On Screen: "image0022"	9	on_untitled3	Untitled3.script
+2016-10-28 14:56:03.865 -0600	EndTestCase		(Duration:"28.331294", Errors:"1", Exceptions:"1", StartTime:"2016-10-28 14:55:35 -0600", Successes:"0", TestCase:"Untitled3.script", Warnings:"0")
+2016-10-28 14:56:03.866 -0600	ABORTED		Execution Time 0:00:28 Untitled3.script

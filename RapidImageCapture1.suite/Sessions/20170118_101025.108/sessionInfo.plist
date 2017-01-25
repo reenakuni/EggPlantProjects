@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[119, 92, 356, 97], command:@"Image at", eventNum:2, hotSpot:[1.7279296900000000e+02, 6.9742968800000006e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Friit", searchType:@"Smooth", skipStep:True, waitFor:@""}, screenShotFile:@"Screen0002.png", skipStep:@"YES"}, {captureRect:[180, 117, 184, 121], command:@"Image at", eventNum:3, hotSpot:[1.8225000000000000e+02, 6.7331640600000003e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0118", searchType:@"Precise", skipStep:False, waitFor:@""}, screenShotFile:@"Screen0003.png", skipStep:@"YES"}, {captureRect:[746, 105, 1226, 642], command:@"Image at", eventNum:4, hotSpot:[1.0466523440000001e+03, 4.5017968800000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0119", searchType:@"Precise", waitFor:@""}, screenShotFile:@"Screen0004.png"}, {captureRect:[114, 776, 153, 789], command:@"Image at", eventNum:5, hotSpot:[1.2809765600000000e+02, 1.4164061999999999e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"GameEdit", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0005.png"}, {captureRect:[126, 731, 172, 746], command:@"Image at", eventNum:6, hotSpot:[1.4255859400000000e+02, 5.2582031000000001e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0120", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0006.png"}, {captureRect:[126, 731, 172, 746], command:@"Image at", eventNum:7, hotSpot:[1.4255859400000000e+02, 5.2582031000000001e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0121", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0007.png"}, {captureRect:[462, 651, 535, 663], command:@"Image at", eventNum:8, hotSpot:[4.6492968800000000e+02, 1.3987109400000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"GitCheckout", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0008.png"}, {captureRect:[463, 633, 552, 645], command:@"Image at", eventNum:9, hotSpot:[4.7430468800000000e+02, 1.5749609400000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"GitCheckoutold", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0009.png"}, {captureRect:[463, 615, 558, 627], command:@"Image at", eventNum:10, hotSpot:[4.7430468800000000e+02, 1.7195703100000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"GitCheckoutoldl", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0010.png"}, {captureRect:[437, 298, 624, 665], command:@"Image at", eventNum:11, hotSpot:[4.9401562500000000e+02, 1.9570703100000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"GitCheckoutSept6", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0011.png"}, {captureRect:[437, 298, 624, 665], command:@"Image at", eventNum:12, hotSpot:[4.9092968800000000e+02, 2.0330078100000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"GitOct3", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0012.png"}, {captureRect:[463, 561, 567, 573], command:@"Image at", eventNum:13, hotSpot:[5.1033203099999997e+02, 2.2977343800000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"renameissuesuite", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0013.png"}, {captureRect:[437, 298, 624, 665], command:@"Image at", eventNum:14, hotSpot:[5.1658203100000003e+02, 2.5048437500000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Renametestsuite", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0014.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>-skipped- Image at "Friit"</string>
+		<string>-skipped- Image at "image0118"</string>
+		<string>Image at "image0119"</string>
+		<string>Image at "GameEdit"</string>
+		<string>Image at "image0120"</string>
+		<string>Image at "image0121"</string>
+		<string>Image at "GitCheckout"</string>
+		<string>Image at "GitCheckoutold"</string>
+		<string>Image at "GitCheckoutoldl"</string>
+		<string>Image at "GitCheckoutSept6"</string>
+		<string>Image at "GitOct3"</string>
+		<string>Image at "renameissuesuite"</string>
+		<string>Image at "Renametestsuite"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>Friit.png</string>
+			<string>Friit.png</string>
+			<string>image0118.png</string>
+			<string>image0118.png</string>
+			<string>image0119.png</string>
+			<string>image0119.png</string>
+			<string>GameEdit.png</string>
+			<string>GameEdit.png</string>
+			<string>image0120.png</string>
+			<string>image0120.png</string>
+			<string>image0121.png</string>
+			<string>image0121.png</string>
+			<string>GitCheckout.png</string>
+			<string>GitCheckout.png</string>
+			<string>GitCheckoutold.png</string>
+			<string>GitCheckoutold.png</string>
+			<string>GitCheckoutoldl.png</string>
+			<string>GitCheckoutoldl.png</string>
+			<string>GitCheckoutSept6.png</string>
+			<string>GitCheckoutSept6.png</string>
+			<string>GitOct3.png</string>
+			<string>GitOct3.png</string>
+			<string>renameissuesuite.png</string>
+			<string>renameissuesuite.png</string>
+			<string>Renametestsuite.png</string>
+			<string>Renametestsuite.png</string>
+			<string>image0119.png</string>
+			<string>GameEdit.png</string>
+			<string>image0120.png</string>
+			<string>image0121.png</string>
+			<string>GitCheckout.png</string>
+			<string>GitCheckoutold.png</string>
+			<string>GitCheckoutoldl.png</string>
+			<string>GitCheckoutSept6.png</string>
+			<string>GitOct3.png</string>
+			<string>renameissuesuite.png</string>
+			<string>Renametestsuite.png</string>
+			<string>image0119.png</string>
+			<string>GameEdit.png</string>
+			<string>image0120.png</string>
+			<string>image0121.png</string>
+			<string>GitCheckout.png</string>
+			<string>GitCheckoutold.png</string>
+			<string>GitCheckoutoldl.png</string>
+			<string>GitCheckoutSept6.png</string>
+			<string>GitOct3.png</string>
+			<string>renameissuesuite.png</string>
+			<string>Renametestsuite.png</string>
+			<string>image0119.png</string>
+			<string>GameEdit.png</string>
+			<string>image0120.png</string>
+			<string>image0121.png</string>
+			<string>GitCheckout.png</string>
+			<string>GitCheckoutold.png</string>
+			<string>GitCheckoutoldl.png</string>
+			<string>GitCheckoutSept6.png</string>
+			<string>GitOct3.png</string>
+			<string>renameissuesuite.png</string>
+			<string>Renametestsuite.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>rapidSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

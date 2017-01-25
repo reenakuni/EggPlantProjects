@@ -1,0 +1,4 @@
+﻿2017-01-17 13:59:34.400 -0700	START		Running Untitled8.script
+2017-01-17 13:59:52.685 -0700	Exception	FileEditViewGo_0005	No Image Found On Screen: "FileEditViewGo_0005"	8	on_untitled8	Untitled8.script
+2017-01-17 13:59:53.452 -0700	EndTestCase		(Duration:"19.050424", Errors:"1", Exceptions:"1", StartTime:"2017-01-17 13:59:34 -0700", Successes:"0", TestCase:"Untitled8.script", Warnings:"0")
+2017-01-17 13:59:53.453 -0700	ABORTED		Execution Time 0:00:19 Untitled8.script

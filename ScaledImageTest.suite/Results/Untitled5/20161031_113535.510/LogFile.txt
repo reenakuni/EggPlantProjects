@@ -1,0 +1,4 @@
+﻿2016-10-31 11:35:35.512 -0600	START		Running Untitled5.script
+2016-10-31 11:35:36.129 -0600	click	Chess	at (244, 142)	1	on_untitled5	Untitled5.script
+2016-10-31 11:35:37.693 -0600	EndTestCase		(Duration:"2.17956", Errors:"0", Exceptions:"0", StartTime:"2016-10-31 11:35:35 -0600", Successes:"1", TestCase:"Untitled5.script", Warnings:"0")
+2016-10-31 11:35:37.705 -0600	SUCCESS		Execution Time 0:00:02 Untitled5.script

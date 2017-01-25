@@ -1,0 +1,4 @@
+﻿2016-12-21 14:26:16.042 -0700	START		Running Untitled4.script
+2016-12-21 14:26:16.115 -0700	Log		parent after	1	on_untitled4	Untitled4.script
+2016-12-21 14:26:16.841 -0700	EndTestCase		(Duration:"0.79682", Errors:"0", Exceptions:"0", StartTime:"2016-12-21 14:26:16 -0700", Successes:"1", TestCase:"Untitled4.script", Warnings:"0")
+2016-12-21 14:26:16.870 -0700	SUCCESS		Execution Time 0:00:00 Untitled4.script

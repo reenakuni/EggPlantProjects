@@ -1,0 +1,47 @@
+﻿
+to handle page_is_open
+	log "page is open"
+end page_is_open
+
+to handle enter_VAR
+	params num1
+	log num1
+end enter_VAR
+
+to handle add_VAR_and_VAR_to_get_VAR
+	params num1, num2, num3
+	log num1
+	log num2
+	log num3
+	log num4
+	log num5
+	
+	(*
+	set x = num1&& num2 
+	log x
+	if num3 = x then
+		log "success"
+	else
+		log "Failure"
+	end if
+	*)
+end add_VAR_and_VAR_to_get_VAR
+
+to handle enter_second_number_VAR
+	params num2
+	log num2
+end enter_second_number_VAR
+
+to handle VAR_suntract
+	params num3
+	log num3
+end VAR_suntract
+
+to handle log_VAR_and_VAR_to_get_VAR_and_VAR_and_VAR
+	params num1, num2, num3, num4, num5
+	log num1
+	log num2
+	log num3
+	log num4
+	log num5
+end log_VAR_and_VAR_to_get_VAR_and_VAR_and_VAR

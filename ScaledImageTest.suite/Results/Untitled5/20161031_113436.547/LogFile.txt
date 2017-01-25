@@ -1,0 +1,4 @@
+﻿2016-10-31 11:34:36.549 -0600	START		Running Untitled5.script
+2016-10-31 11:35:14.232 -0600	Exception	4000Chess	No Image Found On Screen: "4000Chess"	1	on_untitled5	Untitled5.script
+2016-10-31 11:35:15.787 -0600	EndTestCase		(Duration:"39.235258", Errors:"1", Exceptions:"1", StartTime:"2016-10-31 11:34:36 -0600", Successes:"0", TestCase:"Untitled5.script", Warnings:"0")
+2016-10-31 11:35:15.788 -0600	ABORTED		Execution Time 0:00:39 Untitled5.script

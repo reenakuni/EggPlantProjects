@@ -1,0 +1,31 @@
+﻿
+global x
+global y
+global z
+to handle I_have_NUM_apples
+	params num1
+	set global x = num1
+	log global x
+end I_have_NUM_apples
+
+
+to handle I_give_NUM_apples_to_a_monkey
+	params num1
+	set global y = num1
+	log global y
+end I_give_NUM_apples_to_a_monkey
+
+to handle I_am_left_with_NUM_apples
+	params num1
+	set global z = global x - global y
+	log global z
+	if  global z = num1
+	
+	Then 
+		log "success"
+	else
+		LogError  "fail"
+	end if
+	
+end I_am_left_with_NUM_apples
+(*kjdjkdjkfjdkf*)

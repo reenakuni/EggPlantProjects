@@ -1,0 +1,28 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Untitled1">
+ <run>
+  <RunDate>2016-05-10 12:23:10.384 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.223687</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160510_122310.384/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-10 14:37:14.034 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.003056</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160510_143714.034/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in untitled1:
+Syntax Error at line 11: Syntax Error - can&#x27;t understand &quot;email&quot; at or near character 192</ErrorMessage>
+ </run>
+</runHistory>

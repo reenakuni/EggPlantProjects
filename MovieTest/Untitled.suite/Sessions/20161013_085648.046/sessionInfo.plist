@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[2, 388, 72, 418], command:@"Click", eventNum:2, hotSpot:[3.7710937999999999e+01, 4.2038671900000003e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0002", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"/Users/reenakuni/Documents/MovieTest/Untitled.suite/Sessions/20161013_085648.046/Screen0002.png"}, {captureRect:[2, 388, 72, 418], command:@"DoubleClick", eventNum:4, hotSpot:[3.7710937999999999e+01, 4.2038671900000003e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0003", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"/Users/reenakuni/Documents/MovieTest/Untitled.suite/Sessions/20161013_085648.046/Screen0004.png"}, {command:@"TypeText", eventNum:8, screenShotFile:@"/Users/reenakuni/Documents/MovieTest/Untitled.suite/Sessions/20161013_085648.046/Screen0008.png", text:@"\"terst\""}, {command:@"TypeText", eventNum:18, screenShotFile:@"/Users/reenakuni/Documents/MovieTest/Untitled.suite/Sessions/20161013_085648.046/Screen0018.png", text:@"Backspace,Backspace,Backspace,\"stplant\",Return"}, {captureRect:[468, 522, 905, 543], command:@"Click", eventNum:40, hotSpot:[4.8680468800000000e+02, 2.9344140599999997e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"TestPlanteggPlantTestAutomatio", searchType:@"Text", waitFor:@""}, screenShotFile:@"/Users/reenakuni/Documents/MovieTest/Untitled.suite/Sessions/20161013_085648.046/Screen0040.png"}, {captureRect:[451, 514, 521, 544], command:@"DoubleClick", eventNum:42, hotSpot:[4.8680468800000000e+02, 2.9448437500000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0004", searchType:@"Precise", waitFor:@""}, screenShotFile:@"/Users/reenakuni/Documents/MovieTest/Untitled.suite/Sessions/20161013_085648.046/Screen0042.png"}, {captureRect:[1228, 771, 1298, 801], command:@"Click", eventNum:46, hotSpot:[1.2639726559999999e+03, 3.7054687999999999e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0005", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"/Users/reenakuni/Documents/MovieTest/Untitled.suite/Sessions/20161013_085648.046/Screen0046.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Click "image0002"</string>
+		<string>DoubleClick "image0003"</string>
+		<string>TypeText "terst"</string>
+		<string>TypeText Backspace,Backspace,Backspace,"stplant",Return</string>
+		<string>Click "TestPlanteggPlantTestAutomatio"</string>
+		<string>DoubleClick "image0004"</string>
+		<string>Click "image0005"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>image0002.png</string>
+			<string>image0002.png</string>
+			<string>image0003.png</string>
+			<string>image0003.png</string>
+			<string>TestPlanteggPlantTestAutomatio.png</string>
+			<string>TestPlanteggPlantTestAutomatio.png</string>
+			<string>image0004.png</string>
+			<string>image0004.png</string>
+			<string>image0005.png</string>
+			<string>image0005.png</string>
+		</array>
+	</dict>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

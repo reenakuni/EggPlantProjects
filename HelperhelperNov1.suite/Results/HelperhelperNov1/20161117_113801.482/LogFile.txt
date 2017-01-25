@@ -1,0 +1,4 @@
+﻿2016-11-17 11:38:01.483 -0700	START		Running HelperhelperNov1.script
+2016-11-17 11:38:01.567 -0700	Exception		Remote Connection Unavailable	1	on_helperhelpernov1	HelperhelperNov1.script
+2016-11-17 11:38:02.082 -0700	EndTestCase		(Duration:"0.597563", Errors:"1", Exceptions:"1", StartTime:"2016-11-17 11:38:01 -0700", Successes:"0", TestCase:"HelperhelperNov1.script", Warnings:"0")
+2016-11-17 11:38:02.087 -0700	FAILURE		No Remote Connection click Error - Remote Connection Unavailable -- Execution Time 0:00:00 HelperhelperNov1.script

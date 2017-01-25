@@ -1,0 +1,14 @@
+﻿global x
+
+to handle add r
+	put r into global x
+end add
+
+
+to handle add1 y
+	put global x 
+	put 10 into global x
+	put y
+end add1
+
+put global x

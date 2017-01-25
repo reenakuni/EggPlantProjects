@@ -1,0 +1,3 @@
+﻿Params x,y
+Put x*y
+Typetext "Hello"

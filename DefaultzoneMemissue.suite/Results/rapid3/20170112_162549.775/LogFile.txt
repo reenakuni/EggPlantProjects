@@ -1,0 +1,3 @@
+﻿2017-01-12 16:25:49.778 -0700	START		Running rapid3.script
+2017-01-12 16:25:49.783 -0700	EndTestCase		(Duration:"0.00122", Errors:"1", Exceptions:"0", StartTime:"2017-01-12 16:25:49 -0700", Successes:"0", TestCase:"rapid3.script", Warnings:"0")
+2017-01-12 16:25:49.935 -0700	FAILURE		SenseTalk Compiler Exception in rapid3:\nSyntax Error at line 8: Syntax Error - can't understand "MyPortfolio" at or near character 270 -- Execution Time 0:00:00 rapid3.script

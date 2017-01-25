@@ -1,0 +1,3 @@
+﻿2016-05-24 14:57:14.756 -0600	START		Running ImageEdit.feature
+2016-05-24 14:57:14.767 -0600	EndTestCase		(Duration:"0.009548", Errors:"0", Exceptions:"0", StartTime:"2016-05-24 14:57:14 -0600", Successes:"1", TestCase:"ImageEdit.feature", Warnings:"0")
+2016-05-24 14:57:14.772 -0600	SUCCESS		Execution Time 0:00:00 ImageEdit.feature

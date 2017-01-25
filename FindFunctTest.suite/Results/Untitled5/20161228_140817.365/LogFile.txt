@@ -1,0 +1,5 @@
+﻿2016-12-28 14:08:17.366 -0700	START		Running Untitled5.script
+2016-12-28 14:08:17.791 -0700	connect		10.211.55.17:(null)	1	on_untitled5	Untitled5.script
+2016-12-28 14:08:17.803 -0700	moveto		at (200, 200)	5	on_untitled5	Untitled5.script
+2016-12-28 14:08:18.322 -0700	EndTestCase		(Duration:"0.953964", Errors:"1", Exceptions:"0", StartTime:"2016-12-28 14:08:17 -0700", Successes:"0", TestCase:"Untitled5.script", Warnings:"0")
+2016-12-28 14:08:19.396 -0700	FAILURE	Screen_Error.png	STUnknownMessage ERROR: No Such Command: 'manager' -- Execution Time 0:00:00 Untitled5.script

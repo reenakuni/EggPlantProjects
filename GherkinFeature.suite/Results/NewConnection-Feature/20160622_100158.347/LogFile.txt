@@ -1,0 +1,9 @@
+﻿2016-06-22 10:01:58.347 -0600	START		Running NewConnection.feature
+2016-06-22 10:01:58.354 -0600	Log		I have a VM	2	on_i_have_a_vm	NewConnection.script<SOURCE>
+2016-06-22 10:01:58.357 -0600	LogSuccess		I have a VM
+2016-06-22 10:01:58.358 -0600	connect		10.1.11.128:(null)	2	on_i_connect	NewConnection.script<SOURCE>
+2016-06-22 10:01:58.358 -0600	LogSuccess		I connect
+2016-06-22 10:01:58.359 -0600	Log		success	4	on_log_success	NewConnection.script<SOURCE>
+2016-06-22 10:01:58.361 -0600	LogSuccess		log success
+2016-06-22 10:01:58.363 -0600	EndTestCase		(Duration:"0.013708", Errors:"0", Exceptions:"0", StartTime:"2016-06-22 10:01:58 -0600", Successes:"3", TestCase:"NewConnection.feature", Warnings:"0")
+2016-06-22 10:01:58.408 -0600	SUCCESS		1 scenarios (0 failed, 1 passed) 3 steps (0 failed, 0 skipped, 3 passed) Execution Time 0:00:00

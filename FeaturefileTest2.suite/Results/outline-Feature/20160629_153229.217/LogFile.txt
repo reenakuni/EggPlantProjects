@@ -1,0 +1,25 @@
+﻿2016-06-29 15:32:29.218 -0600	START		Running outline.feature
+2016-06-29 15:32:29.227 -0600	LogSuccess		page is open
+2016-06-29 15:32:29.228 -0600	Log		6	3	on_enter_var	outline.script<SOURCE>
+2016-06-29 15:32:29.232 -0600	LogSuccess		enter <num1>
+2016-06-29 15:32:29.233 -0600	Log		4	3	on_enter_second_number_var	outline.script<SOURCE>
+2016-06-29 15:32:29.235 -0600	LogSuccess		enter second number <num2>
+2016-06-29 15:32:29.236 -0600	Log		6	3	on_enter_third_number_var	outline.script<SOURCE>
+2016-06-29 15:32:29.238 -0600	LogSuccess		enter third number <num3>
+2016-06-29 15:32:29.239 -0600	Log		6	3	on_add_var_and_var_to_get_var	outline.script<SOURCE>
+2016-06-29 15:32:29.241 -0600	Log		4	4	on_add_var_and_var_to_get_var	outline.script<SOURCE>
+2016-06-29 15:32:29.244 -0600	Log		6	5	on_add_var_and_var_to_get_var	outline.script<SOURCE>
+2016-06-29 15:32:29.246 -0600	LogSuccess		add <num1> and <num2> to get <num3>
+2016-06-29 15:32:29.247 -0600	LogSuccess		page is open
+2016-06-29 15:32:29.248 -0600	Log		7	3	on_enter_var	outline.script<SOURCE>
+2016-06-29 15:32:29.250 -0600	LogSuccess		enter <num1>
+2016-06-29 15:32:29.251 -0600	Log		8	3	on_enter_second_number_var	outline.script<SOURCE>
+2016-06-29 15:32:29.253 -0600	LogSuccess		enter second number <num2>
+2016-06-29 15:32:29.254 -0600	Log		15	3	on_enter_third_number_var	outline.script<SOURCE>
+2016-06-29 15:32:29.257 -0600	LogSuccess		enter third number <num3>
+2016-06-29 15:32:29.257 -0600	Log		7	3	on_add_var_and_var_to_get_var	outline.script<SOURCE>
+2016-06-29 15:32:29.260 -0600	Log		8	4	on_add_var_and_var_to_get_var	outline.script<SOURCE>
+2016-06-29 15:32:29.263 -0600	Log		15	5	on_add_var_and_var_to_get_var	outline.script<SOURCE>
+2016-06-29 15:32:29.266 -0600	LogSuccess		add <num1> and <num2> to get <num3>
+2016-06-29 15:32:29.267 -0600	EndTestCase		(Duration:"0.047777", Errors:"0", Exceptions:"0", StartTime:"2016-06-29 15:32:29 -0600", Successes:"10", TestCase:"outline.feature", Warnings:"0")
+2016-06-29 15:32:29.277 -0600	SUCCESS		2 scenarios (0 failed, 2 passed) 10 steps (0 failed, 0 skipped, 10 passed) Execution Time 0:00:00

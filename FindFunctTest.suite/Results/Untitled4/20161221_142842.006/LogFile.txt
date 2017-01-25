@@ -1,0 +1,4 @@
+﻿2016-12-21 14:28:42.007 -0700	START		Running Untitled4.script
+2016-12-21 14:28:42.067 -0700	Log		parent after	1	on_untitled4	Untitled4.script
+2016-12-21 14:28:42.819 -0700	EndTestCase		(Duration:"0.810302", Errors:"1", Exceptions:"0", StartTime:"2016-12-21 14:28:42 -0700", Successes:"0", TestCase:"Untitled4.script", Warnings:"0")
+2016-12-21 14:28:43.338 -0700	FAILURE	Screen_Error.png	SRUN_BadValue Bad value for Object expression.  Looking for an object or script identifier, got '~/Documents/FindFunctTest.suite/Scripts/Untitled2.script'. -- Execution Time 0:00:00 Untitled4.script

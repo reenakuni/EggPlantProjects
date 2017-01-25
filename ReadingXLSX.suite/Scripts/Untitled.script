@@ -1,0 +1,24 @@
+﻿
+
+
+set caseBook to Workbook("CustomerNew.xlsx")
+
+put caseBook
+set custSheet to caseBook.Worksheet("Sheet 1")
+put custSheet
+put custSheet.cell(4,3) into workingBalance
+put workingBalance
+
+
+set myDB to (type:"excel",file:"CustomerNew.xlsx")
+
+set memberTable to table "Sheet 1" of myDB
+
+put memberTable
+put the records of memberTable 
+put members
+
+(*set custSheet to caseBook.Worksheet("Table1")
+put custSheet
+put custSheet.cell(4,3) into workingBalance
+put workingBalance*)

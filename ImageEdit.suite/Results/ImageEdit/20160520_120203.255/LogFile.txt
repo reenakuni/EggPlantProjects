@@ -1,0 +1,4 @@
+﻿2016-05-20 12:02:03.257 -0600	START		Running ImageEdit.script
+2016-05-20 12:02:03.313 -0600	Exception		Remote Connection Unavailable	15	on_imageedit	ImageEdit.script
+2016-05-20 12:02:03.599 -0600	EndTestCase		(Duration:"0.341024", Errors:"1", Exceptions:"1", StartTime:"2016-05-20 12:02:03 -0600", Successes:"0", TestCase:"ImageEdit.script", Warnings:"0")
+2016-05-20 12:02:03.603 -0600	FAILURE		No Remote Connection rightclick Error - Remote Connection Unavailable -- Execution Time 0:00:00 ImageEdit.script

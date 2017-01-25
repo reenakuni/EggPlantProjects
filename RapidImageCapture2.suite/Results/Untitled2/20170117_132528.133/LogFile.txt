@@ -1,0 +1,4 @@
+﻿2017-01-17 13:25:28.134 -0700	START		Running Untitled2.script
+2017-01-17 13:25:38.686 -0700	Exception	image0044	No Image Found On Screen: "image0044"	8	on_untitled2	Untitled2.script
+2017-01-17 13:25:39.430 -0700	EndTestCase		(Duration:"11.291342", Errors:"1", Exceptions:"1", StartTime:"2017-01-17 13:25:28 -0700", Successes:"0", TestCase:"Untitled2.script", Warnings:"0")
+2017-01-17 13:25:39.432 -0700	ABORTED		Execution Time 0:00:11 Untitled2.script

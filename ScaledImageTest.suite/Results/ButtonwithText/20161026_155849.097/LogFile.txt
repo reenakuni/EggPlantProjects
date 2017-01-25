@@ -1,0 +1,5 @@
+﻿2016-10-26 15:58:49.098 -0600	START		Running Untitled.script
+2016-10-26 15:58:49.903 -0600	click	Createandcontinue	at (159, 703)	1	on_untitled	Untitled.script
+2016-10-26 15:58:50.922 -0600	click	Newissue	at (386, 177)	2	on_untitled	Untitled.script
+2016-10-26 15:58:52.105 -0600	EndTestCase		(Duration:"3.004984", Errors:"0", Exceptions:"0", StartTime:"2016-10-26 15:58:49 -0600", Successes:"1", TestCase:"Untitled.script", Warnings:"0")
+2016-10-26 15:58:52.112 -0600	SUCCESS		Execution Time 0:00:03 Untitled.script

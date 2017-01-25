@@ -1,0 +1,28 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2016-06-03 08:46:33.718 -0600,"Success",0:00:00,0,5,0,"20160603_084633.718/LogFile.txt","","",1
+2016-06-03 13:46:57.302 -0600,"Success",0:00:00,0,4,0,"20160603_134657.302/LogFile.txt","","",2
+2016-06-03 15:39:30.569 -0600,"Failure",0:00:10,2,4,0,"20160603_153930.569/LogFile.txt","","Connection Failed -- Unable to connect to Server:10.211.55.17 on port:0\nConnection Timed Out - Unable to connect to host",1
+2016-06-03 15:40:13.400 -0600,"Success",0:00:00,0,5,0,"20160603_154013.400/LogFile.txt","","",1
+2016-06-03 15:40:16.583 -0600,"Success",0:00:00,0,5,0,"20160603_154016.583/LogFile.txt","","",1
+2016-06-03 15:41:22.205 -0600,"Success",0:00:00,0,1,0,"20160603_154122.205/LogFile.txt","","",8
+2016-06-03 15:42:04.130 -0600,"Success",0:00:00,0,1,0,"20160603_154204.130/LogFile.txt","","",8
+2016-06-03 15:42:06.859 -0600,"Success",0:00:00,0,1,0,"20160603_154206.859/LogFile.txt","","",8
+2016-06-03 15:43:06.690 -0600,"Success",0:00:00,0,1,0,"20160603_154306.690/LogFile.txt","","",8
+2016-06-03 15:43:07.798 -0600,"Success",0:00:00,0,1,0,"20160603_154307.798/LogFile.txt","","",8
+2016-06-03 15:43:08.799 -0600,"Success",0:00:00,0,1,0,"20160603_154308.799/LogFile.txt","","",8
+2016-06-03 15:43:23.000 -0600,"Success",0:00:00,0,1,0,"20160603_154323.000/LogFile.txt","","",6
+2016-06-03 15:43:29.285 -0600,"Success",0:00:00,0,1,0,"20160603_154329.285/LogFile.txt","","",6
+2016-06-03 15:43:50.021 -0600,"Success",0:00:00,0,1,0,"20160603_154350.021/LogFile.txt","","",6
+2016-06-03 15:47:19.249 -0600,"Failure",0:00:00,3,1,2,"20160603_154719.249/LogFile.txt","","No Remote Connection -- click Error - Remote Connection Unavailable",4
+2016-06-03 15:47:33.241 -0600,"Failure",0:00:00,3,1,2,"20160603_154733.241/LogFile.txt","","No Remote Connection -- click Error - Remote Connection Unavailable",4
+2016-06-03 15:47:54.102 -0600,"Failure",0:00:00,2,1,1,"20160603_154754.102/LogFile.txt","","No Remote Connection -- click Error - Remote Connection Unavailable",3
+2016-06-03 15:48:07.922 -0600,"Failure",0:00:00,2,1,1,"20160603_154807.922/LogFile.txt","","No Remote Connection -- click Error - Remote Connection Unavailable",3
+2016-06-03 15:48:09.976 -0600,"Failure",0:00:00,2,1,1,"20160603_154809.976/LogFile.txt","","No Remote Connection -- click Error - Remote Connection Unavailable",3
+2016-06-03 15:50:37.339 -0600,"Success",0:00:00,0,0,0,"20160603_155037.339/LogFile.txt","","",1
+2016-06-03 15:50:38.944 -0600,"Failure",0:00:00,2,1,1,"20160603_155038.944/LogFile.txt","","No Remote Connection -- click Error - Remote Connection Unavailable",3
+2016-06-06 11:10:10.911 -0600,"Running",0:00:00,0,0,0,"20160606_111010.911/LogFile.txt","","",0
+2016-06-06 11:11:19.029 -0600,"Failure",0:00:00,2,1,1,"20160606_111119.029/LogFile.txt","","No Remote Connection -- click Error - Remote Connection Unavailable",3
+2016-06-06 11:11:22.568 -0600,"Failure",0:00:00,2,1,1,"20160606_111122.568/LogFile.txt","","No Remote Connection -- click Error - Remote Connection Unavailable",3
+2016-06-06 11:12:19.033 -0600,"Failure",0:00:00,2,1,1,"20160606_111219.033/LogFile.txt","","No Remote Connection -- click Error - Remote Connection Unavailable",3
+2016-06-23 15:01:08.298 -0600,"Failure",0:00:00,2,1,1,"20160623_150108.298/LogFile.txt","","No Remote Connection -- click Error - Remote Connection Unavailable",1
+2016-06-23 15:03:16.783 -0600,"Failure",0:00:00,2,0,1,"20160623_150316.783/LogFile.txt","","No Remote Connection -- click Error - Remote Connection Unavailable",2

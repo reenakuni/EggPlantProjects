@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Background.script" package="FeaturefileTest2.suite" timestamp="2016-06-20 14:23:27.601 -0600"
+ tests="1" successes="1" errors="0" time="0.430184">
+  <properties>
+   <property name="RunDate" value="2016-06-20 14:23:27.601 -0600"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="Background.script" assertions="1" successes="1" errors="0" time="0.428713">
+  </testcase>
+ </testsuite>
+</testsuites>

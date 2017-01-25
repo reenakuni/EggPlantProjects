@@ -1,0 +1,4 @@
+﻿2016-11-02 10:59:15.248 -0600	START		Running HelperhelperNov1.script
+2016-11-02 10:59:16.102 -0600	click	image0001	at (673, 422)	1	on_helperhelpernov1	HelperhelperNov1.script
+2016-11-02 10:59:18.689 -0600	EndTestCase		(Duration:"3.438457", Errors:"0", Exceptions:"0", StartTime:"2016-11-02 10:59:15 -0600", Successes:"1", TestCase:"HelperhelperNov1.script", Warnings:"0")
+2016-11-02 10:59:18.705 -0600	SUCCESS		Execution Time 0:00:03 HelperhelperNov1.script

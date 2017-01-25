@@ -1,0 +1,7 @@
+﻿2016-06-22 09:24:01.409 -0600	START		Running Background.feature
+2016-06-22 09:24:01.419 -0600	LogSuccess		I have 10 apples
+2016-06-22 09:24:01.420 -0600	LogWarning		I give 5 apples to a kid
+2016-06-22 09:24:01.420 -0600	Log		fail	7	on_i_am_left_with_var_apples	Background.script<SOURCE>
+2016-06-22 09:24:01.422 -0600	LogSuccess		I am left with 5 apples
+2016-06-22 09:24:01.423 -0600	EndTestCase		(Duration:"0.012494", Errors:"0", Exceptions:"0", StartTime:"2016-06-22 09:24:01 -0600", Successes:"2", TestCase:"Background.feature", Warnings:"1")
+2016-06-22 09:24:01.432 -0600	FAILURE		1 scenarios (1 failed, 0 passed) 3 steps (0 failed, 1 skipped, 2 passed) Execution Time 0:00:00

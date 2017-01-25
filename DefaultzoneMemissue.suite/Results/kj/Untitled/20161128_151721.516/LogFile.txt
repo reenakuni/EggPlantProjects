@@ -1,0 +1,4 @@
+﻿2016-11-28 15:17:21.549 -0700	START		Running NewFolder/Untitled.script
+2016-11-28 15:17:21.577 -0700	Exception		Remote Connection Unavailable	1	on_newfolder_untitled	NewFolder/Untitled.script
+2016-11-28 15:17:24.233 -0700	EndTestCase		(Duration:"2.677006", Errors:"1", Exceptions:"1", StartTime:"2016-11-28 15:17:21 -0700", Successes:"0", TestCase:"NewFolder/Untitled.script", Warnings:"0")
+2016-11-28 15:17:24.374 -0700	FAILURE		No Remote Connection click Error - Remote Connection Unavailable -- Execution Time 0:00:03 NewFolder/Untitled.script

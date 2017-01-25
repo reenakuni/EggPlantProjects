@@ -1,0 +1,7 @@
+﻿2016-06-14 11:20:22.128 -0600	START		Running outline.feature
+2016-06-14 11:20:22.136 -0600	LogWarning		page is open
+2016-06-14 11:20:22.137 -0600	LogWarning		enter <num1>
+2016-06-14 11:20:22.137 -0600	LogWarning		enter second number <num2>
+2016-06-14 11:20:22.138 -0600	LogWarning		add <num1> and <num2> to get <num3>
+2016-06-14 11:20:22.139 -0600	EndTestCase		(Duration:"0.009299", Errors:"0", Exceptions:"0", StartTime:"2016-06-14 11:20:22 -0600", Successes:"1", TestCase:"outline.feature", Warnings:"4")
+2016-06-14 11:20:22.159 -0600	FAILURE		1 scenarios (1 failed, 0 passed) 4 steps (0 failed, 4 skipped, 0 passed) Execution Time 0:00:00

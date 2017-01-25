@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[416, 524, 486, 554], command:@"Drag", eventNum:2, hotSpot:[4.5168507499999998e+02, 2.5357508300000001e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0068", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[415, 523, 485, 553], command:@"Drop", eventNum:2, hotSpot:[4.5058852400000001e+02, 2.5467190199999999e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0069", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[460, 519, 530, 549], command:@"Click", eventNum:4, hotSpot:[4.9504598600000003e+02, 2.5800948699999998e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0070", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0004.png"}, {captureRect:[509, 519, 579, 549], command:@"Click", eventNum:6, hotSpot:[5.4402672399999994e+02, 2.5800948699999998e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0071", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0006.png"}, {captureRect:[512, 477, 582, 507], command:@"Click", eventNum:8, hotSpot:[5.4774043600000005e+02, 3.0085825699999998e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0072", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0008.png"}, {captureRect:[457, 463, 527, 493], command:@"Click", eventNum:10, hotSpot:[4.9213755400000002e+02, 3.1475272300000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0073", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0010.png"}, {captureRect:[408, 436, 478, 466], command:@"Click", eventNum:12, hotSpot:[4.4391926200000000e+02, 3.4156480199999999e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0074", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0012.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Drag "image0068"</string>
+		<string>Drop "image0069"</string>
+		<string>Click "image0070"</string>
+		<string>Click "image0071"</string>
+		<string>Click "image0072"</string>
+		<string>Click "image0073"</string>
+		<string>Click "image0074"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>image0068.png</string>
+			<string>image0068.png</string>
+			<string>image0069.png</string>
+			<string>image0069.png</string>
+			<string>image0070.png</string>
+			<string>image0070.png</string>
+			<string>image0071.png</string>
+			<string>image0071.png</string>
+			<string>image0072.png</string>
+			<string>image0072.png</string>
+			<string>image0073.png</string>
+			<string>image0073.png</string>
+			<string>image0074.png</string>
+			<string>image0074.png</string>
+			<string>image0068.png</string>
+			<string>image0069.png</string>
+			<string>image0070.png</string>
+			<string>image0071.png</string>
+			<string>image0072.png</string>
+			<string>image0073.png</string>
+			<string>image0074.png</string>
+		</array>
+	</dict>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

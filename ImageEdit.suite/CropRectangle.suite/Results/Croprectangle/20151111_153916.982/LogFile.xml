@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Croprectangle.script" package="CropRectangle.suite" timestamp="2015-11-11 15:39:16.982 -0700"
+ tests="1" successes="1" errors="0" time="1.619834">
+  <properties>
+   <property name="RunDate" value="2015-11-11 15:39:16.982 -0700"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="Croprectangle.script" assertions="1" successes="1" errors="0" time="1.618342">
+  </testcase>
+ </testsuite>
+</testsuites>

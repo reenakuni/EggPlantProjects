@@ -1,0 +1,16 @@
+﻿<?xml version="1.0"?>
+<runHistory script="rapid3">
+ <run>
+  <RunDate>2017-01-12 16:25:49.775 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.007865</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170112_162549.775/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in rapid3:
+Syntax Error at line 8: Syntax Error - can&#x27;t understand &quot;MyPortfolio&quot; at or near character 270</ErrorMessage>
+ </run>
+</runHistory>

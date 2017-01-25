@@ -1,0 +1,10 @@
+﻿2016-06-22 10:31:29.003 -0600	START		Running Outline.feature
+2016-06-22 10:31:29.012 -0600	connect		10.1.11.128:(null)	2	on_connected_to_a_sut	Outline.script<SOURCE>
+2016-06-22 10:31:29.013 -0600	LogSuccess		Connected to a SUT
+2016-06-22 10:31:29.016 -0600	Exception	2	Could Not Open Image: 2	3	on_i_click_an_var	Outline.script<SOURCE>
+2016-06-22 10:31:29.019 -0600	LogError		I click an <image>
+2016-06-22 10:31:29.546 -0600	imagefound	wiki	found at (1039, 188)	3	on_log_success	Outline.script<SOURCE>
+2016-06-22 10:31:29.547 -0600	Log		success	5	on_log_success	Outline.script<SOURCE>
+2016-06-22 10:31:32.666 -0600	LogError		log success
+2016-06-22 10:31:32.669 -0600	EndTestCase		(Duration:"3.663698", Errors:"3", Exceptions:"1", StartTime:"2016-06-22 10:31:29 -0600", Successes:"1", TestCase:"Outline.feature", Warnings:"0")
+2016-06-22 10:31:32.670 -0600	ABORTED		1 scenarios (1 failed, 0 passed) 3 steps (2 failed, 0 skipped, 1 passed) Execution Time 0:00:03

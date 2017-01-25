@@ -1,0 +1,30 @@
+﻿2016-09-01 12:46:53.337 -0600	START		Running Untitled.script
+2016-09-01 12:46:53.375 -0600	Log		0	13	on_untitled	Untitled.script
+2016-09-01 12:46:53.377 -0600	Log		0	13	on_untitled	Untitled.script
+2016-09-01 12:46:53.379 -0600	Log		0	13	on_untitled	Untitled.script
+2016-09-01 12:46:53.380 -0600	Log		0	13	on_untitled	Untitled.script
+2016-09-01 12:46:53.381 -0600	Log		0	13	on_untitled	Untitled.script
+2016-09-01 12:46:53.382 -0600	Log		0	13	on_untitled	Untitled.script
+2016-09-01 12:46:53.383 -0600	Log		0	13	on_untitled	Untitled.script
+2016-09-01 12:46:53.384 -0600	Log		0	13	on_untitled	Untitled.script
+2016-09-01 12:46:53.386 -0600	Log		0	13	on_untitled	Untitled.script
+2016-09-01 12:46:53.387 -0600	Log		0	13	on_untitled	Untitled.script
+2016-09-01 12:46:53.389 -0600	Log		0	13	on_untitled	Untitled.script
+2016-09-01 12:46:53.391 -0600	Log		0	13	on_untitled	Untitled.script
+2016-09-01 12:46:53.392 -0600	Log		0	13	on_untitled	Untitled.script
+2016-09-01 12:46:53.393 -0600	Log		0	13	on_untitled	Untitled.script
+2016-09-01 12:46:53.394 -0600	Log		0	13	on_untitled	Untitled.script
+2016-09-01 12:46:53.395 -0600	Log		0	13	on_untitled	Untitled.script
+2016-09-01 12:46:53.396 -0600	Log		0	13	on_untitled	Untitled.script
+2016-09-01 12:46:53.397 -0600	Log		0	13	on_untitled	Untitled.script
+2016-09-01 12:46:53.398 -0600	Log		0	13	on_untitled	Untitled.script
+2016-09-01 12:46:53.399 -0600	Log		0	13	on_untitled	Untitled.script
+2016-09-01 12:46:53.400 -0600	Log		0	13	on_untitled	Untitled.script
+2016-09-01 12:46:53.400 -0600	Log		0	13	on_untitled	Untitled.script
+2016-09-01 12:46:53.401 -0600	Log		0	13	on_untitled	Untitled.script
+2016-09-01 12:46:53.402 -0600	Log		0	13	on_untitled	Untitled.script
+2016-09-01 12:46:53.403 -0600	Log		0	13	on_untitled	Untitled.script
+2016-09-01 12:46:53.404 -0600	Log		0	13	on_untitled	Untitled.script
+2016-09-01 12:46:53.405 -0600	Log		0	13	on_untitled	Untitled.script
+2016-09-01 12:46:53.596 -0600	EndTestCase		(Duration:"0.257911", Errors:"0", Exceptions:"0", StartTime:"2016-09-01 12:46:53 -0600", Successes:"1", TestCase:"Untitled.script", Warnings:"0")
+2016-09-01 12:46:53.600 -0600	SUCCESS		Execution Time 0:00:00 Untitled.script

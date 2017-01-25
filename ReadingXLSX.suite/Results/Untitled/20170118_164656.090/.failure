@@ -1,0 +1,1 @@
+2017-01-18 16:46:56.090 -0700,Failure,0:00:01,1,0,0,20170118_164656.090/LogFile.txt,"","NSInvalidArgumentException -- -[STProxyValue valueAtRow:column:]: unrecognized selector sent to instance 0x7ffa32076960",0

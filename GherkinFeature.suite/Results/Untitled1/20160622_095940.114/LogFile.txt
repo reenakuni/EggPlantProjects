@@ -1,0 +1,5 @@
+﻿2016-06-22 09:59:40.115 -0600	START		Running Untitled1.script
+2016-06-22 09:59:40.159 -0600	connect		10.1.11.128:(null)	1	on_untitled1	Untitled1.script
+2016-06-22 09:59:40.160 -0600	Log		success	4	on_untitled1	Untitled1.script
+2016-06-22 09:59:40.871 -0600	EndTestCase		(Duration:"0.754527", Errors:"0", Exceptions:"0", StartTime:"2016-06-22 09:59:40 -0600", Successes:"1", TestCase:"Untitled1.script", Warnings:"0")
+2016-06-22 09:59:40.876 -0600	SUCCESS		Execution Time 0:00:00 Untitled1.script

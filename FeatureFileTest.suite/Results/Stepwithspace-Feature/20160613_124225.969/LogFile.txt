@@ -1,0 +1,9 @@
+﻿2016-06-13 12:42:25.970 -0600	START		Running Stepwithspace.feature
+2016-06-13 12:42:25.977 -0600	LogWarning		the balance is $100
+2016-06-13 12:42:25.978 -0600	LogWarning		the card is valid
+2016-06-13 12:42:25.978 -0600	LogWarning		the machine contains enough money
+2016-06-13 12:42:25.979 -0600	LogWarning		the account holder requests $20
+2016-06-13 12:42:25.980 -0600	LogWarning		the account balance should be $80
+2016-06-13 12:42:25.980 -0600	LogWarning		the card should be returned
+2016-06-13 12:42:25.982 -0600	EndTestCase		(Duration:"0.010835", Errors:"0", Exceptions:"0", StartTime:"2016-06-13 12:42:25 -0600", Successes:"1", TestCase:"Stepwithspace.feature", Warnings:"6")
+2016-06-13 12:42:25.997 -0600	FAILURE		1 scenarios (1 failed, 0 passed) 6 steps (0 failed, 6 skipped, 0 passed) Execution Time 0:00:00

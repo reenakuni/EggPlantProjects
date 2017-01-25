@@ -1,0 +1,70 @@
+﻿{
+    EPVersionNumber = 1701031102;
+    PostRunScript = "test1.script";
+    PostRunSelectionScript = "test1.script";
+    PreRunScript = "test1.script";
+    PreRunSelectionScript = "test1.script";
+    RunPostScript = NO;
+    RunPostSelectionScript = NO;
+    RunPreScript = NO;
+    RunPreSelectionScript = NO;
+    Schedules =     (
+                {
+            ChangeCount = 2;
+            Name = "Schedule 2";
+            Schedule =             (
+                                {
+                    Num = 1;
+                    Parameters = log;
+                    Run = YES;
+                    Script = "Fldr1/subfolder2/sub2s1.script";
+                }
+            );
+        },
+                {
+            ChangeCount = 1;
+            Name = "Schedule 3";
+            Schedule =             (
+                                {
+                    Num = 1;
+                    Run = YES;
+                    Script = "Fldr1/Hello.script";
+                }
+            );
+        },
+                {
+            ChangeCount = 0;
+            Name = "Schedule 4";
+            Schedule =             (
+            );
+        },
+                {
+            ChangeCount = 0;
+            Name = "Schedule 5";
+            Schedule =             (
+            );
+        }
+    );
+    ScriptMetaData =     {
+    };
+    TemplateScript = "Untitled5.script";
+    helpedSuitesInfo =     (
+                {
+            filePath = "gitnov18/SCMJuly28.suite";
+        },
+                {
+            filePath = "gitnov18/SCMJuly28.suite";
+        },
+                {
+            filePath = "gitnov18/SCMJuly28.suite";
+        },
+                {
+            filePath = "GitNov29/Suite6.suite";
+        },
+                {
+            filePath = "GitNov29/Suite6.suite";
+        }
+    );
+    helperSuitesInfo =     (
+    );
+}

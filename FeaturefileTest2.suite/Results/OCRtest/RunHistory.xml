@@ -1,0 +1,27 @@
+﻿<?xml version="1.0"?>
+<runHistory script="OCRtest">
+ <run>
+  <RunDate>2016-06-29 16:22:12.230 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>29.558302</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160629_162212.230/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-29 16:22:54.754 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>23.793791</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160629_162254.754/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

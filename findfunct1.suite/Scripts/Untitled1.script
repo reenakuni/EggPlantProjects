@@ -1,0 +1,9 @@
+﻿log "before"
+Click "pfAnn"
+
+typetext windowsKey
+
+imagefound "vlc"
+imagefound "FronTUAAor"
+imagefound "JCViewer.png"
+imagefound "image0002"

@@ -1,0 +1,4 @@
+﻿2016-10-28 14:57:33.496 -0600	START		Running Untitled1.script
+2016-10-28 14:57:40.838 -0600	Exception	Issues	No Image Found On Screen: "Issues"	8	on_untitled1	Untitled1.script
+2016-10-28 14:57:41.611 -0600	EndTestCase		(Duration:"8.112247", Errors:"1", Exceptions:"1", StartTime:"2016-10-28 14:57:33 -0600", Successes:"0", TestCase:"Untitled1.script", Warnings:"0")
+2016-10-28 14:57:41.612 -0600	ABORTED		Execution Time 0:00:08 Untitled1.script

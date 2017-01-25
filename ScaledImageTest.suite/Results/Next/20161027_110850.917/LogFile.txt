@@ -1,0 +1,4 @@
+﻿2016-10-27 11:08:50.919 -0600	START		Running Next.script
+2016-10-27 11:08:51.761 -0600	click	NEXT	at (521, 975)	1	on_next	Next.script
+2016-10-27 11:08:52.314 -0600	EndTestCase		(Duration:"1.391768", Errors:"0", Exceptions:"0", StartTime:"2016-10-27 11:08:50 -0600", Successes:"1", TestCase:"Next.script", Warnings:"0")
+2016-10-27 11:08:52.324 -0600	SUCCESS		Execution Time 0:00:01 Next.script

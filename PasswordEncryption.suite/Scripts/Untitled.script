@@ -1,0 +1,10 @@
+﻿//
+
+
+put EncodeText("eggplant", "facekey") into enc
+put enc 
+put DecodeText(enc, "facekey")
+
+TypeEncodedText enc, "facekey" 
+
+connect(host:"10.1.11.116",password:enc)

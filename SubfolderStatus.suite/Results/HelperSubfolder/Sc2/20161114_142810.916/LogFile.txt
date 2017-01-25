@@ -1,0 +1,4 @@
+﻿2016-11-14 14:28:10.918 -0700	START		Running HelperSubfolder/Sc2.script
+2016-11-14 14:28:10.984 -0700	Exception		Remote Connection Unavailable	4	on_helpersubfolder_sc2	HelperSubfolder/Sc2.script
+2016-11-14 14:28:11.182 -0700	EndTestCase		(Duration:"0.262406", Errors:"1", Exceptions:"1", StartTime:"2016-11-14 14:28:10 -0700", Successes:"0", TestCase:"HelperSubfolder/Sc2.script", Warnings:"0")
+2016-11-14 14:28:11.184 -0700	FAILURE		No Remote Connection typetext Error - Remote Connection Unavailable -- Execution Time 0:00:00 HelperSubfolder/Sc2.script

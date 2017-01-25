@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[390, 597, 471, 691], command:@"Image at", eventNum:2, hotSpot:[4.4995312500000000e+02, 1.6635937500000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0100", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[404, 479, 457, 491], command:@"Image at", eventNum:3, hotSpot:[4.2673046900000003e+02, 2.9241406200000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Facebook", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0003.png"}, {captureRect:[390, 298, 471, 393], command:@"Image at", eventNum:4, hotSpot:[4.2031250000000000e+02, 4.3294140599999997e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0101", searchType:@"Precise", waitFor:@""}, screenShotFile:@"Screen0004.png"}, {captureRect:[360, 106, 826, 668], command:@"Image at", eventNum:5, hotSpot:[5.2751953100000003e+02, 4.2431640599999997e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0102", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0005.png"}, {captureRect:[360, 194, 876, 731], command:@"Image at", eventNum:6, hotSpot:[5.7710546899999997e+02, 2.8795703099999997e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0111", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0006.png"}, {captureRect:[697, 479, 743, 491], command:@"Image at", eventNum:7, hotSpot:[7.3910546899999997e+02, 3.0970312500000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Linkedln", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0007.png"}, {captureRect:[737, 407, 848, 424], command:@"Image at", eventNum:8, hotSpot:[7.7598046899999997e+02, 3.8219140599999997e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"FrequentlyVisited", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0008.png"}, {captureRect:[1002, 776, 1006, 780], command:@"Image at", eventNum:9, hotSpot:[1.0040078119999999e+03, 1.5859375000000000e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0112", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0009.png"}, {captureRect:[1018, 775, 1042, 790], command:@"Image at", eventNum:10, hotSpot:[1.0232421880000001e+03, 1.4429688000000001e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0113", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0010.png"}, {captureRect:[987, 775, 1183, 793], command:@"Image at", eventNum:11, hotSpot:[1.0604921879999999e+03, 1.2386718999999999e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"mWed1005AM", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0011.png"}, {captureRect:[1088, 776, 1118, 789], command:@"Image at", eventNum:12, hotSpot:[1.0958398440000001e+03, 1.2386718999999999e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0114", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0012.png"}, {captureRect:[1121, 776, 1158, 789], command:@"Image at", eventNum:13, hotSpot:[1.1286601559999999e+03, 1.2691406000000001e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0115", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0013.png"}, {captureRect:[1130, 747, 1134, 751], command:@"Image at", eventNum:14, hotSpot:[1.1327851559999999e+03, 4.4484375000000000e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0116", searchType:@"Precise", waitFor:@""}, screenShotFile:@"Screen0014.png"}, {captureRect:[1135, 697, 1198, 721], command:@"Image at", eventNum:15, hotSpot:[1.1511445309999999e+03, 8.2164062000000001e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0117", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0015.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Image at "image0100"</string>
+		<string>Image at "Facebook"</string>
+		<string>Image at "image0101"</string>
+		<string>Image at "image0102"</string>
+		<string>Image at "image0111"</string>
+		<string>Image at "Linkedln"</string>
+		<string>Image at "FrequentlyVisited"</string>
+		<string>Image at "image0112"</string>
+		<string>Image at "image0113"</string>
+		<string>Image at "mWed1005AM"</string>
+		<string>Image at "image0114"</string>
+		<string>Image at "image0115"</string>
+		<string>Image at "image0116"</string>
+		<string>Image at "image0117"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>image0100.png</string>
+			<string>image0100.png</string>
+			<string>Facebook.png</string>
+			<string>Facebook.png</string>
+			<string>image0101.png</string>
+			<string>image0101.png</string>
+			<string>image0102.png</string>
+			<string>image0102.png</string>
+			<string>image0111.png</string>
+			<string>image0111.png</string>
+			<string>Linkedln.png</string>
+			<string>Linkedln.png</string>
+			<string>FrequentlyVisited.png</string>
+			<string>FrequentlyVisited.png</string>
+			<string>image0112.png</string>
+			<string>image0112.png</string>
+			<string>image0113.png</string>
+			<string>image0113.png</string>
+			<string>mWed1005AM.png</string>
+			<string>mWed1005AM.png</string>
+			<string>image0114.png</string>
+			<string>image0114.png</string>
+			<string>image0115.png</string>
+			<string>image0115.png</string>
+			<string>image0116.png</string>
+			<string>image0116.png</string>
+			<string>image0117.png</string>
+			<string>image0117.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>rapidSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

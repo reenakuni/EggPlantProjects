@@ -1,0 +1,6 @@
+﻿2016-06-22 10:13:57.769 -0600	START		Running Outline.feature
+2016-06-22 10:13:57.779 -0600	LogSuccess		Connected to a SUT
+2016-06-22 10:13:57.780 -0600	LogWarning		I click "wikipedia"
+2016-06-22 10:13:57.781 -0600	LogWarning		log success
+2016-06-22 10:13:57.782 -0600	EndTestCase		(Duration:"0.011217", Errors:"0", Exceptions:"0", StartTime:"2016-06-22 10:13:57 -0600", Successes:"1", TestCase:"Outline.feature", Warnings:"2")
+2016-06-22 10:13:57.957 -0600	FAILURE	Screen_Error.png	1 scenarios (1 failed, 0 passed) 3 steps (0 failed, 2 skipped, 1 passed) Execution Time 0:00:00

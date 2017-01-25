@@ -1,0 +1,6 @@
+﻿2017-01-17 13:56:15.908 -0700	START		Running Untitled4.script
+2017-01-17 13:56:16.558 -0700	click	UFinder_0003	at (79, 16)	8	on_untitled4	Untitled4.script
+2017-01-17 13:56:17.791 -0700	click	AboutFinder_0001	at (80, 36)	9	on_untitled4	Untitled4.script
+2017-01-17 13:56:27.503 -0700	Exception	image0049	No Image Found On Screen: "image0049"	10	on_untitled4	Untitled4.script
+2017-01-17 13:56:28.389 -0700	EndTestCase		(Duration:"12.479392", Errors:"1", Exceptions:"1", StartTime:"2017-01-17 13:56:15 -0700", Successes:"0", TestCase:"Untitled4.script", Warnings:"0")
+2017-01-17 13:56:28.390 -0700	ABORTED		Execution Time 0:00:12 Untitled4.script

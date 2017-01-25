@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[114, 779, 269, 793], command:@"Click", eventNum:2, hotSpot:[1.2865234400000000e+02, 1.5914061999999999e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"FileEditViewGo_0005", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0002.png", skipStep:@"YES"}, {captureRect:[126, 754, 257, 769], command:@"Drag", eventNum:4, hotSpot:[1.3802734400000000e+02, 3.9707031000000001e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"NewFinderWindow_0002", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0004.png", skipStep:@"YES"}, {captureRect:[126, 754, 257, 769], command:@"Drop", eventNum:4, hotSpot:[1.3907031200000000e+02, 3.9707031000000001e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"NewFinderWindow_0003", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0004.png", skipStep:@"YES"}, {captureRect:[155, 779, 183, 793], command:@"Click", eventNum:6, hotSpot:[1.6582031200000000e+02, 1.2179688000000001e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Edit", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0006.png"}, {captureRect:[689, 547, 759, 577], command:@"Click", eventNum:8, hotSpot:[7.2480468800000006e+02, 2.3009375000000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0057", searchType:@"Precise", waitFor:@""}, screenShotFile:@"Screen0008.png"}, {captureRect:[431, 475, 501, 505], command:@"DoubleClick", eventNum:10, hotSpot:[4.6690234400000003e+02, 3.0260937500000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0058", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0010.png"}, {captureRect:[437, 479, 507, 509], command:@"DoubleClick", eventNum:14, hotSpot:[4.7215234400000003e+02, 2.9817968800000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0059", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0014.png"}, {captureRect:[176, 587, 297, 605], command:@"Click", eventNum:18, hotSpot:[2.5131640600000000e+02, 2.0242968800000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"UntitledQ", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0018.png"}, {captureRect:[163, 739, 233, 769], command:@"Drag", eventNum:20, hotSpot:[1.9848437500000000e+02, 3.8832031000000001e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0060", searchType:@"Precise", waitFor:@""}, screenShotFile:@"Screen0020.png"}, {captureRect:[164, 739, 234, 769], command:@"Drop", eventNum:20, hotSpot:[1.9952734400000000e+02, 3.8832031000000001e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0061", searchType:@"Precise", waitFor:@""}, screenShotFile:@"Screen0020.png"}, {captureRect:[19, 776, 201, 793], command:@"Click", eventNum:22, hotSpot:[9.6164062000000001e+01, 1.8164062000000001e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"eggplantFileEdit", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0022.png"}, {captureRect:[64, 508, 155, 526], command:@"Click", eventNum:24, hotSpot:[1.0845703100000000e+02, 2.7510937500000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"QuiteggPlant", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0024.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>-skipped- Click "FileEditViewGo_0005"</string>
+		<string>-skipped- Drag "NewFinderWindow_0002"</string>
+		<string>-skipped- Drop "NewFinderWindow_0003"</string>
+		<string>Click "Edit"</string>
+		<string>Click "image0057"</string>
+		<string>DoubleClick "image0058"</string>
+		<string>DoubleClick "image0059"</string>
+		<string>Click "UntitledQ"</string>
+		<string>Drag "image0060"</string>
+		<string>Drop "image0061"</string>
+		<string>Click "eggplantFileEdit"</string>
+		<string>Click "QuiteggPlant"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>FileEditViewGo_0005.png</string>
+			<string>FileEditViewGo_0005.png</string>
+			<string>NewFinderWindow_0002.png</string>
+			<string>NewFinderWindow_0002.png</string>
+			<string>NewFinderWindow_0003.png</string>
+			<string>NewFinderWindow_0003.png</string>
+			<string>Edit.png</string>
+			<string>Edit.png</string>
+			<string>image0057.png</string>
+			<string>image0057.png</string>
+			<string>image0058.png</string>
+			<string>image0058.png</string>
+			<string>image0059.png</string>
+			<string>image0059.png</string>
+			<string>UntitledQ.png</string>
+			<string>UntitledQ.png</string>
+			<string>image0060.png</string>
+			<string>image0060.png</string>
+			<string>image0061.png</string>
+			<string>image0061.png</string>
+			<string>eggplantFileEdit.png</string>
+			<string>eggplantFileEdit.png</string>
+			<string>QuiteggPlant.png</string>
+			<string>QuiteggPlant.png</string>
+			<string>Edit.png</string>
+			<string>image0057.png</string>
+			<string>image0058.png</string>
+			<string>image0059.png</string>
+			<string>UntitledQ.png</string>
+			<string>image0060.png</string>
+			<string>image0061.png</string>
+			<string>eggplantFileEdit.png</string>
+			<string>QuiteggPlant.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>turboSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

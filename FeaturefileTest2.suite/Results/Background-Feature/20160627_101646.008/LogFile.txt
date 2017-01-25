@@ -1,0 +1,8 @@
+﻿2016-06-27 10:16:46.009 -0600	START		Running Background.feature
+2016-06-27 10:16:46.025 -0600	Log		10	4	on_i_have_var_apples	Background.script<SOURCE>
+2016-06-27 10:16:46.027 -0600	LogSuccess		I have 10 apples
+2016-06-27 10:16:46.029 -0600	LogSuccess		I give 5 apples to a monkey
+2016-06-27 10:16:46.030 -0600	Log		success	5	on_i_am_left_with_var_apples	Background.script<SOURCE>
+2016-06-27 10:16:46.031 -0600	LogSuccess		I am left with 5 apples
+2016-06-27 10:16:46.034 -0600	EndTestCase		(Duration:"0.020857", Errors:"0", Exceptions:"0", StartTime:"2016-06-27 10:16:46 -0600", Successes:"3", TestCase:"Background.feature", Warnings:"0")
+2016-06-27 10:16:49.468 -0600	SUCCESS		1 scenarios (0 failed, 1 passed) 3 steps (0 failed, 0 skipped, 3 passed) Execution Time 0:00:00

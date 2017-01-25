@@ -1,0 +1,25 @@
+﻿global left
+to handle I_have_VAR_apples
+	params num
+	set me.value = num
+	log me.value
+end I_have_VAR_apples
+
+
+to handle I_give_VAR_apples_to_a_monkey
+	params num1
+	set global left to me.value - num1
+	
+end I_give_VAR_apples_to_a_monkey
+
+to handle I_am_left_with_VAR_apples
+	params num2
+	if global left  = num2
+	then
+		log "success"
+	else
+		log "fail"
+	end if
+end I_am_left_with_VAR_apples
+
+

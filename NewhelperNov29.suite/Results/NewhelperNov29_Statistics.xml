@@ -1,0 +1,19 @@
+﻿<?xml version="1.0"?>
+<statistics>
+ <script name="Helperafter">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-12-05 22:36:41 -0700</FirstRun>
+  <LastRun>2016-12-05 22:36:41 -0700</LastRun>
+  <TotalTimeOnSuccess>0.425016</TotalTimeOnSuccess>
+ </script>
+ <script name="Nov29">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>2</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-12-06 10:06:56 -0700</FirstRun>
+  <LastRun>2016-12-06 10:08:46 -0700</LastRun>
+  <TotalTimeOnSuccess>1.030842</TotalTimeOnSuccess>
+ </script>
+</statistics>

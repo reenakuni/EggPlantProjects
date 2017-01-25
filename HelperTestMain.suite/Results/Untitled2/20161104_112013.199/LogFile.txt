@@ -1,0 +1,5 @@
+﻿2016-11-04 11:20:13.202 -0600	START		Running Untitled2.script
+2016-11-04 11:20:13.264 -0600	Log		jkjkjkkj	1	on_untitled2	Untitled2.script
+2016-11-04 11:20:13.276 -0600	Exception	ddd	Could Not Open Image: ddd	2	on_untitled2	Untitled2.script
+2016-11-04 11:20:13.562 -0600	EndTestCase		(Duration:"0.35812", Errors:"1", Exceptions:"1", StartTime:"2016-11-04 11:20:13 -0600", Successes:"0", TestCase:"Untitled2.script", Warnings:"0")
+2016-11-04 11:20:14.074 -0600	FAILURE	Screen_Error.png	File Not Found click Error - Could Not Open Image: ddd -- Execution Time 0:00:00 Untitled2.script

@@ -1,0 +1,5 @@
+﻿2016-06-20 15:01:06.186 -0600	START		Running Background3.feature
+2016-06-20 15:01:06.193 -0600	LogWarning		table
+2016-06-20 15:01:06.194 -0600	LogWarning		the table should be
+2016-06-20 15:01:06.195 -0600	EndTestCase		(Duration:"0.008243", Errors:"0", Exceptions:"0", StartTime:"2016-06-20 15:01:06 -0600", Successes:"1", TestCase:"Background3.feature", Warnings:"2")
+2016-06-20 15:01:06.342 -0600	FAILURE	Screen_Error.png	1 scenarios (1 failed, 0 passed) 2 steps (0 failed, 2 skipped, 0 passed) Execution Time 0:00:00

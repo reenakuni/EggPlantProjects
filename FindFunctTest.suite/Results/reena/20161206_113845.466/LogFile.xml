@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="reena.script" package="FindFunctTest.suite" timestamp="2016-12-06 11:38:45.466 -0700"
+ tests="1" successes="1" errors="0" time="0.465875">
+  <properties>
+   <property name="RunDate" value="2016-12-06 11:38:45.466 -0700"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="reena.script" assertions="1" successes="1" errors="0" time="0.015692">
+  </testcase>
+ </testsuite>
+</testsuites>

@@ -1,0 +1,4 @@
+﻿2017-01-03 10:16:42.676 -0700	START		Running Untitled.script
+2017-01-03 10:16:42.764 -0700	Log		parent suite	1	on_untitled	Untitled.script
+2017-01-03 10:16:43.456 -0700	EndTestCase		(Duration:"0.77804", Errors:"1", Exceptions:"0", StartTime:"2017-01-03 10:16:42 -0700", Successes:"0", TestCase:"Untitled.script", Warnings:"0")
+2017-01-03 10:16:44.306 -0700	FAILURE	Screen_Error.png	SRUN_BadValue Bad value for Object expression.  Looking for an object or script identifier, got '../Scripts/test1.script'. -- Execution Time 0:00:00 Untitled.script

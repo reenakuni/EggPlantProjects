@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[0, 504, 70, 534], command:@"DoubleClick", eventNum:2, hotSpot:[3.5484375000000000e+01, 2.3424218800000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0008", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {command:@"TypeText", eventNum:6, screenShotFile:@"Screen0006.png", text:@"\"jh\""}, {command:@"KeyDown", eventNum:10, screenShotFile:@"Screen0006.png", text:@"\"j\""}, {command:@"KeyDown", eventNum:11, screenShotFile:@"Screen0006.png", text:@"\"h\""}, {command:@"KeyUp", eventNum:12, screenShotFile:@"Screen0006.png", text:@"\"j\""}, {command:@"KeyDown", eventNum:13, screenShotFile:@"Screen0006.png", text:@"\"j\""}, {command:@"KeyUp", eventNum:14, screenShotFile:@"Screen0006.png", text:@"\"h\""}, {command:@"KeyDown", eventNum:15, screenShotFile:@"Screen0006.png", text:@"\"h\""}, {command:@"KeyUp", eventNum:16, screenShotFile:@"Screen0006.png", text:@"\"j\""}, {command:@"KeyUp", eventNum:17, screenShotFile:@"Screen0006.png", text:@"\"h\""}, {command:@"KeyUp", eventNum:19, screenShotFile:@"Screen0006.png", text:@"\"h\""}, {command:@"TypeText", eventNum:20, screenShotFile:@"Screen0006.png", text:@"\"jh\""}, {captureRect:[654, 702, 724, 732], command:@"Drag", eventNum:24, hotSpot:[6.8993750000000000e+02, 3.6156250000000000e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0004", searchType:@"Precise", waitFor:@""}, screenShotFile:@"Screen0024.png"}, {captureRect:[501, 703, 571, 733], command:@"Drop", eventNum:24, hotSpot:[5.3648046899999997e+02, 3.5113281000000001e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0005", searchType:@"Precise", waitFor:@""}, screenShotFile:@"Screen0025.png"}, {captureRect:[992, 723, 1062, 753], command:@"Click", eventNum:26, hotSpot:[1.0275859379999999e+03, 1.5972656000000001e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0006", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0026.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>DoubleClick "image0008"</string>
+		<string>TypeText "jh"</string>
+		<string>KeyDown "j"</string>
+		<string>KeyDown "h"</string>
+		<string>KeyUp "j"</string>
+		<string>KeyDown "j"</string>
+		<string>KeyUp "h"</string>
+		<string>KeyDown "h"</string>
+		<string>KeyUp "j"</string>
+		<string>KeyUp "h"</string>
+		<string>KeyUp "h"</string>
+		<string>TypeText "jh"</string>
+		<string>Drag "image0004"</string>
+		<string>Drop "image0005"</string>
+		<string>Click "image0006"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>image0004.png</string>
+			<string>image0004.png</string>
+			<string>image0005.png</string>
+			<string>image0005.png</string>
+			<string>image0006.png</string>
+			<string>image0006.png</string>
+			<string>image0004.png</string>
+			<string>image0005.png</string>
+			<string>image0006.png</string>
+			<string>image0008.png</string>
+		</array>
+	</dict>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

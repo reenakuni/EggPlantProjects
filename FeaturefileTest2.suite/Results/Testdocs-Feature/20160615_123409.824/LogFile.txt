@@ -1,0 +1,9 @@
+﻿2016-06-15 12:34:09.825 -0600	START		Running Testdocs.feature
+2016-06-15 12:34:09.836 -0600	LogWarning		I have 20 apples
+2016-06-15 12:34:09.836 -0600	LogWarning		I also have 10 bananas
+2016-06-15 12:34:09.837 -0600	LogWarning		I give 10 apples to a monkey
+2016-06-15 12:34:09.837 -0600	LogWarning		I also give 5 bananas to a kid
+2016-06-15 12:34:09.838 -0600	LogWarning		I am left with 10 apples
+2016-06-15 12:34:09.838 -0600	LogWarning		I a, left with 5 bananas
+2016-06-15 12:34:09.841 -0600	EndTestCase		(Duration:"0.01272", Errors:"0", Exceptions:"0", StartTime:"2016-06-15 12:34:09 -0600", Successes:"1", TestCase:"Testdocs.feature", Warnings:"6")
+2016-06-15 12:34:09.852 -0600	FAILURE		1 scenarios (1 failed, 0 passed) 6 steps (0 failed, 6 skipped, 0 passed) Execution Time 0:00:00

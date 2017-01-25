@@ -1,0 +1,5 @@
+﻿to handle loop
+	repeat 10 times
+		log x
+	end repeat
+end loop

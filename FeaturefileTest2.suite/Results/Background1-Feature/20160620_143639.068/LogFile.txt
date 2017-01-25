@@ -1,0 +1,6 @@
+﻿2016-06-20 14:36:39.068 -0600	START		Running Background1.feature
+2016-06-20 14:36:39.077 -0600	LogWarning		I have <num> apples
+2016-06-20 14:36:39.077 -0600	LogWarning		i give <num> to mickey
+2016-06-20 14:36:39.078 -0600	LogWarning		I am left with <num>
+2016-06-20 14:36:39.079 -0600	EndTestCase		(Duration:"0.009319", Errors:"0", Exceptions:"0", StartTime:"2016-06-20 14:36:39 -0600", Successes:"1", TestCase:"Background1.feature", Warnings:"3")
+2016-06-20 14:36:39.225 -0600	FAILURE	Screen_Error.png	1 scenarios (1 failed, 0 passed) 3 steps (0 failed, 3 skipped, 0 passed) Execution Time 0:00:00

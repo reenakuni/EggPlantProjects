@@ -1,0 +1,4 @@
+﻿2016-10-25 10:42:11.053 -0600	START		Running Untitled.script
+2016-10-25 10:42:11.993 -0600	moveto	2048MOBILE	at (395, 634)	2	on_untitled	Untitled.script
+2016-10-25 10:42:12.964 -0600	EndTestCase		(Duration:"1.909043", Errors:"0", Exceptions:"0", StartTime:"2016-10-25 10:42:11 -0600", Successes:"1", TestCase:"Untitled.script", Warnings:"0")
+2016-10-25 10:42:12.972 -0600	SUCCESS		Execution Time 0:00:01 Untitled.script

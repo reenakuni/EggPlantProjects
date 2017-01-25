@@ -1,0 +1,4 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2015-11-10 11:26:58.290 -0700,"Success",0:00:26,0,0,0,"20151110_112658.290/LogFile.txt","","",1
+2016-05-20 12:02:03.255 -0600,"Failure",0:00:00,1,0,1,"20160520_120203.255/LogFile.txt","","No Remote Connection -- rightclick Error - Remote Connection Unavailable",0
+2016-05-20 12:02:16.739 -0600,"Success",0:00:00,0,0,0,"20160520_120216.739/LogFile.txt","","",1

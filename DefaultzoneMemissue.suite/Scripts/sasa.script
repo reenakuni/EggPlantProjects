@@ -1,0 +1,14 @@
+﻿
+
+to handle band_log
+	
+end band_log
+
+to handle band_log_fg
+	
+end band_log_fg
+
+to handle band_log_NUMhkjh
+	params num1
+	
+end band_log_NUMhkjh

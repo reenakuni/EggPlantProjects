@@ -1,0 +1,5 @@
+﻿2016-10-24 13:57:55.042 -0600	Log		step def	2	on_calc_is_closed	/Users/reenakuni/Documents/SubfolderStatus.suite/Scripts/HelperSubfolder/featureStep.script
+2016-10-24 13:57:55.993 -0600	START		Running Untitled.script
+2016-10-24 13:57:58.159 -0600	imagefound	helperimage	Unable to Find Image helperimage within 2.00 seconds	6	on_s1	/Users/reenakuni/Documents/SubfolderStatus.suite/Scripts/s1.script
+2016-10-24 13:57:58.164 -0600	EndTestCase		(Duration:"2.169877", Errors:"0", Exceptions:"0", StartTime:"2016-10-24 13:57:55 -0600", Successes:"1", TestCase:"Untitled.script", Warnings:"0")
+2016-10-24 13:57:58.179 -0600	SUCCESS		Execution Time 0:00:03 Untitled.script

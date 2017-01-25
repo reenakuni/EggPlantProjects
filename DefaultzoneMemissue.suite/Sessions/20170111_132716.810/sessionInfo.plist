@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[216, 583, 256, 596], command:@"Click", eventNum:2, hotSpot:[2.3184358800000001e+02, 2.0824561800000001e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Chess", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[462, 423, 532, 453], command:@"Click", eventNum:4, hotSpot:[4.9798011900000000e+02, 3.5408395999999999e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0008", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0004.png"}, {captureRect:[256, 204, 365, 221], command:@"Click", eventNum:6, hotSpot:[3.6387955299999999e+02, 5.8143821900000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"QuickTimePlayer", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0006.png"}, {captureRect:[785, 519, 855, 549], command:@"DoubleClick", eventNum:8, hotSpot:[8.2069614799999999e+02, 2.5885780799999998e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0009", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0008.png"}, {captureRect:[421, 515, 491, 545], command:@"Click", eventNum:12, hotSpot:[4.5632828699999999e+02, 2.6234963399999998e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0010", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0012.png"}, {captureRect:[582, 511, 652, 541], command:@"Click", eventNum:14, hotSpot:[6.1755994099999998e+02, 2.6691685600000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0011", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0014.png"}, {captureRect:[515, 528, 585, 558], command:@"Click", eventNum:16, hotSpot:[5.5058461699999998e+02, 2.4944487500000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0012", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0016.png"}, {captureRect:[504, 468, 574, 498], command:@"Click", eventNum:18, hotSpot:[5.3954199900000003e+02, 3.0962423799999999e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0013", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0018.png"}, {captureRect:[569, 383, 639, 413], command:@"Click", eventNum:20, hotSpot:[6.0422998399999994e+02, 3.9447345600000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0014", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0020.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Click "Chess"</string>
+		<string>Click "image0008"</string>
+		<string>Click "QuickTimePlayer"</string>
+		<string>DoubleClick "image0009"</string>
+		<string>Click "image0010"</string>
+		<string>Click "image0011"</string>
+		<string>Click "image0012"</string>
+		<string>Click "image0013"</string>
+		<string>Click "image0014"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>Chess.png</string>
+			<string>image0008.png</string>
+			<string>QuickTimePlayer.png</string>
+			<string>image0009.png</string>
+			<string>image0010.png</string>
+			<string>image0011.png</string>
+			<string>image0012.png</string>
+			<string>image0013.png</string>
+			<string>image0014.png</string>
+			<string>Chess.png</string>
+			<string>image0008.png</string>
+			<string>QuickTimePlayer.png</string>
+			<string>image0009.png</string>
+			<string>image0010.png</string>
+			<string>image0011.png</string>
+			<string>image0012.png</string>
+			<string>image0013.png</string>
+			<string>image0014.png</string>
+			<string>Chess.png</string>
+			<string>image0008.png</string>
+			<string>QuickTimePlayer.png</string>
+			<string>image0009.png</string>
+			<string>image0010.png</string>
+			<string>image0011.png</string>
+			<string>image0012.png</string>
+			<string>image0013.png</string>
+			<string>image0014.png</string>
+		</array>
+	</dict>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

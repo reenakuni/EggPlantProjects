@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Testfeature.feature" package="FeatureFileTest.suite" timestamp="2016-06-10 22:51:44.289 -0600"
+ tests="1" successes="1" errors="2" time="0.035660">
+  <properties>
+   <property name="RunDate" value="2016-06-10 22:51:44.289 -0600"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="Testfeature.feature" assertions="3" successes="1" errors="2" time="0.03457">
+    <failure type="LogError">I add the two numbers</failure>
+  </testcase>
+ </testsuite>
+</testsuites>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="scenriooutline.feature" package="FeaturefileTest2.suite" timestamp="2016-06-27 13:27:09.905 -0600"
+ tests="1" successes="15" errors="0" time="0.066777">
+  <properties>
+   <property name="RunDate" value="2016-06-27 13:27:09.905 -0600"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="scenriooutline.feature" assertions="15" successes="15" errors="0" time="0.06502">
+  </testcase>
+ </testsuite>
+</testsuites>

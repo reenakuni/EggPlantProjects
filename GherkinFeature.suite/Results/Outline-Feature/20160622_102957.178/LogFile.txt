@@ -1,0 +1,12 @@
+﻿2016-06-22 10:29:57.178 -0600	START		Running Outline.feature
+2016-06-22 10:29:57.186 -0600	connect		10.1.11.128:(null)	2	on_connected_to_a_sut	Outline.script<SOURCE>
+2016-06-22 10:29:57.186 -0600	LogSuccess		Connected to a SUT
+2016-06-22 10:29:57.189 -0600	Exception	image	Could Not Open Image: image	3	on_i_click_an_var	Outline.script<SOURCE>
+2016-06-22 10:29:57.192 -0600	LogError		I click an <image>
+2016-06-22 10:29:57.776 -0600	imagefound	wiki	found at (1039, 188)	3	on_log_success	Outline.script<SOURCE>
+2016-06-22 10:29:57.777 -0600	Log		success	5	on_log_success	Outline.script<SOURCE>
+2016-06-22 10:30:06.430 -0600	Exception	Backbutton	No Image Found On Screen: "Backbutton"	10	on_log_success	Outline.script<SOURCE>
+2016-06-22 10:30:06.434 -0600	LogError		log success
+2016-06-22 10:30:06.436 -0600	LogError		Connected to a SUT
+2016-06-22 10:30:06.437 -0600	EndTestCase		(Duration:"9.257319", Errors:"4", Exceptions:"2", StartTime:"2016-06-22 10:29:57 -0600", Successes:"1", TestCase:"Outline.feature", Warnings:"0")
+2016-06-22 10:30:06.438 -0600	ABORTED		2 scenarios (2 failed, 0 passed) 4 steps (3 failed, 0 skipped, 1 passed) Execution Time 0:00:09

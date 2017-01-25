@@ -1,0 +1,14 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2016-12-30 15:28:45.702 -0700,"Success",0:00:01,0,0,0,"20161230_152845.702/LogFile.txt","","",1
+2016-12-30 15:29:15.772 -0700,"Failure",0:00:01,1,0,0,"20161230_152915.772/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'test1'",0
+2016-12-30 15:37:19.675 -0700,"Failure",0:00:01,1,0,0,"20161230_153719.675/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'test1'",0
+2016-12-30 15:37:36.677 -0700,"Success",0:00:01,0,0,0,"20161230_153736.677/LogFile.txt","","",1
+2016-12-30 15:37:42.301 -0700,"Success",0:00:01,0,0,0,"20161230_153742.301/LogFile.txt","","",1
+2016-12-30 15:52:24.060 -0700,"Success",0:00:01,0,0,0,"20161230_155224.060/LogFile.txt","","",1
+2016-12-30 15:52:32.995 -0700,"Failure",0:00:01,1,0,0,"20161230_155232.995/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'test1'",0
+2016-12-30 16:19:02.537 -0700,"Failure",0:00:01,1,0,0,"20161230_161902.537/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'test1'",0
+2016-12-30 16:19:11.328 -0700,"Success",0:00:01,0,0,0,"20161230_161911.328/LogFile.txt","","",1
+2017-01-03 10:16:42.674 -0700,"Failure",0:00:00,1,0,0,"20170103_101642.674/LogFile.txt","","SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got '../Scripts/test1.script'.",0
+2017-01-03 14:38:33.868 -0700,"Success",0:00:01,0,0,0,"20170103_143833.868/LogFile.txt","","",1
+2017-01-03 14:39:03.400 -0700,"Success",0:00:01,0,0,0,"20170103_143903.400/LogFile.txt","","",1
+2017-01-03 14:39:55.884 -0700,"Success",0:00:01,0,0,0,"20170103_143955.884/LogFile.txt","","",1

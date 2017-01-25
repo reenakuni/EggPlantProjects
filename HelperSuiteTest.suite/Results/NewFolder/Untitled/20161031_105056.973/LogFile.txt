@@ -1,0 +1,4 @@
+﻿2016-10-31 10:50:56.975 -0600	START		Running NewFolder/Untitled.script
+2016-10-31 10:50:57.037 -0600	Log		y	1	on_newfolder_untitled	NewFolder/Untitled.script
+2016-10-31 10:50:58.078 -0600	EndTestCase		(Duration:"1.101709", Errors:"0", Exceptions:"0", StartTime:"2016-10-31 10:50:56 -0600", Successes:"1", TestCase:"NewFolder/Untitled.script", Warnings:"0")
+2016-10-31 10:50:58.090 -0600	SUCCESS		Execution Time 0:00:01 NewFolder/Untitled.script

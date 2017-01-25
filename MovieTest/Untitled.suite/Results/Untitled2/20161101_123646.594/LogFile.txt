@@ -1,0 +1,8 @@
+﻿2016-11-01 12:36:46.596 -0600	START		Running Untitled2.script
+2016-11-01 12:36:47.212 -0600	doubleclick	image0028	at (823, 260)	8	on_untitled2	Untitled2.script
+2016-11-01 12:36:48.101 -0600	click	image0029	at (410, 585)	9	on_untitled2	Untitled2.script
+2016-11-01 12:36:49.265 -0600	click	image0030	at (603, 427)	10	on_untitled2	Untitled2.script
+2016-11-01 12:36:50.439 -0600	click	image0031	at (466, 572)	11	on_untitled2	Untitled2.script
+2016-11-01 12:36:51.649 -0600	click	image0032	at (593, 610)	12	on_untitled2	Untitled2.script
+2016-11-01 12:36:52.964 -0600	EndTestCase		(Duration:"6.366493", Errors:"0", Exceptions:"0", StartTime:"2016-11-01 12:36:46 -0600", Successes:"1", TestCase:"Untitled2.script", Warnings:"0")
+2016-11-01 12:36:52.976 -0600	SUCCESS		Execution Time 0:00:06 Untitled2.script

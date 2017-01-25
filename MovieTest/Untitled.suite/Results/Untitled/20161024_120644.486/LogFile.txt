@@ -1,0 +1,6 @@
+﻿2016-10-24 12:06:44.488 -0600	START		Running Untitled.script
+2016-10-24 12:06:45.072 -0600	doubleclick	image0007	at (896, 537)	8	on_untitled	Untitled.script
+2016-10-24 12:06:45.901 -0600	typetext		testplant[return]	9	on_untitled	Untitled.script
+2016-10-24 12:06:47.097 -0600	click	image0008	at (344, 43)	10	on_untitled	Untitled.script
+2016-10-24 12:06:47.939 -0600	EndTestCase		(Duration:"3.449588", Errors:"0", Exceptions:"0", StartTime:"2016-10-24 12:06:44 -0600", Successes:"1", TestCase:"Untitled.script", Warnings:"0")
+2016-10-24 12:06:47.947 -0600	SUCCESS		Execution Time 0:00:03 Untitled.script

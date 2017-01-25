@@ -1,0 +1,5 @@
+﻿2016-06-29 15:44:05.961 -0600	START		Running Untitled4.script
+2016-06-29 15:44:06.011 -0600	set		SEARCHRECTANGLE = (0,0,250,250)	1	on_untitled4	Untitled4.script
+2016-06-29 15:44:37.675 -0600	moveto	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(42,62), ImageRectangle:(12,56,72,68), Language:"English", text:"eggplants", TextDifference:"1", TextPlatform:"Generic OCR")	at (42, 62)	2	on_untitled4	Untitled4.script
+2016-06-29 15:44:37.856 -0600	EndTestCase		(Duration:"31.89328", Errors:"0", Exceptions:"0", StartTime:"2016-06-29 15:44:05 -0600", Successes:"1", TestCase:"Untitled4.script", Warnings:"0")
+2016-06-29 15:44:37.865 -0600	SUCCESS		Execution Time 0:00:31 Untitled4.script

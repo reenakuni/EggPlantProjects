@@ -1,0 +1,14 @@
+﻿2016-06-09 21:18:11.153 -0600	START		Running Cash.feature
+2016-06-09 21:18:11.160 -0600	LogSuccess		the balance is $100
+2016-06-09 21:18:11.161 -0600	LogSuccess		the balance is $100
+2016-06-09 21:18:11.161 -0600	LogSuccess		the machine contains enough money
+2016-06-09 21:18:11.162 -0600	LogSuccess		the machine contains enough money
+2016-06-09 21:18:11.162 -0600	LogWarning		the account holder requests $20
+2016-06-09 21:18:11.163 -0600	LogSuccess		the account balance should be $80
+2016-06-09 21:18:11.163 -0600	LogSuccess		the account balance should be $80
+2016-06-09 21:18:11.164 -0600	LogSuccess		the card should be returned
+2016-06-09 21:18:11.165 -0600	LogSuccess		the card should be returned
+2016-06-09 21:18:11.166 -0600	LogSuccess		success
+2016-06-09 21:18:11.166 -0600	LogSuccess		success
+2016-06-09 21:18:11.167 -0600	EndTestCase		(Duration:"0.013429", Errors:"0", Exceptions:"0", StartTime:"2016-06-09 21:18:11 -0600", Successes:"10", TestCase:"Cash.feature", Warnings:"1")
+2016-06-09 21:18:11.172 -0600	FAILURE		1 scenarios (1 failed, 0 passed) 6 steps (0 failed, 1 skipped, 5 passed) Execution Time 0:00:00

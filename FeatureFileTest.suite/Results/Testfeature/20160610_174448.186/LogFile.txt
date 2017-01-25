@@ -1,0 +1,3 @@
+﻿2016-06-10 17:44:48.187 -0600	START		Running Testfeature.script
+2016-06-10 17:44:48.930 -0600	EndTestCase		(Duration:"0.742056", Errors:"0", Exceptions:"0", StartTime:"2016-06-10 17:44:48 -0600", Successes:"1", TestCase:"Testfeature.script", Warnings:"0")
+2016-06-10 17:44:48.938 -0600	SUCCESS		Execution Time 0:00:00 Testfeature.script

@@ -1,0 +1,26 @@
+﻿{
+    EPVersionNumber = 1701090218;
+    Schedules =     (
+    );
+    ScriptMetaData =     {
+    };
+    helpedSuitesInfo =     (
+                {
+            filePath = "SNVDec1/SVN2.suite";
+        },
+                {
+            filePath = "testimages.suite";
+        },
+                {
+            filePath = "gitdec4/SCMJuly28.suite";
+        },
+                {
+            filePath = "jhjhhjjhjh/Heper3.suite";
+        },
+                {
+            filePath = "FindFunctTest.suite";
+        }
+    );
+    helperSuitesInfo =     (
+    );
+}

@@ -1,0 +1,4 @@
+﻿2016-11-22 22:47:21.497 -0700	START		Running Untitled2.script
+2016-11-27 23:01:40.744 -0700	Exception	image0002/eggplant.png	No Image Found On Screen: "image0002/eggplant.png"	1	on_untitled2	Untitled2.script
+2016-11-27 23:01:41.472 -0700	EndTestCase		(Duration:"432859.971878", Errors:"1", Exceptions:"1", StartTime:"2016-11-22 22:47:21 -0700", Successes:"0", TestCase:"Untitled2.script", Warnings:"0")
+2016-11-27 23:01:41.473 -0700	ABORTED		Execution Time 120:14:19 Untitled2.script

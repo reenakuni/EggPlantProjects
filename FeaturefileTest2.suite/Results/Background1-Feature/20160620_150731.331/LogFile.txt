@@ -1,0 +1,12 @@
+﻿2016-06-20 15:07:31.332 -0600	START		Running Background1.feature
+2016-06-20 15:07:31.342 -0600	LogError		i give <num1> to mickey
+2016-06-20 15:07:31.343 -0600	Log		f	7	on_i_am_left_with_var	Background1.script<SOURCE>
+2016-06-20 15:07:31.345 -0600	LogSuccess		I am left with <num2>
+2016-06-20 15:07:31.348 -0600	LogError		i give <num1> to mickey
+2016-06-20 15:07:31.349 -0600	Log		f	7	on_i_am_left_with_var	Background1.script<SOURCE>
+2016-06-20 15:07:31.351 -0600	LogSuccess		I am left with <num2>
+2016-06-20 15:07:31.354 -0600	LogError		i give <num1> to mickey
+2016-06-20 15:07:31.354 -0600	Log		f	7	on_i_am_left_with_var	Background1.script<SOURCE>
+2016-06-20 15:07:31.356 -0600	LogSuccess		I am left with <num2>
+2016-06-20 15:07:31.357 -0600	EndTestCase		(Duration:"0.02418", Errors:"4", Exceptions:"0", StartTime:"2016-06-20 15:07:31 -0600", Successes:"3", TestCase:"Background1.feature", Warnings:"0")
+2016-06-20 15:07:31.444 -0600	FAILURE	Screen_Error.png	3 scenarios (3 failed, 0 passed) 6 steps (3 failed, 0 skipped, 3 passed) Execution Time 0:00:00

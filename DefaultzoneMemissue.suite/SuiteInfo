@@ -1,0 +1,90 @@
+﻿{
+    EPVersionNumber = 1701241603;
+    RunPostScript = YES;
+    RunPreScript = YES;
+    Schedules =     (
+                {
+            ChangeCount = 1;
+            Name = "Schedule 1";
+            Schedule =             (
+                                {
+                    Num = 1;
+                    Run = YES;
+                    Script = "Untitled1.script";
+                }
+            );
+        },
+                {
+            ChangeCount = 0;
+            Name = "Schedule 2";
+            Schedule =             (
+            );
+        },
+                {
+            ChangeCount = 0;
+            Name = "Schedule 3";
+            Schedule =             (
+            );
+        },
+                {
+            ChangeCount = 0;
+            Name = "Schedule 4";
+            Schedule =             (
+            );
+        },
+                {
+            ChangeCount = 0;
+            Name = "Schedule 5";
+            Schedule =             (
+            );
+        },
+                {
+            ChangeCount = 0;
+            Name = "Schedule 6";
+            Schedule =             (
+            );
+        },
+                {
+            ChangeCount = 0;
+            Name = "Schedule 7";
+            Schedule =             (
+            );
+        },
+                {
+            ChangeCount = 0;
+            Name = "Schedule 8";
+            Schedule =             (
+            );
+        },
+                {
+            ChangeCount = 0;
+            Name = "Schedule 9";
+            Schedule =             (
+            );
+        },
+                {
+            ChangeCount = 0;
+            Name = "Schedule 10";
+            Schedule =             (
+            );
+        },
+                {
+            ChangeCount = 0;
+            Name = "Schedule 11";
+            Schedule =             (
+            );
+        }
+    );
+    ScriptMetaData =     {
+    };
+    SuiteEncodedTextKey = "Se{V\\Ftt\"Hzb'[_[";
+    TemplateScript = "a.script";
+    helpedSuitesInfo =     (
+    );
+    helperSuitesInfo =     (
+                {
+            disabled = 1;
+            filePath = "~reenakuni/Documents/UntitledHelper.suite";
+        }
+    );
+}

@@ -1,0 +1,4 @@
+﻿2016-10-27 12:30:48.368 -0600	START		Running Return.script
+2016-10-27 12:30:48.455 -0600	Exception		Image Property List did not contain "ImageName" property	1	on_return	Return.script
+2016-10-27 12:30:49.021 -0600	EndTestCase		(Duration:"0.650799", Errors:"1", Exceptions:"1", StartTime:"2016-10-27 12:30:48 -0600", Successes:"0", TestCase:"Return.script", Warnings:"0")
+2016-10-27 12:30:50.025 -0600	FAILURE	Screen_Error.png	Error Running Script Command click Error - Image Property List did not contain "ImageName" property -- Execution Time 0:00:00 Return.script

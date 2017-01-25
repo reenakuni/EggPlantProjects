@@ -1,0 +1,4 @@
+﻿2016-12-15 12:35:17.266 -0700	START		Running Untitled5.script
+2016-12-15 12:35:17.281 -0700	Exception		Remote Connection Unavailable	4	on_untitled5	Untitled5.script
+2016-12-15 12:35:17.330 -0700	EndTestCase		(Duration:"0.059525", Errors:"1", Exceptions:"1", StartTime:"2016-12-15 12:35:17 -0700", Successes:"0", TestCase:"Untitled5.script", Warnings:"0")
+2016-12-15 12:35:17.334 -0700	FAILURE		No Remote Connection moveto Error - Remote Connection Unavailable -- Execution Time 0:00:00 Untitled5.script

@@ -1,0 +1,7 @@
+﻿2016-06-14 22:00:50.878 -0600	START		Running Untitled4.script
+2016-06-14 22:00:50.985 -0600	Log		10	4	on_i_have_num_apples	Untitled2.script
+2016-06-14 22:00:51.007 -0600	Log		4	4	on_i_give_num_apples_to_a_monkey	Untitled2.script
+2016-06-14 22:00:51.012 -0600	Log		6	4	on_i_am_left_with_num_apples	Untitled2.script
+2016-06-14 22:00:51.015 -0600	Log		success	8	on_i_am_left_with_num_apples	Untitled2.script
+2016-06-14 22:00:51.863 -0600	EndTestCase		(Duration:"0.983868", Errors:"0", Exceptions:"0", StartTime:"2016-06-14 22:00:50 -0600", Successes:"1", TestCase:"Untitled4.script", Warnings:"0")
+2016-06-14 22:00:51.873 -0600	SUCCESS		Execution Time 0:00:00 Untitled4.script

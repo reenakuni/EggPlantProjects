@@ -1,0 +1,7 @@
+﻿2016-06-10 22:51:42.672 -0600	START		Running Testfeature.feature
+2016-06-10 22:51:42.679 -0600	LogWarning		I have the two numbers
+2016-06-10 22:51:42.703 -0600	LogError		I add the two numbers
+2016-06-10 22:51:42.704 -0600	LogSuccess		I add the two numbers
+2016-06-10 22:51:42.705 -0600	LogWarning		the result should be success
+2016-06-10 22:51:42.706 -0600	EndTestCase		(Duration:"0.032702", Errors:"2", Exceptions:"0", StartTime:"2016-06-10 22:51:42 -0600", Successes:"1", TestCase:"Testfeature.feature", Warnings:"2")
+2016-06-10 22:51:42.713 -0600	FAILURE		1 scenarios (1 failed, 0 passed) 3 steps (1 failed, 2 skipped, 0 passed) Execution Time 0:00:00

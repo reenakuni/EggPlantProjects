@@ -1,0 +1,8 @@
+﻿2015-11-10 11:26:58.291 -0700	START		Running ImageEdit.script
+2015-11-10 11:27:21.145 -0700	doubleclick	Eggplant	at (512, 824)	1	on_imageedit	ImageEdit.script
+2015-11-10 11:27:22.036 -0700	click	File	at (147, 12)	2	on_imageedit	ImageEdit.script
+2015-11-10 11:27:22.895 -0700	click	NewSuite	at (188, 35)	3	on_imageedit	ImageEdit.script
+2015-11-10 11:27:23.612 -0700	typetext		[backspace]	4	on_imageedit	ImageEdit.script
+2015-11-10 11:27:24.440 -0700	typetext		ImageEdit	5	on_imageedit	ImageEdit.script
+2015-11-10 11:27:24.979 -0700	EndTestCase		(Duration:"26.686741", Errors:"0", Exceptions:"0", StartTime:"2015-11-10 11:26:58 -0700", Successes:"1", TestCase:"ImageEdit.script", Warnings:"0")
+2015-11-10 11:27:24.985 -0700	SUCCESS		Execution Time 0:00:26 ImageEdit.script

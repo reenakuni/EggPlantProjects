@@ -1,0 +1,9 @@
+﻿2016-09-16 13:39:24.882 -0600	START		Running Outline.feature
+2016-09-16 13:39:34.975 -0600	LogError		Connected to a SUT
+2016-09-16 13:39:34.977 -0600	LogWarning		NewConnection's I_have_a_VM
+2016-09-16 13:39:34.978 -0600	Exception		Remote Connection Unavailable	3	on_log_success	Outline.script<SOURCE>
+2016-09-16 13:39:34.982 -0600	LogError		log success
+2016-09-16 13:39:45.025 -0600	connect		10.1.11.128:(null)	2	on_connected_to_a_sut	Outline.script<SOURCE>
+2016-09-16 13:39:45.029 -0600	LogError		Connected to a SUT
+2016-09-16 13:39:45.031 -0600	EndTestCase		(Duration:"20.146594", Errors:"4", Exceptions:"1", StartTime:"2016-09-16 13:39:24 -0600", Successes:"0", TestCase:"Outline.feature", Warnings:"1")
+2016-09-16 13:39:45.032 -0600	ABORTED		2 scenarios (2 failed, 0 passed) 4 steps (3 failed, 1 skipped, 0 passed) Execution Time 0:00:20

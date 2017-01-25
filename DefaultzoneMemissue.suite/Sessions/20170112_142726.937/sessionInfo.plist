@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[19, 777, 95, 793], command:@"Image at", eventNum:2, hotSpot:[8.1067725999999993e+01, 1.3414607999999999e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"mSafari", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[19, 777, 95, 793], command:@"Image at", eventNum:3, hotSpot:[8.1067725999999993e+01, 1.3414607999999999e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"mSafari_0001", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0003.png"}, {captureRect:[111, 779, 229, 793], command:@"Image at", eventNum:4, hotSpot:[1.2171295800000000e+02, 1.2270659999999999e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"FileEditView", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0004.png"}, {captureRect:[152, 776, 384, 793], command:@"Image at", eventNum:5, hotSpot:[1.6341190700000001e+02, 9.2715470000000000e+00], imageName:@"", infoDict:{folderPath:@"/", imageName:@"EditViewHistoryBookmarks", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0005.png"}, {captureRect:[111, 776, 384, 793], command:@"Image at", eventNum:6, hotSpot:[2.0663574900000000e+02, 1.3795923999999999e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"FileEditViewHistoryBookmarks", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0006.png"}, {captureRect:[246, 776, 502, 793], command:@"Image at", eventNum:7, hotSpot:[2.7466907300000003e+02, 1.2562003000000001e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"HistoryBookmarksWindowHelp", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0007.png"}, {captureRect:[111, 776, 454, 793], command:@"Image at", eventNum:8, hotSpot:[3.2369264500000003e+02, 1.2562003000000001e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"FileEditViewHistoryBookmarksWi", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0008.png"}, {captureRect:[400, 777, 502, 793], command:@"Image at", eventNum:9, hotSpot:[4.0989189099999999e+02, 1.2562003000000001e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"WindowHelp", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0009.png"}, {captureRect:[470, 777, 502, 793], command:@"Image at", eventNum:10, hotSpot:[4.7938585699999999e+02, 1.4464297999999999e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Help_0001", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0010.png"}, {captureRect:[19, 777, 95, 793], command:@"Image at", eventNum:11, hotSpot:[7.4698302999999996e+01, 1.0989610000000001e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"mSafari_0002", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0011.png"}, {captureRect:[19, 777, 95, 793], command:@"Image at", eventNum:12, hotSpot:[7.4698302999999996e+01, 1.0989610000000001e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"mSafari_0003", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0012.png"}, {captureRect:[64, 749, 146, 764], command:@"Image at", eventNum:13, hotSpot:[8.0455198999999993e+01, 3.6173599000000003e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"AboutSafari", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0013.png"}, {captureRect:[470, 612, 540, 642], command:@"Image at", eventNum:14, hotSpot:[5.0594725199999999e+02, 1.6546111600000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0121", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0014.png"}, {captureRect:[52, 779, 95, 793], command:@"Image at", eventNum:15, hotSpot:[5.9894855000000000e+01, 1.5681081000000001e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Safari", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0015.png", skipStep:@"YES"}, {captureRect:[64, 699, 155, 713], command:@"Image at", eventNum:16, hotSpot:[7.9846956000000006e+01, 8.5012027000000003e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Preferences", searchType:@"Smooth", skipStep:False, waitFor:@""}, screenShotFile:@"Screen0016.png", skipStep:@"YES"}, {captureRect:[220, 718, 345, 729], command:@"Image at", eventNum:17, hotSpot:[2.7424073299999998e+02, 8.8910875000000004e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"financeYnhnoSnnrrh", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0017.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Image at "mSafari"</string>
+		<string>Image at "mSafari_0001"</string>
+		<string>Image at "FileEditView"</string>
+		<string>Image at "EditViewHistoryBookmarks"</string>
+		<string>Image at "FileEditViewHistoryBookmarks"</string>
+		<string>Image at "HistoryBookmarksWindowHelp"</string>
+		<string>Image at "FileEditViewHistoryBookmarksWi"</string>
+		<string>Image at "WindowHelp"</string>
+		<string>Image at "Help_0001"</string>
+		<string>Image at "mSafari_0002"</string>
+		<string>Image at "mSafari_0003"</string>
+		<string>Image at "AboutSafari"</string>
+		<string>Image at "image0121"</string>
+		<string>-skipped- Image at "Safari"</string>
+		<string>-skipped- Image at "Preferences"</string>
+		<string>Image at "financeYnhnoSnnrrh"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>mSafari.png</string>
+			<string>mSafari.png</string>
+			<string>mSafari_0001.png</string>
+			<string>mSafari_0001.png</string>
+			<string>FileEditView.png</string>
+			<string>FileEditView.png</string>
+			<string>EditViewHistoryBookmarks.png</string>
+			<string>EditViewHistoryBookmarks.png</string>
+			<string>FileEditViewHistoryBookmarks.png</string>
+			<string>FileEditViewHistoryBookmarks.png</string>
+			<string>HistoryBookmarksWindowHelp.png</string>
+			<string>HistoryBookmarksWindowHelp.png</string>
+			<string>FileEditViewHistoryBookmarksWi.png</string>
+			<string>FileEditViewHistoryBookmarksWi.png</string>
+			<string>WindowHelp.png</string>
+			<string>WindowHelp.png</string>
+			<string>Help_0001.png</string>
+			<string>Help_0001.png</string>
+			<string>mSafari_0002.png</string>
+			<string>mSafari_0002.png</string>
+			<string>mSafari_0003.png</string>
+			<string>mSafari_0003.png</string>
+			<string>AboutSafari.png</string>
+			<string>AboutSafari.png</string>
+			<string>image0121.png</string>
+			<string>image0121.png</string>
+			<string>Safari.png</string>
+			<string>Safari.png</string>
+			<string>Preferences.png</string>
+			<string>Preferences.png</string>
+			<string>financeYnhnoSnnrrh.png</string>
+			<string>financeYnhnoSnnrrh.png</string>
+			<string>mSafari.png</string>
+			<string>mSafari_0001.png</string>
+			<string>FileEditView.png</string>
+			<string>EditViewHistoryBookmarks.png</string>
+			<string>FileEditViewHistoryBookmarks.png</string>
+			<string>HistoryBookmarksWindowHelp.png</string>
+			<string>FileEditViewHistoryBookmarksWi.png</string>
+			<string>WindowHelp.png</string>
+			<string>Help_0001.png</string>
+			<string>mSafari_0002.png</string>
+			<string>mSafari_0003.png</string>
+			<string>AboutSafari.png</string>
+			<string>image0121.png</string>
+			<string>financeYnhnoSnnrrh.png</string>
+			<string>mSafari.png</string>
+			<string>mSafari_0001.png</string>
+			<string>FileEditView.png</string>
+			<string>EditViewHistoryBookmarks.png</string>
+			<string>FileEditViewHistoryBookmarks.png</string>
+			<string>HistoryBookmarksWindowHelp.png</string>
+			<string>FileEditViewHistoryBookmarksWi.png</string>
+			<string>WindowHelp.png</string>
+			<string>Help_0001.png</string>
+			<string>mSafari_0002.png</string>
+			<string>mSafari_0003.png</string>
+			<string>AboutSafari.png</string>
+			<string>image0121.png</string>
+			<string>financeYnhnoSnnrrh.png</string>
+		</array>
+	</dict>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

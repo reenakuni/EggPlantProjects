@@ -1,0 +1,4 @@
+﻿2016-11-01 09:52:04.252 -0600	START		Running kjjkkj.script
+2016-11-01 09:52:04.754 -0600	click	chess	at (244, 142)	1	on_kjjkkj	kjjkkj.script
+2016-11-01 09:52:08.868 -0600	EndTestCase		(Duration:"4.61293", Errors:"0", Exceptions:"0", StartTime:"2016-11-01 09:52:04 -0600", Successes:"1", TestCase:"kjjkkj.script", Warnings:"0")
+2016-11-01 09:52:08.884 -0600	SUCCESS		Execution Time 0:00:04 kjjkkj.script

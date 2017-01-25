@@ -1,0 +1,4 @@
+﻿2016-11-01 09:09:14.901 -0600	START		Running HelperhelperNov1.script
+2016-11-01 09:09:14.961 -0600	Log		reena	1	on_helperhelpernov1	HelperhelperNov1.script
+2016-11-01 09:09:18.046 -0600	EndTestCase		(Duration:"3.144525", Errors:"0", Exceptions:"0", StartTime:"2016-11-01 09:09:14 -0600", Successes:"1", TestCase:"HelperhelperNov1.script", Warnings:"0")
+2016-11-01 09:09:18.053 -0600	SUCCESS		Execution Time 0:00:03 HelperhelperNov1.script

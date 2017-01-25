@@ -1,0 +1,4 @@
+﻿2016-10-26 16:18:46.646 -0600	START		Running ButtonwithText.script
+2016-10-26 16:20:00.602 -0600	Exception	Createandcontinue	No Image Found On Screen: "Createandcontinue"	1	on_buttonwithtext	ButtonwithText.script
+2016-10-26 16:20:01.411 -0600	EndTestCase		(Duration:"74.763818", Errors:"1", Exceptions:"1", StartTime:"2016-10-26 16:18:46 -0600", Successes:"0", TestCase:"ButtonwithText.script", Warnings:"0")
+2016-10-26 16:20:01.412 -0600	ABORTED		Execution Time 0:01:14 ButtonwithText.script

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Helper2">
+ <run>
+  <RunDate>2016-11-14 14:30:08.693 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>4.781960</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20161114_143008.693/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>No Remote Connection -- typetext Error - Remote Connection Unavailable</ErrorMessage>
+ </run>
+</runHistory>

@@ -1,0 +1,7 @@
+﻿2016-06-14 09:50:13.715 -0600	START		Running scanriooutline.feature
+2016-06-14 09:50:13.727 -0600	LogSuccess		page is open
+2016-06-14 09:50:13.727 -0600	LogSuccess		enter <num1>
+2016-06-14 09:50:13.728 -0600	LogSuccess		enter <num2>
+2016-06-14 09:50:13.729 -0600	LogWarning		add <num1> and <num2> to get <num3>
+2016-06-14 09:50:13.730 -0600	EndTestCase		(Duration:"0.012059", Errors:"0", Exceptions:"0", StartTime:"2016-06-14 09:50:13 -0600", Successes:"3", TestCase:"scanriooutline.feature", Warnings:"1")
+2016-06-14 09:50:13.739 -0600	FAILURE		1 scenarios (1 failed, 0 passed) 4 steps (0 failed, 1 skipped, 3 passed) Execution Time 0:00:00

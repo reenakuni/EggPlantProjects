@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[53, 776, 95, 789], command:@"Image at", eventNum:2, hotSpot:[6.0871471000000000e+01, 1.2184971000000001e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"mSafari", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[112, 776, 136, 789], command:@"Image at", eventNum:3, hotSpot:[1.1780220900000000e+02, 1.1041024000000000e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"FileEditView_0002", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0003.png"}, {captureRect:[153, 776, 179, 789], command:@"Image at", eventNum:4, hotSpot:[1.6955002700000000e+02, 1.1469469000000000e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"FileEditViewHistoryBookmarksWi_0003", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0004.png"}, {captureRect:[196, 776, 229, 789], command:@"Image at", eventNum:5, hotSpot:[2.0954418100000001e+02, 1.2656261000000001e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"FileEditViewHistoryBookmarks_0001", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0005.png"}, {captureRect:[247, 774, 294, 789], command:@"Image at", eventNum:6, hotSpot:[2.6757147099999997e+02, 1.3937310999999999e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"FileEditViewHistoryBookmarksWi_0004", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0006.png"}, {captureRect:[311, 776, 384, 789], command:@"Image at", eventNum:7, hotSpot:[3.3468814700000001e+02, 1.2793362999999999e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"FileEditViewHistoryBookmarksWi_0005", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0007.png"}, {captureRect:[401, 776, 454, 789], command:@"Image at", eventNum:8, hotSpot:[4.3638046900000001e+02, 8.9844880000000007e+00], imageName:@"", infoDict:{folderPath:@"/", imageName:@"FileEditViewHistoryBookmarksWi_0006", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0008.png"}, {captureRect:[471, 774, 502, 789], command:@"Image at", eventNum:9, hotSpot:[4.9059552800000000e+02, 1.0843939000000001e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Help_0002", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0009.png"}, {captureRect:[408, 626, 452, 679], command:@"Image at", eventNum:10, hotSpot:[4.2634016700000001e+02, 1.4672522300000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0050", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0010.png"}, {captureRect:[545, 632, 607, 672], command:@"Image at", eventNum:11, hotSpot:[5.7784849099999997e+02, 1.4334479300000001e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0080", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0011.png"}, {captureRect:[680, 598, 761, 691], command:@"Image at", eventNum:12, hotSpot:[7.2205789300000004e+02, 1.4439448300000001e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"YAHOO", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0012.png"}, {captureRect:[844, 621, 887, 682], command:@"Image at", eventNum:13, hotSpot:[8.6672990300000004e+02, 1.4925733199999999e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0081", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0013.png"}, {captureRect:[970, 610, 1050, 691], command:@"Image at", eventNum:14, hotSpot:[9.8900827000000004e+02, 1.4273640100000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0082", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0014.png"}, {captureRect:[970, 480, 1051, 574], command:@"Image at", eventNum:15, hotSpot:[1.0132866110000000e+03, 2.5752105999999998e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0083", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0015.png"}, {captureRect:[833, 506, 899, 554], command:@"Image at", eventNum:16, hotSpot:[8.6328604499999994e+02, 2.6352357300000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0084", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0016.png"}, {captureRect:[711, 507, 749, 546], command:@"Image at", eventNum:17, hotSpot:[7.1913661100000002e+02, 2.6809079500000001e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0085", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0017.png"}, {captureRect:[550, 509, 603, 557], command:@"Image at", eventNum:18, hotSpot:[5.7996449399999995e+02, 2.5924340899999999e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0086", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0018.png"}, {captureRect:[390, 481, 471, 574], command:@"Image at", eventNum:19, hotSpot:[4.4027836700000000e+02, 2.5585869400000001e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0087", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0019.png"}, {captureRect:[404, 479, 457, 491], command:@"Image at", eventNum:20, hotSpot:[4.3194714399999998e+02, 3.1165935100000002e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Facebook", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0020.png"}, {captureRect:[556, 480, 595, 491], command:@"Image at", eventNum:21, hotSpot:[5.7064380400000005e+02, 3.0904155300000002e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Twitter", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0021.png"}, {captureRect:[680, 480, 761, 573], command:@"Image at", eventNum:22, hotSpot:[7.2396400900000003e+02, 3.1060966100000002e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Linkedln", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0022.png"}, {captureRect:[825, 480, 906, 573], command:@"Image at", eventNum:23, hotSpot:[8.7333919700000001e+02, 3.0827892100000003e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"TheWeather", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0023.png"}, {captureRect:[970, 479, 1051, 573], command:@"Image at", eventNum:24, hotSpot:[1.0119159210000000e+03, 3.0637662599999999e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Yelp", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0024.png"}, {captureRect:[1115, 479, 1196, 573], command:@"Image at", eventNum:25, hotSpot:[1.1432408410000000e+03, 3.0942286899999999e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"TripAdvisor", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0025.png"}, {captureRect:[534, 286, 616, 393], command:@"Image at", eventNum:26, hotSpot:[5.8052990299999999e+02, 4.9010663000000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"EggplantRepo", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0026.png"}, {captureRect:[390, 298, 471, 393], command:@"Image at", eventNum:27, hotSpot:[4.1435519900000003e+02, 4.8948110100000002e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"eggPlantMac", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0027.png"}, {captureRect:[417, 337, 443, 370], command:@"Image at", eventNum:28, hotSpot:[4.3072637400000002e+02, 4.3968295599999999e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0088", searchType:@"Precise", waitFor:@""}, screenShotFile:@"Screen0028.png"}, {captureRect:[534, 286, 616, 393], command:@"Image at", eventNum:29, hotSpot:[5.7093507499999998e+02, 4.4154240700000003e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0089", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0029.png"}, {captureRect:[1135, 697, 1198, 721], command:@"Image at", eventNum:30, hotSpot:[1.1530027210000001e+03, 8.3812381000000002e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0090", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0030.png"}, {captureRect:[1145, 690, 1215, 720], command:@"Image at", eventNum:31, hotSpot:[1.1807977370000001e+03, 8.7192811000000006e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0091", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0031.png"}, {captureRect:[1169, 739, 1185, 756], command:@"Image at", eventNum:32, hotSpot:[1.1773238950000000e+03, 3.9635432999999999e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"fil", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0032.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Image at "mSafari"</string>
+		<string>Image at "FileEditView_0002"</string>
+		<string>Image at "FileEditViewHistoryBookmarksWi_0003"</string>
+		<string>Image at "FileEditViewHistoryBookmarks_0001"</string>
+		<string>Image at "FileEditViewHistoryBookmarksWi_0004"</string>
+		<string>Image at "FileEditViewHistoryBookmarksWi_0005"</string>
+		<string>Image at "FileEditViewHistoryBookmarksWi_0006"</string>
+		<string>Image at "Help_0002"</string>
+		<string>Image at "image0050"</string>
+		<string>Image at "image0080"</string>
+		<string>Image at "YAHOO"</string>
+		<string>Image at "image0081"</string>
+		<string>Image at "image0082"</string>
+		<string>Image at "image0083"</string>
+		<string>Image at "image0084"</string>
+		<string>Image at "image0085"</string>
+		<string>Image at "image0086"</string>
+		<string>Image at "image0087"</string>
+		<string>Image at "Facebook"</string>
+		<string>Image at "Twitter"</string>
+		<string>Image at "Linkedln"</string>
+		<string>Image at "TheWeather"</string>
+		<string>Image at "Yelp"</string>
+		<string>Image at "TripAdvisor"</string>
+		<string>Image at "EggplantRepo"</string>
+		<string>Image at "eggPlantMac"</string>
+		<string>Image at "image0088"</string>
+		<string>Image at "image0089"</string>
+		<string>Image at "image0090"</string>
+		<string>Image at "image0091"</string>
+		<string>Image at "fil"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>mSafari.png</string>
+			<string>mSafari.png</string>
+			<string>FileEditView_0002.png</string>
+			<string>FileEditView_0002.png</string>
+			<string>FileEditViewHistoryBookmarksWi_0003.png</string>
+			<string>FileEditViewHistoryBookmarksWi_0003.png</string>
+			<string>FileEditViewHistoryBookmarks_0001.png</string>
+			<string>FileEditViewHistoryBookmarks_0001.png</string>
+			<string>FileEditViewHistoryBookmarksWi_0004.png</string>
+			<string>FileEditViewHistoryBookmarksWi_0004.png</string>
+			<string>FileEditViewHistoryBookmarksWi_0005.png</string>
+			<string>FileEditViewHistoryBookmarksWi_0005.png</string>
+			<string>FileEditViewHistoryBookmarksWi_0006.png</string>
+			<string>FileEditViewHistoryBookmarksWi_0006.png</string>
+			<string>Help_0002.png</string>
+			<string>Help_0002.png</string>
+			<string>image0050.png</string>
+			<string>image0050.png</string>
+			<string>image0080.png</string>
+			<string>image0080.png</string>
+			<string>YAHOO.png</string>
+			<string>YAHOO.png</string>
+			<string>image0081.png</string>
+			<string>image0081.png</string>
+			<string>image0082.png</string>
+			<string>image0082.png</string>
+			<string>image0083.png</string>
+			<string>image0083.png</string>
+			<string>image0084.png</string>
+			<string>image0084.png</string>
+			<string>image0085.png</string>
+			<string>image0085.png</string>
+			<string>image0086.png</string>
+			<string>image0086.png</string>
+			<string>image0087.png</string>
+			<string>image0087.png</string>
+			<string>Facebook.png</string>
+			<string>Facebook.png</string>
+			<string>Twitter.png</string>
+			<string>Twitter.png</string>
+			<string>Linkedln.png</string>
+			<string>Linkedln.png</string>
+			<string>TheWeather.png</string>
+			<string>TheWeather.png</string>
+			<string>Yelp.png</string>
+			<string>Yelp.png</string>
+			<string>TripAdvisor.png</string>
+			<string>TripAdvisor.png</string>
+			<string>EggplantRepo.png</string>
+			<string>EggplantRepo.png</string>
+			<string>eggPlantMac.png</string>
+			<string>eggPlantMac.png</string>
+			<string>image0088.png</string>
+			<string>image0088.png</string>
+			<string>image0089.png</string>
+			<string>image0089.png</string>
+			<string>image0090.png</string>
+			<string>image0090.png</string>
+			<string>image0091.png</string>
+			<string>image0091.png</string>
+			<string>fil.png</string>
+			<string>fil.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>rapidSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

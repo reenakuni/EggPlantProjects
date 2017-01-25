@@ -1,0 +1,30 @@
+﻿2016-11-04 10:40:52.687 -0600	START		Running MacSUT.script
+2016-11-04 10:40:53.211 -0600	doubleclick	image0033	at (815, 272)	8	on_macsut	MacSUT.script
+2016-11-04 10:40:54.105 -0600	click	image0034	at (440, 252)	9	on_macsut	MacSUT.script
+2016-11-04 10:40:55.225 -0600	click	image0035	at (618, 342)	10	on_macsut	MacSUT.script
+2016-11-04 10:40:56.364 -0600	click	image0036	at (441, 348)	11	on_macsut	MacSUT.script
+2016-11-04 10:40:57.527 -0600	click	image0037	at (441, 394)	12	on_macsut	MacSUT.script
+2016-11-04 10:40:58.668 -0600	click	image0038	at (615, 397)	13	on_macsut	MacSUT.script
+2016-11-04 10:40:59.840 -0600	click	image0039	at (441, 204)	14	on_macsut	MacSUT.script
+2016-11-04 10:41:01.007 -0600	click	image0040	at (506, 259)	15	on_macsut	MacSUT.script
+2016-11-04 10:41:02.133 -0600	click	image0041	at (546, 306)	16	on_macsut	MacSUT.script
+2016-11-04 10:41:03.249 -0600	click	image0042	at (609, 213)	17	on_macsut	MacSUT.script
+2016-11-04 10:41:04.374 -0600	click	image0043	at (563, 356)	18	on_macsut	MacSUT.script
+2016-11-04 10:41:05.512 -0600	click	image0044	at (609, 383)	19	on_macsut	MacSUT.script
+2016-11-04 10:41:06.650 -0600	click	image0045	at (446, 200)	20	on_macsut	MacSUT.script
+2016-11-04 10:41:07.777 -0600	click	image0046	at (441, 309)	21	on_macsut	MacSUT.script
+2016-11-04 10:41:08.908 -0600	click	image0047	at (495, 310)	22	on_macsut	MacSUT.script
+2016-11-04 10:41:10.028 -0600	click	image0048	at (605, 210)	23	on_macsut	MacSUT.script
+2016-11-04 10:41:11.143 -0600	click	image0049	at (492, 313)	24	on_macsut	MacSUT.script
+2016-11-04 10:41:12.288 -0600	drag	image0050	at (597, 386)	25	on_macsut	MacSUT.script
+2016-11-04 10:41:13.679 -0600	drop	image0051	at (617, 397)	26	on_macsut	MacSUT.script
+2016-11-04 10:41:14.800 -0600	drag	image0052	at (501, 357)	27	on_macsut	MacSUT.script
+2016-11-04 10:41:16.153 -0600	drop	image0053	at (493, 356)	28	on_macsut	MacSUT.script
+2016-11-04 10:41:17.267 -0600	click	image0054	at (561, 361)	29	on_macsut	MacSUT.script
+2016-11-04 10:41:18.393 -0600	click	image0055	at (605, 298)	30	on_macsut	MacSUT.script
+2016-11-04 10:41:19.507 -0600	click	image0056	at (466, 387)	31	on_macsut	MacSUT.script
+2016-11-04 10:41:20.628 -0600	click	image0057	at (607, 395)	32	on_macsut	MacSUT.script
+2016-11-04 10:41:21.790 -0600	click	close1	at (424, 114)	33	on_macsut	MacSUT.script
+2016-11-04 10:41:22.944 -0600	click	someplace	at (902, 336)	34	on_macsut	MacSUT.script
+2016-11-04 10:41:23.181 -0600	EndTestCase		(Duration:"30.491633", Errors:"0", Exceptions:"0", StartTime:"2016-11-04 10:40:52 -0600", Successes:"1", TestCase:"MacSUT.script", Warnings:"0")
+2016-11-04 10:41:23.189 -0600	SUCCESS		Execution Time 0:00:30 MacSUT.script

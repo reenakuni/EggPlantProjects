@@ -1,0 +1,8 @@
+﻿2016-06-16 14:44:53.201 -0600	START		Running Background.feature
+2016-06-16 14:44:53.209 -0600	LogSuccess		I have 20 apples
+2016-06-16 14:44:53.209 -0600	LogSuccess		I give 10 apples to a monkey
+2016-06-16 14:44:53.210 -0600	LogSuccess		I am left with 10 apples
+2016-06-16 14:44:53.211 -0600	Log		reena	3	on_but_sjdsdlsdsd_str	Background.script<SOURCE>
+2016-06-16 14:44:53.213 -0600	LogSuccess		but sjdsdlsdsd "reena"
+2016-06-16 14:44:53.214 -0600	EndTestCase		(Duration:"0.011355", Errors:"0", Exceptions:"0", StartTime:"2016-06-16 14:44:53 -0600", Successes:"4", TestCase:"Background.feature", Warnings:"0")
+2016-06-16 14:44:53.222 -0600	SUCCESS		1 scenarios (0 failed, 1 passed) 4 steps (0 failed, 0 skipped, 4 passed) Execution Time 0:00:00

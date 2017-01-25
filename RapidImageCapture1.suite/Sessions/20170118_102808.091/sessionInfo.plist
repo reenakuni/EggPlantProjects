@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[166, 704, 210, 717], command:@"Image at", eventNum:2, hotSpot:[1.9796093800000000e+02, 8.3070312000000001e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Images", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[244, 706, 283, 718], command:@"Image at", eventNum:3, hotSpot:[2.4961328100000000e+02, 8.4500000000000000e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Videos", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0003.png", skipStep:@"YES"}, {captureRect:[119, 691, 623, 731], command:@"Image at", eventNum:4, hotSpot:[3.2497265599999997e+02, 8.5195312000000001e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"ImagesVideosMaps", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0004.png", skipStep:@"YES"}, {captureRect:[384, 706, 416, 717], command:@"Image at", eventNum:5, hotSpot:[3.9815234400000003e+02, 8.2070312000000001e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"NewsExplore", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0005.png"}, {captureRect:[451, 704, 495, 718], command:@"Image at", eventNum:6, hotSpot:[4.6608593800000000e+02, 8.5500000000000000e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"NewsExplore_0001", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0006.png"}, {captureRect:[525, 704, 531, 719], command:@"Image at", eventNum:7, hotSpot:[5.2720703100000003e+02, 8.7929687999999999e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"NewsExplore_0002", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0007.png"}, {captureRect:[564, 706, 591, 718], command:@"Image at", eventNum:8, hotSpot:[5.6944531199999994e+02, 8.3070312000000001e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"MSN", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0008.png"}, {captureRect:[342, 691, 941, 731], command:@"Image at", eventNum:9, hotSpot:[6.4201562500000000e+02, 9.0359375000000000e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"MSNOfficeOnline", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0009.png"}, {captureRect:[735, 706, 809, 718], command:@"Image at", eventNum:10, hotSpot:[7.4614062500000000e+02, 8.4152343999999999e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Outiookcom", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0010.png"}, {captureRect:[386, 732, 985, 767], command:@"Image at", eventNum:11, hotSpot:[6.8610937500000000e+02, 4.3652343999999999e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"ibingcom", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0011.png"}, {captureRect:[138, 744, 142, 748], command:@"Image at", eventNum:12, hotSpot:[1.4097265600000000e+02, 4.7472656000000001e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0128", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0012.png"}, {captureRect:[156, 749, 160, 753], command:@"Image at", eventNum:13, hotSpot:[1.5898828100000000e+02, 4.2695312000000001e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0129", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0013.png"}, {captureRect:[176, 750, 180, 754], command:@"Image at", eventNum:14, hotSpot:[1.7808593800000000e+02, 4.1695312000000001e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0130", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0014.png"}, {captureRect:[203, 750, 207, 754], command:@"Image at", eventNum:15, hotSpot:[2.0586328100000000e+02, 4.1347656000000001e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0131", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0015.png", skipStep:@"YES"}, {captureRect:[236, 745, 240, 749], command:@"Image at", eventNum:16, hotSpot:[2.3872265600000000e+02, 4.6207031000000001e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0132", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0016.png", skipStep:@"YES"}, {captureRect:[273, 749, 280, 753], command:@"Image at", eventNum:17, hotSpot:[2.7540234400000003e+02, 4.2042968999999999e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0133", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0017.png", skipStep:@"YES"}, {captureRect:[1114, 702, 1131, 720], command:@"Image at", eventNum:18, hotSpot:[1.1260117190000001e+03, 89], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0134", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0018.png"}, {captureRect:[1098, 705, 1107, 718], command:@"Image at", eventNum:19, hotSpot:[1.1013476559999999e+03, 8.6222656000000001e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0135", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0019.png"}, {captureRect:[1041, 703, 1057, 720], command:@"Image at", eventNum:20, hotSpot:[1.0454296879999999e+03, 8.4484375000000000e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0136", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0020.png"}, {captureRect:[984, 703, 1011, 717], command:@"Image at", eventNum:21, hotSpot:[1.0024453119999999e+03, 8.3484375000000000e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0137", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0021.png"}, {captureRect:[1122, 739, 1126, 743], command:@"Image at", eventNum:22, hotSpot:[1.1242500000000000e+03, 5.2277343999999999e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0138", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0022.png", skipStep:@"YES"}, {captureRect:[250, 246, 254, 250], command:@"Image at", eventNum:23, hotSpot:[2.5233203100000000e+02, 5.4450000000000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Skippinginauguration", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0023.png", skipStep:@"YES"}, {captureRect:[255, 366, 259, 370], command:@"Image at", eventNum:24, hotSpot:[2.5780468800000000e+02, 4.2404296900000003e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0139", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0024.png", skipStep:@"YES"}, {captureRect:[174, 293, 185, 300], command:@"Image at", eventNum:25, hotSpot:[1.7939062500000000e+02, 4.9510937500000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0140", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0025.png"}, {captureRect:[295, 574, 299, 578], command:@"Image at", eventNum:26, hotSpot:[2.9775000000000000e+02, 2.1789062500000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"ing", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0026.png", skipStep:@"YES"}, {captureRect:[869, 563, 897, 591], command:@"Image at", eventNum:27, hotSpot:[8.8453906199999994e+02, 2.1255468800000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0141", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0027.png"}, {captureRect:[551, 643, 555, 647], command:@"Image at", eventNum:28, hotSpot:[5.5359765600000003e+02, 1.4891796900000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0142", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0028.png", skipStep:@"YES"}, {captureRect:[1057, 297, 1061, 301], command:@"Image at", eventNum:29, hotSpot:[1.0593046879999999e+03, 4.9351171900000003e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0143", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0029.png", skipStep:@"YES"}, {captureRect:[1074, 294, 1078, 298], command:@"Image at", eventNum:30, hotSpot:[1.0765390620000001e+03, 4.9659765599999997e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0144", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0030.png", skipStep:@"YES"}, {captureRect:[1138, 300, 1142, 304], command:@"Image at", eventNum:31, hotSpot:[1.1407773440000001e+03, 4.9073437500000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0145", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0031.png"}, {captureRect:[862, 248, 866, 252], command:@"Image at", eventNum:32, hotSpot:[8.6490234399999997e+02, 5.4260937500000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Haleyfacesquestions", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0032.png", skipStep:@"YES"}, {captureRect:[952, 251, 956, 255], command:@"Image at", eventNum:33, hotSpot:[9.5475000000000000e+02, 5.3948437500000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0146", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0033.png", skipStep:@"YES"}, {captureRect:[1120, 250, 1124, 254], command:@"Image at", eventNum:34, hotSpot:[1.1225390620000001e+03, 5.4013671899999997e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Collapsesoncourt", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0034.png", skipStep:@"YES"}, {captureRect:[732, 253, 736, 257], command:@"Image at", eventNum:35, hotSpot:[7.3435937500000000e+02, 5.3766796899999997e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0147", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0035.png", skipStep:@"YES"}, {captureRect:[520, 105, 1119, 444], command:@"Image at", eventNum:36, hotSpot:[8.2059765600000003e+02, 6.4826171899999997e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"HiLetspersonalizeyourhomepageL", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0036.png"}, {captureRect:[536, 72, 1135, 104], command:@"Image at", eventNum:37, hotSpot:[8.3683203100000003e+02, 6.9813671899999997e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"PrivacyandCookiesLegalAdvertis", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0037.png", skipStep:@"YES"}, {captureRect:[889, 83, 944, 95], command:@"Image at", eventNum:38, hotSpot:[9.0195703100000003e+02, 7.0187500000000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0148", searchType:@"Precise", waitFor:@""}, screenShotFile:@"Screen0038.png", skipStep:@"YES"}, {captureRect:[975, 83, 1011, 95], command:@"Image at", eventNum:39, hotSpot:[9.9834375000000000e+02, 7.0503906199999994e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"LegalAdvertiseAboutourads", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0039.png"}, {captureRect:[1089, 81, 1116, 95], command:@"Image at", eventNum:40, hotSpot:[1.1013437500000000e+03, 7.0612500000000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"PrivacyandCookiesLegalAdvertis_0001", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0040.png"}, {captureRect:[260, 72, 859, 104], command:@"Image at", eventNum:41, hotSpot:[5.6085937500000000e+02, 7.0203906199999994e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0149", searchType:@"Precise", waitFor:@""}, screenShotFile:@"Screen0041.png"}, {captureRect:[191, 83, 233, 95], command:@"Image at", eventNum:42, hotSpot:[2.0044531200000000e+02, 6.9991406199999994e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0150", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0042.png"}, {captureRect:[0, 773, 599, 793], command:@"Image at", eventNum:43, hotSpot:[2.7320312000000001e+01, 1.8750000000000000e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Safari", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0043.png", skipStep:@"YES"}, {captureRect:[134, 746, 138, 750], command:@"Image at", eventNum:44, hotSpot:[1.3640234400000000e+02, 4.5890625000000000e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0151", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0044.png"}, {captureRect:[580, 502, 622, 514], command:@"Image at", eventNum:45, hotSpot:[5.8662500000000000e+02, 281], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Cance_0002", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0045.png"}, {captureRect:[721, 502, 752, 515], command:@"Image at", eventNum:46, hotSpot:[725, 2.8342968800000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"SetUpTimeMachine", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0046.png"}, {captureRect:[788, 396, 792, 400], command:@"Image at", eventNum:47, hotSpot:[7.9028906199999994e+02, 3.9450000000000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0152", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0047.png"}, {captureRect:[916, 382, 920, 386], command:@"Image at", eventNum:48, hotSpot:[9.1808203100000003e+02, 4.0869531200000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0153", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0048.png"}, {captureRect:[1087, 287, 1091, 291], command:@"Image at", eventNum:49, hotSpot:[1.0891093750000000e+03, 5.0315234400000003e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0154", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0049.png"}, {captureRect:[650, 360, 654, 364], command:@"Image at", eventNum:50, hotSpot:[6.5292968800000006e+02, 4.3060937500000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0155", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0050.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Image at "Images"</string>
+		<string>-skipped- Image at "Videos"</string>
+		<string>-skipped- Image at "ImagesVideosMaps"</string>
+		<string>Image at "NewsExplore"</string>
+		<string>Image at "NewsExplore_0001"</string>
+		<string>Image at "NewsExplore_0002"</string>
+		<string>Image at "MSN"</string>
+		<string>Image at "MSNOfficeOnline"</string>
+		<string>Image at "Outiookcom"</string>
+		<string>Image at "ibingcom"</string>
+		<string>Image at "image0128"</string>
+		<string>Image at "image0129"</string>
+		<string>Image at "image0130"</string>
+		<string>-skipped- Image at "image0131"</string>
+		<string>-skipped- Image at "image0132"</string>
+		<string>-skipped- Image at "image0133"</string>
+		<string>Image at "image0134"</string>
+		<string>Image at "image0135"</string>
+		<string>Image at "image0136"</string>
+		<string>Image at "image0137"</string>
+		<string>-skipped- Image at "image0138"</string>
+		<string>-skipped- Image at "Skippinginauguration"</string>
+		<string>-skipped- Image at "image0139"</string>
+		<string>Image at "image0140"</string>
+		<string>-skipped- Image at "ing"</string>
+		<string>Image at "image0141"</string>
+		<string>-skipped- Image at "image0142"</string>
+		<string>-skipped- Image at "image0143"</string>
+		<string>-skipped- Image at "image0144"</string>
+		<string>Image at "image0145"</string>
+		<string>-skipped- Image at "Haleyfacesquestions"</string>
+		<string>-skipped- Image at "image0146"</string>
+		<string>-skipped- Image at "Collapsesoncourt"</string>
+		<string>-skipped- Image at "image0147"</string>
+		<string>Image at "HiLetspersonalizeyourhomepageL"</string>
+		<string>-skipped- Image at "PrivacyandCookiesLegalAdvertis"</string>
+		<string>-skipped- Image at "image0148"</string>
+		<string>Image at "LegalAdvertiseAboutourads"</string>
+		<string>Image at "PrivacyandCookiesLegalAdvertis_0001"</string>
+		<string>Image at "image0149"</string>
+		<string>Image at "image0150"</string>
+		<string>-skipped- Image at "Safari"</string>
+		<string>Image at "image0151"</string>
+		<string>Image at "Cance_0002"</string>
+		<string>Image at "SetUpTimeMachine"</string>
+		<string>Image at "image0152"</string>
+		<string>Image at "image0153"</string>
+		<string>Image at "image0154"</string>
+		<string>Image at "image0155"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>Images.png</string>
+			<string>Images.png</string>
+			<string>Videos.png</string>
+			<string>Videos.png</string>
+			<string>ImagesVideosMaps.png</string>
+			<string>ImagesVideosMaps.png</string>
+			<string>NewsExplore.png</string>
+			<string>NewsExplore.png</string>
+			<string>NewsExplore_0001.png</string>
+			<string>NewsExplore_0001.png</string>
+			<string>NewsExplore_0002.png</string>
+			<string>NewsExplore_0002.png</string>
+			<string>MSN.png</string>
+			<string>MSN.png</string>
+			<string>MSNOfficeOnline.png</string>
+			<string>MSNOfficeOnline.png</string>
+			<string>Outiookcom.png</string>
+			<string>Outiookcom.png</string>
+			<string>ibingcom.png</string>
+			<string>ibingcom.png</string>
+			<string>image0128.png</string>
+			<string>image0128.png</string>
+			<string>image0129.png</string>
+			<string>image0129.png</string>
+			<string>image0130.png</string>
+			<string>image0130.png</string>
+			<string>image0131.png</string>
+			<string>image0131.png</string>
+			<string>image0132.png</string>
+			<string>image0132.png</string>
+			<string>image0133.png</string>
+			<string>image0133.png</string>
+			<string>image0134.png</string>
+			<string>image0134.png</string>
+			<string>image0135.png</string>
+			<string>image0135.png</string>
+			<string>image0136.png</string>
+			<string>image0136.png</string>
+			<string>image0137.png</string>
+			<string>image0137.png</string>
+			<string>image0138.png</string>
+			<string>image0138.png</string>
+			<string>Skippinginauguration.png</string>
+			<string>Skippinginauguration.png</string>
+			<string>image0139.png</string>
+			<string>image0139.png</string>
+			<string>image0140.png</string>
+			<string>image0140.png</string>
+			<string>ing.png</string>
+			<string>ing.png</string>
+			<string>image0141.png</string>
+			<string>image0141.png</string>
+			<string>image0142.png</string>
+			<string>image0142.png</string>
+			<string>image0143.png</string>
+			<string>image0143.png</string>
+			<string>image0144.png</string>
+			<string>image0144.png</string>
+			<string>image0145.png</string>
+			<string>image0145.png</string>
+			<string>Haleyfacesquestions.png</string>
+			<string>Haleyfacesquestions.png</string>
+			<string>image0146.png</string>
+			<string>image0146.png</string>
+			<string>Collapsesoncourt.png</string>
+			<string>Collapsesoncourt.png</string>
+			<string>image0147.png</string>
+			<string>image0147.png</string>
+			<string>HiLetspersonalizeyourhomepageL.png</string>
+			<string>HiLetspersonalizeyourhomepageL.png</string>
+			<string>PrivacyandCookiesLegalAdvertis.png</string>
+			<string>PrivacyandCookiesLegalAdvertis.png</string>
+			<string>image0148.png</string>
+			<string>image0148.png</string>
+			<string>LegalAdvertiseAboutourads.png</string>
+			<string>LegalAdvertiseAboutourads.png</string>
+			<string>PrivacyandCookiesLegalAdvertis_0001.png</string>
+			<string>PrivacyandCookiesLegalAdvertis_0001.png</string>
+			<string>image0149.png</string>
+			<string>image0149.png</string>
+			<string>image0150.png</string>
+			<string>image0150.png</string>
+			<string>Safari.png</string>
+			<string>Safari.png</string>
+			<string>image0151.png</string>
+			<string>image0151.png</string>
+			<string>Cance_0002.png</string>
+			<string>Cance_0002.png</string>
+			<string>SetUpTimeMachine.png</string>
+			<string>SetUpTimeMachine.png</string>
+			<string>image0152.png</string>
+			<string>image0152.png</string>
+			<string>image0153.png</string>
+			<string>image0153.png</string>
+			<string>image0154.png</string>
+			<string>image0154.png</string>
+			<string>image0155.png</string>
+			<string>image0155.png</string>
+			<string>Images.png</string>
+			<string>Videos.png</string>
+			<string>ImagesVideosMaps.png</string>
+			<string>NewsExplore.png</string>
+			<string>NewsExplore_0001.png</string>
+			<string>NewsExplore_0002.png</string>
+			<string>MSN.png</string>
+			<string>MSNOfficeOnline.png</string>
+			<string>Outiookcom.png</string>
+			<string>ibingcom.png</string>
+			<string>image0128.png</string>
+			<string>image0129.png</string>
+			<string>image0130.png</string>
+			<string>image0131.png</string>
+			<string>image0132.png</string>
+			<string>image0133.png</string>
+			<string>image0134.png</string>
+			<string>image0135.png</string>
+			<string>image0136.png</string>
+			<string>image0137.png</string>
+			<string>image0138.png</string>
+			<string>Skippinginauguration.png</string>
+			<string>image0139.png</string>
+			<string>image0140.png</string>
+			<string>ing.png</string>
+			<string>image0141.png</string>
+			<string>image0142.png</string>
+			<string>image0143.png</string>
+			<string>image0144.png</string>
+			<string>image0145.png</string>
+			<string>Haleyfacesquestions.png</string>
+			<string>image0146.png</string>
+			<string>Collapsesoncourt.png</string>
+			<string>image0147.png</string>
+			<string>HiLetspersonalizeyourhomepageL.png</string>
+			<string>PrivacyandCookiesLegalAdvertis.png</string>
+			<string>image0148.png</string>
+			<string>LegalAdvertiseAboutourads.png</string>
+			<string>PrivacyandCookiesLegalAdvertis_0001.png</string>
+			<string>image0149.png</string>
+			<string>image0150.png</string>
+			<string>Safari.png</string>
+			<string>image0151.png</string>
+			<string>Cance_0002.png</string>
+			<string>SetUpTimeMachine.png</string>
+			<string>image0152.png</string>
+			<string>image0153.png</string>
+			<string>image0154.png</string>
+			<string>image0155.png</string>
+			<string>Images.png</string>
+			<string>NewsExplore.png</string>
+			<string>NewsExplore_0001.png</string>
+			<string>NewsExplore_0002.png</string>
+			<string>MSN.png</string>
+			<string>MSNOfficeOnline.png</string>
+			<string>Outiookcom.png</string>
+			<string>ibingcom.png</string>
+			<string>image0128.png</string>
+			<string>image0129.png</string>
+			<string>image0130.png</string>
+			<string>image0134.png</string>
+			<string>image0135.png</string>
+			<string>image0136.png</string>
+			<string>image0137.png</string>
+			<string>image0140.png</string>
+			<string>image0141.png</string>
+			<string>image0145.png</string>
+			<string>HiLetspersonalizeyourhomepageL.png</string>
+			<string>LegalAdvertiseAboutourads.png</string>
+			<string>PrivacyandCookiesLegalAdvertis_0001.png</string>
+			<string>image0149.png</string>
+			<string>image0150.png</string>
+			<string>image0151.png</string>
+			<string>Cance_0002.png</string>
+			<string>SetUpTimeMachine.png</string>
+			<string>image0152.png</string>
+			<string>image0153.png</string>
+			<string>image0154.png</string>
+			<string>image0155.png</string>
+			<string>Images.png</string>
+			<string>NewsExplore.png</string>
+			<string>NewsExplore_0001.png</string>
+			<string>NewsExplore_0002.png</string>
+			<string>MSN.png</string>
+			<string>MSNOfficeOnline.png</string>
+			<string>Outiookcom.png</string>
+			<string>ibingcom.png</string>
+			<string>image0128.png</string>
+			<string>image0129.png</string>
+			<string>image0130.png</string>
+			<string>image0134.png</string>
+			<string>image0135.png</string>
+			<string>image0136.png</string>
+			<string>image0137.png</string>
+			<string>image0140.png</string>
+			<string>image0141.png</string>
+			<string>image0145.png</string>
+			<string>HiLetspersonalizeyourhomepageL.png</string>
+			<string>LegalAdvertiseAboutourads.png</string>
+			<string>PrivacyandCookiesLegalAdvertis_0001.png</string>
+			<string>image0149.png</string>
+			<string>image0150.png</string>
+			<string>image0151.png</string>
+			<string>Cance_0002.png</string>
+			<string>SetUpTimeMachine.png</string>
+			<string>image0152.png</string>
+			<string>image0153.png</string>
+			<string>image0154.png</string>
+			<string>image0155.png</string>
+			<string>Images.png</string>
+			<string>NewsExplore.png</string>
+			<string>NewsExplore_0001.png</string>
+			<string>NewsExplore_0002.png</string>
+			<string>MSN.png</string>
+			<string>MSNOfficeOnline.png</string>
+			<string>Outiookcom.png</string>
+			<string>ibingcom.png</string>
+			<string>image0128.png</string>
+			<string>image0129.png</string>
+			<string>image0130.png</string>
+			<string>image0134.png</string>
+			<string>image0135.png</string>
+			<string>image0136.png</string>
+			<string>image0137.png</string>
+			<string>image0140.png</string>
+			<string>image0141.png</string>
+			<string>image0145.png</string>
+			<string>HiLetspersonalizeyourhomepageL.png</string>
+			<string>LegalAdvertiseAboutourads.png</string>
+			<string>PrivacyandCookiesLegalAdvertis_0001.png</string>
+			<string>image0149.png</string>
+			<string>image0150.png</string>
+			<string>image0151.png</string>
+			<string>Cance_0002.png</string>
+			<string>SetUpTimeMachine.png</string>
+			<string>image0152.png</string>
+			<string>image0153.png</string>
+			<string>image0154.png</string>
+			<string>image0155.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>rapidSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

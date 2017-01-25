@@ -1,0 +1,14 @@
+﻿(* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+  Script generated:  2016-10-13 08:57:49
+  From session:  untitled session
+  Captured on:  2016-10-13 08:56:48
+  From server:  REENAKUNI8D42
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *)
+
+Click "image0002"
+DoubleClick "image0003"
+TypeText "terst"
+TypeText Backspace,Backspace,Backspace,"stplant",Return
+Click "TestPlanteggPlantTestAutomatio"
+DoubleClick "image0004"
+Click "image0005"

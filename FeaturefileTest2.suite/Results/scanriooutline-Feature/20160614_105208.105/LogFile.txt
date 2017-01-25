@@ -1,0 +1,10 @@
+﻿2016-06-14 10:52:08.105 -0600	START		Running scanriooutline.feature
+2016-06-14 10:52:08.112 -0600	Log		page is open	2	on_page_is_open	scanriooutline.script<SOURCE>
+2016-06-14 10:52:08.114 -0600	LogSuccess		page is open
+2016-06-14 10:52:08.114 -0600	Log		hello	3	on_enter_var	scanriooutline.script<SOURCE>
+2016-06-14 10:52:08.116 -0600	LogSuccess		enter <num1>
+2016-06-14 10:52:08.117 -0600	Log		there	3	on_enter_second_number_var	scanriooutline.script<SOURCE>
+2016-06-14 10:52:08.118 -0600	LogSuccess		enter second number <num2>
+2016-06-14 10:52:08.133 -0600	LogError		add <num1> and <num2> to get <num3>
+2016-06-14 10:52:08.134 -0600	EndTestCase		(Duration:"0.027565", Errors:"2", Exceptions:"0", StartTime:"2016-06-14 10:52:08 -0600", Successes:"3", TestCase:"scanriooutline.feature", Warnings:"0")
+2016-06-14 10:52:08.139 -0600	FAILURE		1 scenarios (1 failed, 0 passed) 4 steps (1 failed, 0 skipped, 3 passed) Execution Time 0:00:00

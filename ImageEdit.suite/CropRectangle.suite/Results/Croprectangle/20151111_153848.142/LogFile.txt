@@ -1,0 +1,4 @@
+﻿2015-11-11 15:38:48.144 -0700	START		Running Croprectangle.script
+2015-11-11 15:38:48.380 -0700	Exception	image0003_new	Could Not Open Image: image0003_new	1	on_croprectangle	Croprectangle.script
+2015-11-11 15:38:48.624 -0700	EndTestCase		(Duration:"0.47798", Errors:"1", Exceptions:"1", StartTime:"2015-11-11 15:38:48 -0700", Successes:"0", TestCase:"Croprectangle.script", Warnings:"0")
+2015-11-11 15:38:49.071 -0700	FAILURE	Screen_Error.tiff	File Not Found doubleclick Error - Could Not Open Image: image0003_new -- Execution Time 0:00:00 Croprectangle.script

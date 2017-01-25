@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="test1.feature" package="FeatureFileTest.suite" timestamp="2016-06-11 00:01:09.949 -0600"
+ tests="1" successes="7" errors="2" time="0.024387">
+  <properties>
+   <property name="RunDate" value="2016-06-11 00:01:09.949 -0600"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="test1.feature" assertions="9" successes="7" errors="2" time="0.023277">
+    <failure type="LogError">I have a variable with value <num1></failure>
+  </testcase>
+ </testsuite>
+</testsuites>

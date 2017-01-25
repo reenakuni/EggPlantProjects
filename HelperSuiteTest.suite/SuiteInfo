@@ -1,0 +1,25 @@
+﻿{
+    EPVersionNumber = 1701160218;
+    PostRunScript = "HelperhelperNov1.script";
+    PreRunScript = "HelperhelperNov1.script";
+    Schedules =     (
+                {
+            ChangeCount = 0;
+            Name = "Schedule 1";
+            Schedule =             (
+            );
+        }
+    );
+    ScriptMetaData =     {
+    };
+    helpedSuitesInfo =     (
+                {
+            filePath = "HelperTestMain.suite";
+        },
+                {
+            filePath = "EggplantProjects/DefaultzoneMemissue.suite";
+        }
+    );
+    helperSuitesInfo =     (
+    );
+}

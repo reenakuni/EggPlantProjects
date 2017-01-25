@@ -1,0 +1,11 @@
+﻿2016-06-10 17:27:50.880 -0600	START		Running Untitled.feature
+2016-06-10 17:27:50.888 -0600	LogSuccess		I have a variable with the numeric value "five"
+2016-06-10 17:27:50.888 -0600	LogSuccess		I have a variable with the numeric value "five"
+2016-06-10 17:27:50.889 -0600	LogSuccess		I have a variable with the numeric value "three"
+2016-06-10 17:27:50.889 -0600	LogSuccess		I have a variable with the numeric value "three"
+2016-06-10 17:27:50.890 -0600	LogSuccess		I add the two variables
+2016-06-10 17:27:50.891 -0600	LogSuccess		I add the two variables
+2016-06-10 17:27:50.891 -0600	LogSuccess		the result should be the numeric value "eight"
+2016-06-10 17:27:50.892 -0600	LogSuccess		the result should be the numeric value "eight"
+2016-06-10 17:27:50.893 -0600	EndTestCase		(Duration:"0.011227", Errors:"0", Exceptions:"0", StartTime:"2016-06-10 17:27:50 -0600", Successes:"8", TestCase:"Untitled.feature", Warnings:"0")
+2016-06-10 17:27:50.900 -0600	SUCCESS		1 scenarios (0 failed, 1 passed) 4 steps (0 failed, 0 skipped, 4 passed) Execution Time 0:00:00

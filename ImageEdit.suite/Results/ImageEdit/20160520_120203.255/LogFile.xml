@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="ImageEdit.script" package="ImageEdit.suite" timestamp="2016-05-20 12:02:03.255 -0600"
+ tests="1" successes="0" errors="1" time="0.342992">
+  <properties>
+   <property name="RunDate" value="2016-05-20 12:02:03.255 -0600"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="ImageEdit.script" assertions="1" successes="0" errors="1" time="0.341024">
+  </testcase>
+ </testsuite>
+</testsuites>

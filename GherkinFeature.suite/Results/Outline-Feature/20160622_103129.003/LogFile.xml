@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Outline.feature" package="GherkinFeature.suite" timestamp="2016-06-22 10:31:29.003 -0600"
+ tests="1" successes="(null)" errors="(null)" time="0.000000">
+  <properties>
+   <property name="RunDate" value="2016-06-22 10:31:29.003 -0600"/>
+   <property name="Status" value="Running"/>
+  </properties>
+  <testcase name="Outline.feature" assertions="4" successes="1" errors="3" time="3.663698">
+    <failure type="LogError">I click an <image></failure>
+    <failure type="LogError">log success</failure>
+  </testcase>
+ </testsuite>
+</testsuites>

@@ -1,0 +1,7 @@
+﻿if ImageFound(2, "helperimage")
+	put ImageInfo("helperimage")
+end if
+
+//unsaved changes
+
+HelperHelper

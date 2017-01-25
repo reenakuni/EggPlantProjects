@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<runHistory script="HelperSubfolder/featureStep">
+ <run>
+  <RunDate>2016-11-14 14:27:57.269 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.011677</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161114_142757.269/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

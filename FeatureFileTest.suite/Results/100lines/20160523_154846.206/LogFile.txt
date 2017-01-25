@@ -1,0 +1,5 @@
+﻿2016-05-23 15:48:46.207 -0600	START		Running 100lines.script
+2016-05-23 15:48:46.278 -0600	Log		X	1	on_100lines	100lines.script
+2016-05-23 15:48:46.279 -0600	Log		X	2	on_100lines	100lines.script
+2016-05-23 15:48:46.699 -0600	EndTestCase		(Duration:"0.489699", Errors:"0", Exceptions:"0", StartTime:"2016-05-23 15:48:46 -0600", Successes:"1", TestCase:"100lines.script", Warnings:"0")
+2016-05-23 15:48:46.705 -0600	SUCCESS		Execution Time 0:00:00 100lines.script

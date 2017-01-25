@@ -1,0 +1,4 @@
+﻿2016-10-27 11:34:32.448 -0600	START		Running Untitled3.script
+2016-10-27 11:34:33.070 -0600	click	return	at (559, 1090)	1	on_untitled3	Untitled3.script
+2016-10-27 11:34:33.638 -0600	EndTestCase		(Duration:"1.188125", Errors:"0", Exceptions:"0", StartTime:"2016-10-27 11:34:32 -0600", Successes:"1", TestCase:"Untitled3.script", Warnings:"0")
+2016-10-27 11:34:33.649 -0600	SUCCESS		Execution Time 0:00:01 Untitled3.script

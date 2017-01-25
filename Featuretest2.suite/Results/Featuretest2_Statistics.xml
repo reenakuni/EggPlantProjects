@@ -1,0 +1,19 @@
+﻿<?xml version="1.0"?>
+<statistics>
+ <script name="Untitled">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>6</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2017-01-09 13:42:49 -0700</FirstRun>
+  <LastRun>2017-01-09 13:51:13 -0700</LastRun>
+  <TotalTimeOnSuccess>0.075338</TotalTimeOnSuccess>
+ </script>
+ <script name="NewFolder/Untitled">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>10</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-06-06 16:32:07 -0600</FirstRun>
+  <LastRun>2017-01-09 13:42:01 -0700</LastRun>
+  <TotalTimeOnSuccess>0.086512</TotalTimeOnSuccess>
+ </script>
+</statistics>

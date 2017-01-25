@@ -1,0 +1,18 @@
+﻿{
+    CaptureDate = "2017-01-19 19:42:09 +0000";
+    CaptureHost = "testplants-Mac-2";
+    CaptureScreenSize =     (
+        1272,
+        793
+    );
+    HasAlpha = 1;
+    HotSpotX = 75;
+    HotSpotY = 13;
+    LastKnownLocationX = 0;
+    LastKnownLocationY = 0;
+    OriginalLocationX = 402;
+    OriginalLocationY = 748;
+    Precise = 0;
+    Pulsing = 0;
+    Scale = 1;
+}

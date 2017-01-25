@@ -1,0 +1,4 @@
+﻿2016-11-14 14:30:08.694 -0700	START		Running Helper2.script
+2016-11-14 14:30:13.243 -0700	Exception		Remote Connection Unavailable	3	on_helper2	Helper2.script
+2016-11-14 14:30:13.475 -0700	EndTestCase		(Duration:"4.780101", Errors:"1", Exceptions:"1", StartTime:"2016-11-14 14:30:08 -0700", Successes:"0", TestCase:"Helper2.script", Warnings:"0")
+2016-11-14 14:30:13.478 -0700	FAILURE		No Remote Connection typetext Error - Remote Connection Unavailable -- Execution Time 0:00:04 Helper2.script

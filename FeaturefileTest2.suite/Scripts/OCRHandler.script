@@ -1,0 +1,4 @@
+﻿to handle textsearch
+	set the searchRectangle to (0,0,250,250)
+	Moveto(text:"eggplanttt")
+end textsearch

@@ -1,0 +1,83 @@
+﻿<?xml version="1.0"?>
+<statistics>
+ <script name="Sfoldertest1/Untitled">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-11-01 09:19:09 -0600</FirstRun>
+  <LastRun>2016-11-01 09:19:09 -0600</LastRun>
+  <TotalTimeOnSuccess>3.911298</TotalTimeOnSuccess>
+ </script>
+ <script name="2048M">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>35</NumberOfRuns>
+  <NumberOfFails>3</NumberOfFails>
+  <FirstRun>2016-10-24 11:06:31 -0600</FirstRun>
+  <LastRun>2016-10-31 11:01:36 -0600</LastRun>
+  <TotalTimeOnSuccess>228.787310</TotalTimeOnSuccess>
+ </script>
+ <script name="2048M1">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>2</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-10-24 11:47:00 -0600</FirstRun>
+  <LastRun>2016-10-25 14:35:28 -0600</LastRun>
+  <TotalTimeOnSuccess>5.710647</TotalTimeOnSuccess>
+ </script>
+ <script name="Sb15">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-10-31 11:35:35 -0600</FirstRun>
+  <LastRun>2016-10-31 11:35:35 -0600</LastRun>
+  <TotalTimeOnSuccess>2.182071</TotalTimeOnSuccess>
+ </script>
+ <script name="Year">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>3</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-10-27 11:29:08 -0600</FirstRun>
+  <LastRun>2016-10-27 11:30:39 -0600</LastRun>
+  <TotalTimeOnSuccess>43.782068</TotalTimeOnSuccess>
+ </script>
+ <script name="Next">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>9</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-10-27 11:08:50 -0600</FirstRun>
+  <LastRun>2016-10-31 14:07:03 -0600</LastRun>
+  <TotalTimeOnSuccess>35.792212</TotalTimeOnSuccess>
+ </script>
+ <script name="Sb1">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>2</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-10-31 11:37:31 -0600</FirstRun>
+  <LastRun>2016-10-31 11:37:55 -0600</LastRun>
+  <TotalTimeOnSuccess>21.490877</TotalTimeOnSuccess>
+ </script>
+ <script name="ButtonwithText">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>8</NumberOfRuns>
+  <NumberOfFails>2</NumberOfFails>
+  <FirstRun>2016-10-26 15:55:55 -0600</FirstRun>
+  <LastRun>2016-10-26 16:13:56 -0600</LastRun>
+  <TotalTimeOnSuccess>16.580444</TotalTimeOnSuccess>
+ </script>
+ <script name="Google">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>7</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-10-25 15:07:20 -0600</FirstRun>
+  <LastRun>2016-10-25 15:11:21 -0600</LastRun>
+  <TotalTimeOnSuccess>48.005896</TotalTimeOnSuccess>
+ </script>
+ <script name="Return">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>4</NumberOfRuns>
+  <NumberOfFails>2</NumberOfFails>
+  <FirstRun>2016-10-27 11:35:57 -0600</FirstRun>
+  <LastRun>2016-10-31 11:10:55 -0600</LastRun>
+  <TotalTimeOnSuccess>15.413747</TotalTimeOnSuccess>
+ </script>
+</statistics>

@@ -1,0 +1,4 @@
+click "Google"
+
+typetext homeButton
+Set the SearchRectangle to ("store_A","store_B")

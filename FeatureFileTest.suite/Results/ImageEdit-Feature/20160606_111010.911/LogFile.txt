@@ -1,0 +1,10 @@
+﻿2016-06-06 11:10:10.911 -0600	START		Running ImageEdit.feature
+2016-06-06 11:10:10.917 -0600	Log		connected to a sut	2	on_connected_to_a_sut	ImageEdit.script<SOURCE>
+2016-06-06 11:10:10.919 -0600	LogSuccess		Connected to a SUT
+2016-06-06 11:10:10.919 -0600	LogSuccess		Connected to a SUT
+2016-06-06 11:10:42.122 -0600	Exception		Retrieving Frame Buffer:Conection to server was lost while trying to sync\ntestplant@localhost.localdomain\n	2	on_select_an_image	ImageEdit.script<SOURCE>
+2016-06-06 11:10:42.127 -0600	LogError		Select an image
+2016-06-06 11:10:42.130 -0600	LogSuccess		Select an image
+2016-06-06 11:10:42.130 -0600	LogWarning		image should appear on the images list
+2016-06-06 11:10:42.132 -0600	EndTestCase		(Duration:"31.219391", Errors:"2", Exceptions:"1", StartTime:"2016-06-06 11:10:10 -0600", Successes:"3", TestCase:"ImageEdit.feature", Warnings:"1")
+2016-06-06 11:10:42.132 -0600	ABORTED		Execution Time 0:00:31 ImageEdit.feature

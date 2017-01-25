@@ -1,0 +1,8 @@
+﻿2016-06-22 10:00:50.782 -0600	START		Running Untitled.feature
+2016-06-22 10:00:50.791 -0600	Log		I have a VM	2	on_i_have_a_vm	Untitled.script<SOURCE>
+2016-06-22 10:00:50.793 -0600	LogSuccess		I have a VM
+2016-06-22 10:00:50.795 -0600	connect		10.1.11.128:(null)	2	on_i_connect	Untitled.script<SOURCE>
+2016-06-22 10:00:50.795 -0600	LogSuccess		I connect
+2016-06-22 10:00:50.796 -0600	LogError		log success
+2016-06-22 10:00:50.797 -0600	EndTestCase		(Duration:"0.013589", Errors:"2", Exceptions:"0", StartTime:"2016-06-22 10:00:50 -0600", Successes:"2", TestCase:"Untitled.feature", Warnings:"0")
+2016-06-22 10:00:51.182 -0600	FAILURE	Screen_Error.png	1 scenarios (1 failed, 0 passed) 3 steps (1 failed, 0 skipped, 2 passed) Execution Time 0:00:00

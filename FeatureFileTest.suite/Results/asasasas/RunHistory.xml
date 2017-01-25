@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<runHistory script="asasasas">
+ <run>
+  <RunDate>2016-06-23 15:02:29.689 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>1.091268</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160623_150229.689/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

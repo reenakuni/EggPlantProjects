@@ -1,0 +1,27 @@
+﻿
+to handle I_have_a_variable_with_value_VAR
+	params num1
+	set num1 = 10
+end I_have_a_variable_with_value_VAR
+
+to handle I_have_a_variable_with_the_value_VAR
+	params num2
+	set num2 = 30
+	
+end I_have_a_variable_with_the_value_VAR
+
+
+
+to handle I_add_the_two_numbers
+	set x =  num1 + num2  
+end I_add_the_two_numbers
+
+to handle the_result_should_be_VAR
+	params num3
+	if x = num3
+		log "sucess"
+	else
+		log "failure"
+	end if
+end the_result_should_be_VAR
+

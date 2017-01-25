@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[0, 773, 346, 793], command:@"Click", eventNum:2, hotSpot:[8.4253906000000001e+01, 1.6957031000000001e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"UFinder", searchType:@"Smooth", waitFor:@"2"}, screenShotFile:@"Screen0002.png"}, {captureRect:[53, 776, 99, 789], command:@"Click", eventNum:4, hotSpot:[8.0433593999999999e+01, 1.4179688000000001e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"UFinder_0001", searchType:@"Smooth", waitFor:@"3"}, screenShotFile:@"Screen0004.png"}, {captureRect:[65, 751, 105, 765], command:@"Click", eventNum:6, hotSpot:[8.8769531000000001e+01, 4.0093750000000000e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"AboutFinder", searchType:@"Smooth", waitFor:@"4"}, screenShotFile:@"Screen0006.png"}, {captureRect:[500, 657, 504, 661], command:@"Click", eventNum:8, hotSpot:[5.0233593800000000e+02, 1.3412109400000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"AboutFinder_0001", searchType:@"Smooth", waitFor:@"6"}, screenShotFile:@"Screen0008.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Click (Image:"UFinder", WaitFor:2)</string>
+		<string>Click (Image:"UFinder_0001", WaitFor:3)</string>
+		<string>Click (Image:"AboutFinder", WaitFor:4)</string>
+		<string>Click (Image:"AboutFinder_0001", WaitFor:6)</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>UFinder.png</string>
+			<string>UFinder.png</string>
+			<string>UFinder_0001.png</string>
+			<string>UFinder_0001.png</string>
+			<string>AboutFinder.png</string>
+			<string>AboutFinder.png</string>
+			<string>AboutFinder_0001.png</string>
+			<string>AboutFinder_0001.png</string>
+			<string>UFinder.png</string>
+			<string>UFinder_0001.png</string>
+			<string>AboutFinder.png</string>
+			<string>AboutFinder_0001.png</string>
+			<string>UFinder.png</string>
+			<string>UFinder_0001.png</string>
+			<string>AboutFinder.png</string>
+			<string>AboutFinder_0001.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>turboSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[170, 776, 196, 789], command:@"Image at", eventNum:2, hotSpot:[1.7241796900000000e+02, 1.5929688000000001e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"GameEditMovesWindowHelp_0001", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[107, 773, 599, 793], command:@"Image at", eventNum:3, hotSpot:[2.2584765600000000e+02, 1.7011718999999999e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"GameEditMovesWindowHelp_0002", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0003.png", skipStep:@"YES"}, {captureRect:[107, 773, 614, 793], command:@"Image at", eventNum:4, hotSpot:[3.1530468800000000e+02, 1.7761718999999999e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"GameEditMovesWindowHelp_0003", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0004.png", skipStep:@"YES"}, {captureRect:[344, 774, 375, 789], command:@"Image at", eventNum:5, hotSpot:[3.5880468800000000e+02, 1.3941406000000001e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"GameEditMovesWindowHelp_0004", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0005.png", skipStep:@"YES"}, {captureRect:[410, 751, 414, 755], command:@"Image at", eventNum:6, hotSpot:[4.1292968800000000e+02, 4.0414062000000001e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"testplantComputerNewGame_0005", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0006.png"}, {captureRect:[758, 682, 974, 740], command:@"Image at", eventNum:7, hotSpot:[8.6995703100000003e+02, 1.0583203100000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Computer_0003", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0007.png"}, {captureRect:[802, 652, 930, 675], command:@"Image at", eventNum:8, hotSpot:[8.8037500000000000e+02, 1.3244140600000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"EditGameInfo_0003", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0008.png"}, {captureRect:[1065, 700, 1095, 732], command:@"Image at", eventNum:9, hotSpot:[1.0865390620000001e+03, 8.9039062000000001e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0234", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0009.png"}, {captureRect:[1085, 311, 1089, 315], command:@"Image at", eventNum:10, hotSpot:[1.0875000000000000e+03, 4.7952343800000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0235", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0010.png"}, {captureRect:[996, 782, 1000, 786], command:@"Image at", eventNum:11, hotSpot:[9.9866406199999994e+02, 9.3320310000000006e+00], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0236", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0011.png"}, {captureRect:[1019, 775, 1043, 790], command:@"Image at", eventNum:12, hotSpot:[1.0319570309999999e+03, 8.6367189999999994e+00], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0237", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0012.png"}, {captureRect:[1055, 776, 1079, 789], command:@"Image at", eventNum:13, hotSpot:[1.0669414059999999e+03, 8.6367189999999994e+00], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0238", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0013.png"}, {captureRect:[1089, 776, 1119, 789], command:@"Image at", eventNum:14, hotSpot:[1.0988046879999999e+03, 1.3843750000000000e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0233", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0014.png", skipStep:@"YES"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Image at "GameEditMovesWindowHelp_0001"</string>
+		<string>-skipped- Image at "GameEditMovesWindowHelp_0002"</string>
+		<string>-skipped- Image at "GameEditMovesWindowHelp_0003"</string>
+		<string>-skipped- Image at "GameEditMovesWindowHelp_0004"</string>
+		<string>Image at "testplantComputerNewGame_0005"</string>
+		<string>Image at "Computer_0003"</string>
+		<string>Image at "EditGameInfo_0003"</string>
+		<string>Image at "image0234"</string>
+		<string>Image at "image0235"</string>
+		<string>Image at "image0236"</string>
+		<string>Image at "image0237"</string>
+		<string>Image at "image0238"</string>
+		<string>-skipped- Image at "image0233"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>GameEditMovesWindowHelp_0001.png</string>
+			<string>image0233.png</string>
+			<string>GameEditMovesWindowHelp_0002.png</string>
+			<string>GameEditMovesWindowHelp_0003.png</string>
+			<string>GameEditMovesWindowHelp_0001.png</string>
+			<string>testplantComputerNewGame_0005.png</string>
+			<string>testplantComputerNewGame_0005.png</string>
+			<string>Computer_0003.png</string>
+			<string>Computer_0003.png</string>
+			<string>EditGameInfo_0003.png</string>
+			<string>EditGameInfo_0003.png</string>
+			<string>image0234.png</string>
+			<string>image0234.png</string>
+			<string>image0235.png</string>
+			<string>image0235.png</string>
+			<string>image0236.png</string>
+			<string>image0236.png</string>
+			<string>image0237.png</string>
+			<string>image0237.png</string>
+			<string>image0238.png</string>
+			<string>image0238.png</string>
+			<string>GameEditMovesWindowHelp_0004.png</string>
+			<string>GameEditMovesWindowHelp_0001.png</string>
+			<string>testplantComputerNewGame_0005.png</string>
+			<string>Computer_0003.png</string>
+			<string>EditGameInfo_0003.png</string>
+			<string>image0234.png</string>
+			<string>image0235.png</string>
+			<string>image0236.png</string>
+			<string>image0237.png</string>
+			<string>image0238.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>rapidSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

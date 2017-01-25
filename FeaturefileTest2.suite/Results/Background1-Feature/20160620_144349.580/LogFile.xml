@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Background1.feature" package="FeaturefileTest2.suite" timestamp="2016-06-20 14:43:49.580 -0600"
+ tests="1" successes="4" errors="3" time="0.073018">
+  <properties>
+   <property name="RunDate" value="2016-06-20 14:43:49.580 -0600"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="Background1.feature" assertions="7" successes="4" errors="3" time="0.071786">
+    <failure type="LogError">i give <num1> to mickey</failure>
+    <failure type="LogError">i give <num1> to mickey</failure>
+  </testcase>
+ </testsuite>
+</testsuites>

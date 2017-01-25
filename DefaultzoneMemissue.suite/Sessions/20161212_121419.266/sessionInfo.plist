@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[250, 685, 757, 704], command:@"Drag", eventNum:2, hotSpot:[3.4717578099999997e+02, 5.3246093999999999e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"0Dbuildtestplantcomjenkinsjobe", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[250, 685, 757, 704], command:@"Drop", eventNum:2, hotSpot:[3.4717578099999997e+02, 5.3941406000000001e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"0Dbuildtestplantcomjenkinsjobe_0001", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[381, 708, 451, 738], command:@"Click", eventNum:4, hotSpot:[4.1650781200000000e+02, 3.0632812000000001e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0007", searchType:@"Tolerant", waitFor:@"2"}, screenShotFile:@"Screen0004.png"}, {command:@"TypeText", eventNum:6, screenShotFile:@"Screen0006.png", text:@"\"hello\""}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Drag "0Dbuildtestplantcomjenkinsjobe"</string>
+		<string>Drop "0Dbuildtestplantcomjenkinsjobe_0001"</string>
+		<string>Click (Image:"image0007", WaitFor:2)</string>
+		<string>TypeText "hello"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>0Dbuildtestplantcomjenkinsjobe.png</string>
+			<string>0Dbuildtestplantcomjenkinsjobe_0001.png</string>
+			<string>image0007.png</string>
+			<string>0Dbuildtestplantcomjenkinsjobe.png</string>
+			<string>0Dbuildtestplantcomjenkinsjobe_0001.png</string>
+			<string>image0007.png</string>
+			<string>0Dbuildtestplantcomjenkinsjobe.png</string>
+			<string>0Dbuildtestplantcomjenkinsjobe_0001.png</string>
+			<string>image0007.png</string>
+			<string>0Dbuildtestplantcomjenkinsjobe.png</string>
+			<string>0Dbuildtestplantcomjenkinsjobe_0001.png</string>
+			<string>image0007.png</string>
+		</array>
+	</dict>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

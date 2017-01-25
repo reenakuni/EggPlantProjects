@@ -1,0 +1,30 @@
+﻿
+to handle the_account_balance_should_be__NUM
+	params num1
+	log num1
+	
+end the_account_balance_should_be__NUM
+
+to handle the_balance_is__NUM
+	params num1
+	log num1
+	
+end the_balance_is__NUM
+
+to handle the_account_holder_requests__NUM
+	params num1
+	log num1
+	
+end the_account_holder_requests__NUM
+
+to handle the_card_is_valid
+	
+end the_card_is_valid
+
+to handle the_machine_contains_enough_money
+	
+end the_machine_contains_enough_money
+
+to handle the_card_should_be_returned
+	
+end the_card_should_be_returned

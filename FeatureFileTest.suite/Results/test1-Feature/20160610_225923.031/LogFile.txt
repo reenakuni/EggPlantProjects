@@ -1,0 +1,10 @@
+﻿2016-06-10 22:59:23.031 -0600	START		Running test1.feature
+2016-06-10 22:59:23.038 -0600	LogSuccess		I have the two numbers
+2016-06-10 22:59:23.039 -0600	LogSuccess		I have the two numbers
+2016-06-10 22:59:23.040 -0600	LogSuccess		I add the two numbers
+2016-06-10 22:59:23.040 -0600	LogSuccess		I add the two numbers
+2016-06-10 22:59:23.041 -0600	Log		success	2	on_the_result_should_be_success	test1.script<SOURCE>
+2016-06-10 22:59:23.043 -0600	LogSuccess		the result should be success
+2016-06-10 22:59:23.044 -0600	LogSuccess		the result should be success
+2016-06-10 22:59:23.045 -0600	EndTestCase		(Duration:"0.012562", Errors:"0", Exceptions:"0", StartTime:"2016-06-10 22:59:23 -0600", Successes:"6", TestCase:"test1.feature", Warnings:"0")
+2016-06-10 22:59:23.056 -0600	SUCCESS		1 scenarios (0 failed, 1 passed) 3 steps (0 failed, 0 skipped, 3 passed) Execution Time 0:00:00

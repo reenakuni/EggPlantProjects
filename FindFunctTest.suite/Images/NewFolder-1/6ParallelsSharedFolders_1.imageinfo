@@ -1,0 +1,20 @@
+﻿{
+    CaptureDate = "2016-10-18 18:05:46 +0000";
+    CaptureHost = "testplant@ubuntu";
+    CaptureScreenSize =     (
+        1920,
+        969
+    );
+    HasAlpha = 1;
+    HotSpotX = 65;
+    HotSpotY = 42;
+    ImageDescription = <>;
+    LastKnownLocationX = 0;
+    LastKnownLocationY = 0;
+    OriginalLocationX = 91;
+    OriginalLocationY = 49;
+    Precise = 0;
+    Pulsing = 0;
+    Scale = 1;
+    SearchAlgorithm = TextSmoothSquare;
+}

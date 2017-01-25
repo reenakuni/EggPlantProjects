@@ -1,0 +1,14 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2016-11-29 16:19:05.500 -0700,"Success",0:00:01,0,0,0,"20161129_161905.500/LogFile.txt","","",1
+2016-11-29 16:27:59.316 -0700,"Success",0:00:01,0,0,0,"20161129_162759.316/LogFile.txt","","",1
+2016-12-06 11:38:45.466 -0700,"Success",0:00:00,0,0,0,"20161206_113845.466/LogFile.txt","","",1
+2016-12-12 23:32:28.799 -0700,"Success",0:00:00,0,0,0,"20161212_233228.799/LogFile.txt","","",1
+2016-12-21 10:52:06.989 -0700,"Failure",0:00:00,1,0,0,"20161221_105206.989/LogFile.txt","","STInvalidBoolean -- Value 'foo' is not TRUE, FALSE, YES, NO, ON, OFF or empty",0
+2016-12-28 14:04:34.697 -0700,"Failure",0:00:00,1,0,0,"20161228_140434.697/LogFile.txt","","STInvalidBoolean -- Value 'foo' is not TRUE, FALSE, YES, NO, ON, OFF or empty",0
+2016-12-28 14:06:57.659 -0700,"Failure",0:00:00,1,0,0,"20161228_140657.659/LogFile.txt","","STInvalidBoolean -- Value 'foo' is not TRUE, FALSE, YES, NO, ON, OFF or empty",0
+2016-12-29 10:10:17.429 -0700,"Running",0:00:00,0,0,0,"20161229_101017.429/LogFile.txt","","",0
+2016-12-29 10:11:08.839 -0700,"Success",0:00:01,0,0,0,"20161229_101108.839/LogFile.txt","","",1
+2017-01-03 14:31:26.313 -0700,"Failure",0:00:01,1,0,0,"20170103_143126.313/LogFile.txt","","SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got 'BankCustomer'.",0
+2017-01-03 14:33:12.393 -0700,"Failure",0:00:01,1,0,0,"20170103_143312.393/LogFile.txt","","SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got 'BankCustomer'.",0
+2017-01-03 14:34:30.921 -0700,"Failure",0:00:01,1,0,0,"20170103_143430.921/LogFile.txt","","SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got 'BankCustomer'.",0
+2017-01-03 14:35:41.913 -0700,"Failure",0:00:01,1,0,0,"20170103_143541.913/LogFile.txt","","SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got 'BankCustomer'.",0

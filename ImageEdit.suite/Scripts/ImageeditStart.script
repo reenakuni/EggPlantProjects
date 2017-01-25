@@ -1,0 +1,26 @@
+﻿(*
+DoubleClick "Eggplant"
+Click "File"
+Click "NewSuite"
+TypeText Backspace
+TypeText "ImageEdit"
+Click (Image:"Save", WaitFor:54)
+Click "NewScript"
+TypeText Backspace
+TypeText ImageEdit
+Click "Connection"
+Click "ConnectionList"
+Click "Add"
+Click "imageOOOltiff"
+Click "Edit"
+Click "image0001", "File_1"
+Click "File_2"
+Click "OpenSuite"
+Click "ImageEditsuite"
+Click (Image:"Open", WaitFor:25)
+Click "Images"
+RightClick "Images_1"
+
+
+*)
+log "reena"

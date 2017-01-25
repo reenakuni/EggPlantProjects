@@ -1,0 +1,11 @@
+﻿//params x
+//Click "image0006"
+(*
+put file ResourcePath("EggplantUserPreferencesFile.txt") into myfile
+put myfile
+put file x  into myfile1
+put myfile1
+DoubleClick "image0008"
+*)
+log x
+We have email and password from a table  

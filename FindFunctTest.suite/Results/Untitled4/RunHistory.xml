@@ -1,0 +1,231 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Untitled4">
+ <run>
+  <RunDate>2016-12-21 14:26:16.040 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.799581</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161221_142616.040/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-12-21 14:26:59.647 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.836355</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161221_142659.647/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-12-21 14:28:42.006 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.811834</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20161221_142842.006/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got &#x27;~/Documents/FindFunctTest.suite/Scripts/Untitled2.script&#x27;.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-12-21 14:29:20.564 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.854356</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161221_142920.564/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-12-21 14:29:32.686 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.845922</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161221_142932.686/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-12-21 14:29:46.000 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.845162</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20161221_142946.000/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got &#x27;../Documents/FindFunctTest.suite/Scripts/Untitled2.script&#x27;.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-12-21 14:30:13.224 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.840695</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20161221_143013.224/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got &#x27;./Documents/FindFunctTest.suite/Scripts/Untitled2.script&#x27;.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-12-21 14:30:26.689 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.842252</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20161221_143026.689/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got &#x27;./FindFunctTest.suite/Scripts/Untitled2.script&#x27;.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-12-21 15:49:20.662 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.936317</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20161221_154920.662/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got &#x27;./../Documents/FindFunctTest.suite/Scripts/Untitled2.script&#x27;.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-12-21 15:50:06.618 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.966802</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20161221_155006.618/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got &#x27;../../Documents/FindFunctTest.suite/Scripts/Untitled2.script&#x27;.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-12-21 15:50:33.424 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.950179</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20161221_155033.424/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got &#x27;../../Documents/FindFunctTest.suite/Scripts/Untitled2.script&#x27;.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-12-21 15:50:53.581 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.968442</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161221_155053.581/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-12-21 15:51:16.350 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.938117</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20161221_155116.350/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got &#x27;../../Documents/FindFunctTest.suite/Scripts/Untitled2.script&#x27;.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-12-30 15:30:48.434 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>1.265759</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161230_153048.434/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-12-30 15:30:55.770 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>1.237949</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161230_153055.770/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-12-30 15:31:01.197 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>1.269921</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161230_153101.197/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-12-30 15:31:13.448 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>1.200889</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161230_153113.448/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-12-30 15:31:19.301 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>1.202892</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161230_153119.301/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-12-30 15:31:37.327 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>1.318442</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161230_153137.327/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

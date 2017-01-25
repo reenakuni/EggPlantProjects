@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[132, 359, 210, 377], command:@"Image at", eventNum:2, hotSpot:[1.8420783900000001e+02, 4.2604984100000001e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"MyPortfolio", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[132, 352, 210, 370], command:@"Image at", eventNum:3, hotSpot:[1.7601368500000001e+02, 4.2528720900000002e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"MyPortfolio_0001", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0003.png"}, {captureRect:[132, 352, 210, 370], command:@"Image at", eventNum:4, hotSpot:[1.7525123900000000e+02, 4.2528720900000002e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"MyPortfolio_0002", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0004.png"}, {captureRect:[132, 359, 210, 377], command:@"Image at", eventNum:5, hotSpot:[1.8113235499999999e+02, 4.2801640300000003e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"MyPortfolio_0003", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0005.png"}, {captureRect:[982, 389, 1017, 405], command:@"Image at", eventNum:6, hotSpot:[1.0018070850000000e+03, 3.8685142200000001e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Next", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0006.png"}, {captureRect:[1185, 666, 1213, 682], command:@"Image at", eventNum:7, hotSpot:[1.1967191539999999e+03, 1.1339649799999999e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Help", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0007.png"}, {captureRect:[678, 632, 748, 662], command:@"Image at", eventNum:8, hotSpot:[7.1370525299999997e+02, 1.4562840399999999e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0120", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0008.png"}, {captureRect:[806, 651, 880, 664], command:@"Image at", eventNum:9, hotSpot:[8.3540536099999997e+02, 1.4025142099999999e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"SearchWeb", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0009.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Image at "MyPortfolio"</string>
+		<string>Image at "MyPortfolio_0001"</string>
+		<string>Image at "MyPortfolio_0002"</string>
+		<string>Image at "MyPortfolio_0003"</string>
+		<string>Image at "Next"</string>
+		<string>Image at "Help"</string>
+		<string>Image at "image0120"</string>
+		<string>Image at "SearchWeb"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>MyPortfolio.png</string>
+			<string>MyPortfolio.png</string>
+			<string>MyPortfolio_0001.png</string>
+			<string>MyPortfolio_0001.png</string>
+			<string>MyPortfolio_0002.png</string>
+			<string>MyPortfolio_0002.png</string>
+			<string>MyPortfolio_0003.png</string>
+			<string>MyPortfolio_0003.png</string>
+			<string>Next.png</string>
+			<string>Next.png</string>
+			<string>Help.png</string>
+			<string>Help.png</string>
+			<string>image0120.png</string>
+			<string>image0120.png</string>
+			<string>SearchWeb.png</string>
+			<string>SearchWeb.png</string>
+			<string>MyPortfolio.png</string>
+			<string>MyPortfolio_0001.png</string>
+			<string>MyPortfolio_0002.png</string>
+			<string>MyPortfolio_0003.png</string>
+			<string>Next.png</string>
+			<string>Help.png</string>
+			<string>image0120.png</string>
+			<string>SearchWeb.png</string>
+			<string>MyPortfolio.png</string>
+			<string>MyPortfolio_0001.png</string>
+			<string>MyPortfolio_0002.png</string>
+			<string>MyPortfolio_0003.png</string>
+			<string>Next.png</string>
+			<string>Help.png</string>
+			<string>image0120.png</string>
+			<string>SearchWeb.png</string>
+			<string>MyPortfolio.png</string>
+			<string>MyPortfolio_0001.png</string>
+			<string>MyPortfolio_0002.png</string>
+			<string>MyPortfolio_0003.png</string>
+			<string>Next.png</string>
+			<string>Help.png</string>
+			<string>image0120.png</string>
+			<string>SearchWeb.png</string>
+		</array>
+	</dict>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

@@ -1,0 +1,7 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2017-01-24 10:16:07.230 -0700,"Success",0:00:02,0,0,0,"20170124_101607.230/LogFile.txt","","",1
+2017-01-24 10:21:13.341 -0700,"Success",0:00:02,0,0,0,"20170124_102113.341/LogFile.txt","","",1
+2017-01-24 10:22:12.581 -0700,"Success",0:00:02,0,0,0,"20170124_102212.581/LogFile.txt","","",1
+2017-01-24 10:22:35.624 -0700,"Failure",0:00:02,1,0,1,"20170124_102235.624/LogFile.txt","","No Remote Connection -- typeencodedtext Error - Remote Connection Unavailable",0
+2017-01-24 10:24:34.745 -0700,"Failure",0:00:02,1,0,1,"20170124_102434.745/LogFile.txt","","No Remote Connection -- typeencodedtext Error - Remote Connection Unavailable",0
+2017-01-24 10:25:52.527 -0700,"Failure",0:00:02,1,0,1,"20170124_102552.527/LogFile.txt","","No Remote Connection -- typeencodedtext Error - Remote Connection Unavailable",0

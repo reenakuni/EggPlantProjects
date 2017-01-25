@@ -1,0 +1,12 @@
+﻿2017-01-12 11:47:09.032 -0700	START		Running RapidCapture/SutRapidcapture.script
+2017-01-12 11:47:09.630 -0700	click	image0015	at (250, 134)	8	on_rapidcapture_sutrapidcapture	RapidCapture/SutRapidcapture.script
+2017-01-12 11:47:10.861 -0700	click	image0016	at (392, 168)	9	on_rapidcapture_sutrapidcapture	RapidCapture/SutRapidcapture.script
+2017-01-12 11:47:12.091 -0700	click	image0017	at (508, 118)	10	on_rapidcapture_sutrapidcapture	RapidCapture/SutRapidcapture.script
+2017-01-12 11:47:13.325 -0700	click	image0018	at (802, 68)	11	on_rapidcapture_sutrapidcapture	RapidCapture/SutRapidcapture.script
+2017-01-12 11:47:49.094 -0700	drag	image0019	at (825, 226)	12	on_rapidcapture_sutrapidcapture	RapidCapture/SutRapidcapture.script
+2017-01-12 11:47:50.520 -0700	drop	image0020	at (825, 226)	13	on_rapidcapture_sutrapidcapture	RapidCapture/SutRapidcapture.script
+2017-01-12 11:47:51.728 -0700	drag	image0021	at (878, 388)	14	on_rapidcapture_sutrapidcapture	RapidCapture/SutRapidcapture.script
+2017-01-12 11:47:53.175 -0700	drop	image0022	at (875, 401)	15	on_rapidcapture_sutrapidcapture	RapidCapture/SutRapidcapture.script
+2017-01-12 11:47:54.383 -0700	click	image0023	at (814, 393)	16	on_rapidcapture_sutrapidcapture	RapidCapture/SutRapidcapture.script
+2017-01-12 11:47:54.837 -0700	EndTestCase		(Duration:"45.802614", Errors:"0", Exceptions:"0", StartTime:"2017-01-12 11:47:09 -0700", Successes:"1", TestCase:"RapidCapture/SutRapidcapture.script", Warnings:"0")
+2017-01-12 11:47:54.855 -0700	SUCCESS		Execution Time 0:00:45 RapidCapture/SutRapidcapture.script

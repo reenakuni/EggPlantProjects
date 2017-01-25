@@ -1,0 +1,4 @@
+﻿2016-12-28 14:07:51.851 -0700	START		Running Untitled5.script
+2016-12-28 14:08:01.974 -0700	connect		10.1.11.186:(null)	1	on_untitled5	Untitled5.script
+2016-12-28 14:08:02.470 -0700	EndTestCase		(Duration:"10.618575", Errors:"1", Exceptions:"0", StartTime:"2016-12-28 14:07:51 -0700", Successes:"0", TestCase:"Untitled5.script", Warnings:"0")
+2016-12-28 14:08:02.471 -0700	ABORTED		Execution Time 0:00:10 Untitled5.script

@@ -1,0 +1,5 @@
+﻿2017-01-19 14:44:07.024 -0700	START		Running Untitled8.script
+2017-01-19 14:44:07.783 -0700	click	image0051	at (320, 106)	8	on_untitled8	Untitled8.script
+2017-01-19 14:44:15.897 -0700	Exception	image0052	No Image Found On Screen: "image0052"	9	on_untitled8	Untitled8.script
+2017-01-19 14:44:17.647 -0700	EndTestCase		(Duration:"10.621228", Errors:"1", Exceptions:"1", StartTime:"2017-01-19 14:44:07 -0700", Successes:"0", TestCase:"Untitled8.script", Warnings:"0")
+2017-01-19 14:44:17.648 -0700	ABORTED		Execution Time 0:00:10 Untitled8.script

@@ -1,0 +1,7 @@
+﻿2016-06-16 10:45:01.778 -0600	START		Running g1.script
+2016-06-16 10:45:01.850 -0600	Log		30	3	on_i_have_num_apples	g.script
+2016-06-16 10:45:01.852 -0600	Log		30	5	on_i_have_num_apples	g.script
+2016-06-16 10:45:01.856 -0600	Log		10	4	on_i_give_num_apples_to_a_monkey	g.script
+2016-06-16 10:45:01.859 -0600	Log		20	3	on_i_am_left_with_num_apples	g.script
+2016-06-16 10:45:02.538 -0600	EndTestCase		(Duration:"0.758954", Errors:"1", Exceptions:"0", StartTime:"2016-06-16 10:45:01 -0600", Successes:"0", TestCase:"g1.script", Warnings:"0")
+2016-06-16 10:45:02.548 -0600	FAILURE		STInvalidNumber Value is not a number: '(script:return & ...' -- Execution Time 0:00:00 g1.script

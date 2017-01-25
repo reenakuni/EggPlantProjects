@@ -1,0 +1,1 @@
+2016-06-14 12:04:38.648 -0600,Failure,0:00:00,2,0,0,20160614_120438.648/LogFile.txt,"","SenseTalk Runtime Exception -- Invalid operands for addition: expected numbers, dates and/or lists; got 'there' and 'hi'",4

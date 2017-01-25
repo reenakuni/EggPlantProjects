@@ -1,0 +1,4 @@
+﻿2016-11-29 16:27:59.322 -0700	START		Running reena.script
+2016-11-29 16:27:59.382 -0700	Log		before	1	on_reena	reena.script
+2016-11-29 16:28:00.505 -0700	EndTestCase		(Duration:"1.181137", Errors:"0", Exceptions:"0", StartTime:"2016-11-29 16:27:59 -0700", Successes:"1", TestCase:"reena.script", Warnings:"0")
+2016-11-29 16:28:00.521 -0700	SUCCESS		Execution Time 0:00:01 reena.script

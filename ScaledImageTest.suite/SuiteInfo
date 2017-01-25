@@ -1,0 +1,20 @@
+﻿{
+    EPVersionNumber = 1701090218;
+    Schedules =     (
+    );
+    ScriptMetaData =     {
+    };
+    helpedSuitesInfo =     (
+                {
+            filePath = "NewHelper1.suite";
+        }
+    );
+    helperSuitesInfo =     (
+                {
+            filePath = "/Users/reenakuni/Documents/SvnOct14/Untitlednew.suite";
+        },
+                {
+            filePath = "/Users/reenakuni/Documents/Testcolor.suite";
+        }
+    );
+}

@@ -1,0 +1,9 @@
+﻿put file ResourcePath("Resource1.txt") as a property list into customer
+
+
+put customer
+
+put file ResourcePath("Resource1.txt") into customer1
+put customer1
+click "image0001"
+Untitled1

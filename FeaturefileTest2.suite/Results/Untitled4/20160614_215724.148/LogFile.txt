@@ -1,0 +1,4 @@
+﻿2016-06-14 21:57:24.149 -0600	START		Running Untitled4.script
+2016-06-14 21:57:24.241 -0600	Log		10	4	on_i_have_num_apples	Untitled2.script
+2016-06-14 21:57:25.166 -0600	EndTestCase		(Duration:"1.015582", Errors:"0", Exceptions:"0", StartTime:"2016-06-14 21:57:24 -0600", Successes:"1", TestCase:"Untitled4.script", Warnings:"0")
+2016-06-14 21:57:25.177 -0600	SUCCESS		Execution Time 0:00:01 Untitled4.script

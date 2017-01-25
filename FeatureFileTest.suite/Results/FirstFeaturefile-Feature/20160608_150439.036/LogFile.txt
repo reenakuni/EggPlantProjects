@@ -1,0 +1,9 @@
+﻿2016-06-08 15:04:39.037 -0600	START		Running FirstFeaturefile.feature
+2016-06-08 15:04:39.051 -0600	LogSuccess		browser is chrome
+2016-06-08 15:04:39.052 -0600	LogSuccess		browser is chrome
+2016-06-08 15:04:39.053 -0600	LogSuccess		enter email
+2016-06-08 15:04:39.053 -0600	LogSuccess		enter email
+2016-06-08 15:04:39.054 -0600	LogWarning		enter password
+2016-06-08 15:04:39.055 -0600	LogWarning		open new page
+2016-06-08 15:04:39.056 -0600	EndTestCase		(Duration:"0.016245", Errors:"0", Exceptions:"0", StartTime:"2016-06-08 15:04:39 -0600", Successes:"4", TestCase:"FirstFeaturefile.feature", Warnings:"2")
+2016-06-08 15:04:39.573 -0600	FAILURE		1 scenarios (1 failed, 0 passed) 4 steps (0 failed, 2 skipped, 2 passed) Execution Time 0:00:00

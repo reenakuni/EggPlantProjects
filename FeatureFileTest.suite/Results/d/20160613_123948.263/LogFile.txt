@@ -1,0 +1,3 @@
+﻿2016-06-13 12:39:48.264 -0600	START		Running d.script
+2016-06-13 12:40:01.885 -0600	EndTestCase		(Duration:"13.61976", Errors:"0", Exceptions:"0", StartTime:"2016-06-13 12:39:48 -0600", Successes:"1", TestCase:"d.script", Warnings:"0")
+2016-06-13 12:40:01.895 -0600	SUCCESS		Execution Time 0:00:13 d.script

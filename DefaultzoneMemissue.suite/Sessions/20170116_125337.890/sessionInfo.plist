@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[111, 675, 181, 705], command:@"Image at", eventNum:2, hotSpot:[1.4617578100000000e+02, 1.0261718800000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0145", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[111, 675, 181, 705], command:@"Image at", eventNum:3, hotSpot:[1.4617578100000000e+02, 1.0261718800000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0146", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0003.png"}, {captureRect:[130, 664, 200, 694], command:@"Image at", eventNum:4, hotSpot:[1.6527734400000000e+02, 1.1376953100000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0147", searchType:@"Precise", waitFor:@""}, screenShotFile:@"Screen0004.png"}, {captureRect:[123, 673, 193, 703], command:@"Image at", eventNum:5, hotSpot:[1.5871875000000000e+02, 1.0478515600000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0148", searchType:@"Precise", waitFor:@""}, screenShotFile:@"Screen0005.png"}, {captureRect:[502, 579, 562, 598], command:@"Image at", eventNum:6, hotSpot:[5.5551562500000000e+02, 2.1442578100000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"English", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0006.png"}, {captureRect:[502, 573, 562, 592], command:@"Image at", eventNum:7, hotSpot:[5.3055468800000006e+02, 2.1130078100000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"English_0001", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0007.png"}, {captureRect:[99, 684, 169, 714], command:@"Image at", eventNum:8, hotSpot:[1.3485546900000000e+02, 9.3699218999999999e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0149", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0008.png"}, {captureRect:[581, 641, 750, 670], command:@"Image at", eventNum:9, hotSpot:[6.6628515600000003e+02, 1.3328906200000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"WikipediA", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0009.png"}, {captureRect:[124, 672, 194, 702], command:@"Image at", eventNum:10, hotSpot:[1.5984765600000000e+02, 1.0593750000000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0150", searchType:@"Precise", waitFor:@""}, screenShotFile:@"Screen0010.png"}, {captureRect:[105, 702, 175, 732], command:@"Image at", eventNum:11, hotSpot:[1.4070312500000000e+02, 7.5292968999999999e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0151", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0011.png"}, {captureRect:[128, 662, 198, 692], command:@"Image at", eventNum:12, hotSpot:[1.6327734400000000e+02, 1.1562109400000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0152", searchType:@"Precise", waitFor:@""}, screenShotFile:@"Screen0012.png"}, {captureRect:[484, 557, 580, 569], command:@"Image at", eventNum:13, hotSpot:[5.4662890600000003e+02, 2.2813671900000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"5323000articles", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0013.png"}, {captureRect:[484, 557, 580, 569], command:@"Image at", eventNum:14, hotSpot:[5.4662890600000003e+02, 2.2813671900000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"5323000articles_0001", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0014.png"}, {captureRect:[751, 556, 844, 570], command:@"Image at", eventNum:15, hotSpot:[7.8109765600000003e+02, 2.2235937500000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"1044000sf", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0015.png"}, {captureRect:[820, 514, 884, 533], command:@"Image at", eventNum:16, hotSpot:[8.6835937500000000e+02, 2.7645312500000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Espanol", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0016.png"}, {captureRect:[829, 442, 897, 462], command:@"Image at", eventNum:17, hotSpot:[8.7044140600000003e+02, 3.3648828099999997e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Franais", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0017.png"}, {captureRect:[813, 360, 889, 374], command:@"Image at", eventNum:18, hotSpot:[8.5169140600000003e+02, 4.2361328099999997e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"9180001351", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0018.png"}, {captureRect:[773, 322, 822, 338], command:@"Image at", eventNum:19, hotSpot:[8.1175390600000003e+02, 4.7466406200000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Polski", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0019.png"}, {captureRect:[489, 295, 575, 309], command:@"Image at", eventNum:20, hotSpot:[5.5458593800000006e+02, 4.8716406200000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"951000arligos", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0020.png"}, {captureRect:[448, 381, 506, 397], command:@"Image at", eventNum:21, hotSpot:[4.4723828099999997e+02, 3.9569140599999997e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Italiano", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0021.png"}, {captureRect:[433, 449, 501, 468], command:@"Image at", eventNum:22, hotSpot:[4.4515234400000003e+02, 3.3978125000000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"PyCCKMM", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0022.png"}, {captureRect:[431, 492, 523, 504], command:@"Image at", eventNum:23, hotSpot:[4.5696093800000000e+02, 2.8920312500000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"2016000Artikel", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0023.png"}, {captureRect:[581, 641, 750, 670], command:@"Image at", eventNum:24, hotSpot:[6.3090625000000000e+02, 1.4004296900000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"WikipediA_0001", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0024.png"}, {captureRect:[816, 216, 886, 246], command:@"Image at", eventNum:25, hotSpot:[8.5105859399999997e+02, 5.6109765600000003e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0153", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0025.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Image at "image0145"</string>
+		<string>Image at "image0146"</string>
+		<string>Image at "image0147"</string>
+		<string>Image at "image0148"</string>
+		<string>Image at "English"</string>
+		<string>Image at "English_0001"</string>
+		<string>Image at "image0149"</string>
+		<string>Image at "WikipediA"</string>
+		<string>Image at "image0150"</string>
+		<string>Image at "image0151"</string>
+		<string>Image at "image0152"</string>
+		<string>Image at "5323000articles"</string>
+		<string>Image at "5323000articles_0001"</string>
+		<string>Image at "1044000sf"</string>
+		<string>Image at "Espanol"</string>
+		<string>Image at "Franais"</string>
+		<string>Image at "9180001351"</string>
+		<string>Image at "Polski"</string>
+		<string>Image at "951000arligos"</string>
+		<string>Image at "Italiano"</string>
+		<string>Image at "PyCCKMM"</string>
+		<string>Image at "2016000Artikel"</string>
+		<string>Image at "WikipediA_0001"</string>
+		<string>Image at "image0153"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>image0145.png</string>
+			<string>image0145.png</string>
+			<string>image0146.png</string>
+			<string>image0146.png</string>
+			<string>image0147.png</string>
+			<string>image0147.png</string>
+			<string>image0148.png</string>
+			<string>image0148.png</string>
+			<string>English.png</string>
+			<string>English.png</string>
+			<string>English_0001.png</string>
+			<string>English_0001.png</string>
+			<string>image0149.png</string>
+			<string>image0149.png</string>
+			<string>WikipediA.png</string>
+			<string>WikipediA.png</string>
+			<string>image0150.png</string>
+			<string>image0150.png</string>
+			<string>image0151.png</string>
+			<string>image0151.png</string>
+			<string>image0152.png</string>
+			<string>image0152.png</string>
+			<string>5323000articles.png</string>
+			<string>5323000articles.png</string>
+			<string>5323000articles_0001.png</string>
+			<string>5323000articles_0001.png</string>
+			<string>1044000sf.png</string>
+			<string>1044000sf.png</string>
+			<string>Espanol.png</string>
+			<string>Espanol.png</string>
+			<string>Franais.png</string>
+			<string>Franais.png</string>
+			<string>9180001351.png</string>
+			<string>9180001351.png</string>
+			<string>Polski.png</string>
+			<string>Polski.png</string>
+			<string>951000arligos.png</string>
+			<string>951000arligos.png</string>
+			<string>Italiano.png</string>
+			<string>Italiano.png</string>
+			<string>PyCCKMM.png</string>
+			<string>PyCCKMM.png</string>
+			<string>2016000Artikel.png</string>
+			<string>2016000Artikel.png</string>
+			<string>WikipediA_0001.png</string>
+			<string>WikipediA_0001.png</string>
+			<string>image0153.png</string>
+			<string>image0153.png</string>
+		</array>
+	</dict>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

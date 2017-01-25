@@ -1,0 +1,10 @@
+﻿2016-10-13 08:57:57.358 -0600	START		Running Untitled5.script
+2016-10-13 08:57:58.485 -0600	click	image0002	at (37, 421)	8	on_untitled5	Untitled5.script
+2016-10-13 08:58:00.248 -0600	doubleclick	image0003	at (37, 421)	9	on_untitled5	Untitled5.script
+2016-10-13 08:58:01.016 -0600	typetext		terst	10	on_untitled5	Untitled5.script
+2016-10-13 08:58:01.862 -0600	typetext		[backspace][backspace][backspace]stplant[return]	11	on_untitled5	Untitled5.script
+2016-10-13 08:58:03.621 -0600	click	TestPlanteggPlantTestAutomatio	at (486, 294)	12	on_untitled5	Untitled5.script
+2016-10-13 08:58:04.518 -0600	doubleclick	image0004	at (566, 136)	13	on_untitled5	Untitled5.script
+2016-10-13 08:58:05.407 -0600	click	image0005	at (1263, 38)	14	on_untitled5	Untitled5.script
+2016-10-13 08:58:06.230 -0600	EndTestCase		(Duration:"8.865787", Errors:"0", Exceptions:"0", StartTime:"2016-10-13 08:57:57 -0600", Successes:"1", TestCase:"Untitled5.script", Warnings:"0")
+2016-10-13 08:58:06.241 -0600	SUCCESS		Execution Time 0:00:08 Untitled5.script

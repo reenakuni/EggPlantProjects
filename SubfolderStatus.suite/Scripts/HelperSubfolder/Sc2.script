@@ -1,0 +1,7 @@
+﻿Params x,y
+Put x*y
+
+Typetext "hello"
+wait 5
+Run "HelperSubfolder/Scp1"
+bhvghghghg

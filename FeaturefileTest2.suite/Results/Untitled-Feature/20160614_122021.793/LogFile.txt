@@ -1,0 +1,8 @@
+﻿2016-06-14 12:20:21.794 -0600	START		Running Untitled.feature
+2016-06-14 12:20:21.801 -0600	LogWarning		do something with <n1>
+2016-06-14 12:20:21.802 -0600	LogWarning		with <n2>
+2016-06-14 12:20:21.803 -0600	LogWarning		log  <n3>
+2016-06-14 12:20:21.804 -0600	LogWarning		log 4th value <n4>
+2016-06-14 12:20:21.805 -0600	LogWarning		<n5> is good
+2016-06-14 12:20:21.806 -0600	EndTestCase		(Duration:"0.010662", Errors:"0", Exceptions:"0", StartTime:"2016-06-14 12:20:21 -0600", Successes:"1", TestCase:"Untitled.feature", Warnings:"5")
+2016-06-14 12:20:21.817 -0600	FAILURE		1 scenarios (1 failed, 0 passed) 5 steps (0 failed, 5 skipped, 0 passed) Execution Time 0:00:00

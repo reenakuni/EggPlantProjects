@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="scanriooutline.feature" package="FeaturefileTest2.suite" timestamp="2016-06-14 10:51:12.061 -0600"
+ tests="1" successes="3" errors="2" time="0.031292">
+  <properties>
+   <property name="RunDate" value="2016-06-14 10:51:12.061 -0600"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="scanriooutline.feature" assertions="5" successes="3" errors="2" time="0.029672">
+    <failure type="LogError">add <num1> and <num2> to get <num3></failure>
+  </testcase>
+ </testsuite>
+</testsuites>

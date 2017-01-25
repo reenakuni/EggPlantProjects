@@ -1,0 +1,7 @@
+﻿2016-05-25 10:25:29.148 -0600	START		Running FirstFeaturefile.feature
+2016-05-25 10:25:29.155 -0600	LogWarning		browser is chrome
+2016-05-25 10:25:29.156 -0600	LogWarning		enter <email>
+2016-05-25 10:25:29.158 -0600	LogWarning		enter <password>
+2016-05-25 10:25:29.159 -0600	LogWarning		open new page
+2016-05-25 10:25:29.160 -0600	EndTestCase		(Duration:"0.010426", Errors:"0", Exceptions:"0", StartTime:"2016-05-25 10:25:29 -0600", Successes:"1", TestCase:"FirstFeaturefile.feature", Warnings:"4")
+2016-05-25 10:25:29.163 -0600	SUCCESS		Execution Time 0:00:00 FirstFeaturefile.feature

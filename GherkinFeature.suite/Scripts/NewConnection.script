@@ -1,0 +1,16 @@
+﻿
+to handle I_have_a_VM
+	Log "I have a VM"
+end I_have_a_VM
+
+to handle I_connect
+	connect "10.1.11.128"
+end I_connect
+
+to handle log_success
+	if ConnectionInfo("10.1.11.128").Status ="Connected"
+	then
+		log "success"
+	else
+		log "error"
+	end ifend log_success

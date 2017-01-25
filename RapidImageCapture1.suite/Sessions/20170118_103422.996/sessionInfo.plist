@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[414, 565, 467, 609], command:@"Image at", eventNum:2, hotSpot:[4.3839453099999997e+02, 2.1563671900000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0196", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0002.png", skipStep:@"YES"}, {captureRect:[471, 565, 525, 609], command:@"Image at", eventNum:3, hotSpot:[4.9122656200000000e+02, 2.1880078100000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0197", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0003.png", skipStep:@"YES"}, {captureRect:[529, 565, 583, 609], command:@"Image at", eventNum:4, hotSpot:[5.5854687500000000e+02, 2.1602343800000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0198898990", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0004.png"}, {captureRect:[587, 565, 643, 609], command:@"Image at", eventNum:5, hotSpot:[5.9696093800000006e+02, 2.2227343800000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0199", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0005.png"}, {captureRect:[587, 517, 643, 561], command:@"Image at", eventNum:6, hotSpot:[6.0872656199999994e+02, 2.6181640599999997e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0200", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0006.png"}, {captureRect:[529, 517, 583, 561], command:@"Image at", eventNum:7, hotSpot:[5.7339062500000000e+02, 2.5660937500000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0201", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0007.png"}, {captureRect:[491, 530, 505, 548], command:@"Image at", eventNum:8, hotSpot:[5.0329687500000000e+02, 2.5139843800000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0202", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0008.png"}, {captureRect:[435, 531, 447, 548], command:@"Image at", eventNum:9, hotSpot:[4.4347656200000000e+02, 2.5244140600000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0203", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0009.png"}, {captureRect:[433, 482, 447, 499], command:@"Image at", eventNum:10, hotSpot:[4.3526953099999997e+02, 3.0156640599999997e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0204", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0010.png"}, {captureRect:[471, 469, 525, 513], command:@"Image at", eventNum:11, hotSpot:[4.8687890599999997e+02, 2.9705078099999997e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0205", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0011.png"}, {captureRect:[549, 481, 562, 499], command:@"Image at", eventNum:12, hotSpot:[5.5568359399999997e+02, 3.0499609400000003e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0206", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0012.png"}, {captureRect:[550, 433, 562, 451], command:@"Image at", eventNum:13, hotSpot:[5.5321093800000006e+02, 3.4939843800000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0207", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0013.png"}, {captureRect:[471, 420, 525, 464], command:@"Image at", eventNum:14, hotSpot:[4.8142187500000000e+02, 3.4176171900000003e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0208", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0014.png"}, {captureRect:[414, 420, 467, 464], command:@"Image at", eventNum:15, hotSpot:[4.5272656200000000e+02, 3.4801171900000003e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0209", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0015.png"}, {captureRect:[414, 371, 525, 416], command:@"Image at", eventNum:16, hotSpot:[4.3193359400000003e+02, 4.0262109400000003e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0210", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0016.png"}, {captureRect:[529, 371, 583, 416], command:@"Image at", eventNum:17, hotSpot:[5.7351562500000000e+02, 4.1026171900000003e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0211", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0017.png"}, {captureRect:[587, 371, 643, 416], command:@"Image at", eventNum:18, hotSpot:[6.1987890600000003e+02, 4.0609375000000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0212", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0018.png"}, {captureRect:[246, 647, 250, 651], command:@"Image at", eventNum:19, hotSpot:[2.4800390600000000e+02, 1.4469140600000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0213", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0019.png"}, {captureRect:[246, 647, 250, 651], command:@"Image at", eventNum:20, hotSpot:[2.4800390600000000e+02, 1.4469140600000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0214", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0020.png"}, {captureRect:[170, 776, 196, 789], command:@"Image at", eventNum:21, hotSpot:[1.9019921900000000e+02, 1.0273438000000001e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"GameEditMoves", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0021.png"}, {captureRect:[214, 776, 257, 789], command:@"Image at", eventNum:22, hotSpot:[2.3494921900000000e+02, 1.2664061999999999e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Moves", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0022.png"}, {captureRect:[53, 776, 97, 789], command:@"Image at", eventNum:23, hotSpot:[8.9851562000000001e+01, 1.4484375000000000e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Chess", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0023.png"}, {captureRect:[65, 752, 105, 765], command:@"Image at", eventNum:24, hotSpot:[8.6867187999999999e+01, 3.8832031000000001e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"AboutChess", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0024.png"}, {captureRect:[65, 721, 154, 734], command:@"Image at", eventNum:25, hotSpot:[9.1601562000000001e+01, 6.6664062000000001e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Preferences", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0025.png"}, {captureRect:[65, 690, 122, 703], command:@"Image at", eventNum:26, hotSpot:[9.2253906000000001e+01, 1.0048437500000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Services", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0026.png"}, {captureRect:[46, 614, 212, 678], command:@"Image at", eventNum:27, hotSpot:[9.3296875000000000e+01, 1.2214843800000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"HideChess", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0027.png"}, {captureRect:[65, 640, 97, 653], command:@"Image at", eventNum:28, hotSpot:[9.5992187999999999e+01, 1.4835937500000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"HideOthers", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0028.png"}, {captureRect:[65, 589, 93, 603], command:@"Image at", eventNum:29, hotSpot:[9.1824218999999999e+01, 1.9692578100000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"QuitChess", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0029.png"}, {captureRect:[842, 658, 879, 670], command:@"Image at", eventNum:30, hotSpot:[8.5654296899999997e+02, 1.3051171900000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"EditGameInfo_0001", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0030.png"}, {captureRect:[758, 682, 974, 740], command:@"Image at", eventNum:31, hotSpot:[8.6171093800000006e+02, 1.0498437500000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Computer_0001", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0031.png"}, {captureRect:[838, 722, 893, 736], command:@"Image at", eventNum:32, hotSpot:[8.6761328100000003e+02, 6.5343750000000000e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"testplant_0001", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0032.png"}, {captureRect:[49, 206, 648, 535], command:@"Image at", eventNum:33, hotSpot:[3.4989453099999997e+02, 5.5723046899999997e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0215", searchType:@"Precise", waitFor:@""}, screenShotFile:@"Screen0033.png"}, {captureRect:[109, 206, 708, 532], command:@"Image at", eventNum:34, hotSpot:[4.0930859400000003e+02, 5.6062109399999997e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0216", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0034.png"}, {captureRect:[409, 756, 413, 760], command:@"Image at", eventNum:35, hotSpot:[4.1148828099999997e+02, 3.5468750000000000e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"testplantComputerNewGame", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0035.png"}, {captureRect:[479, 757, 483, 761], command:@"Image at", eventNum:36, hotSpot:[4.8168359400000003e+02, 3.4289062000000001e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0217", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0036.png"}, {captureRect:[560, 748, 564, 752], command:@"Image at", eventNum:37, hotSpot:[5.6242187500000000e+02, 4.3359375000000000e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"testplantComputerNewGame_0001", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0037.png"}, {captureRect:[118, 206, 717, 580], command:@"Image at", eventNum:38, hotSpot:[4.1846093800000000e+02, 5.1255078100000003e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0218", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0038.png"}, {captureRect:[464, 240, 468, 244], command:@"Image at", eventNum:39, hotSpot:[4.6651953099999997e+02, 5.5057812500000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0219", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0039.png"}, {captureRect:[535, 231, 539, 235], command:@"Image at", eventNum:40, hotSpot:[5.3748828100000003e+02, 5.5921875000000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0220", searchType:@"Precise", waitFor:@""}, screenShotFile:@"Screen0040.png"}, {captureRect:[600, 225, 604, 229], command:@"Image at", eventNum:41, hotSpot:[6.0200390600000003e+02, 5.6581640600000003e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0221", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0041.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>-skipped- Image at "image0196"</string>
+		<string>-skipped- Image at "image0197"</string>
+		<string>Image at "image0198898990"</string>
+		<string>Image at "image0199"</string>
+		<string>Image at "image0200"</string>
+		<string>Image at "image0201"</string>
+		<string>Image at "image0202"</string>
+		<string>Image at "image0203"</string>
+		<string>Image at "image0204"</string>
+		<string>Image at "image0205"</string>
+		<string>Image at "image0206"</string>
+		<string>Image at "image0207"</string>
+		<string>Image at "image0208"</string>
+		<string>Image at "image0209"</string>
+		<string>Image at "image0210"</string>
+		<string>Image at "image0211"</string>
+		<string>Image at "image0212"</string>
+		<string>Image at "image0213"</string>
+		<string>Image at "image0214"</string>
+		<string>Image at "GameEditMoves"</string>
+		<string>Image at "Moves"</string>
+		<string>Image at "Chess"</string>
+		<string>Image at "AboutChess"</string>
+		<string>Image at "Preferences"</string>
+		<string>Image at "Services"</string>
+		<string>Image at "HideChess"</string>
+		<string>Image at "HideOthers"</string>
+		<string>Image at "QuitChess"</string>
+		<string>Image at "EditGameInfo_0001"</string>
+		<string>Image at "Computer_0001"</string>
+		<string>Image at "testplant_0001"</string>
+		<string>Image at "image0215"</string>
+		<string>Image at "image0216"</string>
+		<string>Image at "testplantComputerNewGame"</string>
+		<string>Image at "image0217"</string>
+		<string>Image at "testplantComputerNewGame_0001"</string>
+		<string>Image at "image0218"</string>
+		<string>Image at "image0219"</string>
+		<string>Image at "image0220"</string>
+		<string>Image at "image0221"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>image0196.png</string>
+			<string>image0196.png</string>
+			<string>image0197.png</string>
+			<string>image0197.png</string>
+			<string>image0199.png</string>
+			<string>image0199.png</string>
+			<string>image0200.png</string>
+			<string>image0200.png</string>
+			<string>image0201.png</string>
+			<string>image0201.png</string>
+			<string>image0202.png</string>
+			<string>image0202.png</string>
+			<string>image0203.png</string>
+			<string>image0203.png</string>
+			<string>image0204.png</string>
+			<string>image0204.png</string>
+			<string>image0205.png</string>
+			<string>image0205.png</string>
+			<string>image0206.png</string>
+			<string>image0206.png</string>
+			<string>image0207.png</string>
+			<string>image0207.png</string>
+			<string>image0208.png</string>
+			<string>image0208.png</string>
+			<string>image0209.png</string>
+			<string>image0209.png</string>
+			<string>image0210.png</string>
+			<string>image0210.png</string>
+			<string>image0211.png</string>
+			<string>image0211.png</string>
+			<string>image0212.png</string>
+			<string>image0212.png</string>
+			<string>image0213.png</string>
+			<string>image0213.png</string>
+			<string>image0214.png</string>
+			<string>image0214.png</string>
+			<string>GameEditMoves.png</string>
+			<string>GameEditMoves.png</string>
+			<string>Moves.png</string>
+			<string>Moves.png</string>
+			<string>Chess.png</string>
+			<string>Chess.png</string>
+			<string>AboutChess.png</string>
+			<string>AboutChess.png</string>
+			<string>Preferences.png</string>
+			<string>Preferences.png</string>
+			<string>Services.png</string>
+			<string>Services.png</string>
+			<string>HideChess.png</string>
+			<string>HideChess.png</string>
+			<string>HideOthers.png</string>
+			<string>HideOthers.png</string>
+			<string>QuitChess.png</string>
+			<string>QuitChess.png</string>
+			<string>EditGameInfo_0001.png</string>
+			<string>EditGameInfo_0001.png</string>
+			<string>Computer_0001.png</string>
+			<string>Computer_0001.png</string>
+			<string>testplant_0001.png</string>
+			<string>testplant_0001.png</string>
+			<string>image0215.png</string>
+			<string>image0215.png</string>
+			<string>image0216.png</string>
+			<string>image0216.png</string>
+			<string>testplantComputerNewGame.png</string>
+			<string>testplantComputerNewGame.png</string>
+			<string>image0217.png</string>
+			<string>image0217.png</string>
+			<string>testplantComputerNewGame_0001.png</string>
+			<string>testplantComputerNewGame_0001.png</string>
+			<string>image0218.png</string>
+			<string>image0218.png</string>
+			<string>image0219.png</string>
+			<string>image0219.png</string>
+			<string>image0220.png</string>
+			<string>image0220.png</string>
+			<string>image0221.png</string>
+			<string>image0221.png</string>
+			<string>image0196.png</string>
+			<string>image0197.png</string>
+			<string>image0199.png</string>
+			<string>image0200.png</string>
+			<string>image0201.png</string>
+			<string>image0202.png</string>
+			<string>image0203.png</string>
+			<string>image0204.png</string>
+			<string>image0205.png</string>
+			<string>image0206.png</string>
+			<string>image0207.png</string>
+			<string>image0208.png</string>
+			<string>image0209.png</string>
+			<string>image0210.png</string>
+			<string>image0211.png</string>
+			<string>image0212.png</string>
+			<string>image0213.png</string>
+			<string>image0214.png</string>
+			<string>GameEditMoves.png</string>
+			<string>Moves.png</string>
+			<string>Chess.png</string>
+			<string>AboutChess.png</string>
+			<string>Preferences.png</string>
+			<string>Services.png</string>
+			<string>HideChess.png</string>
+			<string>HideOthers.png</string>
+			<string>QuitChess.png</string>
+			<string>EditGameInfo_0001.png</string>
+			<string>Computer_0001.png</string>
+			<string>testplant_0001.png</string>
+			<string>image0215.png</string>
+			<string>image0216.png</string>
+			<string>testplantComputerNewGame.png</string>
+			<string>image0217.png</string>
+			<string>testplantComputerNewGame_0001.png</string>
+			<string>image0218.png</string>
+			<string>image0219.png</string>
+			<string>image0220.png</string>
+			<string>image0221.png</string>
+			<string>image0198898990.png</string>
+			<string>image0198898990.png</string>
+			<string>image0199.png</string>
+			<string>image0200.png</string>
+			<string>image0201.png</string>
+			<string>image0202.png</string>
+			<string>image0203.png</string>
+			<string>image0204.png</string>
+			<string>image0205.png</string>
+			<string>image0206.png</string>
+			<string>image0207.png</string>
+			<string>image0208.png</string>
+			<string>image0209.png</string>
+			<string>image0210.png</string>
+			<string>image0211.png</string>
+			<string>image0212.png</string>
+			<string>image0213.png</string>
+			<string>image0214.png</string>
+			<string>GameEditMoves.png</string>
+			<string>Moves.png</string>
+			<string>Chess.png</string>
+			<string>AboutChess.png</string>
+			<string>Preferences.png</string>
+			<string>Services.png</string>
+			<string>HideChess.png</string>
+			<string>HideOthers.png</string>
+			<string>QuitChess.png</string>
+			<string>EditGameInfo_0001.png</string>
+			<string>Computer_0001.png</string>
+			<string>testplant_0001.png</string>
+			<string>image0215.png</string>
+			<string>image0216.png</string>
+			<string>testplantComputerNewGame.png</string>
+			<string>image0217.png</string>
+			<string>testplantComputerNewGame_0001.png</string>
+			<string>image0218.png</string>
+			<string>image0219.png</string>
+			<string>image0220.png</string>
+			<string>image0221.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>rapidSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+﻿2016-06-22 09:48:43.380 -0600	START		Running Stepwithspace.feature
+2016-06-22 09:48:43.389 -0600	Log		100	3	on_the_balance_is__num	Stepwithspace.script<SOURCE>
+2016-06-22 09:48:43.392 -0600	LogSuccess		the balance is $100
+2016-06-22 09:48:43.393 -0600	LogSuccess		the card is valid
+2016-06-22 09:48:43.394 -0600	LogSuccess		the machine contains enough money
+2016-06-22 09:48:43.395 -0600	Log		20	3	on_the_account_holder_requests__num	Stepwithspace.script<SOURCE>
+2016-06-22 09:48:43.397 -0600	LogSuccess		the account holder requests $20
+2016-06-22 09:48:43.398 -0600	Log		80	3	on_the_account_balance_should_be__num	Stepwithspace.script<SOURCE>
+2016-06-22 09:48:43.400 -0600	LogSuccess		the account balance should be $80
+2016-06-22 09:48:43.400 -0600	LogSuccess		the card should be returned
+2016-06-22 09:48:43.402 -0600	EndTestCase		(Duration:"0.020361", Errors:"0", Exceptions:"0", StartTime:"2016-06-22 09:48:43 -0600", Successes:"6", TestCase:"Stepwithspace.feature", Warnings:"0")
+2016-06-22 09:48:43.417 -0600	SUCCESS		1 scenarios (0 failed, 1 passed) 6 steps (0 failed, 0 skipped, 6 passed) Execution Time 0:00:00

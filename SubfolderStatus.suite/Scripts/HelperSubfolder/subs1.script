@@ -1,0 +1,10 @@
+﻿
+
+log x
+
+(*to handle cal
+	log "step def"
+end cal
+
+RUN "HelperSubfolder/Scp1"
+RUN "NewFolder/HelperHelper"*)

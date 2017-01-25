@@ -1,0 +1,5 @@
+﻿2016-10-25 15:07:39.445 -0600	START		Running Google.script
+2016-10-25 15:07:40.538 -0600	click	Google	at (94, 656)	1	on_google	Google.script
+2016-10-25 15:07:41.251 -0600	typetext		[HomeButton]	3	on_google	Google.script
+2016-10-25 15:07:43.287 -0600	EndTestCase		(Duration:"3.840022", Errors:"0", Exceptions:"0", StartTime:"2016-10-25 15:07:39 -0600", Successes:"1", TestCase:"Google.script", Warnings:"0")
+2016-10-25 15:07:43.303 -0600	SUCCESS		Execution Time 0:00:03 Google.script

@@ -1,0 +1,3 @@
+﻿2016-10-24 13:29:56.399 -0600	START		Running Untitled1.script
+2016-10-24 13:30:21.305 -0600	EndTestCase		(Duration:"24.90477", Errors:"1", Exceptions:"0", StartTime:"2016-10-24 13:29:56 -0600", Successes:"0", TestCase:"Untitled1.script", Warnings:"0")
+2016-10-24 13:30:21.306 -0600	ABORTED		Execution Time 0:00:24 Untitled1.script

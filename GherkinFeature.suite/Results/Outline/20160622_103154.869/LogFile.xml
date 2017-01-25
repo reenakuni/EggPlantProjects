@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Outline.script" package="GherkinFeature.suite" timestamp="2016-06-22 10:31:54.869 -0600"
+ tests="1" successes="1" errors="0" time="0.846821">
+  <properties>
+   <property name="RunDate" value="2016-06-22 10:31:54.869 -0600"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="Outline.script" assertions="1" successes="1" errors="0" time="0.845107">
+  </testcase>
+ </testsuite>
+</testsuites>

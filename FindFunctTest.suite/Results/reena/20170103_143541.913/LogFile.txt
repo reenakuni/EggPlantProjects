@@ -1,0 +1,3 @@
+﻿2017-01-03 14:35:41.923 -0700	START		Running reena.script
+2017-01-03 14:35:43.096 -0700	EndTestCase		(Duration:"1.171954", Errors:"1", Exceptions:"0", StartTime:"2017-01-03 14:35:41 -0700", Successes:"0", TestCase:"reena.script", Warnings:"0")
+2017-01-03 14:35:43.358 -0700	FAILURE	Screen_Error.png	SRUN_BadValue Bad value for Object expression.  Looking for an object or script identifier, got 'BankCustomer'. -- Execution Time 0:00:01 reena.script

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Untitled4.script" package="FindFunctTest.suite" timestamp="2016-12-30 15:30:55.770 -0700"
+ tests="1" successes="1" errors="0" time="1.237949">
+  <properties>
+   <property name="RunDate" value="2016-12-30 15:30:55.770 -0700"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="Untitled4.script" assertions="1" successes="1" errors="0" time="1.229046">
+  </testcase>
+ </testsuite>
+</testsuites>

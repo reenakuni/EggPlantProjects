@@ -1,0 +1,4 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2016-10-27 11:29:08.851 -0600,"Success",0:00:01,0,0,0,"20161027_112908.851/LogFile.txt","","",1
+2016-10-27 11:30:04.403 -0600,"Success",0:00:02,0,0,0,"20161027_113004.403/LogFile.txt","","",1
+2016-10-27 11:30:39.884 -0600,"Success",0:00:39,0,0,0,"20161027_113039.884/LogFile.txt","","",1

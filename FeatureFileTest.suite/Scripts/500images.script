@@ -1,0 +1,6 @@
+﻿repeat 500 times
+	RightClick "Images"
+	Click "Duplicate"
+	wait 3
+end repeat
+ResourcePath("EggplantUserPreferencesFile.txt")

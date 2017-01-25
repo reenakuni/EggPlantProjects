@@ -1,0 +1,183 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Ft1-Feature">
+ <run>
+  <RunDate>2016-06-27 13:45:35.792 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.011439</Duration>
+  <Errors>0</Errors>
+  <Warnings>3</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160627_134535.792/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-27 13:46:41.350 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.009524</Duration>
+  <Errors>0</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>2</Successes>
+  <LogFile>20160627_134641.350/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-27 13:47:10.032 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.012757</Duration>
+  <Errors>0</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>2</Successes>
+  <LogFile>20160627_134710.032/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-27 13:49:42.678 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.009961</Duration>
+  <Errors>0</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>2</Successes>
+  <LogFile>20160627_134942.678/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-27 13:52:20.922 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.009323</Duration>
+  <Errors>0</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>2</Successes>
+  <LogFile>20160627_135220.922/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-27 13:52:38.304 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.009764</Duration>
+  <Errors>0</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>2</Successes>
+  <LogFile>20160627_135238.304/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-27 13:52:59.595 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.010310</Duration>
+  <Errors>0</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>2</Successes>
+  <LogFile>20160627_135259.595/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-27 13:53:27.270 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.009287</Duration>
+  <Errors>0</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>2</Successes>
+  <LogFile>20160627_135327.270/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-27 14:15:58.671 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.010564</Duration>
+  <Errors>0</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>2</Successes>
+  <LogFile>20160627_141558.671/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-29 16:25:31.757 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.011014</Duration>
+  <Errors>0</Errors>
+  <Warnings>2</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160629_162531.757/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-29 16:26:15.977 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.010559</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>3</Successes>
+  <LogFile>20160629_162615.977/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-29 16:26:30.003 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>27.630767</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>3</Successes>
+  <LogFile>20160629_162630.003/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-30 17:20:19.723 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.017582</Duration>
+  <Errors>0</Errors>
+  <Warnings>15</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160630_172019.723/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-07-05 21:11:23.433 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.041636</Duration>
+  <Errors>4</Errors>
+  <Warnings>6</Warnings>
+  <Exceptions>3</Exceptions>
+  <Successes>6</Successes>
+  <LogFile>20160705_211123.433/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>No Remote Connection -- moveto Error - Remote Connection Unavailable</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-07-05 21:32:00.221 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.046055</Duration>
+  <Errors>4</Errors>
+  <Warnings>6</Warnings>
+  <Exceptions>3</Exceptions>
+  <Successes>6</Successes>
+  <LogFile>20160705_213200.221/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>No Remote Connection -- moveto Error - Remote Connection Unavailable</ErrorMessage>
+ </run>
+</runHistory>

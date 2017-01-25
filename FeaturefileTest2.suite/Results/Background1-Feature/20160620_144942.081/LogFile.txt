@@ -1,0 +1,15 @@
+﻿2016-06-20 14:49:42.082 -0600	START		Running Background1.feature
+2016-06-20 14:49:42.090 -0600	Log		67	4	on_i_have_var_apples	Background1.script<SOURCE>
+2016-06-20 14:49:42.091 -0600	LogSuccess		I have 67 apples
+2016-06-20 14:49:42.092 -0600	Log		57	4	on_i_give_var_to_mickey	Background1.script<SOURCE>
+2016-06-20 14:49:42.094 -0600	LogSuccess		i give <num1> to mickey
+2016-06-20 14:49:42.094 -0600	Log		s	5	on_i_am_left_with_var	Background1.script<SOURCE>
+2016-06-20 14:49:42.096 -0600	LogSuccess		I am left with <num2>
+2016-06-20 14:49:42.097 -0600	Log		67	4	on_i_have_var_apples	Background1.script<SOURCE>
+2016-06-20 14:49:42.098 -0600	LogSuccess		I have 67 apples
+2016-06-20 14:49:42.099 -0600	Log		32	4	on_i_give_var_to_mickey	Background1.script<SOURCE>
+2016-06-20 14:49:42.101 -0600	LogSuccess		i give <num1> to mickey
+2016-06-20 14:49:42.101 -0600	Log		s	5	on_i_am_left_with_var	Background1.script<SOURCE>
+2016-06-20 14:49:42.103 -0600	LogSuccess		I am left with <num2>
+2016-06-20 14:49:42.104 -0600	EndTestCase		(Duration:"0.020767", Errors:"0", Exceptions:"0", StartTime:"2016-06-20 14:49:42 -0600", Successes:"6", TestCase:"Background1.feature", Warnings:"0")
+2016-06-20 14:49:42.114 -0600	SUCCESS		2 scenarios (0 failed, 2 passed) 6 steps (0 failed, 0 skipped, 6 passed) Execution Time 0:00:00

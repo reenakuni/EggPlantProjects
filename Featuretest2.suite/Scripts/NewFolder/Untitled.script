@@ -1,0 +1,15 @@
+﻿
+to handle I_have_NUM_apples
+	params num1
+	
+end I_have_NUM_apples
+
+to handle subtract_NUM
+	params num1
+	
+end subtract_NUM
+
+to handle I_am_left_with_NUM_apples
+	params num1
+	
+end I_am_left_with_NUM_apples

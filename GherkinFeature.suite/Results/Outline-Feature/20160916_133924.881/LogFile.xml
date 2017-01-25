@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Outline.feature" package="GherkinFeature.suite" timestamp="2016-09-16 13:39:24.881 -0600"
+ tests="1" successes="(null)" errors="(null)" time="0.000000">
+  <properties>
+   <property name="RunDate" value="2016-09-16 13:39:24.881 -0600"/>
+   <property name="Status" value="Running"/>
+  </properties>
+  <testcase name="Outline.feature" assertions="4" successes="0" errors="4" time="20.146594">
+    <failure type="LogError">Connected to a SUT</failure>
+    <failure type="LogError">log success</failure>
+    <failure type="LogError">Connected to a SUT</failure>
+  </testcase>
+ </testsuite>
+</testsuites>

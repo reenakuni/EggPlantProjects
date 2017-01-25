@@ -1,0 +1,9 @@
+﻿2016-10-24 12:13:26.601 -0600	START		Running Untitled1.script
+2016-10-24 12:13:27.126 -0600	doubleclick	image0009	at (906, 509)	8	on_untitled1	Untitled1.script
+2016-10-24 12:13:27.961 -0600	typetext		testplant[return]	9	on_untitled1	Untitled1.script
+2016-10-24 12:13:29.060 -0600	drag	image0010	at (346, 42)	10	on_untitled1	Untitled1.script
+2016-10-24 12:13:30.429 -0600	drop	image0011	at (346, 42)	11	on_untitled1	Untitled1.script
+2016-10-24 12:13:31.558 -0600	click	image0012	at (792, 452)	12	on_untitled1	Untitled1.script
+2016-10-24 12:13:32.726 -0600	doubleclick	image0013	at (792, 452)	13	on_untitled1	Untitled1.script
+2016-10-24 12:13:33.576 -0600	EndTestCase		(Duration:"6.974062", Errors:"0", Exceptions:"0", StartTime:"2016-10-24 12:13:26 -0600", Successes:"1", TestCase:"Untitled1.script", Warnings:"0")
+2016-10-24 12:13:33.584 -0600	SUCCESS		Execution Time 0:00:06 Untitled1.script

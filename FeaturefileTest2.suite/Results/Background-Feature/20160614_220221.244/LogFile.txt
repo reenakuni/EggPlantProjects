@@ -1,0 +1,6 @@
+﻿2016-06-14 22:02:21.245 -0600	START		Running Background.feature
+2016-06-14 22:02:21.252 -0600	Log		num2	4	on_i_give_num_apples_to_a_monkey	Background.script<SOURCE>
+2016-06-14 22:02:21.254 -0600	LogSuccess		I give 10 apples to a monkey
+2016-06-14 22:02:21.255 -0600	LogSuccess		I am left with 10 apples
+2016-06-14 22:02:21.257 -0600	EndTestCase		(Duration:"0.010607", Errors:"0", Exceptions:"0", StartTime:"2016-06-14 22:02:21 -0600", Successes:"2", TestCase:"Background.feature", Warnings:"0")
+2016-06-14 22:02:21.274 -0600	SUCCESS		1 scenarios (0 failed, 1 passed) 3 steps (0 failed, 0 skipped, 3 passed) Execution Time 0:00:00

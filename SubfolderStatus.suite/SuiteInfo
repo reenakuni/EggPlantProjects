@@ -1,0 +1,26 @@
+﻿{
+    EPVersionNumber = 1701090218;
+    Schedules =     (
+    );
+    ScriptMetaData =     {
+    };
+    helpedSuitesInfo =     (
+                {
+            filePath = "/Users/reenakuni/Documents/GitOct18/Suite11.suite";
+        },
+                {
+            filePath = "/Users/reenakuni/Downloads/colortest1.suite";
+        },
+                {
+            filePath = "/Users/reenakuni/Documents/GitOct19/SCM3.suite";
+        },
+                {
+            filePath = "SvnOct14/Untitlednew.suite";
+        }
+    );
+    helperSuitesInfo =     (
+                {
+            filePath = "/Users/reenakuni/Documents/Untitled.suite";
+        }
+    );
+}

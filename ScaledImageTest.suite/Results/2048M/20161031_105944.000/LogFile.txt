@@ -1,0 +1,4 @@
+﻿2016-10-31 10:59:44.002 -0600	START		Running 2048M.script
+2016-10-31 10:59:44.096 -0600	Exception		Remote Connection Unavailable	1	on_untitled	Untitled.script
+2016-10-31 10:59:45.063 -0600	EndTestCase		(Duration:"1.059501", Errors:"1", Exceptions:"1", StartTime:"2016-10-31 10:59:44 -0600", Successes:"0", TestCase:"2048M.script", Warnings:"0")
+2016-10-31 10:59:45.075 -0600	FAILURE		No Remote Connection click Error - Remote Connection Unavailable -- Execution Time 0:00:01 2048M.script

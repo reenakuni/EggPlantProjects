@@ -1,0 +1,12 @@
+﻿2016-06-10 22:49:30.571 -0600	START		Running Testfeature.feature
+2016-06-10 22:49:30.577 -0600	LogSuccess		I have a variable with value <num1>
+2016-06-10 22:49:30.578 -0600	LogSuccess		I have a variable with value <num1>
+2016-06-10 22:49:30.578 -0600	LogSuccess		I have a variable with the value <num2>
+2016-06-10 22:49:30.579 -0600	LogSuccess		I have a variable with the value <num2>
+2016-06-10 22:49:30.603 -0600	LogError		I add the two numbers
+2016-06-10 22:49:30.603 -0600	LogSuccess		I add the two numbers
+2016-06-10 22:49:30.605 -0600	Log		failure	6	on_the_result_should_be_var	Testfeature.script<SOURCE>
+2016-06-10 22:49:30.607 -0600	LogSuccess		the result should be <num3>
+2016-06-10 22:49:30.608 -0600	LogSuccess		the result should be <num3>
+2016-06-10 22:49:30.609 -0600	EndTestCase		(Duration:"0.037321", Errors:"2", Exceptions:"0", StartTime:"2016-06-10 22:49:30 -0600", Successes:"7", TestCase:"Testfeature.feature", Warnings:"0")
+2016-06-10 22:49:30.615 -0600	FAILURE		1 scenarios (1 failed, 0 passed) 4 steps (1 failed, 0 skipped, 3 passed) Execution Time 0:00:00

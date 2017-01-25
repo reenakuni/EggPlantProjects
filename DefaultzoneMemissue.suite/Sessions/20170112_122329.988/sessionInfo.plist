@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[186, 649, 256, 679], command:@"Click", eventNum:2, hotSpot:[2.2197462300000001e+02, 1.2882908100000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0064", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[409, 534, 479, 564], command:@"Click", eventNum:4, hotSpot:[4.4493871200000001e+02, 2.4317244199999999e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0065", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0004.png"}, {captureRect:[464, 519, 534, 549], command:@"Click", eventNum:6, hotSpot:[4.9953927800000002e+02, 2.5802234099999998e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0066", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0006.png"}, {captureRect:[528, 523, 598, 553], command:@"Click", eventNum:8, hotSpot:[5.6367042000000004e+02, 2.5459478200000001e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0067", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0008.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Click "image0064"</string>
+		<string>Click "image0065"</string>
+		<string>Click "image0066"</string>
+		<string>Click "image0067"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>image0064.png</string>
+			<string>image0064.png</string>
+			<string>image0065.png</string>
+			<string>image0065.png</string>
+			<string>image0066.png</string>
+			<string>image0066.png</string>
+			<string>image0067.png</string>
+			<string>image0067.png</string>
+		</array>
+	</dict>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

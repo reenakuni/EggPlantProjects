@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[214, 591, 293, 657], command:@"Image at", eventNum:2, hotSpot:[2.5143160000000000e+02, 1.7320311400000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0338", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[471, 476, 541, 506], command:@"Image at", eventNum:3, hotSpot:[5.0631990800000000e+02, 3.0178798200000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0339", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0003.png"}, {captureRect:[767, 510, 837, 540], command:@"Image at", eventNum:4, hotSpot:[8.0267586200000005e+02, 2.6795797700000003e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0340", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0004.png"}, {captureRect:[638, 335, 701, 388], command:@"Image at", eventNum:5, hotSpot:[6.7483763499999998e+02, 4.3285782999999998e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0341", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0005.png"}, {captureRect:[794, 364, 813, 387], command:@"Image at", eventNum:6, hotSpot:[8.0005870200000004e+02, 4.2219383800000003e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0342", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0006.png"}, {captureRect:[885, 336, 955, 366], command:@"Image at", eventNum:7, hotSpot:[9.2032815200000005e+02, 4.4123821099999998e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0343", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0007.png"}, {captureRect:[1035, 288, 1105, 318], command:@"Image at", eventNum:8, hotSpot:[1.0704486529999999e+03, 4.8908693199999999e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0344", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0008.png"}, {captureRect:[1165, 299, 1242, 400], command:@"Image at", eventNum:9, hotSpot:[1.2020048760000000e+03, 4.4395026700000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0345", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0009.png"}, {captureRect:[1192, 170, 1270, 246], command:@"Image at", eventNum:10, hotSpot:[1.2449802800000000e+03, 5.6852917500000001e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0346", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0010.png"}, {captureRect:[788, 507, 839, 535], command:@"Image at", eventNum:11, hotSpot:[8.0528017199999999e+02, 2.7183968700000003e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0347", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0011.png"}, {captureRect:[1067, 559, 1110, 594], command:@"Image at", eventNum:12, hotSpot:[1.0881433999999999e+03, 2.2385386399999999e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0348", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0012.png"}, {captureRect:[1181, 555, 1251, 585], command:@"Image at", eventNum:13, hotSpot:[1.2166712550000000e+03, 2.2237572900000001e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0349", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0013.png"}, {captureRect:[137, 94, 207, 124], command:@"Image at", eventNum:14, hotSpot:[1.7226570599999999e+02, 6.8367801299999996e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0350", searchType:@"Precise", waitFor:@""}, screenShotFile:@"Screen0014.png"}, {captureRect:[163, 110, 233, 140], command:@"Image at", eventNum:15, hotSpot:[1.9887421900000001e+02, 6.6754706399999998e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0351", searchType:@"Precise", waitFor:@""}, screenShotFile:@"Screen0015.png"}, {captureRect:[54, 776, 98, 789], command:@"Image at", eventNum:16, hotSpot:[6.2854688000000003e+01, 1.3084706000000001e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"UFinder_0001", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0016.png"}, {captureRect:[64, 754, 150, 769], command:@"Image at", eventNum:17, hotSpot:[1.2727710100000000e+02, 4.1370635000000000e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"AboutFinder", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0017.png"}, {captureRect:[66, 721, 154, 734], command:@"Image at", eventNum:18, hotSpot:[1.2017949900000001e+02, 6.6143315999999999e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Preferences", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0018.png"}, {captureRect:[109, 690, 157, 703], command:@"Image at", eventNum:19, hotSpot:[1.2132316800000000e+02, 9.8709407999999996e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"EmptyTrash", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0019.png"}, {captureRect:[64, 656, 122, 671], command:@"Image at", eventNum:20, hotSpot:[1.1008351300000000e+02, 1.3533287400000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Services", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0020.png"}, {captureRect:[99, 628, 141, 641], command:@"Image at", eventNum:21, hotSpot:[1.1122718200000000e+02, 1.6313466000000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"HideFinder", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0021.png"}, {captureRect:[98, 609, 143, 622], command:@"Image at", eventNum:22, hotSpot:[1.1346312000000000e+02, 1.7332307900000001e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"HideOthers", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0022.png"}, {captureRect:[191, 719, 209, 734], command:@"Image at", eventNum:23, hotSpot:[1.9789760200000001e+02, 6.5976222000000007e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Preferences_0001", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0023.png"}, {captureRect:[177, 690, 222, 704], command:@"Image at", eventNum:24, hotSpot:[1.9333149200000000e+02, 1.0092018400000001e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"EmptyTrash03gEl", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0024.png"}, {captureRect:[205, 660, 215, 671], command:@"Image at", eventNum:25, hotSpot:[2.1151454699999999e+02, 1.3044431800000001e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0352", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0025.png"}, {captureRect:[191, 628, 215, 641], command:@"Image at", eventNum:26, hotSpot:[2.0365449899999999e+02, 1.6220493500000001e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"36H", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0026.png"}, {captureRect:[175, 609, 215, 622], command:@"Image at", eventNum:27, hotSpot:[2.0479816800000000e+02, 1.7967691600000001e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"CTOII", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0027.png"}, {captureRect:[116, 776, 139, 789], command:@"Image at", eventNum:28, hotSpot:[1.3113216600000001e+02, 1.4348618000000000e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"FileEditViewGo", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0028.png"}, {captureRect:[157, 776, 182, 789], command:@"Image at", eventNum:29, hotSpot:[1.6588771600000001e+02, 1.2060722000000000e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"FileEditViewGo_0001", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0029.png"}, {captureRect:[199, 776, 232, 789], command:@"Image at", eventNum:30, hotSpot:[2.0957844800000001e+02, 9.0616090000000007e+00], imageName:@"", infoDict:{folderPath:@"/", imageName:@"View", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0030.png"}, {captureRect:[249, 776, 269, 789], command:@"Image at", eventNum:31, hotSpot:[2.5665735500000000e+02, 1.3251799000000000e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"ViewGoWindowHelp", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0031.png"}, {captureRect:[192, 773, 605, 793], command:@"Image at", eventNum:32, hotSpot:[3.0648620699999998e+02, 5.2527340000000002e+00], imageName:@"", infoDict:{folderPath:@"/", imageName:@"ViewGoWindowHelp_0001", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0032.png"}, {captureRect:[357, 774, 387, 789], command:@"Image at", eventNum:33, hotSpot:[3.7040746200000001e+02, 9.8242399999999996e+00], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Help_0003", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0033.png"}, {captureRect:[54, 776, 98, 789], command:@"Image at", eventNum:34, hotSpot:[6.4165408999999997e+01, 1.1773664000000000e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"UFinder_0002", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0034.png"}, {captureRect:[116, 776, 139, 789], command:@"Image at", eventNum:35, hotSpot:[1.3260994099999999e+02, 1.1011032999999999e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"File", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0035.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Image at "image0338"</string>
+		<string>Image at "image0339"</string>
+		<string>Image at "image0340"</string>
+		<string>Image at "image0341"</string>
+		<string>Image at "image0342"</string>
+		<string>Image at "image0343"</string>
+		<string>Image at "image0344"</string>
+		<string>Image at "image0345"</string>
+		<string>Image at "image0346"</string>
+		<string>Image at "image0347"</string>
+		<string>Image at "image0348"</string>
+		<string>Image at "image0349"</string>
+		<string>Image at "image0350"</string>
+		<string>Image at "image0351"</string>
+		<string>Image at "UFinder_0001"</string>
+		<string>Image at "AboutFinder"</string>
+		<string>Image at "Preferences"</string>
+		<string>Image at "EmptyTrash"</string>
+		<string>Image at "Services"</string>
+		<string>Image at "HideFinder"</string>
+		<string>Image at "HideOthers"</string>
+		<string>Image at "Preferences_0001"</string>
+		<string>Image at "EmptyTrash03gEl"</string>
+		<string>Image at "image0352"</string>
+		<string>Image at "36H"</string>
+		<string>Image at "CTOII"</string>
+		<string>Image at "FileEditViewGo"</string>
+		<string>Image at "FileEditViewGo_0001"</string>
+		<string>Image at "View"</string>
+		<string>Image at "ViewGoWindowHelp"</string>
+		<string>Image at "ViewGoWindowHelp_0001"</string>
+		<string>Image at "Help_0003"</string>
+		<string>Image at "UFinder_0002"</string>
+		<string>Image at "File"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>image0338.png</string>
+			<string>image0339.png</string>
+			<string>image0340.png</string>
+			<string>image0341.png</string>
+			<string>image0342.png</string>
+			<string>image0343.png</string>
+			<string>image0344.png</string>
+			<string>image0345.png</string>
+			<string>image0346.png</string>
+			<string>image0347.png</string>
+			<string>image0348.png</string>
+			<string>image0349.png</string>
+			<string>image0350.png</string>
+			<string>image0351.png</string>
+			<string>UFinder_0001.png</string>
+			<string>AboutFinder.png</string>
+			<string>Preferences.png</string>
+			<string>EmptyTrash.png</string>
+			<string>Services.png</string>
+			<string>HideFinder.png</string>
+			<string>HideOthers.png</string>
+			<string>Preferences_0001.png</string>
+			<string>EmptyTrash03gEl.png</string>
+			<string>image0352.png</string>
+			<string>36H.png</string>
+			<string>CTOII.png</string>
+			<string>FileEditViewGo.png</string>
+			<string>FileEditViewGo_0001.png</string>
+			<string>View.png</string>
+			<string>ViewGoWindowHelp.png</string>
+			<string>ViewGoWindowHelp_0001.png</string>
+			<string>Help_0003.png</string>
+			<string>UFinder_0002.png</string>
+			<string>File.png</string>
+			<string>image0338.png</string>
+			<string>image0339.png</string>
+			<string>image0340.png</string>
+			<string>image0341.png</string>
+			<string>image0342.png</string>
+			<string>image0343.png</string>
+			<string>image0344.png</string>
+			<string>image0345.png</string>
+			<string>image0346.png</string>
+			<string>image0347.png</string>
+			<string>image0348.png</string>
+			<string>image0349.png</string>
+			<string>image0350.png</string>
+			<string>image0351.png</string>
+			<string>UFinder_0001.png</string>
+			<string>AboutFinder.png</string>
+			<string>Preferences.png</string>
+			<string>EmptyTrash.png</string>
+			<string>Services.png</string>
+			<string>HideFinder.png</string>
+			<string>HideOthers.png</string>
+			<string>Preferences_0001.png</string>
+			<string>EmptyTrash03gEl.png</string>
+			<string>image0352.png</string>
+			<string>36H.png</string>
+			<string>CTOII.png</string>
+			<string>FileEditViewGo.png</string>
+			<string>FileEditViewGo_0001.png</string>
+			<string>View.png</string>
+			<string>ViewGoWindowHelp.png</string>
+			<string>ViewGoWindowHelp_0001.png</string>
+			<string>Help_0003.png</string>
+			<string>UFinder_0002.png</string>
+			<string>File.png</string>
+			<string>image0338.png</string>
+			<string>image0339.png</string>
+			<string>image0340.png</string>
+			<string>image0341.png</string>
+			<string>image0342.png</string>
+			<string>image0343.png</string>
+			<string>image0344.png</string>
+			<string>image0345.png</string>
+			<string>image0346.png</string>
+			<string>image0347.png</string>
+			<string>image0348.png</string>
+			<string>image0349.png</string>
+			<string>image0350.png</string>
+			<string>image0351.png</string>
+			<string>UFinder_0001.png</string>
+			<string>AboutFinder.png</string>
+			<string>Preferences.png</string>
+			<string>EmptyTrash.png</string>
+			<string>Services.png</string>
+			<string>HideFinder.png</string>
+			<string>HideOthers.png</string>
+			<string>Preferences_0001.png</string>
+			<string>EmptyTrash03gEl.png</string>
+			<string>image0352.png</string>
+			<string>36H.png</string>
+			<string>CTOII.png</string>
+			<string>FileEditViewGo.png</string>
+			<string>FileEditViewGo_0001.png</string>
+			<string>View.png</string>
+			<string>ViewGoWindowHelp.png</string>
+			<string>ViewGoWindowHelp_0001.png</string>
+			<string>Help_0003.png</string>
+			<string>UFinder_0002.png</string>
+			<string>File.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>rapidSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

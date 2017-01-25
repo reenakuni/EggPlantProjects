@@ -1,0 +1,11 @@
+﻿2017-01-19 14:58:42.244 -0700	START		Running Untitled10.script
+2017-01-19 14:59:05.054 -0700	click	image0092	at (164, 116)	8	on_untitled10	Untitled10.script
+2017-01-19 14:59:06.861 -0700	click	image0093	at (290, 85)	9	on_untitled10	Untitled10.script
+2017-01-19 14:59:08.026 -0700	click	image0094	at (442, 152)	10	on_untitled10	Untitled10.script
+2017-01-19 14:59:09.295 -0700	click	iPad	at (373, 87)	11	on_untitled10	Untitled10.script
+2017-01-19 14:59:11.463 -0700	click	nnnnIS	at (414, 148)	12	on_untitled10	Untitled10.script
+2017-01-19 14:59:13.489 -0700	click	Music	at (822, 85)	13	on_untitled10	Untitled10.script
+2017-01-19 14:59:14.393 -0700	click	Support	at (932, 86)	14	on_untitled10	Untitled10.script
+2017-01-19 14:59:15.280 -0700	click	image0095	at (139, 43)	15	on_untitled10	Untitled10.script
+2017-01-19 14:59:17.023 -0700	EndTestCase		(Duration:"34.776581", Errors:"0", Exceptions:"0", StartTime:"2017-01-19 14:58:42 -0700", Successes:"1", TestCase:"Untitled10.script", Warnings:"0")
+2017-01-19 14:59:17.180 -0700	SUCCESS		Execution Time 0:00:34 Untitled10.script

@@ -1,0 +1,25 @@
+﻿2016-05-19 12:30:50.864 -0600	START		Running 500images.script
+2016-05-19 12:30:51.514 -0600	rightclick	Images	at (369, 233)	2	on_500images	500images.script
+2016-05-19 12:30:52.805 -0600	click	Duplicate	at (432, 358)	3	on_500images	500images.script
+2016-05-19 12:30:53.970 -0600	rightclick	Images	at (369, 233)	2	on_500images	500images.script
+2016-05-19 12:30:55.938 -0600	click	Duplicate	at (432, 358)	3	on_500images	500images.script
+2016-05-19 12:30:57.231 -0600	rightclick	Images	at (369, 233)	2	on_500images	500images.script
+2016-05-19 12:30:58.112 -0600	click	Duplicate	at (432, 358)	3	on_500images	500images.script
+2016-05-19 12:30:58.978 -0600	rightclick	Images	at (369, 233)	2	on_500images	500images.script
+2016-05-19 12:31:02.176 -0600	click	Duplicate	at (432, 358)	3	on_500images	500images.script
+2016-05-19 12:31:03.146 -0600	rightclick	Images	at (369, 233)	2	on_500images	500images.script
+2016-05-19 12:31:04.425 -0600	click	Duplicate	at (432, 358)	3	on_500images	500images.script
+2016-05-19 12:31:05.299 -0600	rightclick	Images	at (369, 233)	2	on_500images	500images.script
+2016-05-19 12:31:06.951 -0600	click	Duplicate	at (432, 358)	3	on_500images	500images.script
+2016-05-19 12:31:07.970 -0600	rightclick	Images	at (369, 233)	2	on_500images	500images.script
+2016-05-19 12:31:09.868 -0600	click	Duplicate	at (432, 358)	3	on_500images	500images.script
+2016-05-19 12:31:10.842 -0600	rightclick	Images	at (369, 233)	2	on_500images	500images.script
+2016-05-19 12:31:11.714 -0600	click	Duplicate	at (432, 358)	3	on_500images	500images.script
+2016-05-19 12:31:12.999 -0600	rightclick	Images	at (369, 233)	2	on_500images	500images.script
+2016-05-19 12:31:14.293 -0600	click	Duplicate	at (432, 358)	3	on_500images	500images.script
+2016-05-19 12:31:15.581 -0600	rightclick	Images	at (369, 233)	2	on_500images	500images.script
+2016-05-19 12:31:16.873 -0600	click	Duplicate	at (432, 358)	3	on_500images	500images.script
+2016-05-19 12:31:17.756 -0600	rightclick	Images	at (526, 561)	2	on_500images	500images.script
+2016-05-19 12:31:32.197 -0600	Exception	Duplicate	No Image Found On Screen: "Duplicate"	3	on_500images	500images.script
+2016-05-19 12:31:32.563 -0600	EndTestCase		(Duration:"41.697082", Errors:"1", Exceptions:"1", StartTime:"2016-05-19 12:30:50 -0600", Successes:"0", TestCase:"500images.script", Warnings:"0")
+2016-05-19 12:31:32.564 -0600	ABORTED		Execution Time 0:00:41 500images.script

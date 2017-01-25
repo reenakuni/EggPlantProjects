@@ -1,0 +1,107 @@
+﻿<?xml version="1.0"?>
+<statistics>
+ <script name="ImageEdit">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>23</NumberOfRuns>
+  <NumberOfFails>11</NumberOfFails>
+  <FirstRun>2016-06-03 15:41:22 -0600</FirstRun>
+  <LastRun>2016-06-23 15:03:16 -0600</LastRun>
+  <TotalTimeOnSuccess>0.559485</TotalTimeOnSuccess>
+ </script>
+ <script name="FirstFeaturefile">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>7</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-06-08 15:02:31 -0600</FirstRun>
+  <LastRun>2016-06-23 15:00:36 -0600</LastRun>
+  <TotalTimeOnSuccess>0.161322</TotalTimeOnSuccess>
+ </script>
+ <script name="100scripts">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>4</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-05-19 12:20:18 -0600</FirstRun>
+  <LastRun>2016-05-20 12:00:28 -0600</LastRun>
+  <TotalTimeOnSuccess>286.959464</TotalTimeOnSuccess>
+ </script>
+ <script name="500images">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>4</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-05-19 12:30:17 -0600</FirstRun>
+  <LastRun>2016-05-19 14:29:16 -0600</LastRun>
+  <TotalTimeOnSuccess>1484.255386</TotalTimeOnSuccess>
+ </script>
+ <script name="d">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>17</NumberOfRuns>
+  <NumberOfFails>6</NumberOfFails>
+  <FirstRun>2016-06-01 11:17:51 -0600</FirstRun>
+  <LastRun>2016-06-13 12:39:48 -0600</LastRun>
+  <TotalTimeOnSuccess>46.829586</TotalTimeOnSuccess>
+ </script>
+ <script name="un">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>17</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2016-05-13 12:41:06 -0600</FirstRun>
+  <LastRun>2016-06-24 15:19:53 -0600</LastRun>
+  <TotalTimeOnSuccess>6.043940</TotalTimeOnSuccess>
+ </script>
+ <script name="Untitled1">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>2</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-05-19 10:32:16 -0600</FirstRun>
+  <LastRun>2016-05-19 10:32:40 -0600</LastRun>
+  <TotalTimeOnSuccess>0.492770</TotalTimeOnSuccess>
+ </script>
+ <script name="Stepwithspace">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>8</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-06-13 12:43:46 -0600</FirstRun>
+  <LastRun>2016-06-24 15:19:13 -0600</LastRun>
+  <TotalTimeOnSuccess>0.915232</TotalTimeOnSuccess>
+ </script>
+ <script name="test1">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>66</NumberOfRuns>
+  <NumberOfFails>12</NumberOfFails>
+  <FirstRun>2016-06-10 22:53:31 -0600</FirstRun>
+  <LastRun>2016-06-24 17:04:23 -0600</LastRun>
+  <TotalTimeOnSuccess>20.140598</TotalTimeOnSuccess>
+ </script>
+ <script name="Testfeature">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>57</NumberOfRuns>
+  <NumberOfFails>26</NumberOfFails>
+  <FirstRun>2016-06-10 17:29:17 -0600</FirstRun>
+  <LastRun>2016-06-10 22:51:44 -0600</LastRun>
+  <TotalTimeOnSuccess>8.535025</TotalTimeOnSuccess>
+ </script>
+ <script name="100lines">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>2</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-05-23 15:48:46 -0600</FirstRun>
+  <LastRun>2016-05-23 16:13:27 -0600</LastRun>
+  <TotalTimeOnSuccess>1.013107</TotalTimeOnSuccess>
+ </script>
+ <script name="Using$">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>14</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-06-12 00:06:05 -0600</FirstRun>
+  <LastRun>2016-06-23 15:01:22 -0600</LastRun>
+  <TotalTimeOnSuccess>0.166356</TotalTimeOnSuccess>
+ </script>
+ <script name="asasasas">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-06-23 15:02:29 -0600</FirstRun>
+  <LastRun>2016-06-23 15:02:29 -0600</LastRun>
+  <TotalTimeOnSuccess>1.091268</TotalTimeOnSuccess>
+ </script>
+</statistics>

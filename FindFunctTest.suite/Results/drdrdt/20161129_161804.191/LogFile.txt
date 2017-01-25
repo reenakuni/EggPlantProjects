@@ -1,0 +1,4 @@
+﻿2016-11-29 16:18:04.192 -0700	START		Running drdrdt.script
+2016-11-29 16:18:04.255 -0700	Log		helper before	1	on_drdrdt	drdrdt.script
+2016-11-29 16:18:05.189 -0700	EndTestCase		(Duration:"0.994412", Errors:"0", Exceptions:"0", StartTime:"2016-11-29 16:18:04 -0700", Successes:"1", TestCase:"drdrdt.script", Warnings:"0")
+2016-11-29 16:18:05.205 -0700	SUCCESS		Execution Time 0:00:00 drdrdt.script

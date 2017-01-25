@@ -1,0 +1,630 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Testfeature-Feature">
+ <run>
+  <RunDate>2016-06-03 15:52:04.813 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.012117</Duration>
+  <Errors>0</Errors>
+  <Warnings>3</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160603_155204.813/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-03 15:53:11.199 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.016482</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>6</Successes>
+  <LogFile>20160603_155311.199/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-03 15:53:13.766 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.011942</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>6</Successes>
+  <LogFile>20160603_155313.766/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-10 17:26:30.254 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.019451</Duration>
+  <Errors>0</Errors>
+  <Warnings>4</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160610_172630.254/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-10 17:27:50.879 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.012923</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>8</Successes>
+  <LogFile>20160610_172750.879/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-10 17:28:47.229 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.010099</Duration>
+  <Errors>0</Errors>
+  <Warnings>4</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160610_172847.229/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-10 17:29:17.136 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.012542</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>8</Successes>
+  <LogFile>20160610_172917.136/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-10 17:33:24.370 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.012508</Duration>
+  <Errors>0</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>6</Successes>
+  <LogFile>20160610_173324.370/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-10 17:36:16.668 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.011868</Duration>
+  <Errors>0</Errors>
+  <Warnings>3</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>2</Successes>
+  <LogFile>20160610_173616.668/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-10 17:40:56.878 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.013888</Duration>
+  <Errors>0</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>6</Successes>
+  <LogFile>20160610_174056.878/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-10 17:41:23.345 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.012936</Duration>
+  <Errors>0</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>6</Successes>
+  <LogFile>20160610_174123.345/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-10 17:41:51.678 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.012492</Duration>
+  <Errors>0</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>6</Successes>
+  <LogFile>20160610_174151.678/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-10 17:42:26.833 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.013756</Duration>
+  <Errors>0</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>6</Successes>
+  <LogFile>20160610_174226.833/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-10 17:43:32.180 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.012615</Duration>
+  <Errors>0</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>6</Successes>
+  <LogFile>20160610_174332.180/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-10 17:44:18.461 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.014370</Duration>
+  <Errors>0</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>6</Successes>
+  <LogFile>20160610_174418.461/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-10 17:44:53.423 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.013184</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>8</Successes>
+  <LogFile>20160610_174453.423/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-10 17:49:03.043 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.036700</Duration>
+  <Errors>2</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>7</Successes>
+  <LogFile>20160610_174903.043/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Runtime Exception -- Invalid operands for addition: expected numbers, dates and/or lists; got &#x27;num2&#x27; and &#x27;num1&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-10 17:49:55.528 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.035886</Duration>
+  <Errors>2</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>7</Successes>
+  <LogFile>20160610_174955.528/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Runtime Exception -- Invalid operands for addition: expected numbers, dates and/or lists; got &#x27;num2&#x27; and &#x27;num1&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-10 17:49:57.144 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.036647</Duration>
+  <Errors>2</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>7</Successes>
+  <LogFile>20160610_174957.144/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Runtime Exception -- Invalid operands for addition: expected numbers, dates and/or lists; got &#x27;num2&#x27; and &#x27;num1&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-10 17:50:35.154 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.037122</Duration>
+  <Errors>2</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>7</Successes>
+  <LogFile>20160610_175035.154/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Runtime Exception -- Invalid operands for addition: expected numbers, dates and/or lists; got &#x27;num2&#x27; and &#x27;num1&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-10 17:50:37.489 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.035732</Duration>
+  <Errors>2</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>7</Successes>
+  <LogFile>20160610_175037.489/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Runtime Exception -- Invalid operands for addition: expected numbers, dates and/or lists; got &#x27;num2&#x27; and &#x27;num1&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-10 17:52:46.904 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.038669</Duration>
+  <Errors>2</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>7</Successes>
+  <LogFile>20160610_175246.904/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Runtime Exception -- Invalid operands for addition: expected numbers, dates and/or lists; got &#x27;num2&#x27; and &#x27;num1&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-10 17:53:24.205 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.012040</Duration>
+  <Errors>0</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>6</Successes>
+  <LogFile>20160610_175324.205/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-10 17:54:03.678 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.036368</Duration>
+  <Errors>2</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>7</Successes>
+  <LogFile>20160610_175403.678/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Runtime Exception -- Invalid operands for addition: expected numbers, dates and/or lists; got &#x27;num2&#x27; and &#x27;num1&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-10 17:56:40.236 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.010087</Duration>
+  <Errors>0</Errors>
+  <Warnings>4</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160610_175640.236/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-10 17:56:43.784 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.010098</Duration>
+  <Errors>0</Errors>
+  <Warnings>4</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160610_175643.784/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-10 22:23:25.420 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.017919</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>8</Successes>
+  <LogFile>20160610_222325.420/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-10 22:23:29.178 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.015462</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>8</Successes>
+  <LogFile>20160610_222329.178/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-10 22:25:30.366 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.036950</Duration>
+  <Errors>2</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>7</Successes>
+  <LogFile>20160610_222530.366/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Runtime Exception -- Invalid operands for addition: expected numbers, dates and/or lists; got &#x27;num2&#x27; and &#x27;num1&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-10 22:25:50.986 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.038344</Duration>
+  <Errors>2</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>7</Successes>
+  <LogFile>20160610_222550.986/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Runtime Exception -- Invalid operands for addition: expected numbers, dates and/or lists; got &#x27;num2&#x27; and &#x27;num1&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-10 22:25:54.101 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.036479</Duration>
+  <Errors>2</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>7</Successes>
+  <LogFile>20160610_222554.101/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Runtime Exception -- Invalid operands for addition: expected numbers, dates and/or lists; got &#x27;num2&#x27; and &#x27;num1&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-10 22:25:57.210 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.040622</Duration>
+  <Errors>2</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>7</Successes>
+  <LogFile>20160610_222557.210/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Runtime Exception -- Invalid operands for addition: expected numbers, dates and/or lists; got &#x27;num2&#x27; and &#x27;num1&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-10 22:26:37.672 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.014909</Duration>
+  <Errors>2</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>7</Successes>
+  <LogFile>20160610_222637.672/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in the_result_should_be_the_numeric_value_var:
+Syntax Error at line 3: Syntax Error - can&#x27;t understand &quot;=&quot; at or near character 72</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-10 22:26:39.235 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.012945</Duration>
+  <Errors>2</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>7</Successes>
+  <LogFile>20160610_222639.235/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in the_result_should_be_the_numeric_value_var:
+Syntax Error at line 3: Syntax Error - can&#x27;t understand &quot;=&quot; at or near character 72</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-10 22:26:55.859 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.013458</Duration>
+  <Errors>2</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>7</Successes>
+  <LogFile>20160610_222655.859/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in the_result_should_be_the_numeric_value_var:
+Syntax Error at line 3: Syntax Error - can&#x27;t understand &quot;=&quot; at or near character 72</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-10 22:27:17.979 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.012862</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>8</Successes>
+  <LogFile>20160610_222717.979/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-10 22:28:50.925 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.012101</Duration>
+  <Errors>0</Errors>
+  <Warnings>2</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>4</Successes>
+  <LogFile>20160610_222850.925/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-10 22:34:13.637 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.040534</Duration>
+  <Errors>2</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>7</Successes>
+  <LogFile>20160610_223413.637/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Runtime Exception -- Invalid operands for addition: expected numbers, dates and/or lists; got &#x27;num2&#x27; and &#x27;num1&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-10 22:46:16.566 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.013092</Duration>
+  <Errors>0</Errors>
+  <Warnings>2</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>4</Successes>
+  <LogFile>20160610_224616.566/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-10 22:47:26.241 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.014913</Duration>
+  <Errors>0</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>6</Successes>
+  <LogFile>20160610_224726.241/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-10 22:47:49.280 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.014346</Duration>
+  <Errors>0</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>6</Successes>
+  <LogFile>20160610_224749.280/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-10 22:48:10.169 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.041159</Duration>
+  <Errors>2</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>7</Successes>
+  <LogFile>20160610_224810.169/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Runtime Exception -- Invalid operands for addition: expected numbers, dates and/or lists; got &#x27;num2&#x27; and &#x27;num1&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-10 22:49:23.322 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.039305</Duration>
+  <Errors>2</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>7</Successes>
+  <LogFile>20160610_224923.322/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Runtime Exception -- Invalid operands for addition: expected numbers, dates and/or lists; got &#x27;num2&#x27; and &#x27;num1&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-10 22:49:26.262 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.040059</Duration>
+  <Errors>2</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>7</Successes>
+  <LogFile>20160610_224926.262/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Runtime Exception -- Invalid operands for addition: expected numbers, dates and/or lists; got &#x27;num2&#x27; and &#x27;num1&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-10 22:49:30.570 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.038372</Duration>
+  <Errors>2</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>7</Successes>
+  <LogFile>20160610_224930.570/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Runtime Exception -- Invalid operands for addition: expected numbers, dates and/or lists; got &#x27;num2&#x27; and &#x27;num1&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-10 22:49:31.850 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.040899</Duration>
+  <Errors>2</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>7</Successes>
+  <LogFile>20160610_224931.850/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Runtime Exception -- Invalid operands for addition: expected numbers, dates and/or lists; got &#x27;num2&#x27; and &#x27;num1&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-10 22:49:32.945 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.039402</Duration>
+  <Errors>2</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>7</Successes>
+  <LogFile>20160610_224932.945/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Runtime Exception -- Invalid operands for addition: expected numbers, dates and/or lists; got &#x27;num2&#x27; and &#x27;num1&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-10 22:50:40.961 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.039912</Duration>
+  <Errors>2</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>7</Successes>
+  <LogFile>20160610_225040.961/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Runtime Exception -- Invalid operands for addition: expected numbers, dates and/or lists; got &#x27;num2&#x27; and &#x27;num1&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-10 22:51:29.046 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.034069</Duration>
+  <Errors>2</Errors>
+  <Warnings>2</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160610_225129.046/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Runtime Exception -- Invalid operands for addition: expected numbers, dates and/or lists; got &#x27;num2&#x27; and &#x27;num1&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-10 22:51:34.312 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.069757</Duration>
+  <Errors>3</Errors>
+  <Warnings>2</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>8</Successes>
+  <LogFile>20160610_225134.312/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Runtime Exception -- Invalid operands for addition: expected numbers, dates and/or lists; got &#x27;num2&#x27; and &#x27;num1&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-10 22:51:42.672 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.033890</Duration>
+  <Errors>2</Errors>
+  <Warnings>2</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160610_225142.672/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Runtime Exception -- Invalid operands for addition: expected numbers, dates and/or lists; got &#x27;num2&#x27; and &#x27;num1&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-10 22:51:44.289 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.035660</Duration>
+  <Errors>2</Errors>
+  <Warnings>2</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160610_225144.289/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Runtime Exception -- Invalid operands for addition: expected numbers, dates and/or lists; got &#x27;num2&#x27; and &#x27;num1&#x27;</ErrorMessage>
+ </run>
+</runHistory>

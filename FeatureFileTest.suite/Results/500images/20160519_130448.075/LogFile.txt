@@ -1,0 +1,6 @@
+﻿2016-05-19 13:04:48.076 -0600	START		Running 500images.script
+2016-05-19 13:04:48.610 -0600	rightclick	Images	at (265, 223)	2	on_500images	500images.script
+2016-05-19 13:04:49.957 -0600	click	Duplicate	at (328, 348)	3	on_500images	500images.script
+2016-05-19 13:04:53.422 -0600	rightclick	Images	at (265, 223)	2	on_500images	500images.script
+2016-05-19 13:04:54.471 -0600	EndTestCase		(Duration:"6.393849", Errors:"1", Exceptions:"0", StartTime:"2016-05-19 13:04:48 -0600", Successes:"0", TestCase:"500images.script", Warnings:"0")
+2016-05-19 13:04:54.472 -0600	ABORTED		Execution Time 0:00:06 500images.script

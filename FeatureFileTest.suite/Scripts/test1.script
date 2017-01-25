@@ -1,0 +1,25 @@
+﻿global pnum1
+to handle I_have_a_variable_with_value_VAR 
+	params num1	
+	set global pnum1 = num1
+	log num1
+	log global pnum1
+end I_have_a_variable_with_value_VAR
+
+to handle I_have_a_variable_with_the_value_VAR
+	params num2
+	log num2
+	log pnum1
+end I_have_a_variable_with_the_value_VAR
+
+to handle I_log_these_numbers
+	log global pnum1
+	log num2
+end I_log_these_numbers
+
+
+to handle the_result_should_be_VAR
+	params num3
+	log num3
+end the_result_should_be_VAR
+

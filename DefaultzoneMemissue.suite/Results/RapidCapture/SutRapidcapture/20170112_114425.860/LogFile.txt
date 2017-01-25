@@ -1,0 +1,4 @@
+﻿2017-01-12 11:44:25.862 -0700	START		Running RapidCapture/SutRapidcapture.script
+2017-01-12 11:44:38.403 -0700	click	image0015	at (250, 134)	8	on_rapidcapture_sutrapidcapture	RapidCapture/SutRapidcapture.script
+2017-01-12 11:44:52.262 -0700	EndTestCase		(Duration:"26.396676", Errors:"1", Exceptions:"0", StartTime:"2017-01-12 11:44:25 -0700", Successes:"0", TestCase:"RapidCapture/SutRapidcapture.script", Warnings:"0")
+2017-01-12 11:44:52.263 -0700	ABORTED		Execution Time 0:00:26 RapidCapture/SutRapidcapture.script

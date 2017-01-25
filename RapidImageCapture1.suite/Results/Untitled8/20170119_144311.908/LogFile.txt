@@ -1,0 +1,4 @@
+﻿2017-01-19 14:43:11.909 -0700	START		Running Untitled8.script
+2017-01-19 14:43:11.997 -0700	Exception	image00051	Could Not Open Image: image00051	8	on_untitled8	Untitled8.script
+2017-01-19 14:43:13.613 -0700	EndTestCase		(Duration:"1.70224", Errors:"1", Exceptions:"1", StartTime:"2017-01-19 14:43:11 -0700", Successes:"0", TestCase:"Untitled8.script", Warnings:"0")
+2017-01-19 14:43:14.289 -0700	FAILURE	Screen_Error.png	File Not Found click Error - Could Not Open Image: image00051 -- Execution Time 0:00:01 Untitled8.script

@@ -1,0 +1,3 @@
+﻿2015-11-11 15:44:38.730 -0700	START		Running Croprectangle.script
+2015-11-11 15:44:49.134 -0700	EndTestCase		(Duration:"10.403239", Errors:"1", Exceptions:"0", StartTime:"2015-11-11 15:44:38 -0700", Successes:"0", TestCase:"Croprectangle.script", Warnings:"0")
+2015-11-11 15:44:49.609 -0700	FAILURE	Screen_Error.tiff	Connection Failed Unable to connect to Server:10.1.11.84 on port:0\nConnection Timed Out - Unable to connect to host -- Execution Time 0:00:10 Croprectangle.script

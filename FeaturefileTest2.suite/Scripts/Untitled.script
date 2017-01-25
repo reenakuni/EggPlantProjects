@@ -1,0 +1,26 @@
+﻿
+to handle do_something_with_VAR
+	params n1
+	log n1
+end do_something_with_VAR
+
+to handle with_VAR
+	params n2
+	log n2
+end with_VAR
+
+to handle log__VAR
+	params n3
+	log n3
+end log__VAR
+
+
+to handle VAR_is_good
+	params n5
+	log n5
+end VAR_is_good
+
+to handle log_fourth_value_VAR
+	params n4
+	log n4
+end log_fourth_value_VAR

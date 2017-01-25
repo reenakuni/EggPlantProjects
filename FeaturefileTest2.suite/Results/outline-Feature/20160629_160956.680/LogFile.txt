@@ -1,0 +1,29 @@
+﻿2016-06-29 16:09:56.681 -0600	START		Running outline.feature
+2016-06-29 16:09:56.688 -0600	set		SEARCHRECTANGLE = (0,0,250,250)	3	on_page_is_open	outline.script<SOURCE>
+2016-06-29 16:10:57.220 -0600	moveto	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(45,62), ImageRectangle:(12,56,78,68), Language:"English", text:"eggplanttt", TextDifference:"2", TextPlatform:"Generic OCR")	at (45, 62)	4	on_page_is_open	outline.script<SOURCE>
+2016-06-29 16:10:57.223 -0600	LogSuccess		page is open
+2016-06-29 16:10:57.224 -0600	Log		6	3	on_enter_var	outline.script<SOURCE>
+2016-06-29 16:10:57.225 -0600	LogSuccess		enter <num1>
+2016-06-29 16:10:57.226 -0600	Log		4	3	on_enter_second_number_var	outline.script<SOURCE>
+2016-06-29 16:10:57.227 -0600	LogSuccess		enter second number <num2>
+2016-06-29 16:10:57.228 -0600	Log		6	3	on_enter_third_number_var	outline.script<SOURCE>
+2016-06-29 16:10:57.229 -0600	LogSuccess		enter third number <num3>
+2016-06-29 16:10:57.230 -0600	Log		6	3	on_add_var_and_var_to_get_var	outline.script<SOURCE>
+2016-06-29 16:10:57.232 -0600	Log		4	4	on_add_var_and_var_to_get_var	outline.script<SOURCE>
+2016-06-29 16:10:57.233 -0600	Log		6	5	on_add_var_and_var_to_get_var	outline.script<SOURCE>
+2016-06-29 16:10:57.234 -0600	LogSuccess		add <num1> and <num2> to get <num3>
+2016-06-29 16:10:57.235 -0600	set		SEARCHRECTANGLE = (0,0,250,250)	3	on_page_is_open	outline.script<SOURCE>
+2016-06-29 16:11:36.107 -0600	moveto	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(45,62), ImageRectangle:(12,56,78,68), Language:"English", text:"eggplanttt", TextDifference:"2", TextPlatform:"Generic OCR")	at (45, 62)	4	on_page_is_open	outline.script<SOURCE>
+2016-06-29 16:11:36.110 -0600	LogSuccess		page is open
+2016-06-29 16:11:36.111 -0600	Log		7	3	on_enter_var	outline.script<SOURCE>
+2016-06-29 16:11:36.112 -0600	LogSuccess		enter <num1>
+2016-06-29 16:11:36.112 -0600	Log		8	3	on_enter_second_number_var	outline.script<SOURCE>
+2016-06-29 16:11:36.113 -0600	LogSuccess		enter second number <num2>
+2016-06-29 16:11:36.114 -0600	Log		15	3	on_enter_third_number_var	outline.script<SOURCE>
+2016-06-29 16:11:36.115 -0600	LogSuccess		enter third number <num3>
+2016-06-29 16:11:36.116 -0600	Log		7	3	on_add_var_and_var_to_get_var	outline.script<SOURCE>
+2016-06-29 16:11:36.117 -0600	Log		8	4	on_add_var_and_var_to_get_var	outline.script<SOURCE>
+2016-06-29 16:11:36.118 -0600	Log		15	5	on_add_var_and_var_to_get_var	outline.script<SOURCE>
+2016-06-29 16:11:36.119 -0600	LogSuccess		add <num1> and <num2> to get <num3>
+2016-06-29 16:11:36.120 -0600	EndTestCase		(Duration:"99.438331", Errors:"0", Exceptions:"0", StartTime:"2016-06-29 16:09:56 -0600", Successes:"10", TestCase:"outline.feature", Warnings:"0")
+2016-06-29 16:11:36.136 -0600	SUCCESS		2 scenarios (0 failed, 2 passed) 10 steps (0 failed, 0 skipped, 10 passed) Execution Time 0:01:39

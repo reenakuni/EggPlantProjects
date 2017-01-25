@@ -1,0 +1,14 @@
+﻿
+to handle the_balance_is__NUM____
+	params num1
+	
+end the_balance_is__NUM____
+
+to handle the_balance_is__100
+	
+end the_balance_is__100
+
+to handle the_balance_is__NUM
+	params num1
+	
+end the_balance_is__NUM

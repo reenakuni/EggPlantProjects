@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[158, 685, 228, 715], command:@"Image at", eventNum:2, hotSpot:[1.9389690200000001e+02, 9.2706896000000000e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0289", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[267, 701, 298, 716], command:@"Image at", eventNum:3, hotSpot:[2.8019038300000000e+02, 8.9416439999999994e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Mac", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0003.png"}, {captureRect:[370, 701, 400, 716], command:@"Image at", eventNum:4, hotSpot:[3.8509097500000001e+02, 8.6751513000000003e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"iPad_0001", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0004.png"}, {captureRect:[502, 11, 545, 53], command:@"Image at", eventNum:5, hotSpot:[5.2602785600000004e+02, 7.6111085000000003e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0290", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0005.png"}, {captureRect:[704, 11, 749, 55], command:@"Image at", eventNum:6, hotSpot:[7.2767343700000004e+02, 7.6272608700000001e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"ro4", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0006.png"}, {captureRect:[805, 12, 846, 52], command:@"Image at", eventNum:7, hotSpot:[8.2750247800000000e+02, 7.6019826200000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0291", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0007.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Image at "image0289"</string>
+		<string>Image at "Mac"</string>
+		<string>Image at "iPad_0001"</string>
+		<string>Image at "image0290"</string>
+		<string>Image at "ro4"</string>
+		<string>Image at "image0291"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>image0289.png</string>
+			<string>image0289.png</string>
+			<string>Mac.png</string>
+			<string>Mac.png</string>
+			<string>iPad_0001.png</string>
+			<string>iPad_0001.png</string>
+			<string>image0290.png</string>
+			<string>image0290.png</string>
+			<string>ro4.png</string>
+			<string>ro4.png</string>
+			<string>image0291.png</string>
+			<string>image0291.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>rapidSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

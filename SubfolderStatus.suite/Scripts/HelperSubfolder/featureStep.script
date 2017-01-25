@@ -1,0 +1,5 @@
+﻿to handle Calc_is_closed
+	log "step def"
+end Calc_is_closed
+
+Run "HelperSubfolder/callhandlerscript"

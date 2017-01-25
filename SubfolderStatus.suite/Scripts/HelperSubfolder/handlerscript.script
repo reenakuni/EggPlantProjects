@@ -1,0 +1,20 @@
+﻿to handle area x, y
+	put x*y
+end area
+
+Run "HelperSubfolder/callhandlerscript"
+jnhkjjkkjjkjkkjkjkkjkj
+
+
+//kjdffdjkgjkfdg
+Helper2
+Click "calculatorCloseButton" 
+Click "calculatorCloseButton" 
+TypeText "This is fun"
+
+//If statement from issue 8649. 
+if not ImageFound(myImage)
+Tap "image1'
+Tap "image2" 
+Typetext "text" 
+end if

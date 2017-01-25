@@ -1,0 +1,4 @@
+﻿2016-10-28 16:17:50.964 -0600	START		Running AccessibilityDemo (2).script
+2016-10-28 16:17:51.060 -0600	Log		x	2	on_accessibilitydemo__2_	AccessibilityDemo (2).script
+2016-10-28 16:17:52.123 -0600	EndTestCase		(Duration:"1.1568", Errors:"0", Exceptions:"0", StartTime:"2016-10-28 16:17:50 -0600", Successes:"1", TestCase:"AccessibilityDemo (2).script", Warnings:"0")
+2016-10-28 16:17:52.131 -0600	SUCCESS		Execution Time 0:00:01 AccessibilityDemo (2).script

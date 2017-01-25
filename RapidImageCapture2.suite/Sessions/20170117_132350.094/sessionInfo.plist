@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[52, 777, 387, 793], command:@"Drag", eventNum:2, hotSpot:[4.3968750000000000e+01, 1.1304688000000001e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"FinderFileEditViewGoWindowHelp_0005", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[52, 777, 387, 793], command:@"Drop", eventNum:2, hotSpot:[4.5011718999999999e+01, 1.1304688000000001e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"FinderFileEditViewGoWindowHelp_0006", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[114, 779, 139, 793], command:@"Click", eventNum:4, hotSpot:[1.2552343800000000e+02, 8.6093750000000000e+00], imageName:@"", infoDict:{folderPath:@"/", imageName:@"File", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0004.png"}, {captureRect:[114, 779, 232, 793], command:@"Click", eventNum:6, hotSpot:[1.6142578100000000e+02, 9.6093750000000000e+00], imageName:@"", infoDict:{folderPath:@"/", imageName:@"FileEditView_0001", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0006.png"}, {captureRect:[198, 779, 232, 793], command:@"Click", eventNum:8, hotSpot:[2.2039843800000000e+02, 1.5734375000000000e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"View", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0008.png"}, {captureRect:[198, 779, 339, 793], command:@"Click", eventNum:10, hotSpot:[2.5152343800000000e+02, 1.4691406000000001e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"ViewGoWindow_0004", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0010.png"}, {captureRect:[285, 779, 339, 793], command:@"Click", eventNum:12, hotSpot:[3.1044140599999997e+02, 6.5546879999999996e+00], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Window", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0012.png"}, {captureRect:[114, 777, 387, 793], command:@"Click", eventNum:14, hotSpot:[3.7944140599999997e+02, 1.4468750000000000e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"FileEditViewGoWindowHelp_0001", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0014.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Drag "FinderFileEditViewGoWindowHelp_0005"</string>
+		<string>Drop "FinderFileEditViewGoWindowHelp_0006"</string>
+		<string>Click "File"</string>
+		<string>Click "FileEditView_0001"</string>
+		<string>Click "View"</string>
+		<string>Click "ViewGoWindow_0004"</string>
+		<string>Click "Window"</string>
+		<string>Click "FileEditViewGoWindowHelp_0001"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>FinderFileEditViewGoWindowHelp_0005.png</string>
+			<string>FinderFileEditViewGoWindowHelp_0005.png</string>
+			<string>FinderFileEditViewGoWindowHelp_0006.png</string>
+			<string>FinderFileEditViewGoWindowHelp_0006.png</string>
+			<string>File.png</string>
+			<string>File.png</string>
+			<string>FileEditView_0001.png</string>
+			<string>FileEditView_0001.png</string>
+			<string>View.png</string>
+			<string>View.png</string>
+			<string>ViewGoWindow_0004.png</string>
+			<string>ViewGoWindow_0004.png</string>
+			<string>Window.png</string>
+			<string>Window.png</string>
+			<string>FileEditViewGoWindowHelp_0001.png</string>
+			<string>FileEditViewGoWindowHelp_0001.png</string>
+			<string>FinderFileEditViewGoWindowHelp_0005.png</string>
+			<string>FinderFileEditViewGoWindowHelp_0006.png</string>
+			<string>File.png</string>
+			<string>FileEditView_0001.png</string>
+			<string>View.png</string>
+			<string>ViewGoWindow_0004.png</string>
+			<string>Window.png</string>
+			<string>FileEditViewGoWindowHelp_0001.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>turboSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

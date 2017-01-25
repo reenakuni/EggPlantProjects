@@ -1,0 +1,6 @@
+﻿2017-01-19 14:48:13.143 -0700	START		Running Untitled8.script
+2017-01-19 14:48:13.734 -0700	moveto	image0051	at (320, 106)	8	on_untitled8	Untitled8.script
+2017-01-19 14:48:14.952 -0700	moveto	image0052	at (163, 112)	9	on_untitled8	Untitled8.script
+2017-01-19 14:48:16.173 -0700	moveto	image0053	at (319, 349)	10	on_untitled8	Untitled8.script
+2017-01-19 14:48:33.432 -0700	EndTestCase		(Duration:"20.286445", Errors:"1", Exceptions:"0", StartTime:"2017-01-19 14:48:13 -0700", Successes:"0", TestCase:"Untitled8.script", Warnings:"0")
+2017-01-19 14:48:33.434 -0700	ABORTED		Execution Time 0:00:20 Untitled8.script

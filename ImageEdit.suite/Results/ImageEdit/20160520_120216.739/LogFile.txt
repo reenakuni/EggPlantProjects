@@ -1,0 +1,4 @@
+﻿2016-05-20 12:02:16.740 -0600	START		Running ImageEdit.script
+2016-05-20 12:02:16.789 -0600	Log		reena may 20th	22	on_imageedit	ImageEdit.script
+2016-05-20 12:02:17.063 -0600	EndTestCase		(Duration:"0.321596", Errors:"0", Exceptions:"0", StartTime:"2016-05-20 12:02:16 -0600", Successes:"1", TestCase:"ImageEdit.script", Warnings:"0")
+2016-05-20 12:02:17.069 -0600	SUCCESS		Execution Time 0:00:00 ImageEdit.script

@@ -1,0 +1,18 @@
+﻿{
+    EPVersionNumber = 1701241603;
+    Schedules =     (
+                {
+            ChangeCount = 0;
+            Name = "Schedule 1";
+            Schedule =             (
+            );
+        }
+    );
+    ScriptMetaData =     {
+    };
+    SuiteEncodedTextKey = "YBI0&+d{wQtZ<I)R";
+    helpedSuitesInfo =     (
+    );
+    helperSuitesInfo =     (
+    );
+}

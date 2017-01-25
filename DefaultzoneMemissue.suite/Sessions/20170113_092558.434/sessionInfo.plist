@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[82, 677, 152, 707], command:@"Image at", eventNum:2, hotSpot:[1.1749380400000000e+02, 1.0004187200000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0125", searchType:@"Tolerant", skipStep:True, waitFor:@""}, screenShotFile:@"Screen0002.png", skipStep:@"YES"}, {captureRect:[134, 663, 204, 693], command:@"Image at", eventNum:3, hotSpot:[1.6995695000000001e+02, 1.1489605500000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0126", searchType:@"Precise", waitFor:@""}, screenShotFile:@"Screen0003.png", skipStep:@"YES"}, {captureRect:[343, 665, 413, 695], command:@"Image at", eventNum:4, hotSpot:[3.7840886300000000e+02, 1.1260815900000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0127", searchType:@"Precise", waitFor:@""}, screenShotFile:@"Screen0004.png", skipStep:@"YES"}, {captureRect:[394, 468, 464, 498], command:@"Image at", eventNum:5, hotSpot:[4.2981829199999999e+02, 3.0915294899999998e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0128", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0005.png"}, {captureRect:[252, 311, 407, 328], command:@"Image at", eventNum:6, hotSpot:[3.5441751099999999e+02, 4.8022240799999997e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"HelloOfficialSite", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0006.png", skipStep:@"YES"}, {captureRect:[94, 651, 164, 681], command:@"Image at", eventNum:7, hotSpot:[1.2931600200000000e+02, 1.2645978100000001e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0129", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0007.png", skipStep:@"YES"}, {captureRect:[252, 305, 407, 322], command:@"Image at", eventNum:8, hotSpot:[3.3254644400000001e+02, 4.7679484900000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"HelloOfficialSite_0001", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0008.png"}, {captureRect:[170, 667, 301, 700], command:@"Image at", eventNum:9, hotSpot:[2.1754129800000001e+02, 1.0726545200000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"YAHOO", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0009.png", skipStep:@"YES"}, {captureRect:[170, 667, 301, 700], command:@"Image at", eventNum:10, hotSpot:[2.1754129800000001e+02, 1.0726545200000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"YAHOO_0001", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0010.png", skipStep:@"YES"}, {captureRect:[175, 254, 215, 268], command:@"Image at", eventNum:11, hotSpot:[2.0483671899999999e+02, 5.3432642299999998e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"News", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0011.png", skipStep:@"YES"}, {captureRect:[175, 254, 215, 268], command:@"Image at", eventNum:12, hotSpot:[2.0483671899999999e+02, 5.3432642299999998e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"News_0001", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0012.png", skipStep:@"YES"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>-skipped- Image at "image0125"</string>
+		<string>-skipped- Image at "image0126"</string>
+		<string>-skipped- Image at "image0127"</string>
+		<string>Image at "image0128"</string>
+		<string>-skipped- Image at "HelloOfficialSite"</string>
+		<string>-skipped- Image at "image0129"</string>
+		<string>Image at "HelloOfficialSite_0001"</string>
+		<string>-skipped- Image at "YAHOO"</string>
+		<string>-skipped- Image at "YAHOO_0001"</string>
+		<string>-skipped- Image at "News"</string>
+		<string>-skipped- Image at "News_0001"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>image0125.png</string>
+			<string>image0126.png</string>
+			<string>image0127.png</string>
+			<string>image0128.png</string>
+			<string>HelloOfficialSite.png</string>
+			<string>image0129.png</string>
+			<string>HelloOfficialSite_0001.png</string>
+			<string>YAHOO.png</string>
+			<string>YAHOO_0001.png</string>
+			<string>News.png</string>
+			<string>News_0001.png</string>
+			<string>image0128.png</string>
+			<string>HelloOfficialSite_0001.png</string>
+			<string>image0128.png</string>
+			<string>HelloOfficialSite_0001.png</string>
+		</array>
+	</dict>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

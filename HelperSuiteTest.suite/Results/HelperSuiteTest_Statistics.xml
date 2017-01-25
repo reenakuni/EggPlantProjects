@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<statistics>
+ <script name="kjjkkj">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-11-01 09:52:04 -0600</FirstRun>
+  <LastRun>2016-11-01 09:52:04 -0600</LastRun>
+  <TotalTimeOnSuccess>4.619349</TotalTimeOnSuccess>
+ </script>
+ <script name="Untitled">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>2</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-11-01 09:41:41 -0600</FirstRun>
+  <LastRun>2016-11-02 11:02:31 -0600</LastRun>
+  <TotalTimeOnSuccess>7.837644</TotalTimeOnSuccess>
+ </script>
+ <script name="vbvb">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-11-01 09:45:52 -0600</FirstRun>
+  <LastRun>2016-11-01 09:45:52 -0600</LastRun>
+  <TotalTimeOnSuccess>6.030062</TotalTimeOnSuccess>
+ </script>
+ <script name="NewFolder/Untitled">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>2</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2016-10-31 10:50:56 -0600</FirstRun>
+  <LastRun>2016-10-31 10:57:42 -0600</LastRun>
+  <TotalTimeOnSuccess>1.104487</TotalTimeOnSuccess>
+ </script>
+</statistics>

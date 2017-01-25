@@ -1,0 +1,11 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2016-12-05 22:35:53.722 -0700,"Success",0:00:00,0,0,0,"20161205_223553.722/LogFile.txt","","",1
+2016-12-05 22:40:09.684 -0700,"Success",0:00:00,0,0,0,"20161205_224009.684/LogFile.txt","","",1
+2016-12-06 10:02:45.204 -0700,"Success",0:00:00,0,0,0,"20161206_100245.204/LogFile.txt","","",1
+2016-12-15 12:31:04.349 -0700,"Success",0:01:47,0,0,0,"20161215_123104.349/LogFile.txt","","",1
+2016-12-15 12:35:17.265 -0700,"Failure",0:00:00,1,0,1,"20161215_123517.265/LogFile.txt","","No Remote Connection -- moveto Error - Remote Connection Unavailable",0
+2016-12-15 12:35:49.783 -0700,"Failure",0:00:00,1,0,1,"20161215_123549.783/LogFile.txt","","No Remote Connection -- moveto Error - Remote Connection Unavailable",0
+2016-12-15 12:38:31.647 -0700,"Success",0:01:47,0,0,0,"20161215_123831.647/LogFile.txt","","",1
+2016-12-15 12:40:56.992 -0700,"Success",0:01:46,0,0,0,"20161215_124056.992/LogFile.txt","","",1
+2016-12-28 14:07:51.850 -0700,"Running",0:00:00,0,0,0,"20161228_140751.850/LogFile.txt","","",0
+2016-12-28 14:08:17.365 -0700,"Failure",0:00:00,1,0,0,"20161228_140817.365/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'manager'",0

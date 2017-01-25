@@ -1,0 +1,3 @@
+﻿2016-11-22 11:49:03.900 -0700	START		Running helperscript1.script
+2016-11-22 11:49:04.839 -0700	EndTestCase		(Duration:"0.933849", Errors:"1", Exceptions:"0", StartTime:"2016-11-22 11:49:03 -0700", Successes:"0", TestCase:"helperscript1.script", Warnings:"0")
+2016-11-22 11:49:05.353 -0700	FAILURE	Screen_Error.png	STUnknownMessage ERROR: No Such Command: 'fine' -- Execution Time 0:00:00 helperscript1.script

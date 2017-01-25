@@ -1,0 +1,75 @@
+﻿<?xml version="1.0"?>
+<statistics>
+ <script name="RapidCapture/SutRapidcapture">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>2</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2017-01-12 11:41:23 -0700</FirstRun>
+  <LastRun>2017-01-12 11:47:09 -0700</LastRun>
+  <TotalTimeOnSuccess>165.121477</TotalTimeOnSuccess>
+ </script>
+ <script name="nmmns1">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2017-01-09 15:12:03 -0700</FirstRun>
+  <LastRun>2017-01-09 15:12:03 -0700</LastRun>
+  <TotalTimeOnSuccess>0.539452</TotalTimeOnSuccess>
+ </script>
+ <script name="reeldlfk'wk'a4">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>2</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-12-01 11:03:49 -0700</FirstRun>
+  <LastRun>2016-12-01 11:04:00 -0700</LastRun>
+  <TotalTimeOnSuccess>0.557316</TotalTimeOnSuccess>
+ </script>
+ <script name="ghghg">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>4</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-12-01 11:09:10 -0700</FirstRun>
+  <LastRun>2016-12-01 11:10:17 -0700</LastRun>
+  <TotalTimeOnSuccess>1.162484</TotalTimeOnSuccess>
+ </script>
+ <script name="kjkkj">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>6</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2016-12-30 15:28:13 -0700</FirstRun>
+  <LastRun>2017-01-04 12:21:53 -0700</LastRun>
+  <TotalTimeOnSuccess>22.880550</TotalTimeOnSuccess>
+ </script>
+ <script name="hello">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>10</NumberOfRuns>
+  <NumberOfFails>7</NumberOfFails>
+  <FirstRun>2016-12-12 10:11:45 -0700</FirstRun>
+  <LastRun>2017-01-11 08:44:00 -0700</LastRun>
+  <TotalTimeOnSuccess>1.597861</TotalTimeOnSuccess>
+ </script>
+ <script name="._Untitled">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>2</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2017-01-11 09:36:35 -0700</FirstRun>
+  <LastRun>2017-01-11 09:36:53 -0700</LastRun>
+  <TotalTimeOnSuccess>1.035858</TotalTimeOnSuccess>
+ </script>
+ <script name="rapid3">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2017-01-12 16:25:49 -0700</FirstRun>
+  <LastRun>2017-01-12 16:25:49 -0700</LastRun>
+  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
+ </script>
+ <script name="reeldlfk'wk'a">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2017-01-09 13:31:05 -0700</FirstRun>
+  <LastRun>2017-01-09 13:31:05 -0700</LastRun>
+  <TotalTimeOnSuccess>0.024971</TotalTimeOnSuccess>
+ </script>
+</statistics>

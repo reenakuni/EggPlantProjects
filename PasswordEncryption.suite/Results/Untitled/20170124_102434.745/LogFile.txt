@@ -1,0 +1,4 @@
+﻿2017-01-24 10:24:34.747 -0700	START		Running Untitled.script
+2017-01-24 10:24:34.806 -0700	Exception		Remote Connection Unavailable	8	on_untitled	Untitled.script
+2017-01-24 10:24:37.215 -0700	EndTestCase		(Duration:"2.466209", Errors:"1", Exceptions:"1", StartTime:"2017-01-24 10:24:34 -0700", Successes:"0", TestCase:"Untitled.script", Warnings:"0")
+2017-01-24 10:24:37.224 -0700	FAILURE		No Remote Connection typeencodedtext Error - Remote Connection Unavailable -- Execution Time 0:00:02 Untitled.script

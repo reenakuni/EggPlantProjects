@@ -1,0 +1,507 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Untitled">
+ <run>
+  <RunDate>2017-01-18 09:20:08.844 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.220177</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170118_092008.844/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;workbook&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-18 09:20:27.524 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.249470</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170118_092027.524/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;workbook&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-18 09:21:56.885 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.184124</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170118_092156.885/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;workbook&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-18 09:22:28.527 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.181763</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170118_092228.527/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;workbook&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-18 09:22:54.698 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.208600</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170118_092254.698/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;workbook&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-18 09:23:06.311 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.171683</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170118_092306.311/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;workbook&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-18 09:23:54.859 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.181555</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170118_092354.859/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;workbook&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-18 09:24:35.161 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.193795</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170118_092435.161/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;workbook&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-18 09:27:27.418 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.187658</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170118_092727.418/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;workbook&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-18 09:46:02.947 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.227942</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170118_094602.947/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;workbook&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-18 11:15:47.069 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.498269</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170118_111547.069/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;workbook&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-18 11:22:27.878 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.477267</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170118_112227.878/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;workbook&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-18 13:42:02.110 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.503589</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170118_134202.110/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;workbook&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-18 16:29:12.276 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.495888</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170118_162912.276/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Workbook Error -- Error loading workbook /Users/reenakuni/Documents/Customer1.xlsx: std::exception</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-18 16:31:56.984 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>1.481386</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170118_163156.984/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-18 16:34:21.268 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.495908</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170118_163421.268/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Workbook Error -- Worksheet CustomerNew doesn&#x27;t exist</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-18 16:38:50.178 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.524788</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170118_163850.178/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Workbook Error -- Worksheet Name doesn&#x27;t exist</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-18 16:39:27.520 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.544328</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170118_163927.520/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STInvalidParameters -- Function worksheet was called with invalid parameters</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-18 16:40:39.403 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.500868</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170118_164039.403/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STInvalidParameters -- Function worksheet was called with invalid parameters</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-18 16:40:58.902 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.499518</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170118_164058.902/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Workbook Error -- Worksheet Balance doesn&#x27;t exist</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-18 16:41:49.897 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.502806</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170118_164149.897/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Workbook Error -- Worksheet Balance doesn&#x27;t exist</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-18 16:42:43.635 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.495379</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170118_164243.635/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Worksheet Error -- Cell() requires a worksheet to read from (got: custSheet)</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-18 16:43:11.334 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.477988</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170118_164311.334/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Workbook Error -- Worksheet Balance doesn&#x27;t exist</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-18 16:44:40.482 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.505583</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170118_164440.482/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Workbook Error -- Worksheet Balance doesn&#x27;t exist</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-18 16:45:57.489 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>1.553637</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170118_164557.489/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-18 16:46:28.536 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.539762</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170118_164628.536/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Cell Error -- Cell identifier must be either two positive numbers (row, column) or a letter-number identifier (like &quot;C6&quot;). Got Sheet 1</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-18 16:46:56.090 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.518110</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170118_164656.090/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>NSInvalidArgumentException -- -[STProxyValue valueAtRow:column:]: unrecognized selector sent to instance 0x7ffa32076960</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-18 16:47:41.928 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.491597</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170118_164741.928/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>NSInvalidArgumentException -- -[STProxyValue valueAtRow:column:]: unrecognized selector sent to instance 0x7ffa2fea2af0</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-18 16:48:16.093 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.495195</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170118_164816.093/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>NSInvalidArgumentException -- -[STProxyValue valueAtRow:column:]: unrecognized selector sent to instance 0x7ffa31f5ecc0</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-18 16:48:56.454 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.550226</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170118_164856.454/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>NSInvalidArgumentException -- -[STProxyValue valueAtRow:column:]: unrecognized selector sent to instance 0x7ffa31f3c850</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-18 16:49:05.289 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>1.529732</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170118_164905.289/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-18 16:49:28.078 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>1.524523</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170118_164928.078/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-19 12:36:00.024 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>1.742215</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170119_123600.024/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-19 14:27:47.779 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>10.535845</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170119_142747.779/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-19 14:28:13.080 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>10.889289</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170119_142813.080/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-19 14:28:53.864 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>15.425445</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170119_142853.864/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-19 14:32:09.308 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>1.616246</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170119_143209.308/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-19 14:32:48.704 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>1.618579</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170119_143248.704/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-19 16:01:02.259 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>2.563336</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170119_160102.259/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-25 10:13:57.960 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.234140</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170125_101357.960/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-25 10:28:09.680 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.203412</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170125_102809.680/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-25 10:54:48.225 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.353064</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170125_105448.225/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

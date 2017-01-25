@@ -1,0 +1,4 @@
+﻿2016-12-30 15:37:19.678 -0700	START		Running Untitled.script
+2016-12-30 15:37:19.766 -0700	Log		parent suite	1	on_untitled	Untitled.script
+2016-12-30 15:37:20.924 -0700	EndTestCase		(Duration:"1.245361", Errors:"1", Exceptions:"0", StartTime:"2016-12-30 15:37:19 -0700", Successes:"0", TestCase:"Untitled.script", Warnings:"0")
+2016-12-30 15:37:20.950 -0700	FAILURE		STUnknownMessage ERROR: No Such Command: 'test1' -- Execution Time 0:00:01 Untitled.script

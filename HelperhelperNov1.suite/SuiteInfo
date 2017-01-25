@@ -1,0 +1,32 @@
+﻿{
+    EPVersionNumber = 1701090218;
+    Schedules =     (
+                {
+            ChangeCount = 2;
+            Name = clog;
+            Schedule =             (
+                                {
+                    Num = 1;
+                    Parameters = log;
+                    Run = YES;
+                    Script = "helperscript1.script";
+                }
+            );
+        }
+    );
+    ScriptMetaData =     {
+    };
+    helpedSuitesInfo =     (
+                {
+            filePath = "/Users/reenakuni/Documents/NewHelperTest.suite";
+        },
+                {
+            filePath = "GitNov22-1/HelperTester.suite";
+        },
+                {
+            filePath = "GitNov22-1/HelperTester.suite";
+        }
+    );
+    helperSuitesInfo =     (
+    );
+}

@@ -1,0 +1,11 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2016-06-15 10:50:22.251 -0600,"Success",0:00:00,0,0,0,"20160615_105022.251/LogFile.txt","","",1
+2016-06-16 10:39:33.511 -0600,"Success",0:00:00,0,0,0,"20160616_103933.511/LogFile.txt","","",1
+2016-06-16 10:44:49.353 -0600,"Failure",0:00:00,1,0,0,"20160616_104449.353/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'i_have_num_apples'",0
+2016-06-16 10:45:01.777 -0600,"Failure",0:00:00,1,0,0,"20160616_104501.777/LogFile.txt","","STInvalidNumber -- Value is not a number: '(script:return & ...'",0
+2016-06-16 10:46:49.584 -0600,"Failure",0:00:00,1,0,0,"20160616_104649.584/LogFile.txt","","STInvalidNumber -- Value is not a number: '(script:return & ...'",0
+2016-06-16 10:47:45.503 -0600,"Failure",0:00:00,1,0,0,"20160616_104745.503/LogFile.txt","","STInvalidNumber -- Value is not a number: '(script:return & ...'",0
+2016-06-16 10:48:27.422 -0600,"Success",0:00:00,0,0,0,"20160616_104827.422/LogFile.txt","","",1
+2016-06-16 10:48:49.487 -0600,"Failure",0:00:00,1,0,0,"20160616_104849.487/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2016-06-16 11:42:53.528 -0600,"Failure",0:00:00,1,0,0,"20160616_114253.528/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2016-06-27 09:38:36.949 -0600,"Failure",0:00:05,1,0,0,"20160627_093836.949/LogFile.txt","","Script Error -- Number of Errors logged: 1",0

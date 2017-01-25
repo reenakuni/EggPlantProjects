@@ -1,0 +1,2 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2016-12-09 10:57:04.183 -0700,"Failure",0:00:00,1,0,0,"20161209_105704.183/LogFile.txt","","SenseTalk Compiler Exception -- in fldr1_subfolder2_untitled:\nSyntax Error at line 1: Syntax Error - can't understand ""."" at or near character 17",0

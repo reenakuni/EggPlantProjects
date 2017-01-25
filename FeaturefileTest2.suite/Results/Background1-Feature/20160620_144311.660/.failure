@@ -1,0 +1,1 @@
+2016-06-20 14:43:11.660 -0600,Failure,0:00:00,2,0,0,20160620_144311.660/LogFile.txt,"","SenseTalk Runtime Exception -- Invalid operands: can't subtract 'num' from 'num' (expected numbers, date and number, or lists)",2

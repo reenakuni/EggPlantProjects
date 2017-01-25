@@ -1,0 +1,3 @@
+﻿2016-11-14 14:27:57.278 -0700	START		Running HelperSubfolder/featureStep.script
+2016-11-14 14:27:57.282 -0700	EndTestCase		(Duration:"0.000433", Errors:"0", Exceptions:"0", StartTime:"2016-11-14 14:27:57 -0700", Successes:"1", TestCase:"HelperSubfolder/featureStep.script", Warnings:"0")
+2016-11-14 14:27:57.360 -0700	SUCCESS		Execution Time 0:00:00 HelperSubfolder/featureStep.script

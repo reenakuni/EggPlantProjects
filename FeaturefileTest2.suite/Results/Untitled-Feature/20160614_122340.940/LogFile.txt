@@ -1,0 +1,13 @@
+﻿2016-06-14 12:23:40.941 -0600	START		Running Untitled.feature
+2016-06-14 12:23:40.948 -0600	Log		4	3	on_do_something_with_var	Untitled.script<SOURCE>
+2016-06-14 12:23:40.950 -0600	LogSuccess		do something with <n1>
+2016-06-14 12:23:40.951 -0600	Log		5	3	on_with_var	Untitled.script<SOURCE>
+2016-06-14 12:23:40.952 -0600	LogSuccess		with <n2>
+2016-06-14 12:23:40.953 -0600	Log		5	3	on_log__var	Untitled.script<SOURCE>
+2016-06-14 12:23:40.955 -0600	LogSuccess		log  <n3>
+2016-06-14 12:23:40.955 -0600	Log		3	3	on_log_fourth_value_var	Untitled.script<SOURCE>
+2016-06-14 12:23:40.957 -0600	LogSuccess		log fourth value <n4>
+2016-06-14 12:23:40.957 -0600	Log		6	3	on_var_is_good	Untitled.script<SOURCE>
+2016-06-14 12:23:40.959 -0600	LogSuccess		<n5> is good
+2016-06-14 12:23:40.961 -0600	EndTestCase		(Duration:"0.018641", Errors:"0", Exceptions:"0", StartTime:"2016-06-14 12:23:40 -0600", Successes:"5", TestCase:"Untitled.feature", Warnings:"0")
+2016-06-14 12:23:40.968 -0600	SUCCESS		1 scenarios (0 failed, 1 passed) 5 steps (0 failed, 0 skipped, 5 passed) Execution Time 0:00:00

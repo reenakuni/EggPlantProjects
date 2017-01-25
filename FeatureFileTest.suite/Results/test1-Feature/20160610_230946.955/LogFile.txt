@@ -1,0 +1,11 @@
+﻿2016-06-10 23:09:46.955 -0600	START		Running test1.feature
+2016-06-10 23:09:46.963 -0600	LogSuccess		I have a variable with value <num1>
+2016-06-10 23:09:46.964 -0600	LogSuccess		I have a variable with value <num1>
+2016-06-10 23:09:46.964 -0600	LogSuccess		I have a variable with the value <num2>
+2016-06-10 23:09:46.965 -0600	LogSuccess		I have a variable with the value <num2>
+2016-06-10 23:09:46.966 -0600	LogSuccess		I add the two numbers
+2016-06-10 23:09:46.966 -0600	LogSuccess		I add the two numbers
+2016-06-10 23:09:46.967 -0600	LogSuccess		the result should be <num3>
+2016-06-10 23:09:46.968 -0600	LogSuccess		the result should be <num3>
+2016-06-10 23:09:46.969 -0600	EndTestCase		(Duration:"0.011854", Errors:"0", Exceptions:"0", StartTime:"2016-06-10 23:09:46 -0600", Successes:"8", TestCase:"test1.feature", Warnings:"0")
+2016-06-10 23:09:46.979 -0600	SUCCESS		1 scenarios (0 failed, 1 passed) 4 steps (0 failed, 0 skipped, 4 passed) Execution Time 0:00:00

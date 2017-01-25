@@ -1,0 +1,9 @@
+﻿2016-11-28 08:51:31.597 -0700	START		Running Untitled.feature
+2016-11-28 08:51:31.608 -0700	LogWarning		log is log
+2016-11-28 08:51:31.609 -0700	LogWarning		Building on log
+2016-11-28 08:51:31.609 -0700	LogWarning		open log hello
+2016-11-28 08:51:31.610 -0700	LogWarning		log is vlc hello
+2016-11-28 08:51:31.610 -0700	LogWarning		vlclog
+2016-11-28 08:51:31.611 -0700	LogWarning		Building vlclog log
+2016-11-28 08:51:31.612 -0700	EndTestCase		(Duration:"0.013206", Errors:"0", Exceptions:"0", StartTime:"2016-11-28 08:51:31 -0700", Successes:"1", TestCase:"Untitled.feature", Warnings:"6")
+2016-11-28 08:51:31.637 -0700	FAILURE		2 scenarios (2 failed, 0 passed) 6 steps (0 failed, 6 skipped, 0 passed) Execution Time 0:00:00

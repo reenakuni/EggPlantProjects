@@ -1,0 +1,16 @@
+﻿<?xml version="1.0"?>
+<runHistory script="RenamedBackgroundScript">
+ <run>
+  <RunDate>2016-06-29 15:34:41.210 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.002079</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160629_153441.210/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in renamedbackgroundscript:
+Syntax Error at line 1: Syntax Error - can&#x27;t understand &quot;0&quot; at or near character 25</ErrorMessage>
+ </run>
+</runHistory>

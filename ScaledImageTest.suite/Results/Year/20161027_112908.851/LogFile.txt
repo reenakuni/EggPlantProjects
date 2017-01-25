@@ -1,0 +1,4 @@
+﻿2016-10-27 11:29:08.852 -0600	START		Running Year.script
+2016-10-27 11:29:09.873 -0600	click	Year	at (553, 168)	1	on_year	Year.script
+2016-10-27 11:29:10.438 -0600	EndTestCase		(Duration:"1.583771", Errors:"0", Exceptions:"0", StartTime:"2016-10-27 11:29:08 -0600", Successes:"1", TestCase:"Year.script", Warnings:"0")
+2016-10-27 11:29:10.449 -0600	SUCCESS		Execution Time 0:00:01 Year.script

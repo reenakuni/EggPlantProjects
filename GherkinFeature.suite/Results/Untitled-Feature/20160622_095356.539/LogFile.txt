@@ -1,0 +1,6 @@
+﻿2016-06-22 09:53:56.540 -0600	START		Running Untitled.feature
+2016-06-22 09:53:56.547 -0600	LogWarning		I have a VM
+2016-06-22 09:53:56.547 -0600	LogWarning		I connect
+2016-06-22 09:53:56.548 -0600	LogWarning		log success
+2016-06-22 09:53:56.549 -0600	EndTestCase		(Duration:"0.007412", Errors:"0", Exceptions:"0", StartTime:"2016-06-22 09:53:56 -0600", Successes:"1", TestCase:"Untitled.feature", Warnings:"3")
+2016-06-22 09:53:56.562 -0600	FAILURE		1 scenarios (1 failed, 0 passed) 3 steps (0 failed, 3 skipped, 0 passed) Execution Time 0:00:00

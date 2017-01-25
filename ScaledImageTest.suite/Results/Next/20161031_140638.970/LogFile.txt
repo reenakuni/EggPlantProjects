@@ -1,0 +1,4 @@
+﻿2016-10-31 14:06:38.972 -0600	START		Running Next.script
+2016-10-31 14:06:39.030 -0600	Log		x	2	on_next	Next.script
+2016-10-31 14:06:40.720 -0600	EndTestCase		(Duration:"1.746108", Errors:"0", Exceptions:"0", StartTime:"2016-10-31 14:06:38 -0600", Successes:"1", TestCase:"Next.script", Warnings:"0")
+2016-10-31 14:06:40.729 -0600	SUCCESS		Execution Time 0:00:01 Next.script

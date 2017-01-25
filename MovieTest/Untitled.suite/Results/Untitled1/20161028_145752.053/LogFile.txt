@@ -1,0 +1,7 @@
+﻿2016-10-28 14:57:52.055 -0600	START		Running Untitled1.script
+2016-10-28 14:57:52.520 -0600	click	Issues	at (416, 293)	8	on_untitled1	Untitled1.script
+2016-10-28 14:57:54.266 -0600	click	NewissueWikiFiles	at (544, 294)	9	on_untitled1	Untitled1.script
+2016-10-28 14:57:55.124 -0600	click	image0026	at (449, 295)	10	on_untitled1	Untitled1.script
+2016-10-28 14:58:03.268 -0600	Exception	image0027	No Image Found On Screen: "image0027"	11	on_untitled1	Untitled1.script
+2016-10-28 14:58:04.067 -0600	EndTestCase		(Duration:"12.01016", Errors:"1", Exceptions:"1", StartTime:"2016-10-28 14:57:52 -0600", Successes:"0", TestCase:"Untitled1.script", Warnings:"0")
+2016-10-28 14:58:04.069 -0600	ABORTED		Execution Time 0:00:12 Untitled1.script

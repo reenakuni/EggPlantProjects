@@ -1,0 +1,17 @@
+﻿2016-06-27 12:57:49.644 -0600	START		Running scenriooutline.feature
+2016-06-27 12:57:49.651 -0600	Log		page is open	2	on_page_is_open	scenriooutline.script<SOURCE>
+2016-06-27 12:57:49.653 -0600	LogSuccess		page is open
+2016-06-27 12:57:49.654 -0600	Log		mu	3	on_var_suntract	scenriooutline.script<SOURCE>
+2016-06-27 12:57:49.655 -0600	LogSuccess		<num3> suntract
+2016-06-27 12:57:49.656 -0600	Log		hi	3	on_enter_var	scenriooutline.script<SOURCE>
+2016-06-27 12:57:49.657 -0600	LogSuccess		enter <num1>
+2016-06-27 12:57:49.658 -0600	Log		io	3	on_enter_second_number_var	scenriooutline.script<SOURCE>
+2016-06-27 12:57:49.659 -0600	LogSuccess		enter second number <num2>
+2016-06-27 12:57:49.659 -0600	Log		hi	3	on_log_var_and_var_to_get_var_and_var_and_var	scenriooutline.script<SOURCE>
+2016-06-27 12:57:49.661 -0600	Log		io	4	on_log_var_and_var_to_get_var_and_var_and_var	scenriooutline.script<SOURCE>
+2016-06-27 12:57:49.662 -0600	Log		mu	5	on_log_var_and_var_to_get_var_and_var_and_var	scenriooutline.script<SOURCE>
+2016-06-27 12:57:49.664 -0600	Log		pi	6	on_log_var_and_var_to_get_var_and_var_and_var	scenriooutline.script<SOURCE>
+2016-06-27 12:57:49.665 -0600	Log		tie	7	on_log_var_and_var_to_get_var_and_var_and_var	scenriooutline.script<SOURCE>
+2016-06-27 12:57:49.666 -0600	LogSuccess		log <num1> and <num2> to get <num3> and <num4> and <num5>
+2016-06-27 12:57:49.668 -0600	EndTestCase		(Duration:"0.022044", Errors:"0", Exceptions:"0", StartTime:"2016-06-27 12:57:49 -0600", Successes:"5", TestCase:"scenriooutline.feature", Warnings:"0")
+2016-06-27 12:57:49.681 -0600	SUCCESS		1 scenarios (0 failed, 1 passed) 5 steps (0 failed, 0 skipped, 5 passed) Execution Time 0:00:00

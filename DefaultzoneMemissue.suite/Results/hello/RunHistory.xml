@@ -1,0 +1,123 @@
+﻿<?xml version="1.0"?>
+<runHistory script="hello">
+ <run>
+  <RunDate>2016-12-12 10:11:45.622 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.903818</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161212_101145.622/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-12-12 10:13:32.559 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.102705</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161212_101332.559/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-10 12:23:57.257 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.842584</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170110_122357.257/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Command: &#x27;big&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-10 12:24:03.273 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.634932</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170110_122403.273/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got &#x27;~/reenakuni/Documents/Helper1.suite/Scripts/Untitled&#x27;.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-11 08:41:51.349 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.580953</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170111_084151.349/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got &#x27;~/reenakuni/Documents/Helper1.suite/Scripts/Untitled&#x27;.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-11 08:42:06.980 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.591338</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170111_084206.980/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-11 08:42:20.560 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.576620</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170111_084220.560/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got &#x27;~/Documents/Helper1.suite/Scripts/Untitled&#x27;.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-11 08:42:50.210 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.573632</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170111_084250.210/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got &#x27;~/Documents/Helper1.suite/Scripts/Untitled&#x27;.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-11 08:43:50.617 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.583913</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170111_084350.617/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got &#x27;~/Documents/Helper1.suite/Scripts/Untitled&#x27;.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-11 08:44:00.920 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.572973</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170111_084400.920/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got &#x27;~/Documents/Helper1.suite/Scripts/Untitled&#x27;.</ErrorMessage>
+ </run>
+</runHistory>

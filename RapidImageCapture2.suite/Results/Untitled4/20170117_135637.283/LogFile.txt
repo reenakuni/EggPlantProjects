@@ -1,0 +1,5 @@
+﻿2017-01-17 13:56:37.285 -0700	START		Running Untitled4.script
+2017-01-17 13:56:37.824 -0700	click	UFinder_0003	at (79, 16)	8	on_untitled4	Untitled4.script
+2017-01-17 13:56:39.011 -0700	click	AboutFinder_0001	at (80, 36)	9	on_untitled4	Untitled4.script
+2017-01-17 13:56:39.907 -0700	EndTestCase		(Duration:"2.619546", Errors:"0", Exceptions:"0", StartTime:"2017-01-17 13:56:37 -0700", Successes:"1", TestCase:"Untitled4.script", Warnings:"0")
+2017-01-17 13:56:39.920 -0700	SUCCESS		Execution Time 0:00:02 Untitled4.script

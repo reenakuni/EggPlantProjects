@@ -1,0 +1,18 @@
+﻿(*set redRange to 0..255 by 5
+set greenRange to 0..255 by 5
+set blueRange to 0..255 by 5*)
+
+put 0 into x
+set redRange to 0..100
+set greenRange to 0..100
+set blueRange to 0..100
+repeat with each item red of redRange
+	repeat with each item green of greenRange
+		repeat with each item blue of blueRange
+			set x = x +1
+			log x
+		end repeat
+	end repeat
+	
+end repeat
+put me.folder

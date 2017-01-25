@@ -1,0 +1,5 @@
+﻿2017-01-17 13:58:47.120 -0700	START		Running Untitled8.script
+2017-01-17 13:58:47.700 -0700	click	FileEditViewGo_0005	at (128, 15)	8	on_untitled8	Untitled8.script
+2017-01-17 13:58:48.906 -0700	drag	NewFinderWindow_0002	at (138, 40)	9	on_untitled8	Untitled8.script
+2017-01-17 13:58:49.674 -0700	EndTestCase		(Duration:"2.553276", Errors:"0", Exceptions:"0", StartTime:"2017-01-17 13:58:47 -0700", Successes:"1", TestCase:"Untitled8.script", Warnings:"0")
+2017-01-17 13:58:49.687 -0700	SUCCESS		Execution Time 0:00:02 Untitled8.script

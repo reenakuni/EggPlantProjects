@@ -1,0 +1,16 @@
+﻿
+to handle browser_is_chrome
+	
+end browser_is_chrome
+
+to handle enter_email
+	
+end enter_email
+
+to handle enter_password
+	
+end enter_password
+
+to handle open_new_page
+	
+end open_new_page

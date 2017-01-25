@@ -1,0 +1,25 @@
+﻿2016-06-29 16:28:29.947 -0600	START		Running outline.feature
+2016-06-29 16:28:29.956 -0600	LogSuccess		text search
+2016-06-29 16:28:29.956 -0600	Log		6	3	on_enter_var	outline.script<SOURCE>
+2016-06-29 16:28:29.958 -0600	LogSuccess		enter <num1>
+2016-06-29 16:28:29.959 -0600	Log		4	3	on_enter_second_number_var	outline.script<SOURCE>
+2016-06-29 16:28:29.960 -0600	LogSuccess		enter second number <num2>
+2016-06-29 16:28:29.961 -0600	Log		6	3	on_enter_third_number_var	outline.script<SOURCE>
+2016-06-29 16:28:29.962 -0600	LogSuccess		enter third number <num3>
+2016-06-29 16:28:29.963 -0600	Log		6	3	on_add_var_and_var_to_get_var	outline.script<SOURCE>
+2016-06-29 16:28:29.964 -0600	Log		4	4	on_add_var_and_var_to_get_var	outline.script<SOURCE>
+2016-06-29 16:28:29.966 -0600	Log		6	5	on_add_var_and_var_to_get_var	outline.script<SOURCE>
+2016-06-29 16:28:29.968 -0600	LogSuccess		add <num1> and <num2> to get <num3>
+2016-06-29 16:28:29.969 -0600	LogSuccess		text search
+2016-06-29 16:28:29.970 -0600	Log		7	3	on_enter_var	outline.script<SOURCE>
+2016-06-29 16:28:29.971 -0600	LogSuccess		enter <num1>
+2016-06-29 16:28:29.972 -0600	Log		8	3	on_enter_second_number_var	outline.script<SOURCE>
+2016-06-29 16:28:29.973 -0600	LogSuccess		enter second number <num2>
+2016-06-29 16:28:29.974 -0600	Log		15	3	on_enter_third_number_var	outline.script<SOURCE>
+2016-06-29 16:28:29.975 -0600	LogSuccess		enter third number <num3>
+2016-06-29 16:28:29.976 -0600	Log		7	3	on_add_var_and_var_to_get_var	outline.script<SOURCE>
+2016-06-29 16:28:29.978 -0600	Log		8	4	on_add_var_and_var_to_get_var	outline.script<SOURCE>
+2016-06-29 16:28:29.979 -0600	Log		15	5	on_add_var_and_var_to_get_var	outline.script<SOURCE>
+2016-06-29 16:28:29.980 -0600	LogSuccess		add <num1> and <num2> to get <num3>
+2016-06-29 16:28:29.981 -0600	EndTestCase		(Duration:"0.033056", Errors:"0", Exceptions:"0", StartTime:"2016-06-29 16:28:29 -0600", Successes:"10", TestCase:"outline.feature", Warnings:"0")
+2016-06-29 16:28:29.996 -0600	SUCCESS		2 scenarios (0 failed, 2 passed) 10 steps (0 failed, 0 skipped, 10 passed) Execution Time 0:00:00

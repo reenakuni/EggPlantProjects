@@ -1,0 +1,9 @@
+﻿repeat 75 times
+	RightClick "Scripts_1"
+	Click "NewScript"
+	wait 2
+end repeat
+
+log "reena"
+log "reena"
+

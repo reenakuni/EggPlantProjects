@@ -1,0 +1,22 @@
+﻿2016-11-04 10:34:18.039 -0600	START		Running MacSUT.script
+2016-11-04 10:34:18.610 -0600	doubleclick	image0033	at (815, 272)	8	on_macsut	MacSUT.script
+2016-11-04 10:34:19.517 -0600	click	image0034	at (415, 472)	9	on_macsut	MacSUT.script
+2016-11-04 10:34:20.637 -0600	click	image0035	at (593, 562)	10	on_macsut	MacSUT.script
+2016-11-04 10:34:21.765 -0600	click	image0036	at (416, 568)	11	on_macsut	MacSUT.script
+2016-11-04 10:34:22.886 -0600	click	image0037	at (416, 614)	12	on_macsut	MacSUT.script
+2016-11-04 10:34:24.004 -0600	click	image0038	at (601, 614)	13	on_macsut	MacSUT.script
+2016-11-04 10:34:25.125 -0600	click	image0039	at (416, 424)	14	on_macsut	MacSUT.script
+2016-11-04 10:34:26.287 -0600	click	image0040	at (481, 479)	15	on_macsut	MacSUT.script
+2016-11-04 10:34:27.464 -0600	click	image0041	at (521, 526)	16	on_macsut	MacSUT.script
+2016-11-04 10:34:28.627 -0600	click	image0042	at (584, 433)	17	on_macsut	MacSUT.script
+2016-11-04 10:34:29.751 -0600	click	image0043	at (538, 576)	18	on_macsut	MacSUT.script
+2016-11-04 10:34:30.877 -0600	click	image0044	at (584, 603)	19	on_macsut	MacSUT.script
+2016-11-04 10:34:32.044 -0600	click	image0045	at (421, 420)	20	on_macsut	MacSUT.script
+2016-11-04 10:34:33.187 -0600	click	image0046	at (416, 529)	21	on_macsut	MacSUT.script
+2016-11-04 10:34:34.319 -0600	click	image0047	at (470, 530)	22	on_macsut	MacSUT.script
+2016-11-04 10:34:35.438 -0600	click	image0048	at (580, 430)	23	on_macsut	MacSUT.script
+2016-11-04 10:34:36.572 -0600	click	image0049	at (467, 533)	24	on_macsut	MacSUT.script
+2016-11-04 10:34:37.679 -0600	drag	image0050	at (572, 606)	25	on_macsut	MacSUT.script
+2016-11-04 10:35:23.314 -0600	Exception	image0051	No Image Found On Screen: "image0051"	26	on_macsut	MacSUT.script
+2016-11-04 10:35:23.559 -0600	EndTestCase		(Duration:"65.518021", Errors:"1", Exceptions:"1", StartTime:"2016-11-04 10:34:18 -0600", Successes:"0", TestCase:"MacSUT.script", Warnings:"0")
+2016-11-04 10:35:23.560 -0600	ABORTED		Execution Time 0:01:05 MacSUT.script

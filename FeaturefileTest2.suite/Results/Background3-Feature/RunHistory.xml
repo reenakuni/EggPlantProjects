@@ -1,0 +1,51 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Background3-Feature">
+ <run>
+  <RunDate>2016-06-06 15:49:14.408 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.008555</Duration>
+  <Errors>0</Errors>
+  <Warnings>3</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160606_154914.408/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-06 15:49:56.559 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.015813</Duration>
+  <Errors>0</Errors>
+  <Warnings>3</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160606_154956.559/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-08 13:05:11.227 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.008890</Duration>
+  <Errors>0</Errors>
+  <Warnings>3</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160608_130511.227/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-20 15:01:06.185 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.009635</Duration>
+  <Errors>0</Errors>
+  <Warnings>2</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160620_150106.185/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

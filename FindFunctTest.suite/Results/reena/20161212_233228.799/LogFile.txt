@@ -1,0 +1,14 @@
+﻿2016-12-12 23:32:28.811 -0700	Log		parent before	1	on_untitled2	Untitled2.script
+2016-12-12 23:32:29.141 -0700	START		Running reena.script
+2016-12-12 23:32:29.150 -0700	Log		before	1	on_reena	reena.script
+2016-12-12 23:32:29.151 -0700	Log		Feature	1	on_reena	reena.script
+2016-12-12 23:32:29.151 -0700	Log		image0001hghghg	1	on_reena	reena.script
+2016-12-12 23:32:29.152 -0700	Log		VlNCViewer	1	on_reena	reena.script
+2016-12-12 23:32:29.152 -0700	Log		image0002	1	on_reena	reena.script
+2016-12-12 23:32:29.153 -0700	Log		NewPohInst0	1	on_reena	reena.script
+2016-12-12 23:32:29.154 -0700	Log		NewFolder/chrome	1	on_reena	reena.script
+2016-12-12 23:32:29.154 -0700	Log		NewFolder/eggPlant	1	on_reena	reena.script
+2016-12-12 23:32:29.155 -0700	Log		ChromeWebStore	1	on_reena	reena.script
+2016-12-12 23:32:29.182 -0700	Log		heloo from before helper	1	on_nov29	/Users/reenakuni/Documents/NewhelperNov29.suite/Scripts/Nov29.script
+2016-12-12 23:32:29.186 -0700	EndTestCase		(Duration:"0.038797", Errors:"0", Exceptions:"0", StartTime:"2016-12-12 23:32:29 -0700", Successes:"1", TestCase:"reena.script", Warnings:"0")
+2016-12-12 23:32:29.228 -0700	SUCCESS		Execution Time 0:00:00 reena.script

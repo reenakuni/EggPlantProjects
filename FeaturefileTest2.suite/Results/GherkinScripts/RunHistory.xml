@@ -1,0 +1,39 @@
+﻿<?xml version="1.0"?>
+<runHistory script="GherkinScripts">
+ <run>
+  <RunDate>2016-06-13 16:06:05.773 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.067778</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160613_160605.773/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-13 16:07:46.319 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.067046</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160613_160746.319/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-13 16:47:25.782 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.069767</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160613_164725.782/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

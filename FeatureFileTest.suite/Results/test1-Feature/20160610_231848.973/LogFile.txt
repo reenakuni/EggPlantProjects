@@ -1,0 +1,17 @@
+﻿2016-06-10 23:18:48.976 -0600	START		Running test1.feature
+2016-06-10 23:18:48.983 -0600	Log		10	3	on_i_have_a_variable_with_value_var	test1.script<SOURCE>
+2016-06-10 23:18:48.986 -0600	LogSuccess		I have a variable with value <num1>
+2016-06-10 23:18:48.987 -0600	LogSuccess		I have a variable with value <num1>
+2016-06-10 23:18:48.987 -0600	Log		20	3	on_i_have_a_variable_with_the_value_var	test1.script<SOURCE>
+2016-06-10 23:18:48.989 -0600	LogSuccess		I have a variable with the value <num2>
+2016-06-10 23:18:48.990 -0600	LogSuccess		I have a variable with the value <num2>
+2016-06-10 23:18:48.990 -0600	Log		num1	2	on_i_log_these_numbers	test1.script<SOURCE>
+2016-06-10 23:18:48.992 -0600	Log		x	3	on_i_log_these_numbers	test1.script<SOURCE>
+2016-06-10 23:18:48.994 -0600	Log		num2	4	on_i_log_these_numbers	test1.script<SOURCE>
+2016-06-10 23:18:48.996 -0600	LogSuccess		I log these numbers
+2016-06-10 23:18:48.997 -0600	LogSuccess		I log these numbers
+2016-06-10 23:18:48.998 -0600	Log		num3	3	on_the_result_should_be_var	test1.script<SOURCE>
+2016-06-10 23:18:49.000 -0600	LogSuccess		the result should be <num3>
+2016-06-10 23:18:49.000 -0600	LogSuccess		the result should be <num3>
+2016-06-10 23:18:49.001 -0600	EndTestCase		(Duration:"0.024621", Errors:"0", Exceptions:"0", StartTime:"2016-06-10 23:18:48 -0600", Successes:"8", TestCase:"test1.feature", Warnings:"0")
+2016-06-10 23:18:49.007 -0600	SUCCESS		1 scenarios (0 failed, 1 passed) 4 steps (0 failed, 0 skipped, 4 passed) Execution Time 0:00:00

@@ -1,0 +1,4 @@
+﻿2016-06-14 22:00:12.802 -0600	START		Running Untitled4.script
+2016-06-14 22:00:12.888 -0600	Log		num2	4	on_i_give_num_apples_to_a_monkey	Untitled2.script
+2016-06-14 22:00:13.731 -0600	EndTestCase		(Duration:"0.927921", Errors:"0", Exceptions:"0", StartTime:"2016-06-14 22:00:12 -0600", Successes:"1", TestCase:"Untitled4.script", Warnings:"0")
+2016-06-14 22:00:13.741 -0600	SUCCESS		Execution Time 0:00:00 Untitled4.script

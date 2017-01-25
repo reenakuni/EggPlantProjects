@@ -1,0 +1,27 @@
+﻿<?xml version="1.0"?>
+<runHistory script="100lines">
+ <run>
+  <RunDate>2016-05-23 15:48:46.206 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.492789</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160523_154846.206/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-05-23 16:13:27.845 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.520318</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160523_161327.845/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

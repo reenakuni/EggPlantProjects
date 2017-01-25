@@ -1,0 +1,8 @@
+﻿2016-06-12 00:11:03.545 -0600	START		Running Using$.feature
+2016-06-12 00:11:03.552 -0600	LogSuccess		the balance is $100
+2016-06-12 00:11:03.553 -0600	LogSuccess		the balance is $100
+2016-06-12 00:11:03.554 -0600	LogWarning		the machine contains enough money
+2016-06-12 00:11:03.554 -0600	LogWarning		the account holder requests $20
+2016-06-12 00:11:03.555 -0600	LogWarning		Balance should be $80
+2016-06-12 00:11:03.556 -0600	EndTestCase		(Duration:"0.009832", Errors:"0", Exceptions:"0", StartTime:"2016-06-12 00:11:03 -0600", Successes:"2", TestCase:"Using$.feature", Warnings:"3")
+2016-06-12 00:11:03.565 -0600	FAILURE		1 scenarios (1 failed, 0 passed) 4 steps (0 failed, 3 skipped, 1 passed) Execution Time 0:00:00

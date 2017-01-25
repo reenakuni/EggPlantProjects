@@ -1,0 +1,9 @@
+﻿2016-10-28 14:53:45.542 -0600	START		Running Untitled2.script
+2016-10-28 14:53:46.039 -0600	click	image0014	at (479, 236)	8	on_untitled2	Untitled2.script
+2016-10-28 14:53:47.161 -0600	click	Confirmed	at (442, 238)	9	on_untitled2	Untitled2.script
+2016-10-28 14:53:48.024 -0600	click	image0015	at (393, 284)	10	on_untitled2	Untitled2.script
+2016-10-28 14:53:49.183 -0600	click	image0016	at (417, 302)	11	on_untitled2	Untitled2.script
+2016-10-28 14:53:50.045 -0600	click	image0017	at (442, 239)	12	on_untitled2	Untitled2.script
+2016-10-28 14:53:57.243 -0600	Exception	image0019	No Image Found On Screen: "image0019"	13	on_untitled2	Untitled2.script
+2016-10-28 14:53:58.001 -0600	EndTestCase		(Duration:"12.454614", Errors:"1", Exceptions:"1", StartTime:"2016-10-28 14:53:45 -0600", Successes:"0", TestCase:"Untitled2.script", Warnings:"0")
+2016-10-28 14:53:58.002 -0600	ABORTED		Execution Time 0:00:12 Untitled2.script

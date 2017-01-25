@@ -1,0 +1,64 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Croprectangle">
+ <run>
+  <RunDate>2015-11-11 15:36:52.040 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.495589</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20151111_153652.040/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2015-11-11 15:38:48.142 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.480627</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20151111_153848.142/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- doubleclick Error - Could Not Open Image: image0003_new</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2015-11-11 15:39:16.982 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>1.619834</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20151111_153916.982/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2015-11-11 15:42:01.425 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>3.927885</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20151111_154201.425/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2015-11-11 15:44:38.729 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>10.405037</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20151111_154438.729/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Connection Failed -- Unable to connect to Server:10.1.11.84 on port:0
+Connection Timed Out - Unable to connect to host</ErrorMessage>
+ </run>
+</runHistory>

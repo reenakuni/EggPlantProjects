@@ -1,0 +1,7 @@
+﻿"image0003/image000books"
+DoubleClick "image0003_new"
+wait 3
+typetext p
+TypeText backspace
+TypeText "qwerty"
+

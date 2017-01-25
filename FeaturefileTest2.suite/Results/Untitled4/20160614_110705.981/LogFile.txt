@@ -1,0 +1,7 @@
+﻿2016-06-14 11:07:05.982 -0600	START		Running Untitled4.script
+2016-06-14 11:07:06.042 -0600	Log		hello	3	on_add_var_and_var_to_get_var	Untitled.script
+2016-06-14 11:07:06.044 -0600	Log		there	4	on_add_var_and_var_to_get_var	Untitled.script
+2016-06-14 11:07:06.046 -0600	Log		hello there	5	on_add_var_and_var_to_get_var	Untitled.script
+2016-06-14 11:07:06.047 -0600	Log		hello there	8	on_add_var_and_var_to_get_var	Untitled.script
+2016-06-14 11:07:06.522 -0600	EndTestCase		(Duration:"0.538428", Errors:"0", Exceptions:"0", StartTime:"2016-06-14 11:07:05 -0600", Successes:"1", TestCase:"Untitled4.script", Warnings:"0")
+2016-06-14 11:07:06.530 -0600	SUCCESS		Execution Time 0:00:00 Untitled4.script

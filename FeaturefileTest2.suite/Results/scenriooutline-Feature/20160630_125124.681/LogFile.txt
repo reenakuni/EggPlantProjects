@@ -1,0 +1,18 @@
+﻿2016-06-30 12:51:24.681 -0600	START		Running scenriooutline.feature
+2016-06-30 12:51:24.688 -0600	LogWarning		page is open
+2016-06-30 12:51:24.689 -0600	LogWarning		<num3> suntract
+2016-06-30 12:51:24.689 -0600	LogWarning		enter <num1>
+2016-06-30 12:51:24.690 -0600	LogWarning		enter second number <num2>
+2016-06-30 12:51:24.690 -0600	LogWarning		log <num1> and <num2> to get <num3> and <num4> and <num5>
+2016-06-30 12:51:24.691 -0600	LogWarning		page is open
+2016-06-30 12:51:24.692 -0600	LogWarning		<num3> suntract
+2016-06-30 12:51:24.693 -0600	LogWarning		enter <num1>
+2016-06-30 12:51:24.693 -0600	LogWarning		enter second number <num2>
+2016-06-30 12:51:24.694 -0600	LogWarning		log <num1> and <num2> to get <num3> and <num4> and <num5>
+2016-06-30 12:51:24.694 -0600	LogWarning		page is open
+2016-06-30 12:51:24.695 -0600	LogWarning		<num3> suntract
+2016-06-30 12:51:24.695 -0600	LogWarning		enter <num1>
+2016-06-30 12:51:24.696 -0600	LogWarning		enter second number <num2>
+2016-06-30 12:51:24.697 -0600	LogWarning		log <num1> and <num2> to get <num3> and <num4> and <num5>
+2016-06-30 12:51:24.698 -0600	EndTestCase		(Duration:"0.01492", Errors:"0", Exceptions:"0", StartTime:"2016-06-30 12:51:24 -0600", Successes:"1", TestCase:"scenriooutline.feature", Warnings:"15")
+2016-06-30 12:51:25.544 -0600	FAILURE	Screen_Error.png	3 scenarios (3 failed, 0 passed) 15 steps (0 failed, 15 skipped, 0 passed) Execution Time 0:00:00

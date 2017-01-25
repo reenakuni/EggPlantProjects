@@ -1,0 +1,4 @@
+﻿2016-10-12 09:06:01.353 -0600	START		Running NewFolder/Untitled.script
+2016-10-12 09:06:09.928 -0600	Exception	image0001	No Image Found On Screen: "image0001"	1	on_newfolder_untitled	NewFolder/Untitled.script
+2016-10-12 09:06:10.474 -0600	EndTestCase		(Duration:"9.118787", Errors:"1", Exceptions:"1", StartTime:"2016-10-12 09:06:01 -0600", Successes:"0", TestCase:"NewFolder/Untitled.script", Warnings:"0")
+2016-10-12 09:06:10.475 -0600	ABORTED		Execution Time 0:00:09 NewFolder/Untitled.script

@@ -1,0 +1,3 @@
+﻿2016-10-27 13:04:21.659 -0600	START		Running Return.script
+2016-10-27 13:05:21.094 -0600	EndTestCase		(Duration:"59.433574", Errors:"1", Exceptions:"0", StartTime:"2016-10-27 13:04:21 -0600", Successes:"0", TestCase:"Return.script", Warnings:"0")
+2016-10-27 13:05:21.095 -0600	ABORTED		Execution Time 0:00:59 Return.script

@@ -1,0 +1,4 @@
+﻿2016-11-01 12:10:26.331 -0600	START		Running Untitled.script
+2016-11-01 12:10:26.404 -0600	Log		Main suite	1	on_untitled	Untitled.script
+2016-11-01 12:10:28.008 -0600	EndTestCase		(Duration:"1.673316", Errors:"0", Exceptions:"0", StartTime:"2016-11-01 12:10:26 -0600", Successes:"1", TestCase:"Untitled.script", Warnings:"0")
+2016-11-01 12:10:28.014 -0600	SUCCESS		Execution Time 0:00:01 Untitled.script

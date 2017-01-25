@@ -1,0 +1,35 @@
+﻿
+to handle I_have_NUM_apples
+	params num1
+	
+end I_have_NUM_apples
+
+to handle I_also_have_NUM_bananas
+	params num1
+	
+end I_also_have_NUM_bananas
+
+to handle I_give_NUM_apples_to_a_monkey
+	params num1
+	
+end I_give_NUM_apples_to_a_monkey
+
+to handle I_also_give_NUM_bananas_to_a_kid
+	params num1
+	
+end I_also_give_NUM_bananas_to_a_kid
+
+to handle I_am_left_with_NUM_apples
+	params num1
+	
+end I_am_left_with_NUM_apples
+
+to handle I_a__left_with_NUM_bananas
+	params num1
+	
+end I_a__left_with_NUM_bananas
+
+to handle I_a__left_with_NUM_bananas_jfjdjgjkdf
+	params num1
+	
+end I_a__left_with_NUM_bananas_jfjdjgjkdf

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[136, 597, 213, 610], command:@"Image at", eventNum:2, hotSpot:[2.0299913799999999e+02, 1.9333573799999999e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"NewsHome", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[136, 597, 213, 610], command:@"Image at", eventNum:3, hotSpot:[1.9742214400000000e+02, 1.8780879899999999e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"NewsHome_0001", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0003.png"}, {captureRect:[136, 597, 213, 610], command:@"Image at", eventNum:4, hotSpot:[1.8647376100000000e+02, 1.8894846200000001e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"NewsHome_0002", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0004.png"}, {captureRect:[136, 597, 213, 610], command:@"Image at", eventNum:5, hotSpot:[1.9494205299999999e+02, 1.8436410200000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"NewsHome_0003", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0005.png"}, {captureRect:[241, 597, 462, 610], command:@"Image at", eventNum:6, hotSpot:[2.5216834600000001e+02, 1.8597934000000001e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"USWorldPoliticsTech", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0006.png"}, {captureRect:[289, 597, 327, 610], command:@"Image at", eventNum:7, hotSpot:[3.2695659999999998e+02, 1.9207611000000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"World", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0007.png"}, {captureRect:[241, 601, 462, 614], command:@"Image at", eventNum:8, hotSpot:[3.6642389500000002e+02, 1.9212323900000001e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"USWorldPoliticsTech_0001", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0008.png"}, {captureRect:[431, 597, 462, 610], command:@"Image at", eventNum:9, hotSpot:[4.5877839399999999e+02, 1.8835720800000001e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Tech", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0009.png"}, {captureRect:[423, 591, 734, 607], command:@"Image at", eventNum:10, hotSpot:[5.0523620699999998e+02, 1.9064510400000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"DealsVideoGamesPogueApple", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0010.png"}, {captureRect:[552, 595, 598, 608], command:@"Image at", eventNum:11, hotSpot:[5.6755118500000003e+02, 1.9064510400000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Games", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0011.png"}, {captureRect:[626, 596, 734, 612], command:@"Image at", eventNum:12, hotSpot:[6.4581328099999996e+02, 1.9525945500000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"PogueApple", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0012.png"}, {captureRect:[695, 591, 734, 607], command:@"Image at", eventNum:13, hotSpot:[7.0046524799999997e+02, 1.9297584400000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Apple", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0013.png"}, {captureRect:[731, 653, 781, 668], command:@"Image at", eventNum:14, hotSpot:[7.4188149199999998e+02, 1.4597116000000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Search", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0014.png"}, {captureRect:[251, 549, 375, 570], command:@"Image at", eventNum:15, hotSpot:[3.1708335099999999e+02, 2.2491212300000001e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"bvgfYouTube", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0015.png"}, {captureRect:[1057, 716, 1139, 730], command:@"Image at", eventNum:16, hotSpot:[1.0322406790000000e+03, 7.6635930000000002e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"bvgfYouTube_0001", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0016.png"}, {captureRect:[1136, 703, 1206, 733], command:@"Image at", eventNum:17, hotSpot:[1.1713870959999999e+03, 7.4395162999999997e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0125", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0017.png"}, {captureRect:[973, 703, 1043, 733], command:@"Image at", eventNum:18, hotSpot:[1.0084035290000000e+03, 7.4776478999999995e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0126", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0018.png"}, {captureRect:[408, 710, 478, 740], command:@"Image at", eventNum:19, hotSpot:[4.4362370700000002e+02, 6.7921362000000002e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0127", searchType:@"Precise", waitFor:@""}, screenShotFile:@"Screen0019.png"}, {captureRect:[368, 707, 438, 737], command:@"Image at", eventNum:20, hotSpot:[4.0339396599999998e+02, 7.0299231000000006e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0129", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0020.png"}, {captureRect:[172, 718, 339, 730], command:@"Image at", eventNum:21, hotSpot:[1.6629035600000000e+02, 7.7488534999999999e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"financeYahooSearchResults", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0021.png"}, {captureRect:[457, 718, 610, 730], command:@"Image at", eventNum:22, hotSpot:[4.2528644900000000e+02, 7.2111552000000003e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"helloYahooSearchResults", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0022.png"}, {captureRect:[367, 705, 437, 735], command:@"Image at", eventNum:23, hotSpot:[4.0286282299999999e+02, 7.2111552000000003e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0130", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0023.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Image at "NewsHome"</string>
+		<string>Image at "NewsHome_0001"</string>
+		<string>Image at "NewsHome_0002"</string>
+		<string>Image at "NewsHome_0003"</string>
+		<string>Image at "USWorldPoliticsTech"</string>
+		<string>Image at "World"</string>
+		<string>Image at "USWorldPoliticsTech_0001"</string>
+		<string>Image at "Tech"</string>
+		<string>Image at "DealsVideoGamesPogueApple"</string>
+		<string>Image at "Games"</string>
+		<string>Image at "PogueApple"</string>
+		<string>Image at "Apple"</string>
+		<string>Image at "Search"</string>
+		<string>Image at "bvgfYouTube"</string>
+		<string>Image at "bvgfYouTube_0001"</string>
+		<string>Image at "image0125"</string>
+		<string>Image at "image0126"</string>
+		<string>Image at "image0127"</string>
+		<string>Image at "image0129"</string>
+		<string>Image at "financeYahooSearchResults"</string>
+		<string>Image at "helloYahooSearchResults"</string>
+		<string>Image at "image0130"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>NewsHome.png</string>
+			<string>NewsHome_0001.png</string>
+			<string>NewsHome_0002.png</string>
+			<string>NewsHome_0003.png</string>
+			<string>USWorldPoliticsTech.png</string>
+			<string>World.png</string>
+			<string>USWorldPoliticsTech_0001.png</string>
+			<string>Tech.png</string>
+			<string>DealsVideoGamesPogueApple.png</string>
+			<string>Games.png</string>
+			<string>PogueApple.png</string>
+			<string>Apple.png</string>
+			<string>Search.png</string>
+			<string>bvgfYouTube.png</string>
+			<string>bvgfYouTube_0001.png</string>
+			<string>image0125.png</string>
+			<string>image0126.png</string>
+			<string>image0127.png</string>
+			<string>image0129.png</string>
+			<string>financeYahooSearchResults.png</string>
+			<string>helloYahooSearchResults.png</string>
+			<string>image0130.png</string>
+			<string>NewsHome.png</string>
+			<string>NewsHome_0001.png</string>
+			<string>NewsHome_0002.png</string>
+			<string>NewsHome_0003.png</string>
+			<string>USWorldPoliticsTech.png</string>
+			<string>World.png</string>
+			<string>USWorldPoliticsTech_0001.png</string>
+			<string>Tech.png</string>
+			<string>DealsVideoGamesPogueApple.png</string>
+			<string>Games.png</string>
+			<string>PogueApple.png</string>
+			<string>Apple.png</string>
+			<string>Search.png</string>
+			<string>bvgfYouTube.png</string>
+			<string>bvgfYouTube_0001.png</string>
+			<string>image0125.png</string>
+			<string>image0126.png</string>
+			<string>image0127.png</string>
+			<string>image0129.png</string>
+			<string>financeYahooSearchResults.png</string>
+			<string>helloYahooSearchResults.png</string>
+			<string>image0130.png</string>
+			<string>NewsHome.png</string>
+			<string>NewsHome_0001.png</string>
+			<string>NewsHome_0002.png</string>
+			<string>NewsHome_0003.png</string>
+			<string>USWorldPoliticsTech.png</string>
+			<string>World.png</string>
+			<string>USWorldPoliticsTech_0001.png</string>
+			<string>Tech.png</string>
+			<string>DealsVideoGamesPogueApple.png</string>
+			<string>Games.png</string>
+			<string>PogueApple.png</string>
+			<string>Apple.png</string>
+			<string>Search.png</string>
+			<string>bvgfYouTube.png</string>
+			<string>bvgfYouTube_0001.png</string>
+			<string>image0125.png</string>
+			<string>image0126.png</string>
+			<string>image0127.png</string>
+			<string>image0129.png</string>
+			<string>financeYahooSearchResults.png</string>
+			<string>helloYahooSearchResults.png</string>
+			<string>image0130.png</string>
+		</array>
+	</dict>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

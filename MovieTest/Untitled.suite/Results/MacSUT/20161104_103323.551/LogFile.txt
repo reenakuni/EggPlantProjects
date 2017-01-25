@@ -1,0 +1,4 @@
+﻿2016-11-04 10:33:23.552 -0600	START		Running MacSUT.script
+2016-11-04 10:33:30.625 -0600	Exception	close1	No Image Found On Screen: "close1"	1	on_macsut	MacSUT.script
+2016-11-04 10:33:30.866 -0600	EndTestCase		(Duration:"7.311276", Errors:"1", Exceptions:"1", StartTime:"2016-11-04 10:33:23 -0600", Successes:"0", TestCase:"MacSUT.script", Warnings:"0")
+2016-11-04 10:33:30.868 -0600	ABORTED		Execution Time 0:00:07 MacSUT.script

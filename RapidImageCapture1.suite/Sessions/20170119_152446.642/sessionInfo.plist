@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[299, 683, 417, 762], command:@"RightClick", eventNum:2, hotSpot:[3.1996608300000003e+02, 9.4827697999999998e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0099", searchType:@"Precise", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[226, 703, 296, 733], command:@"Click", eventNum:4, hotSpot:[2.6180172399999998e+02, 7.4305189999999996e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0100", searchType:@"Precise", waitFor:@""}, screenShotFile:@"Screen0004.png"}, {captureRect:[0, 464, 258, 769], command:@"Drag", eventNum:6, hotSpot:[1.7980449899999999e+02, 9.6318686000000000e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0126", searchType:@"Precise", waitFor:@""}, screenShotFile:@"Screen0006.png"}, {captureRect:[0, 464, 258, 769], command:@"Drop", eventNum:6, hotSpot:[1.7980449899999999e+02, 9.7081317999999996e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0127", searchType:@"Precise", waitFor:@""}, screenShotFile:@"Screen0006.png"}, {captureRect:[0, 464, 258, 769], command:@"Click", eventNum:8, hotSpot:[1.7980449899999999e+02, 9.7081317999999996e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0131", searchType:@"Precise", waitFor:@""}, screenShotFile:@"Screen0008.png"}, {captureRect:[0, 464, 258, 769], command:@"Click", eventNum:10, hotSpot:[1.7980449899999999e+02, 9.7081317999999996e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0132", searchType:@"Precise", waitFor:@""}, screenShotFile:@"Screen0010.png"}, {captureRect:[216, 583, 256, 596], command:@"Click", eventNum:12, hotSpot:[2.2049684800000000e+02, 2.0671607000000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Chess", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0012.png"}, {captureRect:[261, 467, 335, 610], command:@"Click", eventNum:14, hotSpot:[3.2803601800000001e+02, 2.5351510099999999e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0133", searchType:@"Precise", waitFor:@""}, screenShotFile:@"Screen0014.png"}, {captureRect:[258, 467, 335, 610], command:@"Click", eventNum:16, hotSpot:[3.2803601800000001e+02, 2.5351510099999999e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0138", searchType:@"Precise", waitFor:@""}, screenShotFile:@"Screen0016.png"}, {captureRect:[258, 467, 335, 610], command:@"Click", eventNum:18, hotSpot:[3.2803601800000001e+02, 2.5351510099999999e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0139", searchType:@"Precise", waitFor:@""}, screenShotFile:@"Screen0018.png"}, {captureRect:[258, 467, 335, 610], command:@"Click", eventNum:20, hotSpot:[3.2803601800000001e+02, 2.5241828200000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0142", searchType:@"Precise", waitFor:@""}, screenShotFile:@"Screen0020.png"}, {captureRect:[258, 467, 335, 610], command:@"Click", eventNum:22, hotSpot:[3.2803601800000001e+02, 2.5241828200000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0143", searchType:@"Precise", waitFor:@""}, screenShotFile:@"Screen0022.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>RightClick "image0099"</string>
+		<string>Click "image0100"</string>
+		<string>Drag "image0126"</string>
+		<string>Drop "image0127"</string>
+		<string>Click "image0131"</string>
+		<string>Click "image0132"</string>
+		<string>Click "Chess"</string>
+		<string>Click "image0133"</string>
+		<string>Click "image0138"</string>
+		<string>Click "image0139"</string>
+		<string>Click "image0142"</string>
+		<string>Click "image0143"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>image0099.png</string>
+			<string>image0100.png</string>
+			<string>image0099.png</string>
+			<string>image0100.png</string>
+			<string>image0126.png</string>
+			<string>image0126.png</string>
+			<string>image0127.png</string>
+			<string>image0127.png</string>
+			<string>image0131.png</string>
+			<string>image0131.png</string>
+			<string>image0132.png</string>
+			<string>image0132.png</string>
+			<string>Chess.png</string>
+			<string>Chess.png</string>
+			<string>image0133.png</string>
+			<string>image0133.png</string>
+			<string>image0138.png</string>
+			<string>image0138.png</string>
+			<string>image0139.png</string>
+			<string>image0139.png</string>
+			<string>image0142.png</string>
+			<string>image0142.png</string>
+			<string>image0143.png</string>
+			<string>image0143.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>turboSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

@@ -1,0 +1,7 @@
+﻿2016-06-20 14:33:45.772 -0600	START		Running Background1.feature
+2016-06-20 14:33:45.779 -0600	Log		table	2	on_a_table	Background1.script<SOURCE>
+2016-06-20 14:33:45.781 -0600	LogSuccess		a table
+2016-06-20 14:33:45.781 -0600	Log		table	2	on_tabled	Background1.script<SOURCE>
+2016-06-20 14:33:45.783 -0600	LogSuccess		tabled
+2016-06-20 14:33:45.785 -0600	EndTestCase		(Duration:"0.011191", Errors:"0", Exceptions:"0", StartTime:"2016-06-20 14:33:45 -0600", Successes:"2", TestCase:"Background1.feature", Warnings:"0")
+2016-06-20 14:33:45.794 -0600	SUCCESS		1 scenarios (0 failed, 1 passed) 2 steps (0 failed, 0 skipped, 2 passed) Execution Time 0:00:00

@@ -1,0 +1,4 @@
+﻿2016-10-24 13:58:38.432 -0600	START		Running s1.script
+2016-10-24 13:58:40.660 -0600	imagefound	helperimage	Unable to Find Image helperimage within 2.00 seconds	6	on_s1	s1.script
+2016-10-24 13:58:41.586 -0600	EndTestCase		(Duration:"3.151906", Errors:"0", Exceptions:"0", StartTime:"2016-10-24 13:58:38 -0600", Successes:"1", TestCase:"s1.script", Warnings:"0")
+2016-10-24 13:58:41.596 -0600	SUCCESS		Execution Time 0:00:03 s1.script

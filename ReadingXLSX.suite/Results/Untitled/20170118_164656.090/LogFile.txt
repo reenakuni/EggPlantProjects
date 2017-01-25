@@ -1,0 +1,3 @@
+﻿2017-01-18 16:46:56.091 -0700	START		Running Untitled.script
+2017-01-18 16:46:57.608 -0700	EndTestCase		(Duration:"1.51557", Errors:"1", Exceptions:"0", StartTime:"2017-01-18 16:46:56 -0700", Successes:"0", TestCase:"Untitled.script", Warnings:"0")
+2017-01-18 16:46:58.349 -0700	FAILURE	Screen_Error.png	NSInvalidArgumentException -[STProxyValue valueAtRow:column:]: unrecognized selector sent to instance 0x7ffa32076960 -- Execution Time 0:00:01 Untitled.script

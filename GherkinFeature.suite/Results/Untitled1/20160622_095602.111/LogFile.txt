@@ -1,0 +1,3 @@
+﻿2016-06-22 09:56:02.111 -0600	START		Running Untitled1.script
+2016-06-22 09:56:02.928 -0600	EndTestCase		(Duration:"0.815361", Errors:"1", Exceptions:"0", StartTime:"2016-06-22 09:56:02 -0600", Successes:"0", TestCase:"Untitled1.script", Warnings:"0")
+2016-06-22 09:56:02.934 -0600	FAILURE		Connection Failed Unable to connect to Server:10.1.11.128 on port:0\nPassword Required -- Execution Time 0:00:00 Untitled1.script

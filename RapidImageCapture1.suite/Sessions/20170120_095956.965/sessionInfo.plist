@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[19, 776, 99, 792], command:@"Click", eventNum:2, hotSpot:[2.9996093999999999e+01, 2.0156250000000000e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"UFinder", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[30, 752, 70, 765], command:@"Click", eventNum:4, hotSpot:[3.9023437999999999e+01, 3.5617187999999999e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"AboutThisMac", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0004.png"}, {captureRect:[328, 628, 398, 658], command:@"Click", eventNum:6, hotSpot:[3.6386718800000000e+02, 1.4956640600000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0144", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0006.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Click "UFinder"</string>
+		<string>Click "AboutThisMac"</string>
+		<string>Click "image0144"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>UFinder.png</string>
+			<string>UFinder.png</string>
+			<string>AboutThisMac.png</string>
+			<string>AboutThisMac.png</string>
+			<string>image0144.png</string>
+			<string>image0144.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>turboSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

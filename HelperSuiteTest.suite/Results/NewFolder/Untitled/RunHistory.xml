@@ -1,0 +1,28 @@
+﻿<?xml version="1.0"?>
+<runHistory script="NewFolder/Untitled">
+ <run>
+  <RunDate>2016-10-31 10:50:56.973 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>1.104487</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161031_105056.973/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-10-31 10:57:42.104 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.004659</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20161031_105742.104/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in newfolder_untitled:
+Syntax Error at line 2: Syntax Error - can&#x27;t understand [end of line] at or near character 11</ErrorMessage>
+ </run>
+</runHistory>

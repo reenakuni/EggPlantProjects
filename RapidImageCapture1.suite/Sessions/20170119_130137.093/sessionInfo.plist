@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[132, 662, 202, 692], command:@"Image at", eventNum:2, hotSpot:[1.6788378200000000e+02, 1.1563726400000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0009", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[294, 646, 359, 717], command:@"Image at", eventNum:3, hotSpot:[3.2191931599999998e+02, 1.1854640499999999e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0010", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0003.png"}, {captureRect:[447, 660, 517, 690], command:@"Image at", eventNum:4, hotSpot:[4.8256414300000000e+02, 1.1744958600000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0031", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0004.png"}, {captureRect:[609, 662, 679, 692], command:@"Image at", eventNum:5, hotSpot:[6.4439547400000004e+02, 1.1588147800000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0032", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0005.png"}, {captureRect:[604, 545, 674, 575], command:@"Image at", eventNum:6, hotSpot:[6.3940102400000001e+02, 2.3270553500000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0048", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0006.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Image at "image0009"</string>
+		<string>Image at "image0010"</string>
+		<string>Image at "image0031"</string>
+		<string>Image at "image0032"</string>
+		<string>Image at "image0048"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>image0009.png</string>
+			<string>image0010.png</string>
+			<string>image0031.png</string>
+			<string>image0032.png</string>
+			<string>image0009.png</string>
+			<string>image0010.png</string>
+			<string>image0031.png</string>
+			<string>image0032.png</string>
+			<string>image0048.png</string>
+			<string>image0048.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>rapidSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

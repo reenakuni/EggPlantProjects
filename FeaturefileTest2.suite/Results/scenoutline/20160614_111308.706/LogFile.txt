@@ -1,0 +1,3 @@
+﻿2016-06-14 11:13:08.707 -0600	START		Running scanriooutline.script
+2016-06-14 11:13:09.206 -0600	EndTestCase		(Duration:"0.497535", Errors:"0", Exceptions:"0", StartTime:"2016-06-14 11:13:08 -0600", Successes:"1", TestCase:"scanriooutline.script", Warnings:"0")
+2016-06-14 11:13:09.212 -0600	SUCCESS		Execution Time 0:00:00 scanriooutline.script

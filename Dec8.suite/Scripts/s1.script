@@ -1,0 +1,4 @@
+﻿repeat 4 times
+	Run "~/Documents/HelperDec9.suite/Scripts/Untitled2"
+end repeat
+Run "~/Documents/HelperDec9.suite/Scripts/Untitled2"

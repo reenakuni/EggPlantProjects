@@ -1,0 +1,27 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Cash">
+ <run>
+  <RunDate>2016-06-09 21:17:48.725 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.630616</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160609_211748.725/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-27 13:31:16.217 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.753200</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160627_133116.217/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

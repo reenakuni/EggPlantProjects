@@ -1,0 +1,3 @@
+﻿2016-12-28 14:06:57.661 -0700	START		Running reena.script
+2016-12-28 14:06:58.202 -0700	EndTestCase		(Duration:"0.539922", Errors:"1", Exceptions:"0", StartTime:"2016-12-28 14:06:57 -0700", Successes:"0", TestCase:"reena.script", Warnings:"0")
+2016-12-28 14:06:58.218 -0700	FAILURE		STInvalidBoolean Value 'foo' is not TRUE, FALSE, YES, NO, ON, OFF or empty -- Execution Time 0:00:00 reena.script

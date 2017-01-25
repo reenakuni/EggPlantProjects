@@ -1,0 +1,6 @@
+﻿Click "image0001"
+typetext Notepad
+wait 5
+Click "Notepad"
+typetext "Hello"
+dfdfdfdf

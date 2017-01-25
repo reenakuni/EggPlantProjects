@@ -1,0 +1,6 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2016-10-12 09:06:01.351 -0600,"Running",0:00:00,0,0,0,"20161012_090601.351/LogFile.txt","","",0
+2016-10-12 09:06:18.204 -0600,"Success",0:00:01,0,0,0,"20161012_090618.204/LogFile.txt","","",1
+2016-10-12 09:07:50.460 -0600,"Success",0:00:08,0,0,0,"20161012_090750.460/LogFile.txt","","",1
+2016-10-12 09:08:46.743 -0600,"Success",0:00:08,0,0,0,"20161012_090846.743/LogFile.txt","","",1
+2016-10-12 09:11:00.296 -0600,"Failure",0:00:16,1,0,1,"20161012_091100.296/LogFile.txt","","No Remote Connection -- click Error - Retrieving Frame Buffer:No Connection to Server\nREENAKUNI8D42\n",0

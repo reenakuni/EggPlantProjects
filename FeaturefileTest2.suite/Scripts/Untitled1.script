@@ -1,0 +1,24 @@
+﻿to handle log_something
+	log "hello"
+end log_something
+
+to handle see_the_message
+	log "saw hello"
+end see_the_message
+
+to handle log_success
+	log "success"
+end log_success
+
+to handle log_something_else
+	log "greetings"
+end log_something_else
+
+to handle you_see_the_message
+	log "Greetings"
+end you_see_the_message
+
+to handle log_successful
+	log "successful greeting"
+end log_successf
+(* dksdfsfdklsklf *)

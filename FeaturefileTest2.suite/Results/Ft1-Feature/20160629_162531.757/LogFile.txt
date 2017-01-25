@@ -1,0 +1,6 @@
+﻿2016-06-29 16:25:31.758 -0600	START		Running Ft1.feature
+2016-06-29 16:25:31.766 -0600	LogWarning		text search
+2016-06-29 16:25:31.767 -0600	LogWarning		I see log message
+2016-06-29 16:25:31.768 -0600	LogSuccess		log success
+2016-06-29 16:25:31.769 -0600	EndTestCase		(Duration:"0.009018", Errors:"0", Exceptions:"0", StartTime:"2016-06-29 16:25:31 -0600", Successes:"1", TestCase:"Ft1.feature", Warnings:"2")
+2016-06-29 16:25:32.849 -0600	FAILURE	Screen_Error.png	1 scenarios (1 failed, 0 passed) 3 steps (0 failed, 2 skipped, 1 passed) Execution Time 0:00:00

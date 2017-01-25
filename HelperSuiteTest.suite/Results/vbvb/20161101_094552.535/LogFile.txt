@@ -1,0 +1,5 @@
+﻿2016-11-01 09:45:52.540 -0600	START		Running vbvb.script
+2016-11-01 09:45:53.188 -0600	click	4000Chess	at (81, 266)	1	on_vbvb	vbvb.script
+2016-11-01 09:45:54.407 -0600	click	safari	at (794, 419)	2	on_vbvb	vbvb.script
+2016-11-01 09:45:58.566 -0600	EndTestCase		(Duration:"6.024547", Errors:"0", Exceptions:"0", StartTime:"2016-11-01 09:45:52 -0600", Successes:"1", TestCase:"vbvb.script", Warnings:"0")
+2016-11-01 09:45:58.582 -0600	SUCCESS		Execution Time 0:00:06 vbvb.script
