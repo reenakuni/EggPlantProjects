@@ -1,0 +1,10 @@
+connect "10.211.55.17"
+repeat 50 times
+	put now into starttime
+	// captureScreen
+	moveto (200,200)
+	log "that took " & (now - starttime)
+	moveto (144,9)
+	moveto (187,9)
+end repeat
+
