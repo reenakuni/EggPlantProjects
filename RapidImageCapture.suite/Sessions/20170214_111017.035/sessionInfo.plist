@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[75, 684, 145, 714], command:@"Click", eventNum:2, hotSpot:[110, 94], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0001", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[280, 675, 350, 705], command:@"Click", eventNum:4, hotSpot:[315, 103], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0001", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0004.png"}, {captureRect:[280, 675, 350, 705], command:@"Click", eventNum:6, hotSpot:[315, 103], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0001", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0006.png"}, {captureRect:[482, 677, 532, 687], command:@"Click", eventNum:8, hotSpot:[504, 94], imageName:@"", infoDict:{folderPath:@"/", imageName:@"CioriTvt", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0008.png"}, {captureRect:[470, 682, 540, 712], command:@"Click", eventNum:10, hotSpot:[505, 96], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0001", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0010.png"}, {captureRect:[737, 355, 778, 369], command:@"Click", eventNum:12, hotSpot:[737, 428], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Cance", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0012.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Click "hello/image0001"</string>
+		<string>Click "hello/image0001"</string>
+		<string>Click "hello/image0001"</string>
+		<string>Click "hello/CioriTvt"</string>
+		<string>Click "hello/image0001"</string>
+		<string>Click "hello/Cance"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>image0001.png</string>
+			<string>image0001.png</string>
+			<string>image0001.png</string>
+			<string>image0001.png</string>
+			<string>image0001.png</string>
+			<string>image0001.png</string>
+			<string>CioriTvt.png</string>
+			<string>CioriTvt.png</string>
+			<string>image0001.png</string>
+			<string>image0001.png</string>
+			<string>Cance.png</string>
+			<string>Cance.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>turboSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

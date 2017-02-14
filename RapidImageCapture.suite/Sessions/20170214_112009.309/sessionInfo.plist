@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[94, 687, 164, 717], command:@"Image at", eventNum:2, hotSpot:[129, 91], imageName:@"", infoDict:{folderPath:@"/", imageName:@"ree", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {command:@"Image at", eventNum:3, hotSpot:[2.3012109400000000e+02, 9.0082031000000001e+01], imageName:@"", screenShotFile:@"Screen0003.png"}, {command:@"Image at", eventNum:4, hotSpot:[3.0851171900000003e+02, 8.7300781000000001e+01], imageName:@"", screenShotFile:@"Screen0004.png"}, {command:@"Image at", eventNum:5, hotSpot:[4.3628906200000000e+02, 8.8425781000000001e+01], imageName:@"", screenShotFile:@"Screen0005.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Image at "ree"</string>
+		<string>Image at ""</string>
+		<string>Image at ""</string>
+		<string>Image at ""</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>ree.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>rapidSession</string>
+	<key>unnamedImageCount</key>
+	<integer>3</integer>
+</dict>
+</plist>
