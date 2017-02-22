@@ -72,4 +72,152 @@
   <ReturnValue></ReturnValue>
   <ErrorMessage>No Remote Connection -- typeencodedtext Error - Remote Connection Unavailable</ErrorMessage>
  </run>
+ <run>
+  <RunDate>2017-02-01 12:08:06.143 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.791976</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170201_120806.143/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-02-01 12:08:31.693 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.638109</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170201_120831.693/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>No Remote Connection -- typeencodedtext Error - Remote Connection Unavailable</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-02-01 12:09:02.989 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>16.550046</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170201_120902.989/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>No Remote Connection -- typeencodedtext Error - Remote Connection Unavailable</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-02-01 12:09:41.475 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>3.655282</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170201_120941.475/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>No Remote Connection -- typeencodedtext Error - Remote Connection Unavailable</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-02-01 12:10:13.749 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.761689</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170201_121013.749/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Connection Failed -- Unable to connect to Server:10.1.11.116 on port:5900
+Either the username was not recognised, or the password was incorrect</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-02-01 12:11:15.603 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.754418</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170201_121115.603/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Connection Failed -- Unable to connect to Server:10.1.11.116 on port:5900
+Either the username was not recognised, or the password was incorrect</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-02-01 12:11:40.590 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.004630</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170201_121140.590/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in untitled:
+Syntax Error at line 10: Syntax Error - can&#x27;t understand &quot;enc&quot; at or near character 181</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-02-01 12:11:46.800 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.003438</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170201_121146.800/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in untitled:
+Syntax Error at line 10: Syntax Error - can&#x27;t understand &quot;enc&quot; at or near character 181</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-02-01 12:12:43.850 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.789779</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170201_121243.850/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-02-02 13:37:23.991 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.861273</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170202_133723.991/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-02-02 13:41:44.912 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.603062</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170202_134144.912/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-02-02 13:41:56.173 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.611620</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170202_134156.173/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
 </runHistory>

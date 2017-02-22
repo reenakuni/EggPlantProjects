@@ -1,19 +1,21 @@
 ﻿{
-    CaptureDate = "2017-01-18 17:54:51 +0000";
+    Bitmask = <ffffffff 1f00f8ff ffffffff 3f0000f8 ffffffff ff0f0000 f8ffffff ff7f0000 00feffff ff070000 0000ffff ff3f0000 000000e0 ffff0f00 00000000 f0ffff01 00000000 00f8ff7f 00000000 0000f8ff 07000000 000000fe ff010000 00000080 ff070000 00000000 e0ff0100 00000000 00f83f00 00000000 0000fe0f 00000000 000080ff 03000000 000000e0 ff000000 00000000 f83f0000 00000000 00fe0f00 00000000 0080ff03 00000000 0000e0ff 00000000 000000f8 3f000000 00000000 fe0f0000 00000000 80ff0780 07000000 00e0ffff ff010000 0000feff ff7f0000 00f8ffff ffff1f00 00e0ffff ffffff07 0000f8ff ffffffff 010080ff ffffffff 7f00e0ff ffff0f>;
+    BitmaskSize = "70,30";
+    CaptureDate = "2017-01-31 21:08:44 +0000";
     CaptureHost = "testplants-Mac-2";
     CaptureScreenSize =     (
         1272,
         793
     );
     HasAlpha = 1;
-    HotSpotX = 31;
-    HotSpotY = 15;
+    HotSpotX = 35;
+    HotSpotY = 14;
+    ImageDescription = <>;
     LastKnownLocationX = 0;
     LastKnownLocationY = 0;
-    OriginalLocationX = 113;
-    OriginalLocationY = 0;
+    OriginalLocationX = 511;
+    OriginalLocationY = 415;
     Precise = 0;
     Pulsing = 0;
     Scale = 1;
-    SearchAlgorithm = TextSmoothSquare;
 }

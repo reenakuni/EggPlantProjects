@@ -1,5 +1,0 @@
-﻿2017-01-17 13:38:14.656 -0700	START		Running Untitled5.script
-2017-01-17 13:38:15.267 -0700	click	UFinder_0003	at (79, 16)	8	on_untitled5	Untitled5.script
-2017-01-17 13:38:16.500 -0700	click	AboutFinder_0001	at (80, 36)	9	on_untitled5	Untitled5.script
-2017-01-17 13:38:17.343 -0700	EndTestCase		(Duration:"2.685565", Errors:"1", Exceptions:"0", StartTime:"2017-01-17 13:38:14 -0700", Successes:"0", TestCase:"Untitled5.script", Warnings:"0")
-2017-01-17 13:38:17.343 -0700	ABORTED		Execution Time 0:00:02 Untitled5.script

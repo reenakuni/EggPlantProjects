@@ -1,3 +1,4 @@
+﻿TypeText wikipedia.com
 connect "10.211.55.17"
 repeat 50 times
 	put now into starttime

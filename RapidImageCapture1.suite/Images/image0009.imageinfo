@@ -5,9 +5,12 @@
         1272,
         793
     );
+    CropRectangle = "6,6,62,22";
     HasAlpha = 1;
-    HotSpotX = 35;
-    HotSpotY = 14;
+    HotSpotX = 34;
+    HotSpotY = 13;
+    ImageDescription = <>;
+    ImageTolerance = 50;
     LastKnownLocationX = 0;
     LastKnownLocationY = 0;
     OriginalLocationX = 132;

@@ -1,10 +1,10 @@
 ﻿//
 
 
-put EncodeText("eggplant", "facekey") into enc
-put enc 
-put DecodeText(enc, "facekey")
+put EncodeText("eggplant") into enc
+//put enc 
+//put DecodeText(enc)
 
-TypeEncodedText enc, "facekey" 
+//TypeEncodedText enc, "facekey" 
 
-connect(host:"10.1.11.116",password:enc)
+connect(host:"10.211.55.19",password:DecodeText(enc))

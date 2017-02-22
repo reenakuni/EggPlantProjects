@@ -24,4 +24,17 @@
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
  </run>
+ <run>
+  <RunDate>2017-02-08 15:43:36.847 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.003573</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170208_154336.847/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in untitled1:
+Syntax Error at line 4: Syntax Error - can&#x27;t understand &quot;runners&quot; at or near character 31</ErrorMessage>
+ </run>
 </runHistory>

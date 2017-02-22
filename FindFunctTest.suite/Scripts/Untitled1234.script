@@ -1,14 +1,14 @@
 ﻿apple"parent"
 
 Untitled
-Manager "NewhelperNov29.suite/Scripts/Untitled"
-Manager "/Users/mickeykuni/Documents/NewhelperNov29.suite/Scripts/Untitled"
+clerk "NewhelperNov29.suite/Scripts/Untitled"
+clerk "/Users/mickeykuni/Documents/NewhelperNov29.suite/Scripts/Untitled"
 
-Manager "Nov29"
-Manager "Manager"
+clerk "Nov29"
+clerk "clerk"
 
 Folder1.NewFolder.Untitled
-Manager "Folder1/NewFolder/trap"
+clerk "Folder1/NewFolder/trap"
 Nov29
 trap "Untitled"
 trap "/Users/mickeykuni/Documents/NewhelperNov29.suite/Scripts/"

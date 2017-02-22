@@ -1,5 +1,5 @@
 ﻿{
-    EPVersionNumber = 1701031102;
+    EPVersionNumber = 1701310217;
     PostRunScript = "test1.script";
     PostRunSelectionScript = "test1.script";
     PreRunScript = "test1.script";
@@ -47,6 +47,7 @@
     );
     ScriptMetaData =     {
     };
+    SuiteEncodedTextKey = "$AcR?/n3i3T;8=2\"";
     TemplateScript = "Untitled5.script";
     helpedSuitesInfo =     (
                 {

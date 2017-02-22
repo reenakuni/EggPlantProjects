@@ -5,3 +5,15 @@
 2017-01-24 10:22:35.624 -0700,"Failure",0:00:02,1,0,1,"20170124_102235.624/LogFile.txt","","No Remote Connection -- typeencodedtext Error - Remote Connection Unavailable",0
 2017-01-24 10:24:34.745 -0700,"Failure",0:00:02,1,0,1,"20170124_102434.745/LogFile.txt","","No Remote Connection -- typeencodedtext Error - Remote Connection Unavailable",0
 2017-01-24 10:25:52.527 -0700,"Failure",0:00:02,1,0,1,"20170124_102552.527/LogFile.txt","","No Remote Connection -- typeencodedtext Error - Remote Connection Unavailable",0
+2017-02-01 12:08:06.143 -0700,"Success",0:00:00,0,0,0,"20170201_120806.143/LogFile.txt","","",1
+2017-02-01 12:08:31.693 -0700,"Failure",0:00:00,1,0,1,"20170201_120831.693/LogFile.txt","","No Remote Connection -- typeencodedtext Error - Remote Connection Unavailable",0
+2017-02-01 12:09:02.989 -0700,"Failure",0:00:16,1,0,1,"20170201_120902.989/LogFile.txt","","No Remote Connection -- typeencodedtext Error - Remote Connection Unavailable",0
+2017-02-01 12:09:41.475 -0700,"Failure",0:00:03,1,0,1,"20170201_120941.475/LogFile.txt","","No Remote Connection -- typeencodedtext Error - Remote Connection Unavailable",0
+2017-02-01 12:10:13.749 -0700,"Failure",0:00:00,1,0,0,"20170201_121013.749/LogFile.txt","","Connection Failed -- Unable to connect to Server:10.1.11.116 on port:5900\nEither the username was not recognised, or the password was incorrect",0
+2017-02-01 12:11:15.603 -0700,"Failure",0:00:00,1,0,0,"20170201_121115.603/LogFile.txt","","Connection Failed -- Unable to connect to Server:10.1.11.116 on port:5900\nEither the username was not recognised, or the password was incorrect",0
+2017-02-01 12:11:40.590 -0700,"Failure",0:00:00,1,0,0,"20170201_121140.590/LogFile.txt","","SenseTalk Compiler Exception -- in untitled:\nSyntax Error at line 10: Syntax Error - can't understand ""enc"" at or near character 181",0
+2017-02-01 12:11:46.800 -0700,"Failure",0:00:00,1,0,0,"20170201_121146.800/LogFile.txt","","SenseTalk Compiler Exception -- in untitled:\nSyntax Error at line 10: Syntax Error - can't understand ""enc"" at or near character 181",0
+2017-02-01 12:12:43.850 -0700,"Success",0:00:00,0,0,0,"20170201_121243.850/LogFile.txt","","",1
+2017-02-02 13:37:23.991 -0700,"Success",0:00:00,0,0,0,"20170202_133723.991/LogFile.txt","","",1
+2017-02-02 13:41:44.912 -0700,"Success",0:00:00,0,0,0,"20170202_134144.912/LogFile.txt","","",1
+2017-02-02 13:41:56.173 -0700,"Success",0:00:00,0,0,0,"20170202_134156.173/LogFile.txt","","",1

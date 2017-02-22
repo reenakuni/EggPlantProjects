@@ -2,7 +2,7 @@
 
   Scenario:
     Given 
-    When replaced  Manager
+    When replaced  clerk
 
-    Then Manager
+    Then clerk
 

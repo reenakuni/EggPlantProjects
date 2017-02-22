@@ -1,3 +1,13 @@
-﻿on TestCall
-	put "hello world"
-end TestCall
+﻿to handle hjfg
+	log "x"
+end hjfg
+
+to handle hello
+	log "x"
+	
+end hello
+
+to handle reer
+	log "x"
+	
+end reer

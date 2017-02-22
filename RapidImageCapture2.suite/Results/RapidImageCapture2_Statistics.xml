@@ -1,19 +1,35 @@
 ﻿<?xml version="1.0"?>
 <statistics>
- <script name="Untitled4">
+ <script name="Untitled3">
   <LastStatus>Success</LastStatus>
-  <NumberOfRuns>4</NumberOfRuns>
+  <NumberOfRuns>2</NumberOfRuns>
   <NumberOfFails>0</NumberOfFails>
-  <FirstRun>2017-01-17 13:29:51 -0700</FirstRun>
-  <LastRun>2017-01-17 13:57:39 -0700</LastRun>
-  <TotalTimeOnSuccess>10.567279</TotalTimeOnSuccess>
+  <FirstRun>2017-02-13 13:16:53 -0700</FirstRun>
+  <LastRun>2017-02-13 13:18:15 -0700</LastRun>
+  <TotalTimeOnSuccess>2.452142</TotalTimeOnSuccess>
  </script>
- <script name="Untitled8">
+ <script name="Untitled4">
   <LastStatus>Success</LastStatus>
   <NumberOfRuns>1</NumberOfRuns>
   <NumberOfFails>0</NumberOfFails>
-  <FirstRun>2017-01-17 13:58:47 -0700</FirstRun>
-  <LastRun>2017-01-17 13:58:47 -0700</LastRun>
-  <TotalTimeOnSuccess>2.555736</TotalTimeOnSuccess>
+  <FirstRun>2017-02-13 15:21:06 -0700</FirstRun>
+  <LastRun>2017-02-13 15:21:06 -0700</LastRun>
+  <TotalTimeOnSuccess>1.584180</TotalTimeOnSuccess>
+ </script>
+ <script name="Untitled5">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2017-02-13 15:17:29 -0700</FirstRun>
+  <LastRun>2017-02-13 15:17:29 -0700</LastRun>
+  <TotalTimeOnSuccess>8.779995</TotalTimeOnSuccess>
+ </script>
+ <script name="Untitled2">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2017-02-13 13:16:07 -0700</FirstRun>
+  <LastRun>2017-02-13 13:16:07 -0700</LastRun>
+  <TotalTimeOnSuccess>1.239818</TotalTimeOnSuccess>
  </script>
 </statistics>
