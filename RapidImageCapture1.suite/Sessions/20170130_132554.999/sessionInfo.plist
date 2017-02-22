@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[214, 590, 293, 656], command:@"DoubleClick", eventNum:2, hotSpot:[2.5715625000000000e+02, 1.6525390600000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"blah", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[487, 499, 499, 505], command:@"Click", eventNum:6, hotSpot:[4.9769531200000000e+02, 2.9090625000000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0448", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0006.png"}, {captureRect:[487, 499, 499, 505], command:@"DoubleClick", eventNum:8, hotSpot:[4.9769531200000000e+02, 2.9190625000000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0449", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0006.png"}, {captureRect:[48, 745, 61, 758], command:@"Click", eventNum:10, hotSpot:[5.5863281000000001e+01, 4.5726562000000001e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0450", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0010.png"}, {captureRect:[156, 562, 217, 674], command:@"Click", eventNum:12, hotSpot:[1.8314062500000000e+02, 1.3632421900000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0451", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0012.png"}, {captureRect:[0, 743, 60, 773], command:@"Click", eventNum:14, hotSpot:[2.5167968999999999e+01, 3.4531250000000000e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0451", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0014.png"}, {captureRect:[675, 459, 717, 471], command:@"Click", eventNum:16, hotSpot:[6.8039062500000000e+02, 3.2723828099999997e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Cance", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0016.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>DoubleClick "blah"</string>
+		<string>Click "image0448"</string>
+		<string>DoubleClick "image0449"</string>
+		<string>Click "image0450"</string>
+		<string>Click "image0451"</string>
+		<string>Click "image0451"</string>
+		<string>Click "Cance"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>image0448.png</string>
+			<string>image0449.png</string>
+			<string>image0450.png</string>
+			<string>image0451.png</string>
+			<string>Cance.png</string>
+			<string>image0448.png</string>
+			<string>image0449.png</string>
+			<string>image0450.png</string>
+			<string>image0451.png</string>
+			<string>Cance.png</string>
+			<string>image0448.png</string>
+			<string>image0449.png</string>
+			<string>image0450.png</string>
+			<string>image0451.png</string>
+			<string>Cance.png</string>
+			<string>blah.png</string>
+			<string>image0451.png</string>
+			<string>blah.png</string>
+			<string>image0448.png</string>
+			<string>image0449.png</string>
+			<string>image0450.png</string>
+			<string>image0451.png</string>
+			<string>image0451.png</string>
+			<string>Cance.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>turboSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

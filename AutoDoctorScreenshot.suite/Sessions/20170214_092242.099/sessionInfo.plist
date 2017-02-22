@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[191, 633, 261, 663], command:@"Click", eventNum:2, hotSpot:[226, 145], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0008", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[311, 489, 370, 548], command:@"Click", eventNum:4, hotSpot:[348, 276], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0009", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0004.png"}, {captureRect:[463, 377, 514, 438], command:@"Click", eventNum:6, hotSpot:[476, 375], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0010", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0006.png"}, {captureRect:[311, 377, 370, 436], command:@"Click", eventNum:8, hotSpot:[341, 383], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0011", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0008.png"}, {captureRect:[315, 265, 366, 325], command:@"Click", eventNum:10, hotSpot:[342, 497], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0012", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0010.png"}, {captureRect:[460, 265, 516, 323], command:@"Click", eventNum:12, hotSpot:[477, 511], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0013", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0012.png"}, {captureRect:[457, 465, 519, 479], command:@"Click", eventNum:14, hotSpot:[496, 304], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Automator", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0014.png"}, {captureRect:[610, 489, 662, 550], command:@"Click", eventNum:16, hotSpot:[619, 268], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0014", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0016.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Click "image0008"</string>
+		<string>Click "image0009"</string>
+		<string>Click "image0010"</string>
+		<string>Click "image0011"</string>
+		<string>Click "image0012"</string>
+		<string>Click "image0013"</string>
+		<string>Click "Automator"</string>
+		<string>Click "image0014"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>image0008.png</string>
+			<string>image0008.png</string>
+			<string>image0009.png</string>
+			<string>image0009.png</string>
+			<string>image0010.png</string>
+			<string>image0010.png</string>
+			<string>image0011.png</string>
+			<string>image0011.png</string>
+			<string>image0012.png</string>
+			<string>image0012.png</string>
+			<string>image0013.png</string>
+			<string>image0013.png</string>
+			<string>Automator.png</string>
+			<string>Automator.png</string>
+			<string>image0014.png</string>
+			<string>image0014.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>turboSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

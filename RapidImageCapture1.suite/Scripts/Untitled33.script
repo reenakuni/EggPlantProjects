@@ -1,0 +1,9 @@
+﻿(* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+  Script generated:  2017-01-26 14:48:23
+  From session:  untitled session
+  Captured on:  2017-01-26 14:47:47
+  From server:  testplants-Mac-2
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *)
+
+Click "image0431"
+TypeText "app",ControlDown,OptionDown,"l",OptionUp,ShiftDown,"e",AltDown,OptionDown,ShiftUp,"."AltUp,ControlUp,OptionUp,"co",ControlKey,ShiftKey,"m",Return

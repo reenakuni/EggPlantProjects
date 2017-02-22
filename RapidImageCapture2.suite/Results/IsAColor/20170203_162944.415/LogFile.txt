@@ -1,0 +1,3 @@
+﻿2017-02-03 16:29:44.416 -0700	START		Running IsAColor.script
+2017-02-03 16:29:44.928 -0700	EndTestCase		(Duration:"0.510895", Errors:"1", Exceptions:"0", StartTime:"2017-02-03 16:29:44 -0700", Successes:"0", TestCase:"IsAColor.script", Warnings:"0")
+2017-02-03 16:29:45.522 -0700	FAILURE	Screen_Error.png	STInvalidColor Value can not be evaluated as a color: '#1031031454' -- Execution Time 0:00:00 IsAColor.script

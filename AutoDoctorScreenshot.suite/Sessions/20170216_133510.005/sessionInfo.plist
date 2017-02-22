@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[214, 493, 294, 559], command:@"DoubleClick", eventNum:2, hotSpot:[250, 179], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0028", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[756, 383, 797, 396], command:@"Click", eventNum:6, hotSpot:[795, 306], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Cance", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0006.png"}, {captureRect:[28, 661, 35, 666], command:@"Click", eventNum:8, hotSpot:[33.496094, 34.386719], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0029", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0008.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>DoubleClick "image0028"</string>
+		<string>Click "Cance"</string>
+		<string>Click "image0029"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>image0028.png</string>
+			<string>image0028.png</string>
+			<string>Cance.png</string>
+			<string>Cance.png</string>
+			<string>image0029.png</string>
+			<string>image0029.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>turboSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

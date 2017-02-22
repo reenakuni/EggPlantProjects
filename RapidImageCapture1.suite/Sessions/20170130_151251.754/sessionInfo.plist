@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[1187, 697, 1227, 732], command:@"Click", eventNum:2, hotSpot:[1.2091484379999999e+03, 8.6566406000000001e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0002", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0002.png", useExistingImage:@"YES"}, {captureRect:[582, 487, 596, 519], command:@"Click", eventNum:4, hotSpot:[5.9281640600000003e+02, 2.9912109400000003e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0008", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0004.png", useExistingImage:@"YES"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>-useExisting- Click "image0002"</string>
+		<string>-useExisting- Click "image0008"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>image0002.png</string>
+			<string>image0008.png</string>
+			<string>image0002.png</string>
+			<string>image0008.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>turboSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

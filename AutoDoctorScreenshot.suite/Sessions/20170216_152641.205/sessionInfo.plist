@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[1107, 582, 1177, 612], command:@"Click", eventNum:2, hotSpot:[1142, 100], imageName:@"", infoDict:{folderPath:@"/hithere", imageName:@"image0001", searchType:@"Precise", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[885, 430, 1042, 524], command:@"Click", eventNum:4, hotSpot:[955, 195], imageName:@"", infoDict:{folderPath:@"/hithere", imageName:@"image0002", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0004.png"}, {captureRect:[831, 486, 901, 516], command:@"Click", eventNum:6, hotSpot:[866, 196], imageName:@"", infoDict:{folderPath:@"/hithere", imageName:@"image0003", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0006.png"}, {captureRect:[214, 494, 293, 560], command:@"Click", eventNum:8, hotSpot:[255, 145.511719], imageName:@"", infoDict:{folderPath:@"/hithere", imageName:@"image0004", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0008.png"}, {captureRect:[487, 436, 557, 466], command:@"Click", eventNum:10, hotSpot:[522, 246], imageName:@"", infoDict:{folderPath:@"/hithere", imageName:@"image0005", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0010.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Click "hithere/image0001"</string>
+		<string>Click "hithere/image0002"</string>
+		<string>Click "hithere/image0003"</string>
+		<string>Click "hithere/image0004"</string>
+		<string>Click "hithere/image0005"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key>hithere</key>
+		<array>
+			<string>image0001.png</string>
+			<string>image0001.png</string>
+			<string>image0002.png</string>
+			<string>image0002.png</string>
+			<string>image0003.png</string>
+			<string>image0003.png</string>
+			<string>image0004.png</string>
+			<string>image0004.png</string>
+			<string>image0005.png</string>
+			<string>image0005.png</string>
+			<string>image0001.png</string>
+			<string>image0002.png</string>
+			<string>image0003.png</string>
+			<string>image0004.png</string>
+			<string>image0005.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>turboSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

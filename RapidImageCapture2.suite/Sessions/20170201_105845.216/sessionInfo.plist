@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[214, 590, 293, 656], command:@"Click", eventNum:2, hotSpot:[2.4921875000000000e+02, 1.6764453100000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"chess", searchType:@"Tolerant", waitFor:@"3"}, screenShotFile:@"Screen0002.png", useExistingImage:@"YES"}, {captureRect:[514, 489, 525, 496], command:@"Click", eventNum:4, hotSpot:[5.1840234399999997e+02, 2.9982812500000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"photos", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0004.png", useExistingImage:@"YES"}, {captureRect:[557, 476, 622, 540], command:@"Click", eventNum:6, hotSpot:[6.0696093800000006e+02, 2.8841015599999997e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"dash", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0006.png", useExistingImage:@"YES"}, {captureRect:[638, 335, 701, 388], command:@"Click", eventNum:8, hotSpot:[6.8192968800000006e+02, 4.2577734400000003e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"time", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0008.png"}, {captureRect:[751, 362, 821, 392], command:@"Click", eventNum:10, hotSpot:[7.8647265600000003e+02, 4.1509765599999997e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"safari", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0010.png", useExistingImage:@"YES"}, {captureRect:[916, 356, 934, 375], command:@"Click", eventNum:12, hotSpot:[9.2086718800000006e+02, 4.3233593800000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0005", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0012.png", skipStep:@"YES"}, {captureRect:[297, 248, 316, 260], command:@"Click", eventNum:14, hotSpot:[3.0761718800000000e+02, 5.3609765600000003e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"time", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0014.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>-useExisting- Click (Image:"chess", WaitFor:3)</string>
+		<string>-useExisting- Click "photos"</string>
+		<string>-useExisting- Click "dash"</string>
+		<string>Click "time"</string>
+		<string>-useExisting- Click "safari"</string>
+		<string>Click "image0005"</string>
+		<string>Click "time"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>photos.png</string>
+			<string>dash.png</string>
+			<string>time.png</string>
+			<string>safari.png</string>
+			<string>image0005.png</string>
+			<string>photos.png</string>
+			<string>dash.png</string>
+			<string>time.png</string>
+			<string>safari.png</string>
+			<string>chess.png</string>
+			<string>time.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>turboSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

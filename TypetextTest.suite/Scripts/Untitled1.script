@@ -1,0 +1,9 @@
+(* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+  Script generated:  2017-02-01 16:03:46
+  From session:  untitled session
+  Captured on:  2017-02-01 16:02:07
+  From server:  testplants-Mac-2
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *)
+
+TypeText "app"
+TypeText "le",Return

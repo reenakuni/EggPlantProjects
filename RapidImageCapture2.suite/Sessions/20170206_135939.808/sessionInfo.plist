@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[539, 565, 609, 595], command:@"Image at", eventNum:2, hotSpot:[5.7413849900000002e+02, 2.1202612199999999e+02], imageName:@"", infoDict:{folderPath:@"/hello123", imageName:@"image0081", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[837, 561, 892, 605], command:@"Image at", eventNum:3, hotSpot:[7.0671736799999996e+02, 2.1202612199999999e+02], imageName:@"", infoDict:{folderPath:@"/hello123", imageName:@"fin_0001", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0003.png"}, {captureRect:[837, 549, 893, 607], command:@"Image at", eventNum:4, hotSpot:[8.5438275899999996e+02, 2.2610074599999999e+02], imageName:@"", infoDict:{folderPath:@"/hello123", imageName:@"image0082", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0004.png"}, {captureRect:[980, 551, 1043, 603], command:@"Image at", eventNum:5, hotSpot:[1.0160643070000000e+03, 2.2209632099999999e+02], imageName:@"", infoDict:{folderPath:@"/hello123", imageName:@"image0083", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0005.png"}, {captureRect:[997, 448, 1027, 475], command:@"Image at", eventNum:6, hotSpot:[1.0089942600000001e+03, 3.2760812499999997e+02], imageName:@"", infoDict:{folderPath:@"/hello123", imageName:@"image0084", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0006.png"}, {captureRect:[693, 435, 744, 496], command:@"Image at", eventNum:7, hotSpot:[7.0309502599999996e+02, 3.1897974399999998e+02], imageName:@"", infoDict:{folderPath:@"/hello123", imageName:@"image0085", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0007.png"}, {captureRect:[543, 435, 602, 494], command:@"Image at", eventNum:8, hotSpot:[5.8315210500000001e+02, 3.2442598700000002e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0086", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0008.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Image at "hello123/image0081"</string>
+		<string>Image at "hello123/fin_0001"</string>
+		<string>Image at "hello123/image0082"</string>
+		<string>Image at "hello123/image0083"</string>
+		<string>Image at "hello123/image0084"</string>
+		<string>Image at "hello123/image0085"</string>
+		<string>Image at "image0086"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>image0086.png</string>
+			<string>image0086.png</string>
+			<string>image0086.png</string>
+			<string>image0086.png</string>
+		</array>
+		<key>hello123</key>
+		<array>
+			<string>image0081.png</string>
+			<string>fin_0001.png</string>
+			<string>image0082.png</string>
+			<string>image0083.png</string>
+			<string>image0084.png</string>
+			<string>image0085.png</string>
+			<string>image0081.png</string>
+			<string>fin_0001.png</string>
+			<string>image0082.png</string>
+			<string>image0083.png</string>
+			<string>image0084.png</string>
+			<string>image0085.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>rapidSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[270, 530, 329, 589], command:@"Click", eventNum:2, hotSpot:[2.9591015599999997e+02, 2.3284375000000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"appstore", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0002.png", useExistingImage:@"YES"}, {captureRect:[441, 431, 452, 455], command:@"Click", eventNum:4, hotSpot:[4.4621093800000000e+02, 3.5735156200000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"dash", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0004.png", skipStep:@"YES", useExistingImage:@"YES"}, {captureRect:[854, 533, 917, 585], command:@"Click", eventNum:6, hotSpot:[8.9159375000000000e+02, 2.4488281200000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"chess", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0006.png", useExistingImage:@"YES"}, {captureRect:[270, 193, 329, 252], command:@"Click", eventNum:8, hotSpot:[2.9368359400000003e+02, 5.7416796899999997e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"books", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0008.png", useExistingImage:@"YES"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>-useExisting- Click "appstore"</string>
+		<string>-useExisting- Click "dash"</string>
+		<string>-useExisting- Click "chess"</string>
+		<string>-useExisting- Click "books"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>appstore.png</string>
+			<string>chess.png</string>
+			<string>books.png</string>
+			<string>appstore.png</string>
+			<string>chess.png</string>
+			<string>books.png</string>
+			<string>dash.png</string>
+			<string>appstore.png</string>
+			<string>chess.png</string>
+			<string>books.png</string>
+			<string>appstore.png</string>
+			<string>chess.png</string>
+			<string>books.png</string>
+			<string>appstore.png</string>
+			<string>chess.png</string>
+			<string>books.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>turboSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

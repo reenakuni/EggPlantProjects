@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[396, 548, 455, 607], command:@"Click", eventNum:2, hotSpot:[4.0863281200000000e+02, 2.0622656200000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"appstore", searchType:@"Tolerant", waitFor:@"2"}, screenShotFile:@"Screen0002.png", useExistingImage:@"YES"}, {captureRect:[527, 566, 597, 596], command:@"Click", eventNum:4, hotSpot:[5.6240625000000000e+02, 2.1143359400000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0018", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0004.png", skipStep:@"YES"}, {captureRect:[659, 561, 729, 591], command:@"Click", eventNum:6, hotSpot:[6.9467578100000003e+02, 2.1629687500000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"calc", searchType:@"Tolerant", waitFor:@"3"}, screenShotFile:@"Screen0006.png", skipStep:@"YES", useExistingImage:@"YES"}, {captureRect:[543, 435, 602, 494], command:@"Click", eventNum:8, hotSpot:[5.6296484399999997e+02, 3.2760546900000003e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"cC2iCIoud", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0008.png", skipStep:@"YES"}, {captureRect:[399, 433, 452, 496], command:@"Click", eventNum:10, hotSpot:[4.2720703099999997e+02, 3.2760546900000003e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0019", searchType:@"Tolerant", skipStep:False, useExistingImage:False, waitFor:@""}, screenShotFile:@"Screen0010.png", skipStep:@"YES"}, {captureRect:[394, 321, 458, 386], command:@"Click", eventNum:12, hotSpot:[4.2230468800000000e+02, 4.4967968800000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"calc", searchType:@"Tolerant", waitFor:@"1"}, screenShotFile:@"Screen0012.png", useExistingImage:@"YES"}, {captureRect:[396, 211, 455, 270], command:@"Click", eventNum:14, hotSpot:[4.1917578099999997e+02, 5.4965234399999997e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"books", searchType:@"Smooth", waitFor:@"2"}, screenShotFile:@"Screen0014.png", useExistingImage:@"YES"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>-useExisting- Click (Image:"appstore", WaitFor:2)</string>
+		<string>-skipped- Click "image0018"</string>
+		<string>-skipped- -useExisting- Click (Image:"calc", WaitFor:3)</string>
+		<string>-skipped- Click "cC2iCIoud"</string>
+		<string>-skipped- Click "image0019"</string>
+		<string>-useExisting- Click (Image:"calc", WaitFor:1)</string>
+		<string>-useExisting- Click (Image:"books", WaitFor:2)</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>appstore.png</string>
+			<string>image0018.png</string>
+			<string>calc.png</string>
+			<string>cC2iCIoud.png</string>
+			<string>image0019.png</string>
+			<string>calc.png</string>
+			<string>books.png</string>
+			<string>appstore.png</string>
+			<string>image0018.png</string>
+			<string>calc.png</string>
+			<string>cC2iCIoud.png</string>
+			<string>image0019.png</string>
+			<string>calc.png</string>
+			<string>books.png</string>
+			<string>appstore.png</string>
+			<string>calc.png</string>
+			<string>books.png</string>
+			<string>appstore.png</string>
+			<string>calc.png</string>
+			<string>books.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>turboSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[214, 590, 293, 656], command:@"Image at", eventNum:2, hotSpot:[2.5170534599999999e+02, 1.7314396300000001e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0380", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[428, 580, 453, 596], command:@"Image at", eventNum:3, hotSpot:[4.4484114599999998e+02, 2.1196007200000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0381", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0003.png"}, {captureRect:[414, 517, 467, 561], command:@"Image at", eventNum:4, hotSpot:[4.5242011300000001e+02, 2.6176210300000002e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0382", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0004.png"}, {captureRect:[491, 530, 504, 548], command:@"Image at", eventNum:5, hotSpot:[4.9573429800000002e+02, 2.5995547499999998e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0383", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0005.png"}, {captureRect:[529, 517, 583, 561], command:@"Image at", eventNum:6, hotSpot:[5.4034750299999996e+02, 2.6608989000000003e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0384", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0006.png"}, {captureRect:[529, 469, 583, 513], command:@"Image at", eventNum:7, hotSpot:[5.4864499100000000e+02, 2.9523546499999998e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0385", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0007.png"}, {captureRect:[491, 482, 506, 499], command:@"Image at", eventNum:8, hotSpot:[5.0452297800000002e+02, 3.0304659299999997e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0386", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0008.png"}, {captureRect:[414, 468, 467, 512], command:@"Image at", eventNum:9, hotSpot:[4.5146614599999998e+02, 3.1382952299999999e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0387", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0009.png"}, {captureRect:[625, 302, 712, 316], command:@"Image at", eventNum:10, hotSpot:[6.6420090400000004e+02, 4.8398544500000003e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"TimeMachine", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0010.png"}, {captureRect:[753, 302, 823, 332], command:@"Image at", eventNum:11, hotSpot:[7.8856173400000000e+02, 4.7581705099999999e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0388", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0011.png"}, {captureRect:[759, 359, 829, 389], command:@"Image at", eventNum:12, hotSpot:[7.9424900400000001e+02, 4.1855303900000001e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0389", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0012.png"}, {captureRect:[878, 346, 948, 376], command:@"Image at", eventNum:13, hotSpot:[9.1348276699999997e+02, 4.3101268099999999e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0390", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0013.png"}, {captureRect:[1080, 300, 1089, 304], command:@"Image at", eventNum:14, hotSpot:[1.0854283089999999e+03, 4.9023759500000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0391", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0014.png"}, {captureRect:[1165, 299, 1242, 400], command:@"Image at", eventNum:15, hotSpot:[1.2043454350000000e+03, 4.3175969099999998e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0392", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0015.png"}, {captureRect:[1192, 170, 1270, 246], command:@"Image at", eventNum:16, hotSpot:[1.2355219059999999e+03, 5.7512880399999995e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0393", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0016.png"}, {captureRect:[277, 259, 345, 294], command:@"Image at", eventNum:17, hotSpot:[3.0971469100000002e+02, 5.2479493500000001e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0394", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0017.png"}, {captureRect:[256, 204, 365, 221], command:@"Image at", eventNum:18, hotSpot:[2.6537346800000000e+02, 5.8344335200000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"QuickTimePlayer", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0018.png"}, {captureRect:[269, 226, 282, 242], command:@"Image at", eventNum:19, hotSpot:[2.7566413899999998e+02, 5.6160548400000005e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0395", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0019.png"}, {captureRect:[214, 776, 257, 789], command:@"Image at", eventNum:20, hotSpot:[2.3145687799999999e+02, 1.4416484000000001e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"GameEditMovesWindow", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0020.png"}, {captureRect:[212, 583, 224, 599], command:@"Image at", eventNum:21, hotSpot:[2.1571032500000001e+02, 2.0563890499999999e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0396", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0021.png"}, {captureRect:[938, 704, 969, 735], command:@"Image at", eventNum:22, hotSpot:[9.5604595600000005e+02, 7.3876868999999999e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0397", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0022.png"}, {captureRect:[1196, 730, 1239, 740], command:@"Image at", eventNum:23, hotSpot:[1.2065821840000001e+03, 6.1965305000000001e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Restart", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0023.png"}, {captureRect:[916, 447, 1252, 762], command:@"Image at", eventNum:24, hotSpot:[1.2169175090000001e+03, 9.5195076999999998e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Later", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0024.png"}, {captureRect:[1200, 774, 1216, 790], command:@"Image at", eventNum:25, hotSpot:[1.2060950519999999e+03, 1.2772250000000000e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0398", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0025.png"}, {captureRect:[1230, 777, 1249, 788], command:@"Image at", eventNum:26, hotSpot:[1.2417287839999999e+03, 1.2049599000000001e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0399", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0026.png"}, {captureRect:[1162, 777, 1183, 789], command:@"Image at", eventNum:27, hotSpot:[1.1694626989999999e+03, 1.0519040000000000e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0400", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0027.png"}, {captureRect:[1124, 776, 1158, 789], command:@"Image at", eventNum:28, hotSpot:[1.1483455120000001e+03, 1.2959002000000000e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0401", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0028.png"}, {captureRect:[1057, 776, 1081, 789], command:@"Image at", eventNum:29, hotSpot:[1.0714273129999999e+03, 1.4359646000000000e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"COWed1201PMC", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0029.png"}, {captureRect:[1021, 775, 1045, 790], command:@"Image at", eventNum:30, hotSpot:[1.0382170650000000e+03, 1.5443623000000001e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0402", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0030.png"}, {captureRect:[973, 765, 1043, 793], command:@"Image at", eventNum:31, hotSpot:[1.0087577360000000e+03, 1.2195753000000000e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0403", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0031.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Image at "image0380"</string>
+		<string>Image at "image0381"</string>
+		<string>Image at "image0382"</string>
+		<string>Image at "image0383"</string>
+		<string>Image at "image0384"</string>
+		<string>Image at "image0385"</string>
+		<string>Image at "image0386"</string>
+		<string>Image at "image0387"</string>
+		<string>Image at "TimeMachine"</string>
+		<string>Image at "image0388"</string>
+		<string>Image at "image0389"</string>
+		<string>Image at "image0390"</string>
+		<string>Image at "image0391"</string>
+		<string>Image at "image0392"</string>
+		<string>Image at "image0393"</string>
+		<string>Image at "image0394"</string>
+		<string>Image at "QuickTimePlayer"</string>
+		<string>Image at "image0395"</string>
+		<string>Image at "GameEditMovesWindow"</string>
+		<string>Image at "image0396"</string>
+		<string>Image at "image0397"</string>
+		<string>Image at "Restart"</string>
+		<string>Image at "Later"</string>
+		<string>Image at "image0398"</string>
+		<string>Image at "image0399"</string>
+		<string>Image at "image0400"</string>
+		<string>Image at "image0401"</string>
+		<string>Image at "COWed1201PMC"</string>
+		<string>Image at "image0402"</string>
+		<string>Image at "image0403"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>image0380.png</string>
+			<string>image0381.png</string>
+			<string>image0382.png</string>
+			<string>image0383.png</string>
+			<string>image0384.png</string>
+			<string>image0385.png</string>
+			<string>image0386.png</string>
+			<string>image0387.png</string>
+			<string>TimeMachine.png</string>
+			<string>image0388.png</string>
+			<string>image0389.png</string>
+			<string>image0390.png</string>
+			<string>image0391.png</string>
+			<string>image0392.png</string>
+			<string>image0393.png</string>
+			<string>image0394.png</string>
+			<string>QuickTimePlayer.png</string>
+			<string>image0395.png</string>
+			<string>GameEditMovesWindow.png</string>
+			<string>image0396.png</string>
+			<string>image0397.png</string>
+			<string>image0380.png</string>
+			<string>image0381.png</string>
+			<string>image0382.png</string>
+			<string>image0383.png</string>
+			<string>image0384.png</string>
+			<string>image0385.png</string>
+			<string>image0386.png</string>
+			<string>image0387.png</string>
+			<string>TimeMachine.png</string>
+			<string>image0388.png</string>
+			<string>image0389.png</string>
+			<string>image0390.png</string>
+			<string>image0391.png</string>
+			<string>image0392.png</string>
+			<string>image0393.png</string>
+			<string>image0394.png</string>
+			<string>QuickTimePlayer.png</string>
+			<string>image0395.png</string>
+			<string>GameEditMovesWindow.png</string>
+			<string>image0396.png</string>
+			<string>image0397.png</string>
+			<string>Restart.png</string>
+			<string>Restart.png</string>
+			<string>Later.png</string>
+			<string>Later.png</string>
+			<string>image0398.png</string>
+			<string>image0398.png</string>
+			<string>image0399.png</string>
+			<string>image0399.png</string>
+			<string>image0400.png</string>
+			<string>image0400.png</string>
+			<string>image0401.png</string>
+			<string>image0401.png</string>
+			<string>COWed1201PMC.png</string>
+			<string>COWed1201PMC.png</string>
+			<string>image0402.png</string>
+			<string>image0402.png</string>
+			<string>image0403.png</string>
+			<string>image0403.png</string>
+			<string>image0380.png</string>
+			<string>image0381.png</string>
+			<string>image0382.png</string>
+			<string>image0383.png</string>
+			<string>image0384.png</string>
+			<string>image0385.png</string>
+			<string>image0386.png</string>
+			<string>image0387.png</string>
+			<string>TimeMachine.png</string>
+			<string>image0388.png</string>
+			<string>image0389.png</string>
+			<string>image0390.png</string>
+			<string>image0391.png</string>
+			<string>image0392.png</string>
+			<string>image0393.png</string>
+			<string>image0394.png</string>
+			<string>QuickTimePlayer.png</string>
+			<string>image0395.png</string>
+			<string>GameEditMovesWindow.png</string>
+			<string>image0396.png</string>
+			<string>image0397.png</string>
+			<string>Restart.png</string>
+			<string>Later.png</string>
+			<string>image0398.png</string>
+			<string>image0399.png</string>
+			<string>image0400.png</string>
+			<string>image0401.png</string>
+			<string>COWed1201PMC.png</string>
+			<string>image0402.png</string>
+			<string>image0403.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>rapidSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

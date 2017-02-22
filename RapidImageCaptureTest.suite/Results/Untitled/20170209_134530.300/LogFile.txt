@@ -1,0 +1,6 @@
+﻿2017-02-09 13:45:30.302 -0700	START		Running Untitled.script
+2017-02-09 13:45:30.975 -0700	click	start_session	at (278, 75)	1	on_untitled	Untitled.script
+2017-02-09 13:45:32.253 -0700	click	start_rapid_image_capture_session	at (412, 102)	2	on_untitled	Untitled.script
+2017-02-09 13:45:50.923 -0700	Exception	eggplant	No Image Found On Screen: "eggplant"	3	on_untitled	Untitled.script
+2017-02-09 13:45:52.443 -0700	EndTestCase		(Duration:"22.137577", Errors:"1", Exceptions:"1", StartTime:"2017-02-09 13:45:30 -0700", Successes:"0", TestCase:"Untitled.script", Warnings:"0")
+2017-02-09 13:45:52.838 -0700	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "eggplant" -- Execution Time 0:00:22 Untitled.script

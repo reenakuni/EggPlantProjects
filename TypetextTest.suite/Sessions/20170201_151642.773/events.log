@@ -1,0 +1,120 @@
+1	0.000402987	start	
+2	2.42164	keyDown	{modifiers:256, string:@"h", theKey:@"h"}
+3	2.4905	keyUp	{modifiers:256, string:@"h", theKey:@"h"}
+4	2.64009	keyDown	{modifiers:256, string:@"e", theKey:@"e"}
+5	2.65308	keyUp	{modifiers:256, string:@"e", theKey:@"e"}
+6	2.81863	keyDown	{modifiers:256, string:@"l", theKey:@"l"}
+7	2.86922	keyUp	{modifiers:256, string:@"l", theKey:@"l"}
+8	2.9403	keyDown	{modifiers:256, string:@"l", theKey:@"l"}
+9	3.05111	keyUp	{modifiers:256, string:@"l", theKey:@"l"}
+10	3.12504	keyDown	{modifiers:256, string:@"o", theKey:@"o"}
+11	3.24103	keyUp	{modifiers:256, string:@"o", theKey:@"o"}
+12	3.36521	keyDown	{modifiers:256, string:@" ", theKey:@" "}
+13	3.46909	keyUp	{modifiers:256, string:@" ", theKey:@" "}
+14	3.63716	keyDown	{modifiers:256, string:@"t", theKey:@"t"}
+15	3.73298	keyUp	{modifiers:256, string:@"t", theKey:@"t"}
+16	3.82114	keyDown	{modifiers:256, string:@"h", theKey:@"h"}
+17	3.91748	keyUp	{modifiers:256, string:@"h", theKey:@"h"}
+18	3.93303	keyDown	{modifiers:256, string:@"e", theKey:@"e"}
+19	4.04097	keyUp	{modifiers:256, string:@"e", theKey:@"e"}
+20	4.12016	keyDown	{modifiers:256, string:@"r", theKey:@"r"}
+21	4.24094	keyUp	{modifiers:256, string:@"r", theKey:@"r"}
+22	4.25323	keyDown	{modifiers:256, string:@"e", theKey:@"e"}
+23	4.44008	keyUp	{modifiers:256, string:@"e", theKey:@"e"}
+24	4.54096	keyDown	{modifiers:256, string:@" ", theKey:@" "}
+25	4.64039	keyUp	{modifiers:256, string:@" ", theKey:@" "}
+26	8.21833	keyDown	{modifiers:256, string:@"h", theKey:@"h"}
+27	8.28814	keyUp	{modifiers:256, string:@"h", theKey:@"h"}
+28	8.55715	keyDown	{modifiers:256, string:@"o", theKey:@"o"}
+29	8.62097	keyUp	{modifiers:256, string:@"o", theKey:@"o"}
+30	8.92614	keyDown	{modifiers:256, string:@"w", theKey:@"w"}
+31	9.04069	keyUp	{modifiers:256, string:@"w", theKey:@"w"}
+32	9.06926	keyDown	{modifiers:256, string:@" ", theKey:@" "}
+33	9.15717	keyUp	{modifiers:256, string:@" ", theKey:@" "}
+34	9.25311	keyDown	{modifiers:256, string:@"a", theKey:@"a"}
+35	9.349	keyUp	{modifiers:256, string:@"a", theKey:@"a"}
+36	9.61943	keyDown	{modifiers:256, string:@"r", theKey:@"r"}
+37	9.66135	keyUp	{modifiers:256, string:@"r", theKey:@"r"}
+38	9.81893	keyDown	{modifiers:256, string:@"e", theKey:@"e"}
+39	9.91917	keyUp	{modifiers:256, string:@"e", theKey:@"e"}
+40	9.9217	keyDown	{modifiers:256, string:@" ", theKey:@" "}
+41	10.0403	keyUp	{modifiers:256, string:@" ", theKey:@" "}
+42	10.8692	keyDown	{modifiers:256, string:@"y", theKey:@"y"}
+43	10.9573	keyUp	{modifiers:256, string:@"y", theKey:@"y"}
+44	11.0408	keyDown	{modifiers:256, string:@"o", theKey:@"o"}
+45	11.1192	keyDown	{modifiers:256, string:@"u", theKey:@"u"}
+46	11.1249	keyUp	{modifiers:256, string:@"o", theKey:@"o"}
+47	11.2392	keyUp	{modifiers:256, string:@"u", theKey:@"u"}
+48	11.3332	keyDown	{modifiers:256, string:@" ", theKey:@" "}
+49	11.4218	keyUp	{modifiers:256, string:@" ", theKey:@" "}
+50	12.2698	keyDown	{modifiers:256, string:@"d", theKey:@"d"}
+51	12.3652	keyUp	{modifiers:256, string:@"d", theKey:@"d"}
+52	12.4404	keyDown	{modifiers:256, string:@"o", theKey:@"o"}
+53	12.5651	keyUp	{modifiers:256, string:@"o", theKey:@"o"}
+54	12.8179	keyDown	{modifiers:256, string:@"i", theKey:@"i"}
+55	12.9183	keyUp	{modifiers:256, string:@"i", theKey:@"i"}
+56	15.141	keyDown	{modifiers:256, string:@"n", theKey:@"n"}
+57	15.2597	keyUp	{modifiers:256, string:@"n", theKey:@"n"}
+58	15.5493	keyDown	{modifiers:256, string:@"g", theKey:@"g"}
+59	15.621	keyUp	{modifiers:256, string:@"g", theKey:@"g"}
+60	15.7186	keyDown	{modifiers:256, string:@" ", theKey:@" "}
+61	15.7652	keyUp	{modifiers:256, string:@" ", theKey:@" "}
+62	17.237	f	131332
+63	17.4613	keyDown	{modifiers:131332, string:@"?", theKey:@"?"}
+64	17.5795	f	256
+65	17.6534	keyUp	{modifiers:256, string:@"/", theKey:@"/"}
+66	18.0212	keyDown	{modifiers:256, string:@" ", theKey:@" "}
+67	18.0612	keyUp	{modifiers:256, string:@" ", theKey:@" "}
+68	20.8209	f	131330
+69	21.0212	keyDown	{modifiers:131330, string:@"I", theKey:@"i"}
+70	21.1581	f	256
+71	21.1678	keyUp	{modifiers:256, string:@"i", theKey:@"i"}
+72	21.3274	keyDown	{modifiers:256, string:@" ", theKey:@" "}
+73	21.4409	keyUp	{modifiers:256, string:@" ", theKey:@" "}
+74	22.3654	keyDown	{modifiers:256, string:@"h", theKey:@"h"}
+75	22.4452	keyUp	{modifiers:256, string:@"h", theKey:@"h"}
+76	22.5223	keyDown	{modifiers:256, string:@"a", theKey:@"a"}
+77	22.6419	keyUp	{modifiers:256, string:@"a", theKey:@"a"}
+78	22.6531	keyDown	{modifiers:256, string:@"v", theKey:@"v"}
+79	22.7411	keyUp	{modifiers:256, string:@"v", theKey:@"v"}
+80	22.8211	keyDown	{modifiers:256, string:@"e", theKey:@"e"}
+81	22.9409	keyUp	{modifiers:256, string:@"e", theKey:@"e"}
+82	22.9435	keyDown	{modifiers:256, string:@" ", theKey:@" "}
+83	23.0225	keyUp	{modifiers:256, string:@" ", theKey:@" "}
+84	26.1572	keyDown	{modifiers:256, string:@"a", theKey:@"a"}
+85	26.275	keyUp	{modifiers:256, string:@"a", theKey:@"a"}
+86	26.4224	keyDown	{modifiers:256, string:@" ", theKey:@" "}
+87	26.5421	keyUp	{modifiers:256, string:@" ", theKey:@" "}
+88	29.133	keyDown	{modifiers:256, string:@"s", theKey:@"s"}
+89	29.25	keyUp	{modifiers:256, string:@"s", theKey:@"s"}
+90	29.4452	keyDown	{modifiers:256, string:@"c", theKey:@"c"}
+91	29.5177	keyUp	{modifiers:256, string:@"c", theKey:@"c"}
+92	29.7572	keyDown	{modifiers:256, string:@"r", theKey:@"r"}
+93	29.8692	keyUp	{modifiers:256, string:@"r", theKey:@"r"}
+94	29.9312	keyDown	{modifiers:256, string:@"i", theKey:@"i"}
+95	30.0198	keyUp	{modifiers:256, string:@"i", theKey:@"i"}
+96	30.2424	keyDown	{modifiers:256, string:@"p", theKey:@"p"}
+97	30.325	keyUp	{modifiers:256, string:@"p", theKey:@"p"}
+98	30.4228	keyDown	{modifiers:256, string:@"t", theKey:@"t"}
+99	30.5198	keyUp	{modifiers:256, string:@"t", theKey:@"t"}
+100	30.5453	keyDown	{modifiers:256, string:@" ", theKey:@" "}
+101	30.6226	keyUp	{modifiers:256, string:@" ", theKey:@" "}
+102	30.7418	keyDown	{modifiers:256, string:@"t", theKey:@"t"}
+103	30.8321	keyUp	{modifiers:256, string:@"t", theKey:@"t"}
+104	30.8451	keyDown	{modifiers:256, string:@"o", theKey:@"o"}
+105	31.005	keyUp	{modifiers:256, string:@"o", theKey:@"o"}
+106	31.1492	keyDown	{modifiers:256, string:@" ", theKey:@" "}
+107	31.2452	keyUp	{modifiers:256, string:@" ", theKey:@" "}
+108	31.6184	keyDown	{modifiers:256, string:@"w", theKey:@"w"}
+109	31.7331	keyUp	{modifiers:256, string:@"w", theKey:@"w"}
+110	31.9251	keyDown	{modifiers:256, string:@"r", theKey:@"r"}
+111	32.0326	keyUp	{modifiers:256, string:@"r", theKey:@"r"}
+112	32.0453	keyDown	{modifiers:256, string:@"i", theKey:@"i"}
+113	32.1251	keyUp	{modifiers:256, string:@"i", theKey:@"i"}
+114	32.4224	keyDown	{modifiers:256, string:@"t", theKey:@"t"}
+115	32.5196	keyUp	{modifiers:256, string:@"t", theKey:@"t"}
+116	32.5329	keyDown	{modifiers:256, string:@"e", theKey:@"e"}
+117	32.6331	keyUp	{modifiers:256, string:@"e", theKey:@"e"}
+118	33.4195	keyDown	{modifiers:256, string:@"\r", theKey:@"\r"}
+119	33.549	keyUp	{modifiers:256, string:@"\r", theKey:@"\r"}
+120	39.0315	end	

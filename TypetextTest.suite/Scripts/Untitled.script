@@ -1,0 +1,11 @@
+(* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+  Script generated:  2017-02-01 15:18:07
+  From session:  untitled session
+  Captured on:  2017-02-01 15:16:42
+  From server:  testplants-Mac-2
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *)
+
+TypeText "hello there "
+TypeText "I have "
+TypeText "a "
+TypeText "script to write",Return

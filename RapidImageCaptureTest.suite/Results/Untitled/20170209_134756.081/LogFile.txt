@@ -1,0 +1,11 @@
+﻿2017-02-09 13:47:56.082 -0700	START		Running Untitled.script
+2017-02-09 13:47:56.626 -0700	click	start_session	at (243, 67)	1	on_untitled	Untitled.script
+2017-02-09 13:47:57.783 -0700	click	start_rapid_image_capture_session	at (377, 94)	2	on_untitled	Untitled.script
+2017-02-09 13:47:58.927 -0700	click	eggplant	at (144, 292)	3	on_untitled	Untitled.script
+2017-02-09 13:47:59.803 -0700	click	update	at (680, 240)	4	on_untitled	Untitled.script
+2017-02-09 13:48:00.738 -0700	click	bash	at (606, 342)	5	on_untitled	Untitled.script
+2017-02-09 13:48:01.604 -0700	click	end_session	at (240, 67)	6	on_untitled	Untitled.script
+2017-02-09 13:48:03.377 -0700	click	OpenSession	at (1003, 630)	7	on_untitled	Untitled.script
+2017-02-09 13:48:18.130 -0700	Exception	GenerateImages	No Image Found On Screen: "GenerateImages"	8	on_untitled	Untitled.script
+2017-02-09 13:48:19.575 -0700	EndTestCase		(Duration:"23.490825", Errors:"1", Exceptions:"1", StartTime:"2017-02-09 13:47:56 -0700", Successes:"0", TestCase:"Untitled.script", Warnings:"0")
+2017-02-09 13:48:19.777 -0700	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "GenerateImages" -- Execution Time 0:00:23 Untitled.script

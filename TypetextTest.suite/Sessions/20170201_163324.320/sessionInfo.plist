@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[328, 528, 413, 550], command:@"Image at", eventNum:2, hotSpot:[3.6534375000000000e+02, 2.6124218800000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Qappapplr", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[953, 526, 1002, 540], command:@"Image at", eventNum:3, hotSpot:[9.7631250000000000e+02, 2.5781250000000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Search", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0003.png"}, {captureRect:[328, 476, 660, 493], command:@"Image at", eventNum:4, hotSpot:[3.6392578099999997e+02, 3.1055468800000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"ContentpagesMultimediaEverythi", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0004.png"}, {captureRect:[328, 476, 660, 493], command:@"Image at", eventNum:5, hotSpot:[3.9675000000000000e+02, 3.1337500000000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"ContentpagesMultimediaEverythi_0001", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0005.png"}, {captureRect:[328, 476, 660, 493], command:@"Image at", eventNum:6, hotSpot:[4.7388671900000003e+02, 3.1311328099999997e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"ContentpagesMultimediaEverythi_0002", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0006.png"}, {captureRect:[328, 476, 660, 493], command:@"Image at", eventNum:7, hotSpot:[5.4264843800000006e+02, 3.1107031200000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"ContentpagesMultimediaEverythi_0003", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0007.png"}, {captureRect:[328, 476, 660, 493], command:@"Image at", eventNum:8, hotSpot:[6.4331640600000003e+02, 3.0902734400000003e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"ContentpagesMultimediaEverythi_0004", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0008.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Image at "Qappapplr"</string>
+		<string>Image at "Search"</string>
+		<string>Image at "ContentpagesMultimediaEverythi"</string>
+		<string>Image at "ContentpagesMultimediaEverythi_0001"</string>
+		<string>Image at "ContentpagesMultimediaEverythi_0002"</string>
+		<string>Image at "ContentpagesMultimediaEverythi_0003"</string>
+		<string>Image at "ContentpagesMultimediaEverythi_0004"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>Qappapplr.png</string>
+			<string>Qappapplr.png</string>
+			<string>Search.png</string>
+			<string>Search.png</string>
+			<string>ContentpagesMultimediaEverythi.png</string>
+			<string>ContentpagesMultimediaEverythi.png</string>
+			<string>ContentpagesMultimediaEverythi_0001.png</string>
+			<string>ContentpagesMultimediaEverythi_0001.png</string>
+			<string>ContentpagesMultimediaEverythi_0002.png</string>
+			<string>ContentpagesMultimediaEverythi_0002.png</string>
+			<string>ContentpagesMultimediaEverythi_0003.png</string>
+			<string>ContentpagesMultimediaEverythi_0003.png</string>
+			<string>ContentpagesMultimediaEverythi_0004.png</string>
+			<string>ContentpagesMultimediaEverythi_0004.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>rapidSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

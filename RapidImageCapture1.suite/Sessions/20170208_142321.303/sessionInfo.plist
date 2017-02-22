@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[199, 1585, 261, 1668], command:@"Image at", eventNum:2, hotSpot:[2.3392968800000000e+02, 4.6218750000000000e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0501", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[199, 1385, 254, 1468], command:@"Image at", eventNum:3, hotSpot:[2.3427734400000000e+02, 2.5037500000000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0502", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0003.png"}, {captureRect:[647, 1414, 672, 1439], command:@"Image at", eventNum:4, hotSpot:[6.5018359399999997e+02, 2.5166406200000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"ShowFullSize", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0004.png"}, {captureRect:[643, 1476, 672, 1507], command:@"Image at", eventNum:5, hotSpot:[6.5226562500000000e+02, 1.9730859400000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"JkEnterLiveMode", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0005.png"}, {captureRect:[641, 1579, 674, 1612], command:@"Image at", eventNum:6, hotSpot:[6.6116796899999997e+02, 8.6226562000000001e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"chess", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0006.png", useExistingImage:@"YES"}, {captureRect:[647, 1349, 674, 1372], command:@"Image at", eventNum:7, hotSpot:[6.5379296899999997e+02, 3.1621875000000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"dash", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0007.png"}, {captureRect:[677, 1290, 747, 1313], command:@"Image at", eventNum:8, hotSpot:[6.5683593800000006e+02, 3.9455078099999997e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Home", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0008.png"}, {captureRect:[677, 1291, 747, 1313], command:@"Image at", eventNum:9, hotSpot:[6.5891796899999997e+02, 3.8368750000000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Home_0001", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0009.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Image at "image0501"</string>
+		<string>Image at "image0502"</string>
+		<string>Image at "ShowFullSize"</string>
+		<string>Image at "JkEnterLiveMode"</string>
+		<string>Image at "chess" // use Existing Image </string>
+		<string>Image at "dash"</string>
+		<string>Image at "Home"</string>
+		<string>Image at "Home_0001"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>image0501.png</string>
+			<string>image0502.png</string>
+			<string>ShowFullSize.png</string>
+			<string>JkEnterLiveMode.png</string>
+			<string>chess.png</string>
+			<string>dash.png</string>
+			<string>image0501.png</string>
+			<string>image0502.png</string>
+			<string>ShowFullSize.png</string>
+			<string>JkEnterLiveMode.png</string>
+			<string>chess.png</string>
+			<string>dash.png</string>
+			<string>Home.png</string>
+			<string>Home.png</string>
+			<string>Home_0001.png</string>
+			<string>Home_0001.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>rapidSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

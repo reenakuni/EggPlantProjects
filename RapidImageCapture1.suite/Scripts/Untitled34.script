@@ -1,0 +1,10 @@
+﻿(* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+  Script generated:  2017-01-26 14:50:12
+  From session:  untitled session
+  Captured on:  2017-01-26 14:49:34
+  From server:  testplants-Mac-2
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *)
+
+Click "image0432"
+TypeText CommandDown,OptionDown,ShiftDown,"w",OptionUp,ShiftUp,"i",OptionDown,"k",OptionUp,"ipe",OptionDown,ShiftDown,"d"AltUp,ControlDown,OptionUp,ShiftUp,"É",CommandKey,ControlUp,"a"
+TypeText CommandKey,ControlKey,OptionKey,Return

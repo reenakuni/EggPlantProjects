@@ -1,0 +1,5 @@
+﻿2017-02-03 16:26:31.156 -0700	START		Running Untitled22.script
+2017-02-03 16:26:31.988 -0700	click	appstore	at (413, 547)	8	on_untitled22	Untitled22.script
+2017-02-03 16:26:35.553 -0700	Exception	calc	No Image Found On Screen: "calc"	9	on_untitled22	Untitled22.script
+2017-02-03 16:26:36.084 -0700	EndTestCase		(Duration:"4.924032", Errors:"1", Exceptions:"1", StartTime:"2017-02-03 16:26:31 -0700", Successes:"0", TestCase:"Untitled22.script", Warnings:"0")
+2017-02-03 16:26:36.085 -0700	ABORTED		Execution Time 0:00:04 Untitled22.script

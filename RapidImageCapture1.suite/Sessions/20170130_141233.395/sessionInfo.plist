@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[470, 477, 540, 507], command:@"Image at", eventNum:2, hotSpot:[5.0555468800000000e+02, 3.0070703099999997e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"photos", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0002.png", useExistingImage:@"YES"}, {captureRect:[582, 487, 596, 519], command:@"Image at", eventNum:3, hotSpot:[5.8780078100000003e+02, 2.9892968800000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Dashboard", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0003.png", useExistingImage:@"YES"}, {captureRect:[637, 352, 707, 382], command:@"Image at", eventNum:4, hotSpot:[6.7256640600000003e+02, 4.2580468800000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Chess", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0004.png", skipStep:@"YES", useExistingImage:@"YES"}, {captureRect:[757, 358, 827, 388], command:@"Image at", eventNum:5, hotSpot:[7.9205078100000003e+02, 4.1955468800000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"safari", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0005.png", useExistingImage:@"YES"}, {captureRect:[770, 510, 840, 540], command:@"Image at", eventNum:6, hotSpot:[8.0595312500000000e+02, 2.6738671900000003e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"calc", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0006.png", useExistingImage:@"YES"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>-useExisting- Image at "photos"</string>
+		<string>-useExisting- Image at "Dashboard"</string>
+		<string>-useExisting- Image at "Chess"</string>
+		<string>Image at "safari"</string>
+		<string>-useExisting- Image at "calc"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>safari.png</string>
+			<string>calc.png</string>
+			<string>safari.png</string>
+			<string>calc.png</string>
+			<string>safari.png</string>
+			<string>calc.png</string>
+			<string>photos.png</string>
+			<string>Dashboard.png</string>
+			<string>Chess.png</string>
+			<string>photos.png</string>
+			<string>Dashboard.png</string>
+			<string>safari.png</string>
+			<string>calc.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>rapidSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

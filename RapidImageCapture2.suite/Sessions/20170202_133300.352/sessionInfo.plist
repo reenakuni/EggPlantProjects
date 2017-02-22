@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[399, 433, 452, 496], command:@"Image at", eventNum:2, hotSpot:[4.3048192100000000e+02, 3.3379198400000001e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"appstore", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0002.png", useExistingImage:@"YES"}, {captureRect:[396, 548, 455, 607], command:@"Image at", eventNum:3, hotSpot:[4.2662745400000000e+02, 2.2005507000000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0011", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0003.png"}, {captureRect:[543, 435, 602, 494], command:@"Image at", eventNum:4, hotSpot:[5.7459734900000001e+02, 3.1990459199999998e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"dash", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0004.png", useExistingImage:@"YES"}, {captureRect:[394, 321, 458, 386], command:@"Image at", eventNum:5, hotSpot:[4.1384571299999999e+02, 4.4570674700000001e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0013", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0005.png"}, {captureRect:[396, 211, 455, 270], command:@"Image at", eventNum:6, hotSpot:[4.0960536600000000e+02, 5.6556521899999996e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Ijgl", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0006.png"}, {captureRect:[687, 556, 757, 586], command:@"Image at", eventNum:7, hotSpot:[7.2298781099999997e+02, 2.2117873000000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0014", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0007.png"}, {captureRect:[980, 551, 1043, 603], command:@"Image at", eventNum:8, hotSpot:[1.0082703700000000e+03, 2.3617676599999999e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"chess", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0008.png", useExistingImage:@"YES"}, {captureRect:[980, 433, 1044, 498], command:@"Image at", eventNum:9, hotSpot:[1.0128965970000000e+03, 3.5049937100000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0016", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0009.png", useExistingImage:@"YES"}, {captureRect:[982, 324, 1041, 383], command:@"Image at", eventNum:10, hotSpot:[1.0117432920000000e+03, 4.1125074400000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0017", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0010.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>-useExisting- Image at "appstore"</string>
+		<string>Image at "image0011"</string>
+		<string>-useExisting- Image at "dash"</string>
+		<string>Image at "image0013"</string>
+		<string>Image at "Ijgl"</string>
+		<string>Image at "image0014"</string>
+		<string>-useExisting- Image at "chess"</string>
+		<string>-useExisting- Image at "image0016"</string>
+		<string>Image at "image0017"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>image0011.png</string>
+			<string>image0011.png</string>
+			<string>image0013.png</string>
+			<string>image0013.png</string>
+			<string>Ijgl.png</string>
+			<string>Ijgl.png</string>
+			<string>image0014.png</string>
+			<string>image0014.png</string>
+			<string>image0016.png</string>
+			<string>image0016.png</string>
+			<string>image0017.png</string>
+			<string>image0017.png</string>
+			<string>appstore.png</string>
+			<string>dash.png</string>
+			<string>chess.png</string>
+			<string>appstore.png</string>
+			<string>image0011.png</string>
+			<string>dash.png</string>
+			<string>image0013.png</string>
+			<string>Ijgl.png</string>
+			<string>image0014.png</string>
+			<string>chess.png</string>
+			<string>image0016.png</string>
+			<string>image0017.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>rapidSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

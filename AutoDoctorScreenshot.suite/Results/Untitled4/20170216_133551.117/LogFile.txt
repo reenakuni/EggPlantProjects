@@ -1,0 +1,5 @@
+﻿2017-02-16 13:35:51.120 -0700	START		Running Untitled4.script
+2017-02-16 13:35:52.023 -0700	doubleclick	image0028	at (250, 179)	8	on_untitled4	Untitled4.script
+2017-02-16 13:35:53.341 -0700	click	Cance	at (795, 306)	9	on_untitled4	Untitled4.script
+2017-02-16 13:36:44.148 -0700	EndTestCase		(Duration:"53.022039", Errors:"1", Exceptions:"0", StartTime:"2017-02-16 13:35:51 -0700", Successes:"0", TestCase:"Untitled4.script", Warnings:"0")
+2017-02-16 13:36:44.150 -0700	ABORTED		Execution Time 0:00:53 Untitled4.script

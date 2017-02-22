@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[533, 578, 603, 608], command:@"Image at", eventNum:2, hotSpot:[5.6877540399999998e+02, 1.9957354400000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"books", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0002.png", useExistingImage:@"YES"}, {captureRect:[673, 572, 743, 602], command:@"Image at", eventNum:3, hotSpot:[7.0836798499999998e+02, 2.0557736499999999e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"calc", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0003.png", useExistingImage:@"YES"}, {captureRect:[837, 549, 893, 607], command:@"Image at", eventNum:4, hotSpot:[8.6398224900000002e+02, 2.2009692500000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0066", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0004.png"}, {captureRect:[1135, 584, 1271, 599], command:@"Image at", eventNum:5, hotSpot:[1.0009270830000000e+03, 2.1709501399999999e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"SettingsOUntitleO", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0005.png"}, {captureRect:[697, 197, 1095, 607], command:@"Image at", eventNum:6, hotSpot:[9.9791879300000005e+02, 3.4875666899999999e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0067", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0006.png"}, {captureRect:[855, 441, 925, 471], command:@"Image at", eventNum:7, hotSpot:[8.9075829099999999e+02, 3.3668144200000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0068", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0007.png"}, {captureRect:[693, 435, 744, 496], command:@"Image at", eventNum:8, hotSpot:[7.4109300599999995e+02, 3.3217576000000003e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0069", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0008.png"}, {captureRect:[543, 435, 602, 494], command:@"Image at", eventNum:9, hotSpot:[5.8247608400000001e+02, 3.4175033400000001e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0070", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0009.png"}, {captureRect:[543, 327, 602, 378], command:@"Image at", eventNum:10, hotSpot:[5.7140061600000001e+02, 4.4288036199999999e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0071", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0010.png"}, {captureRect:[693, 323, 744, 383], command:@"Image at", eventNum:11, hotSpot:[7.1706047999999998e+02, 4.3486588100000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0072", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0011.png"}, {captureRect:[837, 323, 894, 382], command:@"Image at", eventNum:12, hotSpot:[8.5877125899999999e+02, 4.3887030499999997e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0073", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0012.png"}, {captureRect:[982, 324, 1041, 383], command:@"Image at", eventNum:13, hotSpot:[1.0067746600000000e+03, 4.4576399900000001e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0074", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0013.png"}, {captureRect:[985, 210, 1043, 272], command:@"Image at", eventNum:14, hotSpot:[1.0021495540000000e+03, 5.4476509199999998e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0075", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0014.png"}, {captureRect:[836, 211, 895, 270], command:@"Image at", eventNum:15, hotSpot:[8.5959375000000000e+02, 5.4388648400000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0076", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0015.png"}, {captureRect:[296, 217, 343, 232], command:@"Image at", eventNum:16, hotSpot:[4.2812372399999998e+02, 5.5377645600000005e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"reenaki", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0016.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>-useExisting- Image at "books"</string>
+		<string>-useExisting- Image at "calc"</string>
+		<string>Image at "image0066"</string>
+		<string>Image at "SettingsOUntitleO"</string>
+		<string>Image at "image0067"</string>
+		<string>Image at "image0068"</string>
+		<string>Image at "image0069"</string>
+		<string>Image at "image0070"</string>
+		<string>Image at "image0071"</string>
+		<string>Image at "image0072"</string>
+		<string>Image at "image0073"</string>
+		<string>Image at "image0074"</string>
+		<string>Image at "image0075"</string>
+		<string>Image at "image0076"</string>
+		<string>Image at "reenaki"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>books.png</string>
+			<string>calc.png</string>
+			<string>books.png</string>
+			<string>calc.png</string>
+			<string>image0066.png</string>
+			<string>image0066.png</string>
+			<string>SettingsOUntitleO.png</string>
+			<string>SettingsOUntitleO.png</string>
+			<string>image0067.png</string>
+			<string>image0067.png</string>
+			<string>image0068.png</string>
+			<string>image0068.png</string>
+			<string>image0069.png</string>
+			<string>image0069.png</string>
+			<string>image0070.png</string>
+			<string>image0070.png</string>
+			<string>image0071.png</string>
+			<string>image0071.png</string>
+			<string>image0072.png</string>
+			<string>image0072.png</string>
+			<string>image0073.png</string>
+			<string>image0073.png</string>
+			<string>image0074.png</string>
+			<string>image0074.png</string>
+			<string>image0075.png</string>
+			<string>image0075.png</string>
+			<string>image0076.png</string>
+			<string>image0076.png</string>
+			<string>reenaki.png</string>
+			<string>reenaki.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>rapidSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

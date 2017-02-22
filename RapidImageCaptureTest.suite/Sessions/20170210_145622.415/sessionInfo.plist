@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[182, 168, 305, 403], command:@"Image at", eventNum:2, hotSpot:[244.828125, 501.292969], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0034", searchType:@"Precise", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[906, 632, 997, 654], command:@"Image at", eventNum:3, hotSpot:[948, 154], imageName:@"", infoDict:{folderPath:@"/", imageName:@"NewScript", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0003.png"}, {captureRect:[801, 553, 997, 576], command:@"Image at", eventNum:4, hotSpot:[899, 233], imageName:@"", infoDict:{folderPath:@"/", imageName:@"ShowSUTinCaptureMode", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0004.png"}, {captureRect:[903, 399, 997, 422], command:@"Image at", eventNum:5, hotSpot:[953, 387], imageName:@"", infoDict:{folderPath:@"/", imageName:@"NewTable", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0005.png"}, {captureRect:[935, 327, 981, 338], command:@"Image at", eventNum:6, hotSpot:[938, 463], imageName:@"", infoDict:{folderPath:@"/", imageName:@"NewFeature", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0006.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Image at "image0034"</string>
+		<string>Image at "NewScript"</string>
+		<string>Image at "ShowSUTinCaptureMode"</string>
+		<string>Image at "NewTable"</string>
+		<string>Image at "NewFeature"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>image0034.png</string>
+			<string>NewScript.png</string>
+			<string>ShowSUTinCaptureMode.png</string>
+			<string>NewTable.png</string>
+			<string>NewFeature.png</string>
+			<string>image0034.png</string>
+			<string>NewScript.png</string>
+			<string>ShowSUTinCaptureMode.png</string>
+			<string>NewTable.png</string>
+			<string>NewFeature.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>rapidSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

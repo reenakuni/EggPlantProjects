@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{command:@"TypeText", eventNum:2, screenShotFile:@"Screen0002.png", text:@"CommandDown,ControlDown,OptionDown,\"o\"AltUp,OptionUp,ShiftDown,\"s\",ControlUp,ShiftUp,\"ca\",AltDown,ControlDown,OptionDown,ShiftDown,\"r\"AltUp,ControlUp,OptionUp,ShiftUp,\" nom\",ControlDown,OptionDown,ShiftDown,\"i\",CommandDown,OptionUp,ShiftUp,\"n\",OptionDown,\"a\",CommandUp,ControlUp,OptionUp,\"t\",ControlDown,\"\u00c9\",CommandDown,ControlUp,\"o\",ControlKey,ShiftKey,\"n\"AltUp,\"s\""}, {command:@"TypeText", eventNum:35, screenShotFile:@"Screen0002.png", text:@"Return"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>TypeText CommandDown,ControlDown,OptionDown,"o"AltUp,OptionUp,ShiftDown,"s",ControlUp,ShiftUp,"ca",AltDown,ControlDown,OptionDown,ShiftDown,"r"AltUp,ControlUp,OptionUp,ShiftUp," nom",ControlDown,OptionDown,ShiftDown,"i",CommandDown,OptionUp,ShiftUp,"n",OptionDown,"a",CommandUp,ControlUp,OptionUp,"t",ControlDown,"É",CommandDown,ControlUp,"o",ControlKey,ShiftKey,"n"AltUp,"s"</string>
+		<string>TypeText Return</string>
+	</array>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

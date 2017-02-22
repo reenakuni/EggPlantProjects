@@ -1,0 +1,4 @@
+﻿2017-02-13 13:16:07.615 -0700	START		Running Untitled2.script
+2017-02-13 13:16:07.764 -0700	typetext		apple[return]	8	on_untitled2	Untitled2.script
+2017-02-13 13:16:08.853 -0700	EndTestCase		(Duration:"1.234851", Errors:"0", Exceptions:"0", StartTime:"2017-02-13 13:16:07 -0700", Successes:"1", TestCase:"Untitled2.script", Warnings:"0")
+2017-02-13 13:16:08.864 -0700	SUCCESS		Execution Time 0:00:01 Untitled2.script

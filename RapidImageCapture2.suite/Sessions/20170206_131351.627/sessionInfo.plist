@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[542, 527, 603, 538], command:@"Image at", eventNum:2, hotSpot:[5.6538966800000003e+02, 2.6493409100000002e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Automator", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[689, 527, 748, 539], command:@"Image at", eventNum:3, hotSpot:[7.1931951500000002e+02, 2.5880636399999997e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Calculator", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0003.png"}, {captureRect:[839, 527, 891, 539], command:@"Image at", eventNum:4, hotSpot:[8.6461883499999999e+02, 2.6180827399999998e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Calendar", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0004.png"}, {captureRect:[717, 198, 1095, 608], command:@"Image at", eventNum:5, hotSpot:[1.0179289970000000e+03, 2.6563247200000001e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Chess", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0005.png"}, {captureRect:[343, 198, 738, 608], command:@"Image at", eventNum:6, hotSpot:[4.3979634399999998e+02, 2.6769382100000001e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"AppStore", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0006.png", useExistingImage:@"YES"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Image at "Automator"</string>
+		<string>Image at "Calculator"</string>
+		<string>Image at "Calendar"</string>
+		<string>Image at "Chess"</string>
+		<string>-useExisting- Image at "AppStore"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>Automator.png</string>
+			<string>Calculator.png</string>
+			<string>Calendar.png</string>
+			<string>Chess.png</string>
+			<string>AppStore.png</string>
+			<string>Automator.png</string>
+			<string>Calculator.png</string>
+			<string>Calendar.png</string>
+			<string>Chess.png</string>
+			<string>AppStore.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>rapidSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

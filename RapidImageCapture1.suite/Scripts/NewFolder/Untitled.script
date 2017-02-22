@@ -1,0 +1,8 @@
+﻿TypeText "ghghghg"
+Log "gghgh"
+(* watch *)
+TypeText "fdfdf"
+LogWarning "watchgfgfgf"
+(* vbvb *)
+Wait "2.0"
+TypeText llll

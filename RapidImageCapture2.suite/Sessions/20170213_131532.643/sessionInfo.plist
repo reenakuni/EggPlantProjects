@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{command:@"TypeText", eventNum:2, screenShotFile:@"Screen0002.png", text:@"\"apple\",Return"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>TypeText "apple",Return</string>
+	</array>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

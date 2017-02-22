@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[472, 475, 542, 505], command:@"Image at", eventNum:2, hotSpot:[5.0753906200000000e+02, 3.0277734400000003e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"photos", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[582, 487, 596, 519], command:@"Image at", eventNum:3, hotSpot:[5.8480078100000003e+02, 2.9066796900000003e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0471", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0003.png"}, {captureRect:[635, 355, 705, 385], command:@"Image at", eventNum:4, hotSpot:[6.7066406199999994e+02, 4.2275000000000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0472", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0004.png"}, {captureRect:[789, 352, 859, 382], command:@"Image at", eventNum:5, hotSpot:[8.2439843800000006e+02, 4.2513671900000003e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"safari", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0005.png"}, {captureRect:[893, 357, 911, 376], command:@"Image at", eventNum:6, hotSpot:[9.0907812500000000e+02, 4.1892968800000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0473", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0006.png"}, {captureRect:[777, 515, 847, 545], command:@"Image at", eventNum:7, hotSpot:[8.1262109399999997e+02, 2.6283203099999997e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"calc", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0007.png"}, {captureRect:[513, 362, 544, 384], command:@"Image at", eventNum:8, hotSpot:[5.4142578100000003e+02, 4.2073437500000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0474", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0008.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Image at "photos"</string>
+		<string>Image at "image0471"</string>
+		<string>Image at "image0472"</string>
+		<string>Image at "safari"</string>
+		<string>Image at "image0473"</string>
+		<string>Image at "calc"</string>
+		<string>Image at "image0474"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>photos.png</string>
+			<string>image0471.png</string>
+			<string>image0472.png</string>
+			<string>safari.png</string>
+			<string>image0473.png</string>
+			<string>calc.png</string>
+			<string>image0474.png</string>
+			<string>photos.png</string>
+			<string>image0471.png</string>
+			<string>image0472.png</string>
+			<string>safari.png</string>
+			<string>image0473.png</string>
+			<string>calc.png</string>
+			<string>image0474.png</string>
+			<string>photos.png</string>
+			<string>image0471.png</string>
+			<string>image0472.png</string>
+			<string>safari.png</string>
+			<string>image0473.png</string>
+			<string>calc.png</string>
+			<string>image0474.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>rapidSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

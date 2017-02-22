@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[186, 606, 256, 636], command:@"Click", eventNum:2, hotSpot:[2.2154553000000001e+02, 1.7154768999999999e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0412", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[214, 590, 293, 656], command:@"Click", eventNum:4, hotSpot:[2.4008213200000000e+02, 1.6626798299999999e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0413", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0004.png"}, {captureRect:[414, 517, 467, 561], command:@"Click", eventNum:6, hotSpot:[4.3447485499999999e+02, 2.5612996399999997e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0414", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0006.png"}, {captureRect:[471, 517, 525, 561], command:@"Click", eventNum:8, hotSpot:[4.8299072200000001e+02, 2.5604011500000001e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0415", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0008.png"}, {captureRect:[529, 517, 583, 561], command:@"Click", eventNum:10, hotSpot:[5.6300384599999995e+02, 2.5832057099999997e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0416", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0010.png"}, {captureRect:[587, 565, 643, 609], command:@"Click", eventNum:12, hotSpot:[6.2131182799999999e+02, 1.9912709899999999e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0417", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0012.png"}, {captureRect:[529, 517, 583, 561], command:@"Click", eventNum:14, hotSpot:[5.6425244699999996e+02, 2.4776543599999999e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0418", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0014.png"}, {captureRect:[587, 371, 643, 416], command:@"Click", eventNum:16, hotSpot:[6.1551780299999996e+02, 3.9827559000000002e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0419", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0016.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Click "image0412"</string>
+		<string>Click "image0413"</string>
+		<string>Click "image0414"</string>
+		<string>Click "image0415"</string>
+		<string>Click "image0416"</string>
+		<string>Click "image0417"</string>
+		<string>Click "image0418"</string>
+		<string>Click "image0419"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>image0412.png</string>
+			<string>image0412.png</string>
+			<string>image0413.png</string>
+			<string>image0413.png</string>
+			<string>image0414.png</string>
+			<string>image0414.png</string>
+			<string>image0415.png</string>
+			<string>image0415.png</string>
+			<string>image0416.png</string>
+			<string>image0416.png</string>
+			<string>image0417.png</string>
+			<string>image0417.png</string>
+			<string>image0418.png</string>
+			<string>image0418.png</string>
+			<string>image0419.png</string>
+			<string>image0419.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>turboSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

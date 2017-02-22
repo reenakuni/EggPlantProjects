@@ -1,0 +1,18 @@
+﻿{
+    EPVersionNumber = 1702171002;
+    Schedules =     (
+    );
+    ScriptMetaData =     {
+    };
+    SuiteEncodedTextKey = ".bGYQ;N+Q^C{DCIK";
+    helpedSuitesInfo =     (
+    );
+    helperSuitesInfo =     (
+                {
+            filePath = "/Users/reenakuni/Documents/OtherePFSuites/ScheduleParameters.suite";
+        },
+                {
+            filePath = "/Users/reenakuni/Documents/Untitledoo.suite";
+        }
+    );
+}

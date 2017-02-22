@@ -1,0 +1,51 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Untitled22">
+ <run>
+  <RunDate>2017-02-03 16:26:31.153 -0700</RunDate>
+  <Status>Running</Status>
+  <Duration>0.000000</Duration>
+  <Errors></Errors>
+  <Warnings></Warnings>
+  <Exceptions></Exceptions>
+  <Successes></Successes>
+  <LogFile>20170203_162631.153/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-02-03 16:27:59.613 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.501067</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170203_162759.613/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STInvalidColor -- Value can not be evaluated as a color: &#x27;#103103103F09F00F00F&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-02-03 16:29:32.237 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.515119</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170203_162932.237/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STInvalidColor -- Value can not be evaluated as a color: &#x27;#1031031&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-02-03 16:29:44.415 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.513022</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170203_162944.415/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STInvalidColor -- Value can not be evaluated as a color: &#x27;#1031031454&#x27;</ErrorMessage>
+ </run>
+</runHistory>

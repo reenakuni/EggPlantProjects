@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[19, 777, 95, 793], command:@"Click", eventNum:2, hotSpot:[63.609375, 7.628906], imageName:@"", infoDict:{folderPath:@"/", imageName:@"mSafari_0001", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[64, 749, 146, 764], command:@"Click", eventNum:4, hotSpot:[96, 36], imageName:@"", infoDict:{folderPath:@"/", imageName:@"AboutSafari", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0004.png"}, {captureRect:[493, 479, 653, 639], command:@"Click", eventNum:6, hotSpot:[504, 165], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0052", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0006.png"}, {captureRect:[111, 776, 454, 793], command:@"Click", eventNum:8, hotSpot:[173.597656, 10.421875], imageName:@"", infoDict:{folderPath:@"/", imageName:@"FileEditViewHistoryBookmarksWi_0004", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0008.png"}, {captureRect:[164, 547, 194, 562], command:@"Click", eventNum:10, hotSpot:[243, 242], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Find", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0010.png"}, {captureRect:[372, 545, 381, 556], command:@"Click", eventNum:12, hotSpot:[374, 245], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0053", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0012.png"}, {captureRect:[418, 513, 456, 526], command:@"Click", eventNum:14, hotSpot:[442, 272], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0054", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0014.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Click "mSafari_0001"</string>
+		<string>Click "AboutSafari"</string>
+		<string>Click "image0052"</string>
+		<string>Click "FileEditViewHistoryBookmarksWi_0004"</string>
+		<string>Click "Find"</string>
+		<string>Click "image0053"</string>
+		<string>Click "image0054"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>mSafari_0001.png</string>
+			<string>mSafari_0001.png</string>
+			<string>AboutSafari.png</string>
+			<string>AboutSafari.png</string>
+			<string>image0052.png</string>
+			<string>image0052.png</string>
+			<string>FileEditViewHistoryBookmarksWi_0004.png</string>
+			<string>FileEditViewHistoryBookmarksWi_0004.png</string>
+			<string>Find.png</string>
+			<string>Find.png</string>
+			<string>image0053.png</string>
+			<string>image0053.png</string>
+			<string>image0054.png</string>
+			<string>image0054.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>turboSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

@@ -1,0 +1,6 @@
+﻿2017-01-31 10:30:50.129 -0700	START		Running Untitled7.script
+2017-01-31 10:30:50.733 -0700	doubleclick	image0002	at (772, 413)	8	on_untitled7	Untitled7.script
+2017-01-31 10:30:51.500 -0700	typetext		oscar	9	on_untitled7	Untitled7.script
+2017-01-31 10:30:52.364 -0700	typetext		 nominations[return]	10	on_untitled7	Untitled7.script
+2017-01-31 10:30:52.689 -0700	EndTestCase		(Duration:"2.558456", Errors:"0", Exceptions:"0", StartTime:"2017-01-31 10:30:50 -0700", Successes:"1", TestCase:"Untitled7.script", Warnings:"0")
+2017-01-31 10:30:52.701 -0700	SUCCESS		Execution Time 0:00:02 Untitled7.script

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[214, 494, 294, 560], command:@"Image at", eventNum:2, hotSpot:[252, 170], imageName:@"", infoDict:{folderPath:@"/Automator", imageName:@"image0001", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[544, 426, 614, 456], command:@"Image at", eventNum:3, hotSpot:[579, 256], imageName:@"", infoDict:{folderPath:@"/Automator", imageName:@"image0002", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0003.png"}, {captureRect:[664, 438, 678, 470], command:@"Image at", eventNum:4, hotSpot:[671, 241], imageName:@"", infoDict:{folderPath:@"/Automator", imageName:@"image0003", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0004.png"}, {captureRect:[730, 294, 800, 324], command:@"Image at", eventNum:5, hotSpot:[765, 388], imageName:@"", infoDict:{folderPath:@"/Automator", imageName:@"image0004", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0005.png"}, {captureRect:[826, 300, 896, 330], command:@"Image at", eventNum:6, hotSpot:[861, 382], imageName:@"", infoDict:{folderPath:@"/Automator", imageName:@"image0005", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0006.png"}, {captureRect:[973, 309, 993, 326], command:@"Image at", eventNum:7, hotSpot:[975, 386], imageName:@"", infoDict:{folderPath:@"/Automator", imageName:@"image0006", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0007.png"}, {captureRect:[841, 457, 911, 487], command:@"Image at", eventNum:8, hotSpot:[876, 225], imageName:@"", infoDict:{folderPath:@"/Automator", imageName:@"image0007", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0008.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Image at "Automator/image0001"</string>
+		<string>Image at "Automator/image0002"</string>
+		<string>Image at "Automator/image0003"</string>
+		<string>Image at "Automator/image0004"</string>
+		<string>Image at "Automator/image0005"</string>
+		<string>Image at "Automator/image0006"</string>
+		<string>Image at "Automator/image0007"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key>Automator</key>
+		<array>
+			<string>image0001.png</string>
+			<string>image0001.png</string>
+			<string>image0002.png</string>
+			<string>image0002.png</string>
+			<string>image0003.png</string>
+			<string>image0003.png</string>
+			<string>image0004.png</string>
+			<string>image0004.png</string>
+			<string>image0005.png</string>
+			<string>image0005.png</string>
+			<string>image0006.png</string>
+			<string>image0006.png</string>
+			<string>image0007.png</string>
+			<string>image0007.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>rapidSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[396, 548, 455, 607], command:@"Click", eventNum:2, hotSpot:[4.2263669199999998e+02, 2.2113323199999999e+02], imageName:@"", infoDict:{folderPath:@"/MacCapture", imageName:@"image0001", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[530, 559, 600, 589], command:@"Click", eventNum:4, hotSpot:[5.6586851600000000e+02, 2.1869453100000001e+02], imageName:@"", infoDict:{folderPath:@"/MacCapture", imageName:@"image0002", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0004.png"}, {captureRect:[679, 567, 749, 597], command:@"Click", eventNum:6, hotSpot:[7.1477327800000000e+02, 2.1012247199999999e+02], imageName:@"", infoDict:{folderPath:@"/MacCapture", imageName:@"image0003", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0006.png"}, {captureRect:[851, 563, 875, 588], command:@"Click", eventNum:8, hotSpot:[8.6926647500000001e+02, 2.1412689599999999e+02], imageName:@"", infoDict:{folderPath:@"/MacCapture", imageName:@"image0004", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0008.png"}, {captureRect:[980, 551, 1043, 603], command:@"Click", eventNum:10, hotSpot:[1.0034903270000000e+03, 2.1556871400000000e+02], imageName:@"", infoDict:{folderPath:@"/MacCapture", imageName:@"image0005", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0010.png"}, {captureRect:[987, 411, 1035, 426], command:@"Click", eventNum:12, hotSpot:[1.0219006160000000e+03, 3.5895077400000002e+02], imageName:@"", infoDict:{folderPath:@"/MacCapture", imageName:@"eqqMan", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0012.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Click "MacCapture/image0001"</string>
+		<string>Click "MacCapture/image0002"</string>
+		<string>Click "MacCapture/image0003"</string>
+		<string>Click "MacCapture/image0004"</string>
+		<string>Click "MacCapture/image0005"</string>
+		<string>Click "MacCapture/eqqMan"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key>MacCapture</key>
+		<array>
+			<string>image0001.png</string>
+			<string>image0001.png</string>
+			<string>image0002.png</string>
+			<string>image0002.png</string>
+			<string>image0003.png</string>
+			<string>image0003.png</string>
+			<string>image0004.png</string>
+			<string>image0004.png</string>
+			<string>image0005.png</string>
+			<string>image0005.png</string>
+			<string>eqqMan.png</string>
+			<string>eqqMan.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>turboSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

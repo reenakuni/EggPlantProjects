@@ -1,0 +1,6 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2017-02-08 15:24:42.149 -0700,"Success",0:03:02,0,0,0,"20170208_152442.149/LogFile.txt","","",1
+2017-02-09 13:45:30.300 -0700,"Failure",0:00:22,1,0,1,"20170209_134530.300/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""eggplant""",0
+2017-02-09 13:46:19.948 -0700,"Failure",0:01:05,1,0,1,"20170209_134619.948/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""bash""",0
+2017-02-09 13:47:56.081 -0700,"Failure",0:00:23,1,0,1,"20170209_134756.081/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""GenerateImages""",0
+2017-02-09 13:50:47.949 -0700,"Success",0:00:28,0,0,0,"20170209_135047.949/LogFile.txt","","",1

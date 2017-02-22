@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[424, 718, 494, 748], command:@"Image at", eventNum:2, hotSpot:[4.5995703099999997e+02, 5.9265625000000000e+01], imageName:@"", infoDict:{folderPath:@"/NewFolder-1", imageName:@"image0481", searchType:@"Precise", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[476, 719, 546, 749], command:@"Image at", eventNum:3, hotSpot:[5.1156640599999997e+02, 5.8222656000000001e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0491", searchType:@"Precise", waitFor:@""}, screenShotFile:@"Screen0003.png"}, {captureRect:[575, 715, 645, 745], command:@"Image at", eventNum:4, hotSpot:[6.1012109399999997e+02, 6.2902343999999999e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0492", searchType:@"Precise", waitFor:@""}, screenShotFile:@"Screen0004.png"}, {captureRect:[583, 408, 696, 522], command:@"Image at", eventNum:5, hotSpot:[6.2731640600000003e+02, 3.2892968800000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0493", searchType:@"Precise", waitFor:@""}, screenShotFile:@"Screen0005.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Image at "NewFolder-1/image0481"</string>
+		<string>Image at "image0491"</string>
+		<string>Image at "image0492"</string>
+		<string>Image at "image0493"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>image0491.png</string>
+			<string>image0491.png</string>
+			<string>image0492.png</string>
+			<string>image0492.png</string>
+			<string>image0493.png</string>
+			<string>image0493.png</string>
+		</array>
+		<key>NewFolder-1</key>
+		<array>
+			<string>image0481.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>rapidSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

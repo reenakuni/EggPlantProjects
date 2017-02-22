@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[396, 548, 455, 607], command:@"Image at", eventNum:2, hotSpot:[4.2861322000000001e+02, 2.2388592499999999e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"appstore", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0002.png", useExistingImage:@"YES"}, {captureRect:[394, 321, 458, 386], command:@"Image at", eventNum:3, hotSpot:[4.2634563200000002e+02, 4.6413216100000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"appstore", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0003.png", useExistingImage:@"YES"}, {captureRect:[396, 211, 455, 270], command:@"Image at", eventNum:4, hotSpot:[4.2287704500000001e+02, 5.5014201500000001e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"books", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0004.png", useExistingImage:@"YES"}, {captureRect:[980, 551, 1043, 602], command:@"Image at", eventNum:5, hotSpot:[1.0118603570000000e+03, 2.1533917099999999e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"books", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0005.png", useExistingImage:@"YES"}, {captureRect:[685, 559, 755, 589], command:@"Image at", eventNum:6, hotSpot:[7.2059015099999999e+02, 2.1808541199999999e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"calc", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0006.png", useExistingImage:@"YES"}, {captureRect:[567, 449, 578, 473], command:@"Image at", eventNum:7, hotSpot:[5.7382125299999996e+02, 3.3109346599999998e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"dash", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0007.png", useExistingImage:@"YES"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>-useExisting- Image at "appstore"</string>
+		<string>-useExisting- Image at "appstore"</string>
+		<string>-useExisting- Image at "books"</string>
+		<string>-useExisting- Image at "books"</string>
+		<string>-useExisting- Image at "calc"</string>
+		<string>-useExisting- Image at "dash"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>appstore.png</string>
+			<string>appstore.png</string>
+			<string>books.png</string>
+			<string>books.png</string>
+			<string>calc.png</string>
+			<string>dash.png</string>
+			<string>appstore.png</string>
+			<string>appstore.png</string>
+			<string>books.png</string>
+			<string>books.png</string>
+			<string>calc.png</string>
+			<string>dash.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>rapidSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

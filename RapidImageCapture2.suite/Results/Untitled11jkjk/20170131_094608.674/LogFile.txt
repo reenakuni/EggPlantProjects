@@ -1,0 +1,8 @@
+﻿2017-01-31 09:46:08.676 -0700	START		Running Untitled11.script
+2017-01-31 09:46:09.335 -0700	click	image0114	at (255, 172)	8	on_untitled11	Untitled11.script
+2017-01-31 09:46:10.565 -0700	click	image0115	at (302, 500)	9	on_untitled11	Untitled11.script
+2017-01-31 09:46:11.837 -0700	click	image0116	at (505, 294)	10	on_untitled11	Untitled11.script
+2017-01-31 09:46:33.175 -0700	click	safari	at (786, 406)	11	on_untitled11	Untitled11.script
+2017-01-31 09:46:34.338 -0700	click	image0117	at (688, 426)	12	on_untitled11	Untitled11.script
+2017-01-31 09:46:34.637 -0700	EndTestCase		(Duration:"25.959265", Errors:"0", Exceptions:"0", StartTime:"2017-01-31 09:46:08 -0700", Successes:"1", TestCase:"Untitled11.script", Warnings:"0")
+2017-01-31 09:46:34.761 -0700	SUCCESS		Execution Time 0:00:25 Untitled11.script

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[254, 194, 599, 621], command:@"Click", eventNum:2, hotSpot:[2.7234375000000000e+02, 2.0178906200000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0494", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0002.png", skipStep:@"YES"}, {captureRect:[165, 517, 198, 550], command:@"Click", eventNum:4, hotSpot:[1.8670703100000000e+02, 2.6103906200000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0495", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0004.png"}, {captureRect:[638, 633, 686, 646], command:@"Click", eventNum:6, hotSpot:[6.8227343800000006e+02, 1.5695703100000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Openwith", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0006.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Click "image0494"</string>
+		<string>Click "image0495"</string>
+		<string>Click "Openwith"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>image0494.png</string>
+			<string>image0495.png</string>
+			<string>Openwith.png</string>
+			<string>image0495.png</string>
+			<string>Openwith.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>turboSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[214, 590, 293, 656], command:@"Click", eventNum:2, hotSpot:[2.5147656200000000e+02, 1.7542968800000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"chess", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0002.png", useExistingImage:@"YES"}, {captureRect:[498, 505, 506, 516], command:@"Click", eventNum:4, hotSpot:[504, 2.8596093800000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"photos", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0004.png", useExistingImage:@"YES"}, {captureRect:[582, 487, 596, 519], command:@"Click", eventNum:6, hotSpot:[5.8652734399999997e+02, 2.8487890599999997e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"dash", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0006.png", useExistingImage:@"YES"}, {captureRect:[636, 357, 706, 387], command:@"Click", eventNum:8, hotSpot:[6.7152734399999997e+02, 4.2049609400000003e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"time", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0008.png", useExistingImage:@"YES"}, {captureRect:[755, 366, 825, 396], command:@"Click", eventNum:10, hotSpot:[7.9025390600000003e+02, 4.1185546900000003e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"safari", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0010.png"}, {captureRect:[893, 357, 911, 375], command:@"Click", eventNum:12, hotSpot:[9.0785546899999997e+02, 4.1910546900000003e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"books", searchType:@"Tolerant", waitFor:@"2"}, screenShotFile:@"Screen0012.png"}, {captureRect:[277, 260, 345, 294], command:@"Click", eventNum:14, hotSpot:[3.0641406200000000e+02, 5.1781640600000003e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"qtplayer", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0014.png", useExistingImage:@"YES"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>-useExisting- Click "chess"</string>
+		<string>-useExisting- Click "photos"</string>
+		<string>-useExisting- Click "dash"</string>
+		<string>-useExisting- Click "time"</string>
+		<string>Click "safari"</string>
+		<string>Click (Image:"books", WaitFor:2)</string>
+		<string>-useExisting- Click "qtplayer"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>chess.png</string>
+			<string>photos.png</string>
+			<string>dash.png</string>
+			<string>chess.png</string>
+			<string>photos.png</string>
+			<string>dash.png</string>
+			<string>time.png</string>
+			<string>safari.png</string>
+			<string>books.png</string>
+			<string>qtplayer.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>turboSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

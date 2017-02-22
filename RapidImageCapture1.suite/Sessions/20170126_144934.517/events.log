@@ -1,0 +1,24 @@
+1	0.000458002	start	
+2	2.63223	mouseDown	{button:1, clickCount:1, hotSpot:[804.082031, 40.695312]}
+3	2.73666	mouseUp	{button:1, clickCount:1, hotSpot:[804.082031, 40.695312]}
+4	4.83782	keyDown	{modifiers:256, string:@"w", theKey:@"w"}
+5	4.99572	keyUp	{modifiers:256, string:@"w", theKey:@"w"}
+6	5.0588	keyDown	{modifiers:256, string:@"i", theKey:@"i"}
+7	5.1468	keyUp	{modifiers:256, string:@"i", theKey:@"i"}
+8	5.2588	keyDown	{modifiers:256, string:@"k", theKey:@"k"}
+9	5.36277	keyUp	{modifiers:256, string:@"k", theKey:@"k"}
+10	5.45869	keyDown	{modifiers:256, string:@"i", theKey:@"i"}
+11	5.54665	keyUp	{modifiers:256, string:@"i", theKey:@"i"}
+12	6.05901	keyDown	{modifiers:256, string:@"p", theKey:@"p"}
+13	6.1996	keyUp	{modifiers:256, string:@"p", theKey:@"p"}
+14	6.37895	keyDown	{modifiers:256, string:@"e", theKey:@"e"}
+15	6.46672	keyUp	{modifiers:256, string:@"e", theKey:@"e"}
+16	6.61102	keyDown	{modifiers:256, string:@"d", theKey:@"d"}
+17	6.70663	keyUp	{modifiers:256, string:@"d", theKey:@"d"}
+18	6.95501	keyDown	{modifiers:256, string:@"i", theKey:@"i"}
+19	7.04273	keyUp	{modifiers:256, string:@"i", theKey:@"i"}
+20	7.19526	keyDown	{modifiers:256, string:@"a", theKey:@"a"}
+21	7.32455	keyUp	{modifiers:256, string:@"a", theKey:@"a"}
+22	9.42705	keyDown	{modifiers:256, string:@"\r", theKey:@"\r"}
+23	9.51298	keyUp	{modifiers:256, string:@"\r", theKey:@"\r"}
+24	13.1078	end	

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[396, 549, 455, 607], command:@"Click", eventNum:2, hotSpot:[4.2249983600000002e+02, 2.1274911399999999e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"appstore", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0002.png", useExistingImage:@"YES"}, {captureRect:[543, 435, 602, 494], command:@"Click", eventNum:4, hotSpot:[5.6189798800000005e+02, 3.3179195700000002e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"dash", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0004.png", useExistingImage:@"YES"}, {captureRect:[343, 197, 692, 607], command:@"Click", eventNum:6, hotSpot:[3.9363686200000001e+02, 4.5623617500000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0001", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0006.png"}, {captureRect:[543, 327, 602, 378], command:@"Click", eventNum:8, hotSpot:[5.9210070399999995e+02, 4.5199316700000003e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"appstore", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0008.png", useExistingImage:@"YES"}, {captureRect:[396, 211, 455, 270], command:@"Click", eventNum:10, hotSpot:[4.1372864900000002e+02, 5.4764740300000005e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"appstore", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0010.png"}, {captureRect:[982, 324, 1041, 383], command:@"Click", eventNum:12, hotSpot:[1.0203020289999999e+03, 4.4788898899999998e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"appstore", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0012.png", useExistingImage:@"YES"}, {captureRect:[980, 433, 1044, 498], command:@"Click", eventNum:14, hotSpot:[1.0083527490000000e+03, 3.4007840399999998e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"appstore", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0014.png", useExistingImage:@"YES"}, {captureRect:[980, 551, 1043, 603], command:@"Click", eventNum:16, hotSpot:[1.0191443880000000e+03, 2.2287072699999999e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"appstore", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0016.png", useExistingImage:@"YES"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>-useExisting- Click "appstore"</string>
+		<string>-useExisting- Click "dash"</string>
+		<string>Click "image0001"</string>
+		<string>-useExisting- Click "appstore"</string>
+		<string>Click "appstore"</string>
+		<string>-useExisting- Click "appstore"</string>
+		<string>-useExisting- Click "appstore"</string>
+		<string>-useExisting- Click "appstore"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>appstore.png</string>
+			<string>dash.png</string>
+			<string>image0001.png</string>
+			<string>appstore.png</string>
+			<string>appstore.png</string>
+			<string>appstore.png</string>
+			<string>appstore.png</string>
+			<string>appstore.png</string>
+			<string>appstore.png</string>
+			<string>dash.png</string>
+			<string>image0001.png</string>
+			<string>appstore.png</string>
+			<string>appstore.png</string>
+			<string>appstore.png</string>
+			<string>appstore.png</string>
+			<string>appstore.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>turboSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

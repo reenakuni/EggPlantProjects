@@ -1,0 +1,5 @@
+﻿2017-02-14 11:41:58.195 -0700	START		Running Untitled1.script
+2017-02-14 11:42:01.804 -0700	LogWarning		Unable to Find Image:image0008 -- AutoUpdate engaged	8	on_untitled1	Untitled1.script
+2017-02-14 11:42:02.590 -0700	Exception	image0008	No Image Found On Screen: "image0008"	8	on_untitled1	Untitled1.script
+2017-02-14 11:42:03.444 -0700	EndTestCase		(Duration:"5.246712", Errors:"1", Exceptions:"1", StartTime:"2017-02-14 11:41:58 -0700", Successes:"0", TestCase:"Untitled1.script", Warnings:"1")
+2017-02-14 11:42:03.444 -0700	ABORTED		Execution Time 0:00:05 Untitled1.script

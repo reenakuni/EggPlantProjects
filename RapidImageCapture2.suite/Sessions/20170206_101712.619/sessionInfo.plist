@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[396, 548, 455, 607], command:@"Image at", eventNum:2, hotSpot:[4.4670301899999998e+02, 2.2077277699999999e+02], imageName:@"", infoDict:{folderPath:@"/hello123", imageName:@"image0001", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[537, 540, 607, 570], command:@"Image at", eventNum:3, hotSpot:[5.7217240600000002e+02, 2.3723541200000000e+02], imageName:@"", infoDict:{folderPath:@"/hello123", imageName:@"image0001", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0003.png"}, {captureRect:[694, 558, 764, 588], command:@"Image at", eventNum:4, hotSpot:[7.2974712999999997e+02, 2.1945486500000001e+02], imageName:@"", infoDict:{folderPath:@"/hello123", imageName:@"image0003", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0004.png"}, {captureRect:[693, 435, 744, 496], command:@"Image at", eventNum:5, hotSpot:[7.3763966800000003e+02, 3.4054506400000002e+02], imageName:@"", infoDict:{folderPath:@"/hello123", imageName:@"image0001", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0005.png"}, {captureRect:[844, 434, 887, 497], command:@"Image at", eventNum:6, hotSpot:[8.7669143299999996e+02, 3.2032018499999998e+02], imageName:@"", infoDict:{folderPath:@"/hello123", imageName:@"image0005", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0006.png"}, {captureRect:[997, 448, 1027, 475], command:@"Image at", eventNum:7, hotSpot:[1.0132757230000000e+03, 3.3333597300000002e+02], imageName:@"", infoDict:{folderPath:@"/hello123", imageName:@"image0006", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0007.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Image at "hello123/image0001"</string>
+		<string>Image at "hello123/image0001"</string>
+		<string>Image at "hello123/image0003"</string>
+		<string>Image at "hello123/image0001"</string>
+		<string>Image at "hello123/image0005"</string>
+		<string>Image at "hello123/image0006"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key>hello123</key>
+		<array>
+			<string>image0001.png</string>
+			<string>image0001.png</string>
+			<string>image0003.png</string>
+			<string>image0003.png</string>
+			<string>image0005.png</string>
+			<string>image0005.png</string>
+			<string>image0006.png</string>
+			<string>image0006.png</string>
+			<string>image0001.png</string>
+			<string>image0001.png</string>
+			<string>image0001.png</string>
+			<string>image0001.png</string>
+			<string>image0003.png</string>
+			<string>image0001.png</string>
+			<string>image0005.png</string>
+			<string>image0006.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>rapidSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

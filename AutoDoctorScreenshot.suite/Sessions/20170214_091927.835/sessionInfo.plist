@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[214, 590, 293, 656], command:@"Image at", eventNum:2, hotSpot:[235, 154], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0004", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[257, 393, 440, 559], command:@"Image at", eventNum:3, hotSpot:[291, 251], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0005", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0003.png"}, {captureRect:[311, 490, 370, 549], command:@"Image at", eventNum:4, hotSpot:[332, 264], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0006", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0004.png"}, {captureRect:[463, 490, 521, 552], command:@"Image at", eventNum:5, hotSpot:[468, 280], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0007", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0005.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Image at "image0004"</string>
+		<string>Image at "image0005"</string>
+		<string>Image at "image0006"</string>
+		<string>Image at "image0007"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>image0004.png</string>
+			<string>image0004.png</string>
+			<string>image0005.png</string>
+			<string>image0005.png</string>
+			<string>image0006.png</string>
+			<string>image0006.png</string>
+			<string>image0007.png</string>
+			<string>image0007.png</string>
+			<string>image0004.png</string>
+			<string>image0005.png</string>
+			<string>image0006.png</string>
+			<string>image0007.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>rapidSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

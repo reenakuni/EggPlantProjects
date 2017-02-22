@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[132, 650, 199, 714], command:@"Image at", eventNum:2, hotSpot:[1.7146875000000000e+02, 1.1846875000000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"safari", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0002.png", useExistingImage:@"YES"}, {captureRect:[294, 648, 352, 715], command:@"Image at", eventNum:3, hotSpot:[3.1998437500000000e+02, 1.1538671900000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"mail", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0003.png", useExistingImage:@"YES"}, {captureRect:[136, 529, 199, 589], command:@"Image at", eventNum:4, hotSpot:[1.6988671900000000e+02, 2.2867578100000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0096", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0004.png"}, {captureRect:[292, 532, 356, 587], command:@"Image at", eventNum:5, hotSpot:[3.0266406200000000e+02, 2.3110937500000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0097", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0005.png"}, {captureRect:[604, 527, 667, 592], command:@"Image at", eventNum:6, hotSpot:[6.3405078100000003e+02, 2.3735937500000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0098", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0006.png"}, {captureRect:[607, 404, 669, 471], command:@"Image at", eventNum:7, hotSpot:[6.3427343800000006e+02, 3.5949609400000003e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0099", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0007.png"}, {captureRect:[135, 424, 191, 468], command:@"Image at", eventNum:8, hotSpot:[1.6784375000000000e+02, 3.4985937500000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"fAi", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0008.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Image at "safari" // use Existing Image </string>
+		<string>Image at "mail" // use Existing Image </string>
+		<string>Image at "image0096"</string>
+		<string>Image at "image0097"</string>
+		<string>Image at "image0098"</string>
+		<string>Image at "image0099"</string>
+		<string>Image at "fAi"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>safari.png</string>
+			<string>mail.png</string>
+			<string>safari.png</string>
+			<string>mail.png</string>
+			<string>image0096.png</string>
+			<string>image0096.png</string>
+			<string>image0097.png</string>
+			<string>image0097.png</string>
+			<string>image0098.png</string>
+			<string>image0098.png</string>
+			<string>image0099.png</string>
+			<string>image0099.png</string>
+			<string>fAi.png</string>
+			<string>fAi.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>rapidSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[270, 530, 329, 589], command:@"Click", eventNum:2, hotSpot:[2.8951562500000000e+02, 2.4310546900000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"appstore", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0002.png", useExistingImage:@"YES"}, {captureRect:[417, 417, 476, 476], command:@"Click", eventNum:4, hotSpot:[4.5392968800000000e+02, 3.5130078099999997e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"dash", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0004.png"}, {command:@"Click", eventNum:6, hotSpot:[8.7944140600000003e+02, 2.3262890600000000e+02], imageName:@"", screenShotFile:@"Screen0006.png"}, {command:@"Click", eventNum:8, hotSpot:[2.9416015599999997e+02, 5.5844140600000003e+02], imageName:@"", screenShotFile:@"Screen0008.png"}, {command:@"Click", eventNum:10, hotSpot:[5.9130078100000003e+02, 2.2555859400000000e+02], imageName:@"", screenShotFile:@"Screen0010.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>-useExisting- Click "appstore"</string>
+		<string>Click "dash"</string>
+		<string>Click ""</string>
+		<string>Click ""</string>
+		<string>Click ""</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>appstore.png</string>
+			<string>dash.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>turboSession</string>
+	<key>unnamedImageCount</key>
+	<integer>3</integer>
+</dict>
+</plist>

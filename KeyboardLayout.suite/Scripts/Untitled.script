@@ -1,0 +1,12 @@
+﻿TypeText "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+typetext return
+TypeText "abcdefghijklmnopqrstuvwxyz"
+typetext return
+
+(*keydown controlKey, "a"
+KeyDown windowsaltKeyaltKey
+typetext "z"*)
+
+
+
+TypeText controlkey,AltKey,"0"

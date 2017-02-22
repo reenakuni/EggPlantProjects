@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[511, 735, 581, 765], command:@"Click", eventNum:2, hotSpot:[5.4670312500000000e+02, 4.2703125000000000e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0002", searchType:@"Precise", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {command:@"TypeText", eventNum:4, screenShotFile:@"Screen0004.png", text:@"\"hellothere\",Return"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Click "image0002"</string>
+		<string>TypeText "hellothere",Return</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>image0002.png</string>
+			<string>image0002.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>turboSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

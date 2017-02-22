@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[132, 650, 199, 714], command:@"Click", eventNum:2, hotSpot:[1.6367578100000000e+02, 1.1267968800000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"safari", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0002.png", useExistingImage:@"YES"}, {captureRect:[407, 626, 451, 678], command:@"Click", eventNum:4, hotSpot:[4.1932812500000000e+02, 1.3930468800000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"apple", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0004.png"}, {captureRect:[545, 632, 606, 672], command:@"Click", eventNum:6, hotSpot:[5.7781640600000003e+02, 1.5662109400000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0100", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0006.png"}, {captureRect:[551, 511, 601, 554], command:@"Click", eventNum:8, hotSpot:[5.7885546899999997e+02, 2.7903906200000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0101", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0008.png"}, {captureRect:[392, 496, 467, 571], command:@"Click", eventNum:10, hotSpot:[4.3578906200000000e+02, 2.5751171900000003e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0102", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0010.png"}, {captureRect:[392, 315, 467, 390], command:@"Click", eventNum:12, hotSpot:[4.2477343800000000e+02, 4.5431640599999997e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0103", searchType:@"Precise", waitFor:@""}, screenShotFile:@"Screen0012.png"}, {captureRect:[537, 314, 613, 390], command:@"Click", eventNum:14, hotSpot:[5.6632812500000000e+02, 4.4910937500000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0104", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0014.png"}, {captureRect:[711, 507, 747, 544], command:@"Click", eventNum:16, hotSpot:[7.2044140600000003e+02, 2.5314843800000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0105", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0016.png"}, {captureRect:[682, 612, 758, 688], command:@"Click", eventNum:18, hotSpot:[7.1939843800000006e+02, 1.5166406200000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"YAHOO", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0018.png"}, {captureRect:[844, 621, 888, 681], command:@"Click", eventNum:20, hotSpot:[8.6573046899999997e+02, 1.6859375000000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0106", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0020.png"}, {captureRect:[168, 601, 197, 614], command:@"Click", eventNum:22, hotSpot:[1.8939843800000000e+02, 1.8913671900000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Mail", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0022.png"}, {captureRect:[234, 601, 272, 614], command:@"Click", eventNum:24, hotSpot:[2.6191406200000000e+02, 1.8549609400000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"News", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0024.png"}, {captureRect:[309, 601, 362, 614], command:@"Click", eventNum:26, hotSpot:[3.3120312500000000e+02, 1.8862109400000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Finance", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0026.png"}, {captureRect:[399, 599, 444, 614], command:@"Click", eventNum:28, hotSpot:[4.3756640599999997e+02, 1.8762109400000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Sports", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0028.png"}, {captureRect:[481, 601, 531, 614], command:@"Click", eventNum:30, hotSpot:[5.0298046900000003e+02, 1.8870703100000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Politics", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0030.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Click "safari" // use Existing Image </string>
+		<string>Click "apple"</string>
+		<string>Click "image0100"</string>
+		<string>Click "image0101"</string>
+		<string>Click "image0102"</string>
+		<string>Click "image0103"</string>
+		<string>Click "image0104"</string>
+		<string>Click "image0105"</string>
+		<string>Click "YAHOO"</string>
+		<string>Click "image0106"</string>
+		<string>Click "Mail"</string>
+		<string>Click "News"</string>
+		<string>Click "Finance"</string>
+		<string>Click "Sports"</string>
+		<string>Click "Politics"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>safari.png</string>
+			<string>apple.png</string>
+			<string>image0100.png</string>
+			<string>image0101.png</string>
+			<string>image0102.png</string>
+			<string>image0103.png</string>
+			<string>image0104.png</string>
+			<string>image0105.png</string>
+			<string>YAHOO.png</string>
+			<string>image0106.png</string>
+			<string>Mail.png</string>
+			<string>News.png</string>
+			<string>Finance.png</string>
+			<string>Sports.png</string>
+			<string>Politics.png</string>
+			<string>safari.png</string>
+			<string>apple.png</string>
+			<string>image0100.png</string>
+			<string>image0101.png</string>
+			<string>image0102.png</string>
+			<string>image0103.png</string>
+			<string>image0104.png</string>
+			<string>image0105.png</string>
+			<string>YAHOO.png</string>
+			<string>image0106.png</string>
+			<string>Mail.png</string>
+			<string>News.png</string>
+			<string>Finance.png</string>
+			<string>Sports.png</string>
+			<string>Politics.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>turboSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

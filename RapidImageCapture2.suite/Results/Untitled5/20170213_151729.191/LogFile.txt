@@ -1,0 +1,10 @@
+﻿2017-02-13 15:17:29.196 -0700	START		Running Untitled5.script
+2017-02-13 15:17:29.584 -0700	click	mSafari_0001	at (63, 7)	8	on_untitled5	Untitled5.script
+2017-02-13 15:17:30.933 -0700	click	AboutSafari	at (96, 36)	9	on_untitled5	Untitled5.script
+2017-02-13 15:17:31.808 -0700	click	image0052	at (504, 164)	10	on_untitled5	Untitled5.script
+2017-02-13 15:17:33.139 -0700	click	FileEditViewHistoryBookmarksWi_0004	at (173, 10)	11	on_untitled5	Untitled5.script
+2017-02-13 15:17:34.376 -0700	click	Find	at (243, 242)	12	on_untitled5	Untitled5.script
+2017-02-13 15:17:35.627 -0700	click	image0053	at (374, 245)	13	on_untitled5	Untitled5.script
+2017-02-13 15:17:36.871 -0700	click	image0054	at (442, 272)	14	on_untitled5	Untitled5.script
+2017-02-13 15:17:37.972 -0700	EndTestCase		(Duration:"8.773587", Errors:"0", Exceptions:"0", StartTime:"2017-02-13 15:17:29 -0700", Successes:"1", TestCase:"Untitled5.script", Warnings:"0")
+2017-02-13 15:17:37.990 -0700	SUCCESS		Execution Time 0:00:08 Untitled5.script

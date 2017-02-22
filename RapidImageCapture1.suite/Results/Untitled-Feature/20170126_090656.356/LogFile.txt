@@ -1,0 +1,9 @@
+﻿2017-01-26 09:06:56.357 -0700	START		Running Untitled.feature
+2017-01-26 09:06:56.367 -0700	Log		x	2	on_hjfg	Untitled.script<SOURCE>
+2017-01-26 09:06:56.370 -0700	LogSuccess		hjfg
+2017-01-26 09:06:56.371 -0700	Log		x	2	on_hello	Untitled.script<SOURCE>
+2017-01-26 09:06:56.373 -0700	LogSuccess		hello
+2017-01-26 09:06:56.374 -0700	Log		x	2	on_reer	Untitled.script<SOURCE>
+2017-01-26 09:06:56.376 -0700	LogSuccess		reer
+2017-01-26 09:06:56.377 -0700	EndTestCase		(Duration:"0.019398", Errors:"0", Exceptions:"0", StartTime:"2017-01-26 09:06:56 -0700", Successes:"3", TestCase:"Untitled.feature", Warnings:"0")
+2017-01-26 09:06:56.391 -0700	SUCCESS		1 scenarios (0 failed, 1 passed) 3 steps (0 failed, 0 skipped, 3 passed) Execution Time 0:00:00

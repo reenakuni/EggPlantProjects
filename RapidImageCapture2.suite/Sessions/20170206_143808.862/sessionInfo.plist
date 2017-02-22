@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[537, 556, 607, 586], command:@"Image at", eventNum:2, hotSpot:[5.7253295100000003e+02, 2.2187666899999999e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Automator", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0002.png", useExistingImage:@"YES"}, {captureRect:[689, 541, 759, 571], command:@"Image at", eventNum:3, hotSpot:[7.2498118599999998e+02, 2.3633427599999999e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"calc", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0003.png", useExistingImage:@"YES"}, {captureRect:[693, 435, 744, 496], command:@"Image at", eventNum:4, hotSpot:[7.2197852899999998e+02, 3.1339269899999999e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0087", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0004.png"}, {captureRect:[543, 435, 602, 494], command:@"Image at", eventNum:5, hotSpot:[5.7451594399999999e+02, 3.2923016999999999e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"dash", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0005.png"}, {captureRect:[399, 433, 452, 496], command:@"Image at", eventNum:6, hotSpot:[4.3017995300000001e+02, 3.3173645599999998e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0088", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0006.png"}, {captureRect:[394, 321, 458, 386], command:@"Image at", eventNum:7, hotSpot:[4.2961660300000000e+02, 4.5466835200000003e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0089", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0007.png"}, {captureRect:[396, 211, 455, 270], command:@"Image at", eventNum:8, hotSpot:[4.2160576099999997e+02, 5.4428073199999994e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"books", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0008.png", useExistingImage:@"YES"}, {captureRect:[982, 324, 1041, 383], command:@"Image at", eventNum:9, hotSpot:[1.0127349060000000e+03, 4.3620632100000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0090", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0009.png"}, {captureRect:[837, 323, 894, 382], command:@"Image at", eventNum:10, hotSpot:[8.6963828699999999e+02, 4.4415321699999998e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0092", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0010.png"}, {captureRect:[844, 434, 887, 497], command:@"Image at", eventNum:11, hotSpot:[8.7214519600000006e+02, 3.1705356499999999e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0093", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0011.png"}, {captureRect:[837, 549, 893, 607], command:@"Image at", eventNum:12, hotSpot:[8.6437096099999997e+02, 2.1506745699999999e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0094", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0012.png"}, {captureRect:[980, 551, 1043, 603], command:@"Image at", eventNum:13, hotSpot:[1.0162389460000001e+03, 2.0255292600000001e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"chess", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0013.png", useExistingImage:@"YES"}, {captureRect:[980, 433, 1044, 498], command:@"Image at", eventNum:14, hotSpot:[1.0166839920000000e+03, 3.4699382100000003e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0095", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0014.png"}, {captureRect:[679, 559, 749, 589], command:@"Image at", eventNum:15, hotSpot:[7.1414795900000001e+02, 2.1845235099999999e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"calc", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0015.png", useExistingImage:@"YES"}, {captureRect:[543, 435, 602, 494], command:@"Image at", eventNum:16, hotSpot:[5.7800308199999995e+02, 3.3303747199999998e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"dash", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0016.png", useExistingImage:@"YES"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Image at "Automator" // use Existing Image </string>
+		<string>Image at "calc" // use Existing Image </string>
+		<string>Image at "image0087"</string>
+		<string>Image at "dash"</string>
+		<string>Image at "image0088"</string>
+		<string>Image at "image0089"</string>
+		<string>Image at "books" // use Existing Image </string>
+		<string>Image at "image0090"</string>
+		<string>Image at "image0092"</string>
+		<string>Image at "image0093"</string>
+		<string>Image at "image0094"</string>
+		<string>Image at "chess" // use Existing Image </string>
+		<string>Image at "image0095"</string>
+		<string>Image at "calc" // use Existing Image </string>
+		<string>Image at "dash" // use Existing Image </string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>Automator.png</string>
+			<string>calc.png</string>
+			<string>image0087.png</string>
+			<string>dash.png</string>
+			<string>image0088.png</string>
+			<string>image0089.png</string>
+			<string>books.png</string>
+			<string>image0090.png</string>
+			<string>image0092.png</string>
+			<string>image0093.png</string>
+			<string>image0094.png</string>
+			<string>chess.png</string>
+			<string>image0095.png</string>
+			<string>calc.png</string>
+			<string>dash.png</string>
+			<string>Automator.png</string>
+			<string>calc.png</string>
+			<string>image0087.png</string>
+			<string>dash.png</string>
+			<string>image0088.png</string>
+			<string>image0089.png</string>
+			<string>books.png</string>
+			<string>image0090.png</string>
+			<string>image0092.png</string>
+			<string>image0093.png</string>
+			<string>image0094.png</string>
+			<string>chess.png</string>
+			<string>image0095.png</string>
+			<string>calc.png</string>
+			<string>dash.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>rapidSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

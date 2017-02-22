@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[130, 746, 143, 759], command:@"Image at", eventNum:2, hotSpot:[1.3588671900000000e+02, 4.4121093999999999e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0107", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0002.png", skipStep:@"YES"}, {captureRect:[150, 746, 163, 759], command:@"Image at", eventNum:3, hotSpot:[1.6158203100000000e+02, 4.2429687999999999e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0108", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0003.png", skipStep:@"YES"}, {captureRect:[17, 723, 389, 762], command:@"Image at", eventNum:4, hotSpot:[2.0303906200000000e+02, 5.0414062000000001e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"IVMH", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0004.png", skipStep:@"YES"}, {captureRect:[188, 679, 258, 709], command:@"Image at", eventNum:5, hotSpot:[2.2339843800000000e+02, 9.8207031000000001e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"yahoo1", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0005.png", useExistingImage:@"YES"}, {captureRect:[341, 671, 391, 692], command:@"Image at", eventNum:6, hotSpot:[3.1598046900000003e+02, 1.1344140600000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"safari1", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0006.png", useExistingImage:@"YES"}, {captureRect:[383, 645, 453, 675], command:@"Image at", eventNum:7, hotSpot:[4.1896875000000000e+02, 1.3202343800000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0110", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0007.png", skipStep:@"YES"}, {captureRect:[381, 619, 535, 632], command:@"Image at", eventNum:8, hotSpot:[4.4119140599999997e+02, 1.7364843800000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"NBATHEVERTICAL1", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0008.png"}, {captureRect:[406, 539, 476, 569], command:@"Image at", eventNum:9, hotSpot:[4.4119140599999997e+02, 2.3814843800000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image01111", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0009.png"}, {captureRect:[410, 494, 480, 524], command:@"Image at", eventNum:10, hotSpot:[4.4501171900000003e+02, 2.8324609400000003e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"chess1", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0010.png"}, {captureRect:[149, 415, 669, 459], command:@"Image at", eventNum:11, hotSpot:[4.5160546900000003e+02, 3.5812109400000003e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"11vSfiffc", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0011.png"}, {captureRect:[413, 391, 483, 421], command:@"Image at", eventNum:12, hotSpot:[4.4848046900000003e+02, 3.8659375000000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"dash", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0012.png", skipStep:@"YES", useExistingImage:@"YES"}, {captureRect:[561, 381, 638, 396], command:@"Image at", eventNum:13, hotSpot:[4.4639843800000000e+02, 4.0360546900000003e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"calc1", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0013.png"}, {captureRect:[394, 347, 464, 377], command:@"Image at", eventNum:14, hotSpot:[4.2903906200000000e+02, 4.3069140599999997e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image01091", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0014.png"}, {captureRect:[379, 321, 449, 351], command:@"Image at", eventNum:15, hotSpot:[4.1445312500000000e+02, 4.5603906200000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0112", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0015.png", skipStep:@"YES"}, {captureRect:[255, 289, 423, 321], command:@"Image at", eventNum:16, hotSpot:[3.8632812500000000e+02, 4.8555078099999997e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"SkippingPresidentialVisit", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0016.png", skipStep:@"YES"}, {captureRect:[255, 289, 423, 321], command:@"Image at", eventNum:17, hotSpot:[3.4882812500000000e+02, 4.9978906200000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"PatriotssafetyDevinMcCourtysay", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0017.png", skipStep:@"YES"}, {captureRect:[255, 289, 423, 321], command:@"Image at", eventNum:18, hotSpot:[2.8988671900000003e+02, 4.7860546900000003e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"PatriotsQafptv11", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0018.png"}, {captureRect:[179, 340, 599, 591], command:@"Image at", eventNum:19, hotSpot:[2.4521875000000000e+02, 4.2495312500000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image011311", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0019.png"}, {captureRect:[179, 340, 599, 591], command:@"Image at", eventNum:20, hotSpot:[2.5667578099999997e+02, 3.7677343800000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"NLY1", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0020.png"}, {captureRect:[179, 340, 599, 591], command:@"Image at", eventNum:21, hotSpot:[2.9139843800000000e+02, 3.2017578099999997e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"RRY", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0021.png", skipStep:@"YES"}, {captureRect:[179, 341, 647, 592], command:@"Image at", eventNum:22, hotSpot:[3.4856640599999997e+02, 2.8488671900000003e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0114", searchType:@"Tolerant", skipStep:False, useExistingImage:False, waitFor:@""}, screenShotFile:@"Screen0022.png", skipStep:@"YES"}, {captureRect:[620, 469, 642, 522], command:@"Image at", eventNum:23, hotSpot:[6.3645312500000000e+02, 2.7663671900000003e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0115", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0023.png", skipStep:@"YES"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>-skipped- Image at "image0107"</string>
+		<string>-skipped- Image at "image0108"</string>
+		<string>-skipped- Image at "IVMH"</string>
+		<string>Image at "yahoo1" // use Existing Image </string>
+		<string>Image at "safari1" // use Existing Image </string>
+		<string>-skipped- Image at "image0110"</string>
+		<string>Image at "NBATHEVERTICAL1"</string>
+		<string>Image at "image01111"</string>
+		<string>Image at "chess1"</string>
+		<string>Image at "11vSfiffc"</string>
+		<string>-skipped- Image at "dash" // use Existing Image </string>
+		<string>Image at "calc1"</string>
+		<string>Image at "image01091"</string>
+		<string>-skipped- Image at "image0112"</string>
+		<string>-skipped- Image at "SkippingPresidentialVisit"</string>
+		<string>-skipped- Image at "PatriotssafetyDevinMcCourtysay"</string>
+		<string>Image at "PatriotsQafptv11"</string>
+		<string>Image at "image011311"</string>
+		<string>Image at "NLY1"</string>
+		<string>-skipped- Image at "RRY"</string>
+		<string>-skipped- Image at "image0114"</string>
+		<string>-skipped- Image at "image0115"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>image0107.png</string>
+			<string>image0108.png</string>
+			<string>IVMH.png</string>
+			<string>image0110.png</string>
+			<string>11vSfiffc.png</string>
+			<string>dash.png</string>
+			<string>image0112.png</string>
+			<string>SkippingPresidentialVisit.png</string>
+			<string>PatriotssafetyDevinMcCourtysay.png</string>
+			<string>RRY.png</string>
+			<string>image0107.png</string>
+			<string>image0108.png</string>
+			<string>IVMH.png</string>
+			<string>11vSfiffc.png</string>
+			<string>dash.png</string>
+			<string>image0112.png</string>
+			<string>SkippingPresidentialVisit.png</string>
+			<string>PatriotssafetyDevinMcCourtysay.png</string>
+			<string>RRY.png</string>
+			<string>image0114.png</string>
+			<string>image0114.png</string>
+			<string>image0115.png</string>
+			<string>image0115.png</string>
+			<string>yahoo1.png</string>
+			<string>safari1.png</string>
+			<string>NBATHEVERTICAL1.png</string>
+			<string>image01111.png</string>
+			<string>chess1.png</string>
+			<string>calc1.png</string>
+			<string>image01091.png</string>
+			<string>PatriotsQafptv11.png</string>
+			<string>image011311.png</string>
+			<string>NLY1.png</string>
+			<string>yahoo1.png</string>
+			<string>safari1.png</string>
+			<string>NBATHEVERTICAL1.png</string>
+			<string>image01111.png</string>
+			<string>chess1.png</string>
+			<string>11vSfiffc.png</string>
+			<string>calc1.png</string>
+			<string>image01091.png</string>
+			<string>PatriotsQafptv11.png</string>
+			<string>image011311.png</string>
+			<string>NLY1.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>rapidSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

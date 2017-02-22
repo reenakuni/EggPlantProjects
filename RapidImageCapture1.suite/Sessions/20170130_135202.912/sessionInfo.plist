@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[465, 482, 535, 512], command:@"Image at", eventNum:2, hotSpot:[5.0065820300000001e+02, 2.9526953099999997e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0460", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[582, 487, 596, 519], command:@"Image at", eventNum:3, hotSpot:[5.8601953100000003e+02, 2.8689453099999997e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0461", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0003.png"}, {captureRect:[638, 335, 701, 388], command:@"Image at", eventNum:4, hotSpot:[6.6622070299999996e+02, 4.3021289100000001e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"TimeMachine", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0004.png", useExistingImage:@"YES"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Image at "image0460"</string>
+		<string>Image at "image0461"</string>
+		<string>-useExisting- Image at "TimeMachine"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>image0460.png</string>
+			<string>image0460.png</string>
+			<string>image0461.png</string>
+			<string>image0461.png</string>
+			<string>TimeMachine.png</string>
+			<string>image0460.png</string>
+			<string>image0461.png</string>
+			<string>TimeMachine.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>rapidSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

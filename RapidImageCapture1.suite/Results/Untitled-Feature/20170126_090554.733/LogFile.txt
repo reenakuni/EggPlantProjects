@@ -1,0 +1,6 @@
+﻿2017-01-26 09:05:54.734 -0700	START		Running Untitled.feature
+2017-01-26 09:05:54.745 -0700	LogWarning		hjfg
+2017-01-26 09:05:54.746 -0700	LogWarning		hello
+2017-01-26 09:05:54.747 -0700	LogWarning		reer
+2017-01-26 09:05:54.749 -0700	EndTestCase		(Duration:"0.012758", Errors:"0", Exceptions:"0", StartTime:"2017-01-26 09:05:54 -0700", Successes:"1", TestCase:"Untitled.feature", Warnings:"3")
+2017-01-26 09:05:54.835 -0700	FAILURE		1 scenarios (1 failed, 0 passed) 3 steps (0 failed, 3 skipped, 0 passed) Execution Time 0:00:00

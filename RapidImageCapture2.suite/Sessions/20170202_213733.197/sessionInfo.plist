@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[396, 547, 455, 606], command:@"Click", eventNum:2, hotSpot:[424, 212], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0080", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[399, 433, 452, 496], command:@"Click", eventNum:4, hotSpot:[426, 322], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0001", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0004.png"}, {captureRect:[411, 336, 441, 363], command:@"Click", eventNum:6, hotSpot:[427, 448], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0002", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0006.png"}, {captureRect:[396, 211, 455, 270], command:@"Click", eventNum:8, hotSpot:[426, 551], imageName:@"", infoDict:{folderPath:@"/", imageName:@"ilLI", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0008.png"}, {captureRect:[704, 555, 774, 585], command:@"Click", eventNum:10, hotSpot:[739.472268, 222.762266], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0003", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0010.png"}, {captureRect:[980, 433, 1044, 498], command:@"Click", eventNum:12, hotSpot:[1035, 351], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0004", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0012.png"}, {captureRect:[982, 324, 1041, 383], command:@"Click", eventNum:14, hotSpot:[1007, 431], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0005", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0014.png"}, {captureRect:[836, 323, 894, 382], command:@"Click", eventNum:16, hotSpot:[856, 450], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0006", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0016.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Click "image0080"</string>
+		<string>Click "image0001"</string>
+		<string>Click "image0002"</string>
+		<string>Click "ilLI"</string>
+		<string>Click "image0003"</string>
+		<string>Click "image0004"</string>
+		<string>Click "image0005"</string>
+		<string>Click "image0006"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>image0080.png</string>
+			<string>image0080.png</string>
+			<string>image0080.png</string>
+			<string>image0001.png</string>
+			<string>image0001.png</string>
+			<string>image0002.png</string>
+			<string>image0002.png</string>
+			<string>ilLI.png</string>
+			<string>ilLI.png</string>
+			<string>image0003.png</string>
+			<string>image0003.png</string>
+			<string>image0004.png</string>
+			<string>image0004.png</string>
+			<string>image0005.png</string>
+			<string>image0005.png</string>
+			<string>image0006.png</string>
+			<string>image0006.png</string>
+		</array>
+		<key>rapidc1</key>
+		<array/>
+	</dict>
+	<key>sessionType</key>
+	<string>turboSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

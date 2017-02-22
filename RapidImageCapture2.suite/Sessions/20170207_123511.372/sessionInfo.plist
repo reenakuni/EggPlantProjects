@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[126, 717, 184, 734], command:@"Image at", eventNum:2, hotSpot:[173, 78], imageName:@"", infoDict:{folderPath:@"/", imageName:@"AHome", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[126, 717, 184, 734], command:@"Image at", eventNum:3, hotSpot:[140.832031, 77], imageName:@"", infoDict:{folderPath:@"/", imageName:@"AHome_0001", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0003.png"}, {captureRect:[186, 676, 280, 700], command:@"Image at", eventNum:4, hotSpot:[216, 112], imageName:@"", infoDict:{folderPath:@"/", imageName:@"YAHOO_0001", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0004.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Image at "AHome"</string>
+		<string>Image at "AHome_0001"</string>
+		<string>Image at "YAHOO_0001"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>AHome.png</string>
+			<string>AHome.png</string>
+			<string>AHome_0001.png</string>
+			<string>AHome_0001.png</string>
+			<string>YAHOO_0001.png</string>
+			<string>YAHOO_0001.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>rapidSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

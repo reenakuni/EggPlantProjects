@@ -1,0 +1,12 @@
+1	0.00117701	start	
+2	1.32875	keyDown	{modifiers:256, string:@"a", theKey:@"a"}
+3	1.44172	keyUp	{modifiers:256, string:@"a", theKey:@"a"}
+4	1.61743	keyDown	{modifiers:256, string:@"p", theKey:@"p"}
+5	1.74653	keyUp	{modifiers:256, string:@"p", theKey:@"p"}
+6	1.76805	keyDown	{modifiers:256, string:@"p", theKey:@"p"}
+7	1.84804	keyUp	{modifiers:256, string:@"p", theKey:@"p"}
+8	5.51836	keyDown	{modifiers:256, string:@"l", theKey:@"l"}
+9	5.63414	keyUp	{modifiers:256, string:@"l", theKey:@"l"}
+10	7.23277	keyDown	{modifiers:256, string:@"e", theKey:@"e"}
+11	7.30055	keyUp	{modifiers:256, string:@"e", theKey:@"e"}
+12	11.0144	end	

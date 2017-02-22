@@ -1,0 +1,13 @@
+﻿2017-02-08 15:29:30.446 -0700	START		Running Untitled.script
+2017-02-08 15:29:30.973 -0700	click	start_session	at (184, 64)	1	on_untitled	Untitled.script
+2017-02-08 15:29:32.125 -0700	click	start_rapid_image_capture_session	at (318, 91)	2	on_untitled	Untitled.script
+2017-02-08 15:29:33.279 -0700	click	eggplant	at (79, 254)	3	on_untitled	Untitled.script
+2017-02-08 15:29:34.158 -0700	click	update	at (510, 212)	4	on_untitled	Untitled.script
+2017-02-08 15:29:35.094 -0700	click	bash	at (450, 294)	5	on_untitled	Untitled.script
+2017-02-08 15:29:35.969 -0700	click	end_session	at (181, 64)	6	on_untitled	Untitled.script
+2017-02-08 15:30:09.147 -0700	click	OpenSession	at (1003, 630)	7	on_untitled	Untitled.script
+2017-02-08 15:30:10.283 -0700	click	GenerateImages	at (986, 683)	8	on_untitled	Untitled.script
+2017-02-08 15:30:16.083 -0700	click	untitedsession2017C	at (543, 287)	9	on_untitled	Untitled.script
+2017-02-08 15:30:17.241 -0700	click	Delete	at (502, 631)	10	on_untitled	Untitled.script
+2017-02-08 15:31:26.438 -0700	EndTestCase		(Duration:"115.989262", Errors:"1", Exceptions:"0", StartTime:"2017-02-08 15:29:30 -0700", Successes:"0", TestCase:"Untitled.script", Warnings:"0")
+2017-02-08 15:31:26.439 -0700	ABORTED		Execution Time 0:01:55 Untitled.script

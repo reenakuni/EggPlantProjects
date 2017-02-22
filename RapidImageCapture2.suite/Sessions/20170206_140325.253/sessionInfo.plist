@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[396, 548, 455, 607], command:@"Image at", eventNum:2, hotSpot:[4.1795525099999998e+02, 2.2024899099999999e+02], imageName:@"", infoDict:{folderPath:@"/HEYTHERE", imageName:@"appstore", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[530, 557, 600, 587], command:@"Image at", eventNum:3, hotSpot:[5.6505729199999996e+02, 2.2075024900000000e+02], imageName:@"", infoDict:{folderPath:@"/HEYTHERE", imageName:@"image0001", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0003.png"}, {captureRect:[980, 551, 1043, 603], command:@"Image at", eventNum:4, hotSpot:[1.0058620320000000e+03, 2.1937038400000000e+02], imageName:@"", infoDict:{folderPath:@"/HEYTHERE", imageName:@"Settings", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0004.png"}, {captureRect:[676, 557, 746, 587], command:@"Image at", eventNum:5, hotSpot:[7.1142134399999998e+02, 2.2037289799999999e+02], imageName:@"", infoDict:{folderPath:@"/HEYTHERE", imageName:@"image0002", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0005.png"}, {captureRect:[396, 211, 455, 270], command:@"Image at", eventNum:6, hotSpot:[4.3412340599999999e+02, 5.5122511399999996e+02], imageName:@"", infoDict:{folderPath:@"/HEYTHERE", imageName:@"image0003", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0006.png"}, {captureRect:[543, 435, 602, 494], command:@"Image at", eventNum:7, hotSpot:[5.7409343100000001e+02, 3.2768697400000002e+02], imageName:@"", infoDict:{folderPath:@"/HEYTHERE", imageName:@"image0004", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0007.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Image at "HEYTHERE/appstore"</string>
+		<string>Image at "HEYTHERE/image0001"</string>
+		<string>Image at "HEYTHERE/Settings"</string>
+		<string>Image at "HEYTHERE/image0002"</string>
+		<string>Image at "HEYTHERE/image0003"</string>
+		<string>Image at "HEYTHERE/image0004"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key>HEYTHERE</key>
+		<array>
+			<string>appstore.png</string>
+			<string>image0001.png</string>
+			<string>Settings.png</string>
+			<string>image0002.png</string>
+			<string>image0003.png</string>
+			<string>image0004.png</string>
+			<string>appstore.png</string>
+			<string>image0001.png</string>
+			<string>Settings.png</string>
+			<string>image0002.png</string>
+			<string>image0003.png</string>
+			<string>image0004.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>rapidSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

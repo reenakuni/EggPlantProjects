@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[154, 776, 179, 789], command:@"Image at", eventNum:2, hotSpot:[1.7123437500000000e+02, 8.4843750000000000e+00], imageName:@"", infoDict:{folderPath:@"/", imageName:@"FileEditViewHistoryBookmarksWi", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[196, 776, 229, 789], command:@"Image at", eventNum:3, hotSpot:[2.1212109400000000e+02, 1.0566406000000001e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"FileEditViewHistoryBookmarks", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0003.png"}, {captureRect:[247, 774, 294, 789], command:@"Image at", eventNum:4, hotSpot:[2.6867578099999997e+02, 7.3593750000000000e+00], imageName:@"", infoDict:{folderPath:@"/", imageName:@"ViewHistoryBookmarks", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0004.png"}, {captureRect:[247, 774, 294, 789], command:@"Image at", eventNum:5, hotSpot:[2.6867578099999997e+02, 9.3984380000000005e+00], imageName:@"", infoDict:{folderPath:@"/", imageName:@"ViewHistoryBookmarks_0001", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0005.png"}, {captureRect:[349, 615, 362, 628], command:@"Image at", eventNum:6, hotSpot:[3.5621875000000000e+02, 1.6873437500000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0110", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0006.png"}, {captureRect:[263, 566, 276, 579], command:@"Image at", eventNum:7, hotSpot:[2.6763671900000003e+02, 2.2046875000000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0116", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0007.png"}, {captureRect:[214, 590, 293, 656], command:@"Image at", eventNum:8, hotSpot:[2.5648437500000000e+02, 1.6989843800000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"chess", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0008.png", useExistingImage:@"YES"}, {captureRect:[277, 260, 345, 294], command:@"Image at", eventNum:9, hotSpot:[3.1685937500000000e+02, 5.1139843800000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"qtplayer", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0009.png", useExistingImage:@"YES"}, {captureRect:[472, 485, 542, 515], command:@"Image at", eventNum:10, hotSpot:[5.0710546900000003e+02, 2.9271875000000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"photos", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0010.png", useExistingImage:@"YES"}, {captureRect:[557, 476, 622, 540], command:@"Image at", eventNum:11, hotSpot:[6.0338281199999994e+02, 2.7952343800000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"dash", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0011.png", useExistingImage:@"YES"}, {captureRect:[638, 335, 701, 390], command:@"Image at", eventNum:12, hotSpot:[6.6678906199999994e+02, 4.3142578099999997e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0117", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0012.png"}, {captureRect:[214, 590, 293, 656], command:@"Image at", eventNum:13, hotSpot:[2.5458203100000000e+02, 1.7760937500000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0118", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0013.png"}, {captureRect:[476, 479, 546, 509], command:@"Image at", eventNum:14, hotSpot:[5.1163671900000003e+02, 2.9845312500000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0119", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0014.png"}, {captureRect:[557, 476, 622, 540], command:@"Image at", eventNum:15, hotSpot:[5.7648046899999997e+02, 2.8769140599999997e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0120", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0015.png"}, {captureRect:[635, 354, 705, 384], command:@"Image at", eventNum:16, hotSpot:[6.7057812500000000e+02, 4.2345312500000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0121", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0016.png"}, {captureRect:[277, 260, 345, 294], command:@"Image at", eventNum:17, hotSpot:[3.1599609400000003e+02, 5.2571875000000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0122", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0017.png"}, {captureRect:[777, 516, 847, 546], command:@"Image at", eventNum:18, hotSpot:[8.1299609399999997e+02, 2.6137109400000003e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0123", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0018.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Image at "FileEditViewHistoryBookmarksWi"</string>
+		<string>Image at "FileEditViewHistoryBookmarks"</string>
+		<string>Image at "ViewHistoryBookmarks"</string>
+		<string>Image at "ViewHistoryBookmarks_0001"</string>
+		<string>Image at "image0110"</string>
+		<string>Image at "image0116"</string>
+		<string>Image at "chess" // use Existing Image </string>
+		<string>Image at "qtplayer" // use Existing Image </string>
+		<string>Image at "photos" // use Existing Image </string>
+		<string>Image at "dash" // use Existing Image </string>
+		<string>Image at "image0117"</string>
+		<string>Image at "image0118"</string>
+		<string>Image at "image0119"</string>
+		<string>Image at "image0120"</string>
+		<string>Image at "image0121"</string>
+		<string>Image at "image0122"</string>
+		<string>Image at "image0123"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>FileEditViewHistoryBookmarksWi.png</string>
+			<string>FileEditViewHistoryBookmarks.png</string>
+			<string>ViewHistoryBookmarks.png</string>
+			<string>ViewHistoryBookmarks_0001.png</string>
+			<string>image0110.png</string>
+			<string>image0116.png</string>
+			<string>chess.png</string>
+			<string>qtplayer.png</string>
+			<string>photos.png</string>
+			<string>dash.png</string>
+			<string>FileEditViewHistoryBookmarksWi.png</string>
+			<string>FileEditViewHistoryBookmarks.png</string>
+			<string>ViewHistoryBookmarks.png</string>
+			<string>ViewHistoryBookmarks_0001.png</string>
+			<string>image0110.png</string>
+			<string>image0116.png</string>
+			<string>chess.png</string>
+			<string>qtplayer.png</string>
+			<string>photos.png</string>
+			<string>dash.png</string>
+			<string>image0117.png</string>
+			<string>image0117.png</string>
+			<string>image0118.png</string>
+			<string>image0118.png</string>
+			<string>image0119.png</string>
+			<string>image0119.png</string>
+			<string>image0120.png</string>
+			<string>image0120.png</string>
+			<string>image0121.png</string>
+			<string>image0121.png</string>
+			<string>image0122.png</string>
+			<string>image0122.png</string>
+			<string>image0123.png</string>
+			<string>image0123.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>rapidSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

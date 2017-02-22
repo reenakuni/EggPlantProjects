@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[208, 716, 221, 729], command:@"Image at", eventNum:2, hotSpot:[2.1333593800000000e+02, 7.5609375000000000e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0002", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[228, 716, 241, 729], command:@"Image at", eventNum:3, hotSpot:[2.3851562500000000e+02, 7.2832031000000001e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0003", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0003.png"}, {captureRect:[248, 716, 261, 729], command:@"Image at", eventNum:4, hotSpot:[2.5158593800000000e+02, 7.4914062000000001e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0004", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0004.png"}, {captureRect:[195, 702, 432, 741], command:@"Image at", eventNum:5, hotSpot:[2.8305859400000003e+02, 7.6957031000000001e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0005", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0005.png"}, {captureRect:[308, 715, 317, 728], command:@"Image at", eventNum:6, hotSpot:[3.1071093800000000e+02, 7.4871093999999999e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0006", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0006.png"}, {captureRect:[345, 715, 361, 728], command:@"Image at", eventNum:7, hotSpot:[3.5772656200000000e+02, 7.4871093999999999e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0007", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0007.png"}, {captureRect:[949, 672, 1112, 697], command:@"Image at", eventNum:8, hotSpot:[9.6326562500000000e+02, 1.0751171900000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0008", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0008.png"}, {captureRect:[1209, 675, 1224, 690], command:@"Image at", eventNum:9, hotSpot:[1.2169179690000001e+03, 1.1402343800000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0009", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0009.png"}, {captureRect:[1136, 581, 1269, 597], command:@"Image at", eventNum:10, hotSpot:[1.1909609379999999e+03, 1.9892968800000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Keepthisbuildforever", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0010.png"}, {captureRect:[1112, 544, 1244, 561], command:@"Image at", eventNum:11, hotSpot:[1.1795429690000001e+03, 2.3799609400000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Started4hr5minago", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0011.png"}, {captureRect:[585, 568, 869, 597], command:@"Image at", eventNum:12, hotSpot:[5.5360156199999994e+02, 2.1798437500000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Build2860Feb92017", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0012.png"}, {captureRect:[625, 473, 721, 492], command:@"Image at", eventNum:13, hotSpot:[5.7414062500000000e+02, 3.1851171900000003e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"e9gMandmg", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0013.png"}, {captureRect:[597, 435, 656, 444], command:@"Image at", eventNum:14, hotSpot:[5.7205859399999997e+02, 3.7324609400000003e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"rtevisiuns", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0014.png"}, {captureRect:[549, 193, 756, 217], command:@"Image at", eventNum:15, hotSpot:[5.6897656199999994e+02, 5.9091406199999994e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"irStartedbyanSCMchange", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0015.png"}, {captureRect:[213, 406, 318, 430], command:@"Image at", eventNum:16, hotSpot:[2.2269921900000000e+02, 3.7506640599999997e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"QDeleteBuild", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0016.png"}, {captureRect:[216, 282, 332, 298], command:@"Image at", eventNum:17, hotSpot:[2.2790625000000000e+02, 5.1010937500000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"hPreviousBuild", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0017.png"}, {captureRect:[212, 306, 237, 331], command:@"Image at", eventNum:18, hotSpot:[2.2682421900000000e+02, 4.6887109400000003e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0010", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0018.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Image at "image0002"</string>
+		<string>Image at "image0003"</string>
+		<string>Image at "image0004"</string>
+		<string>Image at "image0005"</string>
+		<string>Image at "image0006"</string>
+		<string>Image at "image0007"</string>
+		<string>Image at "image0008"</string>
+		<string>Image at "image0009"</string>
+		<string>Image at "Keepthisbuildforever"</string>
+		<string>Image at "Started4hr5minago"</string>
+		<string>Image at "Build2860Feb92017"</string>
+		<string>Image at "e9gMandmg"</string>
+		<string>Image at "rtevisiuns"</string>
+		<string>Image at "irStartedbyanSCMchange"</string>
+		<string>Image at "QDeleteBuild"</string>
+		<string>Image at "hPreviousBuild"</string>
+		<string>Image at "image0010"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>image0002.png</string>
+			<string>image0002.png</string>
+			<string>image0003.png</string>
+			<string>image0003.png</string>
+			<string>image0004.png</string>
+			<string>image0004.png</string>
+			<string>image0005.png</string>
+			<string>image0005.png</string>
+			<string>image0006.png</string>
+			<string>image0006.png</string>
+			<string>image0007.png</string>
+			<string>image0007.png</string>
+			<string>image0008.png</string>
+			<string>image0008.png</string>
+			<string>image0009.png</string>
+			<string>image0009.png</string>
+			<string>Keepthisbuildforever.png</string>
+			<string>Keepthisbuildforever.png</string>
+			<string>Started4hr5minago.png</string>
+			<string>Started4hr5minago.png</string>
+			<string>Build2860Feb92017.png</string>
+			<string>Build2860Feb92017.png</string>
+			<string>e9gMandmg.png</string>
+			<string>e9gMandmg.png</string>
+			<string>rtevisiuns.png</string>
+			<string>rtevisiuns.png</string>
+			<string>irStartedbyanSCMchange.png</string>
+			<string>irStartedbyanSCMchange.png</string>
+			<string>QDeleteBuild.png</string>
+			<string>QDeleteBuild.png</string>
+			<string>hPreviousBuild.png</string>
+			<string>hPreviousBuild.png</string>
+			<string>image0010.png</string>
+			<string>image0010.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>rapidSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

@@ -1,0 +1,9 @@
+﻿(* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+  Script generated:  2017-01-26 14:58:47
+  From session:  untitled session
+  Captured on:  2017-01-26 14:58:25
+  From server:  testplants-Mac-2
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *)
+
+TypeText CommandDown,ControlDown,OptionDown,"o"AltUp,OptionUp,ShiftDown,"s",ControlUp,ShiftUp,"ca",AltDown,ControlDown,OptionDown,ShiftDown,"r"AltUp,ControlUp,OptionUp,ShiftUp," nom",ControlDown,OptionDown,ShiftDown,"i",CommandDown,OptionUp,ShiftUp,"n",OptionDown,"a",CommandUp,ControlUp,OptionUp,"t",ControlDown,"É",CommandDown,ControlUp,"o",ControlKey,ShiftKey,"n"AltUp,"s"
+TypeText Return

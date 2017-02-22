@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[464, 477, 534, 507], command:@"Image at", eventNum:2, hotSpot:[4.9920312500000000e+02, 3.0075000000000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0001", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[610, 425, 624, 436], command:@"Image at", eventNum:3, hotSpot:[6.1223046899999997e+02, 3.6594531200000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0002", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0003.png"}, {captureRect:[672, 369, 683, 383], command:@"Image at", eventNum:4, hotSpot:[6.8071484399999997e+02, 4.1976171900000003e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0003", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0004.png"}, {captureRect:[761, 524, 831, 554], command:@"Image at", eventNum:5, hotSpot:[7.9608984399999997e+02, 2.5363671900000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0004", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0005.png"}, {captureRect:[519, 374, 566, 397], command:@"Image at", eventNum:6, hotSpot:[5.2674218800000006e+02, 4.0328906200000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0005", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0006.png"}, {captureRect:[78, 8, 114, 44], command:@"Image at", eventNum:7, hotSpot:[9.2437500000000000e+01, 7.6916406199999994e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0006", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0007.png"}, {captureRect:[78, 8, 114, 44], command:@"Image at", eventNum:8, hotSpot:[9.7007812000000001e+01, 7.6023437500000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0007", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0008.png"}, {captureRect:[136, 650, 199, 714], command:@"Image at", eventNum:9, hotSpot:[1.6806250000000000e+02, 1.1216796900000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0008", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0009.png"}, {captureRect:[294, 648, 352, 715], command:@"Image at", eventNum:10, hotSpot:[3.1558984400000003e+02, 1.1459765600000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0009", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0010.png"}, {captureRect:[292, 532, 356, 587], command:@"Image at", eventNum:11, hotSpot:[3.1949218800000000e+02, 2.3535937500000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0010", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0011.png"}, {captureRect:[136, 529, 199, 589], command:@"Image at", eventNum:12, hotSpot:[1.6539453100000000e+02, 2.2872265600000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0011", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0012.png"}, {captureRect:[136, 405, 202, 472], command:@"Image at", eventNum:13, hotSpot:[1.7033984400000000e+02, 3.6440234400000003e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0012", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0013.png"}, {captureRect:[290, 407, 357, 465], command:@"Image at", eventNum:14, hotSpot:[3.1474218800000000e+02, 3.5537500000000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0013", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0014.png"}, {captureRect:[136, 286, 199, 344], command:@"Image at", eventNum:15, hotSpot:[1.7073046900000000e+02, 4.7403906200000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0014", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0015.png"}, {captureRect:[307, 295, 341, 325], command:@"Image at", eventNum:16, hotSpot:[3.1578515599999997e+02, 4.7356640599999997e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0015", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0016.png"}, {captureRect:[466, 296, 497, 334], command:@"Image at", eventNum:17, hotSpot:[4.7746484400000003e+02, 4.7183203099999997e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0016", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0017.png"}, {captureRect:[466, 427, 498, 447], command:@"Image at", eventNum:18, hotSpot:[4.8992187500000000e+02, 3.5203906200000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0017", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0018.png"}, {captureRect:[446, 531, 514, 588], command:@"Image at", eventNum:19, hotSpot:[4.7017187500000000e+02, 2.3250000000000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0018", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0019.png"}, {captureRect:[451, 649, 509, 715], command:@"Image at", eventNum:20, hotSpot:[4.7885156200000000e+02, 1.1526562500000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0019", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0020.png"}, {captureRect:[612, 660, 658, 696], command:@"Image at", eventNum:21, hotSpot:[6.2522656199999994e+02, 1.1083203100000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0020", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0021.png"}, {captureRect:[604, 527, 667, 592], command:@"Image at", eventNum:22, hotSpot:[6.3286718800000006e+02, 2.2363671900000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0021", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0022.png"}, {captureRect:[620, 430, 690, 460], command:@"Image at", eventNum:23, hotSpot:[6.5539453100000003e+02, 3.4712500000000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0022", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0023.png"}, {captureRect:[615, 329, 685, 359], command:@"Image at", eventNum:24, hotSpot:[6.5053125000000000e+02, 4.4812500000000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0023", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0024.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Image at "image0001"</string>
+		<string>Image at "image0002"</string>
+		<string>Image at "image0003"</string>
+		<string>Image at "image0004"</string>
+		<string>Image at "image0005"</string>
+		<string>Image at "image0006"</string>
+		<string>Image at "image0007"</string>
+		<string>Image at "image0008"</string>
+		<string>Image at "image0009"</string>
+		<string>Image at "image0010"</string>
+		<string>Image at "image0011"</string>
+		<string>Image at "image0012"</string>
+		<string>Image at "image0013"</string>
+		<string>Image at "image0014"</string>
+		<string>Image at "image0015"</string>
+		<string>Image at "image0016"</string>
+		<string>Image at "image0017"</string>
+		<string>Image at "image0018"</string>
+		<string>Image at "image0019"</string>
+		<string>Image at "image0020"</string>
+		<string>Image at "image0021"</string>
+		<string>Image at "image0022"</string>
+		<string>Image at "image0023"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>image0001.png</string>
+			<string>image0002.png</string>
+			<string>image0003.png</string>
+			<string>image0004.png</string>
+			<string>image0005.png</string>
+			<string>image0006.png</string>
+			<string>image0007.png</string>
+			<string>image0008.png</string>
+			<string>image0009.png</string>
+			<string>image0010.png</string>
+			<string>image0011.png</string>
+			<string>image0012.png</string>
+			<string>image0013.png</string>
+			<string>image0014.png</string>
+			<string>image0015.png</string>
+			<string>image0016.png</string>
+			<string>image0017.png</string>
+			<string>image0018.png</string>
+			<string>image0019.png</string>
+			<string>image0020.png</string>
+			<string>image0021.png</string>
+			<string>image0022.png</string>
+			<string>image0023.png</string>
+			<string>image0001.png</string>
+			<string>image0002.png</string>
+			<string>image0003.png</string>
+			<string>image0004.png</string>
+			<string>image0005.png</string>
+			<string>image0006.png</string>
+			<string>image0007.png</string>
+			<string>image0008.png</string>
+			<string>image0009.png</string>
+			<string>image0010.png</string>
+			<string>image0011.png</string>
+			<string>image0012.png</string>
+			<string>image0013.png</string>
+			<string>image0014.png</string>
+			<string>image0015.png</string>
+			<string>image0016.png</string>
+			<string>image0017.png</string>
+			<string>image0018.png</string>
+			<string>image0019.png</string>
+			<string>image0020.png</string>
+			<string>image0021.png</string>
+			<string>image0022.png</string>
+			<string>image0023.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>rapidSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

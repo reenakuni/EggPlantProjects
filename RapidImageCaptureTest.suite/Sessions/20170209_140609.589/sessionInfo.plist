@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[208, 716, 221, 729], command:@"Image at", eventNum:2, hotSpot:[213, 71.484375], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0011", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0002.png", useExistingImage:@"YES"}, {captureRect:[248, 716, 261, 729], command:@"Image at", eventNum:3, hotSpot:[254, 7.1527343999999999e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0002", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0003.png", useExistingImage:@"YES"}, {captureRect:[195, 494, 387, 698], command:@"Image at", eventNum:4, hotSpot:[2.2291015600000000e+02, 2.1464843800000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Jenkins", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0004.png", skipStep:@"YES"}, {captureRect:[268, 673, 367, 696], command:@"Image at", eventNum:5, hotSpot:[270, 1.1297265600000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Jenkins_0001", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0005.png", skipStep:@"YES"}, {captureRect:[197, 451, 423, 634], command:@"Image at", eventNum:6, hotSpot:[2.7447265599999997e+02, 1.9256640600000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"BacktoProject", searchType:@"Smooth", skipStep:True, useExistingImage:False, waitFor:@""}, screenShotFile:@"Screen0006.png", skipStep:@"YES"}, {captureRect:[197, 410, 416, 634], command:@"Image at", eventNum:7, hotSpot:[2.6757031200000000e+02, 2.3341406200000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"status", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0007.png", skipStep:@"YES"}, {captureRect:[241, 540, 299, 546], command:@"Image at", eventNum:8, hotSpot:[2.6448828099999997e+02, 2.6566406200000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"status", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0008.png", useExistingImage:@"YES"}, {captureRect:[242, 505, 294, 518], command:@"Image at", eventNum:9, hotSpot:[2.6761328099999997e+02, 2.8333203099999997e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"SConsoleOutput", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0009.png", skipStep:@"YES"}, {captureRect:[240, 473, 352, 490], command:@"Image at", eventNum:10, hotSpot:[2.7455859400000003e+02, 3.2209375000000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Viewasplaintext", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0010.png", skipStep:@"YES"}, {captureRect:[626, 452, 643, 468], command:@"Image at", eventNum:11, hotSpot:[6.4111328100000003e+02, 3.3476171900000003e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0013", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0011.png", skipStep:@"YES"}, {captureRect:[626, 471, 641, 487], command:@"Image at", eventNum:12, hotSpot:[634, 317], imageName:@"", infoDict:{folderPath:@"/", imageName:@"eggMan1", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0012.png"}, {captureRect:[546, 463, 594, 496], command:@"Image at", eventNum:13, hotSpot:[585, 313], imageName:@"", infoDict:{folderPath:@"/", imageName:@"bunaArtifacts1", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0013.png"}, {captureRect:[548, 399, 595, 444], command:@"Image at", eventNum:14, hotSpot:[567, 376], imageName:@"", infoDict:{folderPath:@"/", imageName:@"IVIOIUIIO", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0014.png"}, {captureRect:[550, 178, 592, 222], command:@"Image at", eventNum:15, hotSpot:[5.7257031199999994e+02, 5.8969140600000003e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0014", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0015.png", skipStep:@"YES"}, {captureRect:[598, 193, 756, 207], command:@"Image at", eventNum:16, hotSpot:[610, 595], imageName:@"", infoDict:{folderPath:@"/", imageName:@"imahe0004", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0016.png"}, {captureRect:[215, 277, 234, 296], command:@"Image at", eventNum:17, hotSpot:[229, 507], imageName:@"", infoDict:{folderPath:@"/", imageName:@"PreviousBuild", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0017.png", useExistingImage:@"YES"}, {captureRect:[902, 744, 972, 774], command:@"Image at", eventNum:18, hotSpot:[9.3748828100000003e+02, 3.3304687999999999e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0015", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0018.png", useExistingImage:@"YES"}, {captureRect:[1001, 777, 1071, 793], command:@"Image at", eventNum:19, hotSpot:[1.0367382809999999e+03, 6.3671900000000003e-01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"imahe0004", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0019.png"}, {captureRect:[1086, 758, 1156, 788], command:@"Image at", eventNum:20, hotSpot:[1.1210429690000001e+03, 1.9914062000000001e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0017", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0020.png"}, {captureRect:[997, 775, 1067, 793], command:@"Image at", eventNum:21, hotSpot:[1.0326796879999999e+03, 2.0546880000000001e+00], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0001", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0021.png", useExistingImage:@"YES"}, {captureRect:[973, 767, 1043, 793], command:@"Image at", eventNum:22, hotSpot:[1.0087656250000000e+03, 1.0343750000000000e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0019", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0022.png", skipStep:@"YES"}, {captureRect:[1080, 716, 1150, 746], command:@"Image at", eventNum:23, hotSpot:[1.1151250000000000e+03, 6.1316406000000001e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0020", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0023.png", skipStep:@"YES"}, {captureRect:[1135, 696, 1205, 726], command:@"Image at", eventNum:24, hotSpot:[1.1704726559999999e+03, 8.1375000000000000e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0021", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0024.png", skipStep:@"YES"}, {captureRect:[1112, 709, 1271, 734], command:@"Image at", eventNum:25, hotSpot:[1.2623750000000000e+03, 8.0332031000000001e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0022", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0025.png", skipStep:@"YES"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Image at "image0011" // use Existing Image </string>
+		<string>Image at "image0002" // use Existing Image </string>
+		<string>-skipped- Image at "Jenkins"</string>
+		<string>-skipped- Image at "Jenkins_0001"</string>
+		<string>-skipped- Image at "BacktoProject"</string>
+		<string>-skipped- Image at "status"</string>
+		<string>Image at "status" // use Existing Image </string>
+		<string>-skipped- Image at "SConsoleOutput"</string>
+		<string>-skipped- Image at "Viewasplaintext"</string>
+		<string>-skipped- Image at "image0013"</string>
+		<string>Image at "eggMan1"</string>
+		<string>Image at "bunaArtifacts1"</string>
+		<string>Image at "IVIOIUIIO"</string>
+		<string>-skipped- Image at "image0014"</string>
+		<string>Image at "imahe0004"</string>
+		<string>Image at "PreviousBuild" // use Existing Image </string>
+		<string>Image at "image0015" // use Existing Image </string>
+		<string>Image at "imahe0004"</string>
+		<string>Image at "image0017"</string>
+		<string>Image at "image0001" // use Existing Image </string>
+		<string>-skipped- Image at "image0019"</string>
+		<string>-skipped- Image at "image0020"</string>
+		<string>-skipped- Image at "image0021"</string>
+		<string>-skipped- Image at "image0022"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>image0011.png</string>
+			<string>image0011.png</string>
+			<string>Jenkins.png</string>
+			<string>Jenkins.png</string>
+			<string>Jenkins_0001.png</string>
+			<string>Jenkins_0001.png</string>
+			<string>BacktoProject.png</string>
+			<string>BacktoProject.png</string>
+			<string>status.png</string>
+			<string>status.png</string>
+			<string>SConsoleOutput.png</string>
+			<string>SConsoleOutput.png</string>
+			<string>Viewasplaintext.png</string>
+			<string>Viewasplaintext.png</string>
+			<string>image0013.png</string>
+			<string>image0013.png</string>
+			<string>IVIOIUIIO.png</string>
+			<string>IVIOIUIIO.png</string>
+			<string>image0014.png</string>
+			<string>image0014.png</string>
+			<string>PreviousBuild.png</string>
+			<string>PreviousBuild.png</string>
+			<string>image0015.png</string>
+			<string>image0015.png</string>
+			<string>image0017.png</string>
+			<string>image0017.png</string>
+			<string>image0019.png</string>
+			<string>image0019.png</string>
+			<string>image0020.png</string>
+			<string>image0020.png</string>
+			<string>image0021.png</string>
+			<string>image0021.png</string>
+			<string>image0022.png</string>
+			<string>image0022.png</string>
+			<string>image0002.png</string>
+			<string>status.png</string>
+			<string>eggMan1.png</string>
+			<string>bunaArtifacts1.png</string>
+			<string>imahe0004.png</string>
+			<string>imahe0004.png</string>
+			<string>image0001.png</string>
+			<string>image0011.png</string>
+			<string>image0002.png</string>
+			<string>status.png</string>
+			<string>eggMan1.png</string>
+			<string>bunaArtifacts1.png</string>
+			<string>IVIOIUIIO.png</string>
+			<string>imahe0004.png</string>
+			<string>PreviousBuild.png</string>
+			<string>image0015.png</string>
+			<string>imahe0004.png</string>
+			<string>image0017.png</string>
+			<string>image0001.png</string>
+			<string>image0011.png</string>
+			<string>image0002.png</string>
+			<string>status.png</string>
+			<string>eggMan1.png</string>
+			<string>bunaArtifacts1.png</string>
+			<string>IVIOIUIIO.png</string>
+			<string>imahe0004.png</string>
+			<string>PreviousBuild.png</string>
+			<string>image0015.png</string>
+			<string>imahe0004.png</string>
+			<string>image0017.png</string>
+			<string>image0001.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>rapidSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

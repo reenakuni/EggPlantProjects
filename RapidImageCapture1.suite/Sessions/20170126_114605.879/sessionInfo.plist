@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[167, 336, 213, 348], command:@"Image at", eventNum:2, hotSpot:[1.9749609400000000e+02, 4.5048437500000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"GetStarted", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[167, 336, 213, 348], command:@"Image at", eventNum:3, hotSpot:[1.7852343800000000e+02, 4.5258203099999997e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"GetStarted_0001", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0003.png"}, {captureRect:[167, 336, 213, 348], command:@"Image at", eventNum:4, hotSpot:[1.7952343800000000e+02, 4.5470703099999997e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"GetStarted_0002", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0004.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Image at "GetStarted"</string>
+		<string>Image at "GetStarted_0001"</string>
+		<string>Image at "GetStarted_0002"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>GetStarted.png</string>
+			<string>GetStarted_0001.png</string>
+			<string>GetStarted_0002.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>rapidSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

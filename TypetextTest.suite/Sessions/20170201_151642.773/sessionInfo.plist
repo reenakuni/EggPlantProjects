@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{command:@"TypeText", eventNum:2, screenShotFile:@"Screen0002.png", text:@"\"hello there \""}, {command:@"TypeText", eventNum:25, screenShotFile:@"Screen0002.png", skipStep:@"YES", text:@"\"how are you doi\""}, {command:@"TypeText", eventNum:55, screenShotFile:@"Screen0026.png", skipStep:@"YES", text:@"\"ng ? \""}, {command:@"TypeText", eventNum:68, origText:@"\"I have \"", screenShotFile:@"Screen0065.png", text:@"\"I have \""}, {command:@"TypeText", eventNum:83, screenShotFile:@"Screen0071.png", text:@"\"a \""}, {command:@"TypeText", eventNum:87, screenShotFile:@"Screen0084.png", text:@"\"script to write\",Return"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>TypeText "hello there "</string>
+		<string>-skipped- TypeText "how are you doi"</string>
+		<string>-skipped- TypeText "ng ? "</string>
+		<string>TypeText "I have "</string>
+		<string>TypeText "a "</string>
+		<string>TypeText "script to write",Return</string>
+	</array>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

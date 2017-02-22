@@ -1,0 +1,19 @@
+﻿{
+    CaptureDate = "2017-02-08 21:24:41 +0000";
+    CaptureHost = REENAKUNI8752;
+    CaptureScreenSize =     (
+        2880,
+        1684
+    );
+    HasAlpha = 1;
+    HotSpotX = 3;
+    HotSpotY = 6;
+    LastKnownLocationX = 0;
+    LastKnownLocationY = 0;
+    OriginalLocationX = 647;
+    OriginalLocationY = 245;
+    Precise = 0;
+    Pulsing = 0;
+    Scale = 1;
+    SearchAlgorithm = TextSmoothSquare;
+}

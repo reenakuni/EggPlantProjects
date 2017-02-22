@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[396, 548, 455, 607], command:@"Click", eventNum:2, hotSpot:[4.2672284000000002e+02, 2.2519180000000000e+02], imageName:@"", infoDict:{folderPath:@"/NFImages123", imageName:@"image0001", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[343, 198, 778, 608], command:@"Drag", eventNum:4, hotSpot:[4.7909849500000001e+02, 2.1940430200000000e+02], imageName:@"", infoDict:{folderPath:@"/NFImages123", imageName:@"image0002", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0004.png"}, {captureRect:[343, 198, 798, 608], command:@"Drop", eventNum:4, hotSpot:[4.9981896300000000e+02, 2.2403343300000000e+02], imageName:@"", infoDict:{folderPath:@"/NFImages123", imageName:@"image0003", searchType:@"Precise", waitFor:@""}, screenShotFile:@"Screen0005.png"}, {captureRect:[528, 563, 598, 593], command:@"Drag", eventNum:6, hotSpot:[5.6380570999999998e+02, 2.1477517200000000e+02], imageName:@"", infoDict:{folderPath:@"/NFImages123", imageName:@"image0004", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0006.png"}, {captureRect:[538, 563, 608, 593], command:@"Drop", eventNum:6, hotSpot:[5.7378223200000002e+02, 2.1477517200000000e+02], imageName:@"", infoDict:{folderPath:@"/NFImages123", imageName:@"image0005", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0007.png"}, {captureRect:[687, 565, 757, 595], command:@"Click", eventNum:8, hotSpot:[7.2270598800000005e+02, 2.1251049900000001e+02], imageName:@"", infoDict:{folderPath:@"/NFImages123", imageName:@"image0006", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0008.png"}, {captureRect:[851, 563, 875, 588], command:@"Click", eventNum:10, hotSpot:[8.6210413900000003e+02, 2.2489678499999999e+02], imageName:@"", infoDict:{folderPath:@"/NFImages123", imageName:@"image0007", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0010.png"}, {captureRect:[980, 551, 1043, 603], command:@"Click", eventNum:12, hotSpot:[9.9095345199999997e+02, 2.1790753599999999e+02], imageName:@"", infoDict:{folderPath:@"/NFImages123", imageName:@"image0008", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0012.png"}, {captureRect:[980, 433, 1044, 498], command:@"Click", eventNum:14, hotSpot:[1.0040603730000000e+03, 3.1983951500000001e+02], imageName:@"", infoDict:{folderPath:@"/NFImages123", imageName:@"image0009", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0014.png"}, {captureRect:[982, 324, 1041, 383], command:@"Click", eventNum:16, hotSpot:[9.9904826600000001e+02, 4.5869173999999998e+02], imageName:@"", infoDict:{folderPath:@"/NFImages123", imageName:@"image0010", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0016.png"}, {captureRect:[397, 217, 453, 260], command:@"Drag", eventNum:18, hotSpot:[4.1708450599999998e+02, 5.5607701999999995e+02], imageName:@"", infoDict:{folderPath:@"/NFImages123", imageName:@"IjJ", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0018.png"}, {captureRect:[296, 217, 343, 232], command:@"Drop", eventNum:18, hotSpot:[4.2243480000000000e+02, 5.5414640799999995e+02], imageName:@"", infoDict:{folderPath:@"/NFImages123", imageName:@"reenaki", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0019.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Click "NFImages123/image0001"</string>
+		<string>Drag "NFImages123/image0002"</string>
+		<string>Drop "NFImages123/image0003"</string>
+		<string>Drag "NFImages123/image0004"</string>
+		<string>Drop "NFImages123/image0005"</string>
+		<string>Click "NFImages123/image0006"</string>
+		<string>Click "NFImages123/image0007"</string>
+		<string>Click "NFImages123/image0008"</string>
+		<string>Click "NFImages123/image0009"</string>
+		<string>Click "NFImages123/image0010"</string>
+		<string>Drag "NFImages123/IjJ"</string>
+		<string>Drop "NFImages123/reenaki"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key>NFImages123</key>
+		<array>
+			<string>image0001.png</string>
+			<string>image0001.png</string>
+			<string>image0002.png</string>
+			<string>image0002.png</string>
+			<string>image0003.png</string>
+			<string>image0003.png</string>
+			<string>image0004.png</string>
+			<string>image0004.png</string>
+			<string>image0005.png</string>
+			<string>image0005.png</string>
+			<string>image0006.png</string>
+			<string>image0006.png</string>
+			<string>image0007.png</string>
+			<string>image0007.png</string>
+			<string>image0008.png</string>
+			<string>image0008.png</string>
+			<string>image0009.png</string>
+			<string>image0009.png</string>
+			<string>image0010.png</string>
+			<string>image0010.png</string>
+			<string>IjJ.png</string>
+			<string>IjJ.png</string>
+			<string>reenaki.png</string>
+			<string>reenaki.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>turboSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

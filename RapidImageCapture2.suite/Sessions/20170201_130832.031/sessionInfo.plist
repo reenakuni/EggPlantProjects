@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[270, 530, 329, 589], command:@"Click", eventNum:2, hotSpot:[2.9414453099999997e+02, 2.3589062500000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"yunangei", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[421, 530, 479, 592], command:@"Click", eventNum:4, hotSpot:[4.2742968800000000e+02, 2.4110156200000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0001", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0004.png"}, {captureRect:[417, 417, 476, 476], command:@"Click", eventNum:6, hotSpot:[4.4201562500000000e+02, 3.6239453099999997e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"dash", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0006.png", useExistingImage:@"YES"}, {captureRect:[270, 193, 329, 252], command:@"Click", eventNum:8, hotSpot:[2.9042187500000000e+02, 5.6852343800000006e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"dash", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0008.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Click "yunangei"</string>
+		<string>Click "image0001"</string>
+		<string>-useExisting- Click "dash"</string>
+		<string>Click "dash"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>yunangei.png</string>
+			<string>image0001.png</string>
+			<string>dash.png</string>
+			<string>dash.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>turboSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

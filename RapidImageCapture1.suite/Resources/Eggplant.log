@@ -1,0 +1,144 @@
+2016-11-10 20:03:17.233 Eggplant[3492:3492] NSDocumentClass EGGDocument not NSDocument subclass
+2016-11-10 20:03:20.255 EggplantLicenseServer[3510:3510] Logging is Off. Define LicenseServerLogFile in Eggplant defaults to enable logging.
+2016-11-10 20:03:20.310 Eggplant[3492:3506] OCR enabled-unlimited usage
+2016-11-10 20:03:22.158 Eggplant[3492:3492] Approved License: Name = , Remark = , Serial = 1135, Users = 0
+eggPlant (17.0.0Dev-1611110102) running in Development mode on Host:0x42baa04a
+2016-11-10 20:03:22.788 Eggplant[3492:3492] Exception occured while loading model: [XGServer-mouseLocationOnScreen:window:] should be overridden by subclass
+2016-11-10 20:03:22.788 Eggplant[3492:3492] Failed to load Xib
+2016-11-10 20:03:22.788 Eggplant[3492:3492] SuiteController: could not load nib named Suite.nib
+2016-11-10 20:03:22.890 Eggplant[3492:3492] Exception occured while loading model: [XGServer-mouseLocationOnScreen:window:] should be overridden by subclass
+2016-11-10 20:03:22.890 Eggplant[3492:3492] Failed to load Xib
+2016-11-10 20:03:22.890 Eggplant[3492:3492] SuiteController: could not load nib named Suite.nib
+2016-11-10 20:03:23.000 Eggplant[3492:3492] Exception occured while loading model: [XGServer-mouseLocationOnScreen:window:] should be overridden by subclass
+2016-11-10 20:03:23.000 Eggplant[3492:3492] Failed to load Xib
+2016-11-10 20:03:23.000 Eggplant[3492:3492] SuiteController: could not load nib named Suite.nib
+2016-11-10 20:03:23.108 Eggplant[3492:3492] Exception occured while loading model: [XGServer-mouseLocationOnScreen:window:] should be overridden by subclass
+2016-11-10 20:03:23.108 Eggplant[3492:3492] Failed to load Xib
+2016-11-10 20:03:23.108 Eggplant[3492:3492] SuiteController: could not load nib named Suite.nib
+2016-11-10 20:03:23.253 Eggplant[3492:3492] Exception occured while loading model: [XGServer-mouseLocationOnScreen:window:] should be overridden by subclass
+2016-11-10 20:03:23.253 Eggplant[3492:3492] Failed to load Xib
+2016-11-10 20:03:23.253 Eggplant[3492:3492] SuiteController: could not load nib named Suite.nib
+2016-11-10 20:03:23.354 Eggplant[3492:3492] Exception occured while loading model: [XGServer-mouseLocationOnScreen:window:] should be overridden by subclass
+2016-11-10 20:03:23.354 Eggplant[3492:3492] Failed to load Xib
+2016-11-10 20:03:23.354 Eggplant[3492:3492] SuiteController: could not load nib named Suite.nib
+2016-11-10 20:03:23.493 Eggplant[3492:3492] Exception occured while loading model: [XGServer-mouseLocationOnScreen:window:] should be overridden by subclass
+2016-11-10 20:03:23.494 Eggplant[3492:3492] Failed to load Xib
+2016-11-10 20:03:23.494 Eggplant[3492:3492] SuiteController: could not load nib named Suite.nib
+2016-11-10 20:03:23.596 Eggplant[3492:3492] Exception occured while loading model: [XGServer-mouseLocationOnScreen:window:] should be overridden by subclass
+2016-11-10 20:03:23.596 Eggplant[3492:3492] Failed to load Xib
+2016-11-10 20:03:23.597 Eggplant[3492:3492] SuiteController: could not load nib named Suite.nib
+2016-11-10 20:03:23.701 Eggplant[3492:3492] Exception occured while loading model: [XGServer-mouseLocationOnScreen:window:] should be overridden by subclass
+2016-11-10 20:03:23.701 Eggplant[3492:3492] Failed to load Xib
+2016-11-10 20:03:23.701 Eggplant[3492:3492] SuiteController: could not load nib named Suite.nib
+2016-11-10 20:03:23.803 Eggplant[3492:3492] Exception occured while loading model: [XGServer-mouseLocationOnScreen:window:] should be overridden by subclass
+2016-11-10 20:03:23.804 Eggplant[3492:3492] Failed to load Xib
+2016-11-10 20:03:23.804 Eggplant[3492:3492] SuiteController: could not load nib named Suite.nib
+2016-11-10 20:03:24.315 Eggplant[3492:3492] Exception occured while loading model: [XGServer-mouseLocationOnScreen:window:] should be overridden by subclass
+2016-11-10 20:03:24.315 Eggplant[3492:3492] Failed to load Xib
+2016-11-10 20:03:24.315 Eggplant[3492:3492] SuiteController: could not load nib named Suite.nib
+2016-11-10 20:03:24.511 Eggplant[3492:3492] Exception occured while loading model: [XGServer-mouseLocationOnScreen:window:] should be overridden by subclass
+2016-11-10 20:03:24.511 Eggplant[3492:3492] Failed to load Xib
+2016-11-10 20:03:24.511 Eggplant[3492:3492] SuiteController: could not load nib named Suite.nib
+2016-11-10 20:03:24.613 Eggplant[3492:3492] Exception occured while loading model: [XGServer-mouseLocationOnScreen:window:] should be overridden by subclass
+2016-11-10 20:03:24.613 Eggplant[3492:3492] Failed to load Xib
+2016-11-10 20:03:24.613 Eggplant[3492:3492] SuiteController: could not load nib named Suite.nib
+2016-11-10 20:03:24.715 Eggplant[3492:3492] Exception occured while loading model: [XGServer-mouseLocationOnScreen:window:] should be overridden by subclass
+2016-11-10 20:03:24.715 Eggplant[3492:3492] Failed to load Xib
+2016-11-10 20:03:24.715 Eggplant[3492:3492] SuiteController: could not load nib named Suite.nib
+2016-11-10 20:03:24.821 Eggplant[3492:3492] Exception occured while loading model: [XGServer-mouseLocationOnScreen:window:] should be overridden by subclass
+2016-11-10 20:03:24.822 Eggplant[3492:3492] Failed to load Xib
+2016-11-10 20:03:24.822 Eggplant[3492:3492] SuiteController: could not load nib named Suite.nib
+2016-11-10 20:03:24.925 Eggplant[3492:3492] Exception occured while loading model: [XGServer-mouseLocationOnScreen:window:] should be overridden by subclass
+2016-11-10 20:03:24.925 Eggplant[3492:3492] Failed to load Xib
+2016-11-10 20:03:24.925 Eggplant[3492:3492] SuiteController: could not load nib named Suite.nib
+2016-11-10 20:03:25.068 Eggplant[3492:3492] Exception occured while loading model: [XGServer-mouseLocationOnScreen:window:] should be overridden by subclass
+2016-11-10 20:03:25.068 Eggplant[3492:3492] Failed to load Xib
+2016-11-10 20:03:25.068 Eggplant[3492:3492] SuiteController: could not load nib named Suite.nib
+2016-11-10 20:03:25.174 Eggplant[3492:3492] Exception occured while loading model: [XGServer-mouseLocationOnScreen:window:] should be overridden by subclass
+2016-11-10 20:03:25.174 Eggplant[3492:3492] Failed to load Xib
+2016-11-10 20:03:25.174 Eggplant[3492:3492] SuiteController: could not load nib named Suite.nib
+2016-11-10 20:03:25.280 Eggplant[3492:3492] Exception occured while loading model: [XGServer-mouseLocationOnScreen:window:] should be overridden by subclass
+2016-11-10 20:03:25.280 Eggplant[3492:3492] Failed to load Xib
+2016-11-10 20:03:25.280 Eggplant[3492:3492] SuiteController: could not load nib named Suite.nib
+2016-11-10 20:03:25.390 Eggplant[3492:3492] Exception occured while loading model: [XGServer-mouseLocationOnScreen:window:] should be overridden by subclass
+2016-11-10 20:03:25.391 Eggplant[3492:3492] Failed to load Xib
+2016-11-10 20:03:25.391 Eggplant[3492:3492] SuiteController: could not load nib named Suite.nib
+2016-11-10 20:03:25.509 Eggplant[3492:3492] Exception occured while loading model: [XGServer-mouseLocationOnScreen:window:] should be overridden by subclass
+2016-11-10 20:03:25.509 Eggplant[3492:3492] Failed to load Xib
+2016-11-10 20:03:25.509 Eggplant[3492:3492] SuiteController: could not load nib named Suite.nib
+2016-11-10 20:03:25.623 Eggplant[3492:3492] Exception occured while loading model: [XGServer-mouseLocationOnScreen:window:] should be overridden by subclass
+2016-11-10 20:03:25.624 Eggplant[3492:3492] Failed to load Xib
+2016-11-10 20:03:25.624 Eggplant[3492:3492] SuiteController: could not load nib named Suite.nib
+2016-11-10 20:03:25.730 Eggplant[3492:3492] Exception occured while loading model: [XGServer-mouseLocationOnScreen:window:] should be overridden by subclass
+2016-11-10 20:03:25.730 Eggplant[3492:3492] Failed to load Xib
+2016-11-10 20:03:25.730 Eggplant[3492:3492] SuiteController: could not load nib named Suite.nib
+2016-11-10 20:03:25.832 Eggplant[3492:3492] Exception occured while loading model: [XGServer-mouseLocationOnScreen:window:] should be overridden by subclass
+2016-11-10 20:03:25.832 Eggplant[3492:3492] Failed to load Xib
+2016-11-10 20:03:25.832 Eggplant[3492:3492] SuiteController: could not load nib named Suite.nib
+2016-11-10 20:03:25.935 Eggplant[3492:3492] Exception occured while loading model: [XGServer-mouseLocationOnScreen:window:] should be overridden by subclass
+2016-11-10 20:03:25.935 Eggplant[3492:3492] Failed to load Xib
+2016-11-10 20:03:25.935 Eggplant[3492:3492] SuiteController: could not load nib named Suite.nib
+2016-11-10 20:03:26.039 Eggplant[3492:3492] Exception occured while loading model: [XGServer-mouseLocationOnScreen:window:] should be overridden by subclass
+2016-11-10 20:03:26.039 Eggplant[3492:3492] Failed to load Xib
+2016-11-10 20:03:26.039 Eggplant[3492:3492] SuiteController: could not load nib named Suite.nib
+2016-11-10 20:03:26.152 Eggplant[3492:3492] Exception occured while loading model: [XGServer-mouseLocationOnScreen:window:] should be overridden by subclass
+2016-11-10 20:03:26.153 Eggplant[3492:3492] Failed to load Xib
+2016-11-10 20:03:26.153 Eggplant[3492:3492] SuiteController: could not load nib named Suite.nib
+2016-11-10 20:03:26.258 Eggplant[3492:3492] Exception occured while loading model: [XGServer-mouseLocationOnScreen:window:] should be overridden by subclass
+2016-11-10 20:03:26.258 Eggplant[3492:3492] Failed to load Xib
+2016-11-10 20:03:26.258 Eggplant[3492:3492] SuiteController: could not load nib named Suite.nib
+2016-11-10 20:03:26.370 Eggplant[3492:3492] Exception occured while loading model: [XGServer-mouseLocationOnScreen:window:] should be overridden by subclass
+2016-11-10 20:03:26.370 Eggplant[3492:3492] Failed to load Xib
+2016-11-10 20:03:26.370 Eggplant[3492:3492] SuiteController: could not load nib named Suite.nib
+2016-11-10 20:03:26.476 Eggplant[3492:3492] Exception occured while loading model: [XGServer-mouseLocationOnScreen:window:] should be overridden by subclass
+2016-11-10 20:03:26.476 Eggplant[3492:3492] Failed to load Xib
+2016-11-10 20:03:26.476 Eggplant[3492:3492] SuiteController: could not load nib named Suite.nib
+2016-11-10 20:03:26.643 Eggplant[3492:3492] Exception occured while loading model: [XGServer-mouseLocationOnScreen:window:] should be overridden by subclass
+2016-11-10 20:03:26.643 Eggplant[3492:3492] Failed to load Xib
+2016-11-10 20:03:26.643 Eggplant[3492:3492] SuiteController: could not load nib named Suite.nib
+2016-11-10 20:03:26.787 Eggplant[3492:3492] Exception occured while loading model: [XGServer-mouseLocationOnScreen:window:] should be overridden by subclass
+2016-11-10 20:03:26.787 Eggplant[3492:3492] Failed to load Xib
+2016-11-10 20:03:26.787 Eggplant[3492:3492] SuiteController: could not load nib named Suite.nib
+2016-11-10 20:03:26.903 Eggplant[3492:3492] Exception occured while loading model: [XGServer-mouseLocationOnScreen:window:] should be overridden by subclass
+2016-11-10 20:03:26.903 Eggplant[3492:3492] Failed to load Xib
+2016-11-10 20:03:26.903 Eggplant[3492:3492] SuiteController: could not load nib named Suite.nib
+2016-11-10 20:03:27.008 Eggplant[3492:3492] Exception occured while loading model: [XGServer-mouseLocationOnScreen:window:] should be overridden by subclass
+2016-11-10 20:03:27.008 Eggplant[3492:3492] Failed to load Xib
+2016-11-10 20:03:27.008 Eggplant[3492:3492] SuiteController: could not load nib named Suite.nib
+2016-11-10 20:03:27.381 Eggplant[3492:3492] Could not convert cursor bitmap data
+2016-11-10 20:03:28.076 Eggplant[3492:3492] Could not convert cursor bitmap data
+2016-11-10 20:03:28.263 Eggplant[3492:3492] Could not convert cursor bitmap data
+2016-11-10 20:03:28.705 Eggplant[3492:3492] Exception occured while loading model: [XGServer-mouseLocationOnScreen:window:] should be overridden by subclass
+2016-11-10 20:03:28.705 Eggplant[3492:3492] Failed to load Xib
+2016-11-10 20:03:28.705 Eggplant[3492:3492] SuiteController: could not load nib named Suite.nib
+2016-11-10 20:03:29.254 Eggplant[3492:3492] Exception occured while loading model: [XGServer-mouseLocationOnScreen:window:] should be overridden by subclass
+2016-11-10 20:03:29.254 Eggplant[3492:3492] Failed to load Xib
+2016-11-10 20:03:29.254 Eggplant[3492:3492] SuiteController: could not load nib named Suite.nib
+2016-11-10 20:03:31.176 Eggplant[3492:3492] Exception occured while loading model: [XGServer-mouseLocationOnScreen:window:] should be overridden by subclass
+2016-11-10 20:03:31.176 Eggplant[3492:3492] Failed to load Xib
+2016-11-10 20:03:31.176 Eggplant[3492:3492] SuiteController: could not load nib named Suite.nib
+2016-11-10 20:03:31.182 Eggplant[3492:3492] Exception while updating SuiteInfo:Tried to add nil value for key 'windowFrame' to dictionary
+2016-11-10 20:03:31.328 Eggplant[3492:3492] Exception occured while loading model: [XGServer-mouseLocationOnScreen:window:] should be overridden by subclass
+2016-11-10 20:03:31.328 Eggplant[3492:3492] Failed to load Xib
+2016-11-10 20:03:31.328 Eggplant[3492:3492] SuiteController: could not load nib named Suite.nib
+2016-11-10 20:03:31.328 Eggplant[3492:3492] Exception while updating SuiteInfo:Tried to add nil value for key 'windowFrame' to dictionary
+2016-11-10 20:03:31.469 Eggplant[3492:3492] Exception occured while loading model: [XGServer-mouseLocationOnScreen:window:] should be overridden by subclass
+2016-11-10 20:03:31.469 Eggplant[3492:3492] Failed to load Xib
+2016-11-10 20:03:31.469 Eggplant[3492:3492] SuiteController: could not load nib named Suite.nib
+2016-11-10 20:03:31.469 Eggplant[3492:3492] Exception while updating SuiteInfo:Tried to add nil value for key 'windowFrame' to dictionary
+2016-11-10 20:03:31.606 Eggplant[3492:3492] Exception occured while loading model: [XGServer-mouseLocationOnScreen:window:] should be overridden by subclass
+2016-11-10 20:03:31.606 Eggplant[3492:3492] Failed to load Xib
+2016-11-10 20:03:31.606 Eggplant[3492:3492] SuiteController: could not load nib named Suite.nib
+2016-11-10 20:03:31.606 Eggplant[3492:3492] Exception while updating SuiteInfo:Tried to add nil value for key 'windowFrame' to dictionary
+2016-11-10 20:03:31.748 Eggplant[3492:3492] Exception occured while loading model: [XGServer-mouseLocationOnScreen:window:] should be overridden by subclass
+2016-11-10 20:03:31.748 Eggplant[3492:3492] Failed to load Xib
+2016-11-10 20:03:31.748 Eggplant[3492:3492] SuiteController: could not load nib named Suite.nib
+2016-11-10 20:03:31.748 Eggplant[3492:3492] Exception while updating SuiteInfo:Tried to add nil value for key 'windowFrame' to dictionary
+2016-11-10 20:03:31.885 Eggplant[3492:3492] Exception occured while loading model: [XGServer-mouseLocationOnScreen:window:] should be overridden by subclass
+2016-11-10 20:03:31.886 Eggplant[3492:3492] Failed to load Xib
+2016-11-10 20:03:31.886 Eggplant[3492:3492] SuiteController: could not load nib named Suite.nib
+2016-11-10 20:03:31.886 Eggplant[3492:3492] Exception while updating SuiteInfo:Tried to add nil value for key 'windowFrame' to dictionary
+2016-11-10 20:03:32.016 Eggplant[3492:3492] Exception occured while loading model: [XGServer-mouseLocationOnScreen:window:] should be overridden by subclass
+2016-11-10 20:03:32.016 Eggplant[3492:3492] Failed to load Xib
+2016-11-10 20:03:32.016 Eggplant[3492:3492] SuiteController: could not load nib named Suite.nib
+2016-11-10 20:03:32.016 Eggplant[3492:3492] Exception while updating SuiteInfo:Tried to add nil value for key 'windowFrame' to dictionary

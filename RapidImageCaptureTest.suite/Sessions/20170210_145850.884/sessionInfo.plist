@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[191, 693, 208, 709], command:@"Click", eventNum:2, hotSpot:[198, 91.152344], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0035", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[220, 692, 237, 709], command:@"Click", eventNum:4, hotSpot:[228, 91.027344], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0036", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0004.png"}, {captureRect:[247, 693, 264, 708], command:@"Click", eventNum:6, hotSpot:[255, 91.699219], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0037", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0006.png"}, {captureRect:[279, 692, 296, 709], command:@"Click", eventNum:8, hotSpot:[286, 91.992188], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0038", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0008.png"}, {captureRect:[309, 692, 326, 708], command:@"Click", eventNum:10, hotSpot:[317, 93.65625], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0039", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0010.png"}, {captureRect:[322, 678, 392, 708], command:@"Click", eventNum:12, hotSpot:[353.574219, 107.144531], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0040", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0012.png"}, {captureRect:[1010, 629, 1031, 651], command:@"Click", eventNum:14, hotSpot:[1020, 154], imageName:@"", infoDict:{folderPath:@"/", imageName:@"NewScript_0001", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0014.png"}, {captureRect:[278, 624, 337, 647], command:@"Click", eventNum:16, hotSpot:[293.15625, 157.191406], imageName:@"", infoDict:{folderPath:@"/", imageName:@"lan", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0016.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Click "image0035"</string>
+		<string>Click "image0036"</string>
+		<string>Click "image0037"</string>
+		<string>Click "image0038"</string>
+		<string>Click "image0039"</string>
+		<string>Click "image0040"</string>
+		<string>Click "NewScript_0001"</string>
+		<string>Click "lan"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>image0035.png</string>
+			<string>image0036.png</string>
+			<string>image0037.png</string>
+			<string>image0038.png</string>
+			<string>image0039.png</string>
+			<string>image0040.png</string>
+			<string>NewScript_0001.png</string>
+			<string>lan.png</string>
+			<string>image0035.png</string>
+			<string>image0036.png</string>
+			<string>image0037.png</string>
+			<string>image0038.png</string>
+			<string>image0039.png</string>
+			<string>image0040.png</string>
+			<string>NewScript_0001.png</string>
+			<string>lan.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>turboSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

@@ -1,0 +1,7 @@
+﻿Feature:
+
+  Scenario:
+    Given 2500 runners in an event 
+    When Childern are 4 times the adults
+    Then what is the number of adults in the event
+

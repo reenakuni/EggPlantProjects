@@ -1,0 +1,6 @@
+1	0.00049901	start	
+2	3.42512	mouseDown	{button:1, clickCount:1, hotSpot:[247.289062, 170.136719]}
+3	3.62228	mouseUp	{button:1, clickCount:1, hotSpot:[247.289062, 170.136719]}
+4	7.09664	mouseDown	{button:1, clickCount:1, hotSpot:[773.046875, 406.4375]}
+5	7.24201	mouseUp	{button:1, clickCount:1, hotSpot:[773.046875, 406.4375]}
+6	9.01082	end	

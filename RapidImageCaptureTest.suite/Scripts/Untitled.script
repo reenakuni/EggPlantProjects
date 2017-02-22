@@ -1,0 +1,17 @@
+﻿Click "start_session"
+Click "start_rapid_image_capture_session"
+Click "eggplant"
+Click "update"
+Click "bash"
+Click "end_session"
+Click "OpenSession"
+Click (image:"GenerateImages",WaitFor:5)
+Click (Image:"untitedsession2017C", WaitFor:3)
+Click "Delete"
+wait 2
+Click "Delete_1"
+Click "image0001"
+click "image0041/image0001"
+
+click "image0041/image0041"
+Click "image0041/Chess"

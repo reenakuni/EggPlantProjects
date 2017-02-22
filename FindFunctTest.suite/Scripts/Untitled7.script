@@ -1,0 +1,10 @@
+﻿(* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+  Script generated:  2017-01-31 10:30:33
+  From session:  untitled session
+  Captured on:  2017-01-31 10:29:48
+  From server:  testplants-Mac-2
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *)
+
+DoubleClick "image0002"
+TypeText "oscar"
+TypeText " nominations",Return

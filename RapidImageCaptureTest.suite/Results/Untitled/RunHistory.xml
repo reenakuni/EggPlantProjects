@@ -1,0 +1,63 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Untitled">
+ <run>
+  <RunDate>2017-02-08 15:24:42.149 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>182.695949</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170208_152442.149/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-02-09 13:45:30.300 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>22.141962</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170209_134530.300/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;eggplant&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-02-09 13:46:19.948 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>65.518313</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170209_134619.948/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;bash&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-02-09 13:47:56.081 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>23.492712</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170209_134756.081/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;GenerateImages&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-02-09 13:50:47.949 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>28.842031</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170209_135047.949/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

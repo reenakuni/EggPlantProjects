@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[214, 590, 293, 656], command:@"Image at", eventNum:2, hotSpot:[2.5597614600000000e+02, 1.8164074400000001e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0404", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[414, 517, 467, 561], command:@"Image at", eventNum:3, hotSpot:[4.3931532399999998e+02, 2.4297775999999999e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0405", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0003.png"}, {captureRect:[471, 517, 525, 561], command:@"Image at", eventNum:4, hotSpot:[4.8369626699999998e+02, 2.5058498800000001e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0406", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0004.png"}, {command:@"Image at", eventNum:5, hotSpot:[6.1523986100000002e+02, 2.5434153800000001e+02], imageName:@"", screenShotFile:@"Screen0005.png"}, {command:@"Image at", eventNum:6, hotSpot:[6.1899421800000005e+02, 3.0507207699999998e+02], imageName:@"", screenShotFile:@"Screen0006.png"}, {command:@"Image at", eventNum:7, hotSpot:[6.1011289799999997e+02, 3.6154440399999999e+02], imageName:@"", screenShotFile:@"Screen0007.png"}, {command:@"Image at", eventNum:8, hotSpot:[6.0897547299999997e+02, 3.9943935099999999e+02], imageName:@"", screenShotFile:@"Screen0008.png"}, {command:@"Image at", eventNum:9, hotSpot:[5.0335318999999998e+02, 4.0019665099999997e+02], imageName:@"", screenShotFile:@"Screen0009.png"}, {command:@"Image at", eventNum:10, hotSpot:[5.5752624800000001e+02, 4.0666151000000002e+02], imageName:@"", screenShotFile:@"Screen0010.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Image at "image0404"</string>
+		<string>Image at "image0405"</string>
+		<string>Image at "image0406"</string>
+		<string>Image at ""</string>
+		<string>Image at ""</string>
+		<string>Image at ""</string>
+		<string>Image at ""</string>
+		<string>Image at ""</string>
+		<string>Image at ""</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>image0404.png</string>
+			<string>image0405.png</string>
+			<string>image0406.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>rapidSession</string>
+	<key>unnamedImageCount</key>
+	<integer>6</integer>
+</dict>
+</plist>

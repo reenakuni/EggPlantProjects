@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[568, 565, 590, 581], command:@"Click", eventNum:2, hotSpot:[5.7973435700000005e+02, 2.2084568100000001e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0096", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[699, 551, 769, 581], command:@"Click", eventNum:4, hotSpot:[7.3460329500000000e+02, 2.2673983300000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0097", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0004.png"}, {captureRect:[837, 549, 893, 607], command:@"Click", eventNum:6, hotSpot:[8.6447069899999997e+02, 2.2119273400000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0098", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0006.png"}, {captureRect:[980, 551, 1043, 603], command:@"Click", eventNum:8, hotSpot:[1.0054575450000000e+03, 2.3187104299999999e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0099", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0008.png"}, {captureRect:[711, 197, 1095, 607], command:@"Click", eventNum:10, hotSpot:[1.0110689050000000e+03, 3.5523520300000001e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"pnnMan", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0010.png"}, {captureRect:[980, 433, 1044, 498], command:@"Click", eventNum:12, hotSpot:[1.0098238490000000e+03, 3.3460423900000001e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0100", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0012.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Click "image0096"</string>
+		<string>Click "image0097"</string>
+		<string>Click "image0098"</string>
+		<string>Click "image0099"</string>
+		<string>Click "pnnMan"</string>
+		<string>Click "image0100"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>image0096.png</string>
+			<string>image0097.png</string>
+			<string>image0098.png</string>
+			<string>image0099.png</string>
+			<string>pnnMan.png</string>
+			<string>image0100.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>turboSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

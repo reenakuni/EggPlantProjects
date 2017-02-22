@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[198, 779, 339, 793], command:@"Image at", eventNum:2, hotSpot:[2.5769531200000000e+02, 1.4324218999999999e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"ViewGoWindow", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[248, 777, 387, 793], command:@"Image at", eventNum:3, hotSpot:[3.0510156200000000e+02, 1.5019531000000001e+01], imageName:@"", infoDict:{folderPath:@"/", imageName:@"chess", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0003.png", useExistingImage:@"YES"}, {command:@"Image at", eventNum:4, hotSpot:[4.2109375000000000e+02, 2.1539843800000000e+02], imageName:@"", screenShotFile:@"Screen0004.png"}, {command:@"Image at", eventNum:5, hotSpot:[5.7632812500000000e+02, 2.1821875000000000e+02], imageName:@"", screenShotFile:@"Screen0005.png"}, {command:@"Image at", eventNum:6, hotSpot:[5.7293750000000000e+02, 3.3629296900000003e+02], imageName:@"", screenShotFile:@"Screen0006.png"}, {command:@"Image at", eventNum:7, hotSpot:[4.2416406200000000e+02, 5.6510546899999997e+02], imageName:@"", screenShotFile:@"Screen0007.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Image at "ViewGoWindow"</string>
+		<string>-useExisting- Image at "chess"</string>
+		<string>Image at ""</string>
+		<string>Image at ""</string>
+		<string>Image at ""</string>
+		<string>Image at ""</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>ViewGoWindow.png</string>
+			<string>chess.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>rapidSession</string>
+	<key>unnamedImageCount</key>
+	<integer>4</integer>
+</dict>
+</plist>

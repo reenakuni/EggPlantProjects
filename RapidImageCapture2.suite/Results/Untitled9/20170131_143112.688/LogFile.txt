@@ -1,0 +1,4 @@
+﻿2017-01-31 14:31:12.689 -0700	START		Running Untitled9.script
+2017-01-31 14:31:30.361 -0700	Exception	image0002	No Image Found On Screen: "image0002"	8	on_untitled9	Untitled9.script
+2017-01-31 14:31:30.673 -0700	EndTestCase		(Duration:"17.981742", Errors:"1", Exceptions:"1", StartTime:"2017-01-31 14:31:12 -0700", Successes:"0", TestCase:"Untitled9.script", Warnings:"0")
+2017-01-31 14:31:30.675 -0700	ABORTED		Execution Time 0:00:17 Untitled9.script

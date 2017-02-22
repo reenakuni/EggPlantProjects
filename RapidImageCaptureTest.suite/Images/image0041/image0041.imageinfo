@@ -1,0 +1,22 @@
+﻿{
+    CaptureDate = "2017-02-15 17:37:03 +0000";
+    CaptureHost = "testplants-Mac-2";
+    CaptureScreenSize =     (
+        1385,
+        600
+    );
+    CropRectangle = "1,1,63,11";
+    HasAlpha = 1;
+    HotSpotX = 32;
+    HotSpotY = 6;
+    ImageDescription = <>;
+    ImageTolerance = 77;
+    LastKnownLocationX = 0;
+    LastKnownLocationY = 0;
+    OriginalLocationX = 815;
+    OriginalLocationY = 164;
+    Precise = 0;
+    Pulsing = 0;
+    Scale = "0.8";
+    SearchAlgorithm = TextSmoothSquare;
+}

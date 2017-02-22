@@ -1,0 +1,5 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2017-02-03 16:26:31.153 -0700,"Running",0:00:00,0,0,0,"20170203_162631.153/LogFile.txt","","",0
+2017-02-03 16:27:59.613 -0700,"Failure",0:00:00,1,0,0,"20170203_162759.613/LogFile.txt","","STInvalidColor -- Value can not be evaluated as a color: '#103103103F09F00F00F'",0
+2017-02-03 16:29:32.237 -0700,"Failure",0:00:00,1,0,0,"20170203_162932.237/LogFile.txt","","STInvalidColor -- Value can not be evaluated as a color: '#1031031'",0
+2017-02-03 16:29:44.415 -0700,"Failure",0:00:00,1,0,0,"20170203_162944.415/LogFile.txt","","STInvalidColor -- Value can not be evaluated as a color: '#1031031454'",0

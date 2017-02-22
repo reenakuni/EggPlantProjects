@@ -1,0 +1,15 @@
+﻿{
+    EPVersionNumber = 1702131017;
+    Schedules =     (
+    );
+    ScriptMetaData =     {
+    };
+    SuiteEncodedTextKey = "?egftYu;B*PNiQDN";
+    helpedSuitesInfo =     (
+                {
+            filePath = "../Downloads/TestPOC.suite";
+        }
+    );
+    helperSuitesInfo =     (
+    );
+}

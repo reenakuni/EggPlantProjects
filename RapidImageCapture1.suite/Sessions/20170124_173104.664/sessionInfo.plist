@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[275, 252, 345, 282], command:@"Image at", eventNum:2, hotSpot:[3.1001713400000000e+02, 5.2515224000000001e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0364", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[275, 252, 345, 282], command:@"Image at", eventNum:3, hotSpot:[3.1001713400000000e+02, 5.2515224000000001e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0365", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0003.png"}, {captureRect:[466, 288, 509, 299], command:@"Image at", eventNum:4, hotSpot:[4.7871246700000000e+02, 4.9759780899999998e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0366", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0004.png"}, {captureRect:[773, 285, 803, 299], command:@"Image at", eventNum:5, hotSpot:[7.8441383800000006e+02, 5.0259905300000003e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Hide_0001", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0005.png"}, {captureRect:[427, 572, 452, 597], command:@"Image at", eventNum:6, hotSpot:[4.3917436400000003e+02, 2.0965422000000001e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0367", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0006.png"}, {captureRect:[740, 575, 837, 596], command:@"Image at", eventNum:7, hotSpot:[7.7836830899999995e+02, 2.1427042100000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0368", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0007.png"}, {captureRect:[761, 532, 815, 546], command:@"Image at", eventNum:8, hotSpot:[7.7836830899999995e+02, 2.4845279800000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Detais_0001", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0008.png"}, {captureRect:[458, 536, 629, 550], command:@"Image at", eventNum:9, hotSpot:[4.4128467699999999e+02, 2.6114626600000003e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Thereis1userconnected", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0009.png"}, {captureRect:[458, 531, 523, 545], command:@"Image at", eventNum:10, hotSpot:[4.7531347899999997e+02, 2.5306899799999999e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Thereis1", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0010.png"}, {captureRect:[117, 651, 265, 669], command:@"Image at", eventNum:11, hotSpot:[1.2449118799999999e+02, 1.3546621900000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"OTutorialConnection", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0011.png"}, {captureRect:[118, 669, 376, 687], command:@"Image at", eventNum:12, hotSpot:[1.2564580599999999e+02, 1.1373070900000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Qtestplantlocalhostlocal101111", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0012.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Image at "image0364"</string>
+		<string>Image at "image0365"</string>
+		<string>Image at "image0366"</string>
+		<string>Image at "Hide_0001"</string>
+		<string>Image at "image0367"</string>
+		<string>Image at "image0368"</string>
+		<string>Image at "Detais_0001"</string>
+		<string>Image at "Thereis1userconnected"</string>
+		<string>Image at "Thereis1"</string>
+		<string>Image at "OTutorialConnection"</string>
+		<string>Image at "Qtestplantlocalhostlocal101111"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>image0364.png</string>
+			<string>image0364.png</string>
+			<string>image0365.png</string>
+			<string>image0365.png</string>
+			<string>image0366.png</string>
+			<string>image0366.png</string>
+			<string>Hide_0001.png</string>
+			<string>Hide_0001.png</string>
+			<string>image0367.png</string>
+			<string>image0367.png</string>
+			<string>image0368.png</string>
+			<string>image0368.png</string>
+			<string>Detais_0001.png</string>
+			<string>Detais_0001.png</string>
+			<string>Thereis1userconnected.png</string>
+			<string>Thereis1userconnected.png</string>
+			<string>Thereis1.png</string>
+			<string>Thereis1.png</string>
+			<string>OTutorialConnection.png</string>
+			<string>OTutorialConnection.png</string>
+			<string>Qtestplantlocalhostlocal101111.png</string>
+			<string>Qtestplantlocalhostlocal101111.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>rapidSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

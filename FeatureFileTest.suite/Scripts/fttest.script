@@ -1,0 +1,26 @@
+﻿
+to handle NUM_runners_in_an_event
+	params num1
+	
+end NUM_runners_in_an_event
+
+to handle Childern_are_NUM_times_the_adults
+	params num1
+	
+end Childern_are_NUM_times_the_adults
+
+to handle what_is_the_number_of_adults_in_the_event
+	
+end what_is_the_number_of_adults_in_the_event
+set worksheetPropertyList to (name: "Customer List", workbook:"TestCustomerList") 
+repeat with each key of the keys of worksheetPropertyList
+	log key & " is the worksheet property"
+	put key
+	set value to worksheetPropertyList.(key)
+	put key & ":" && value 
+	(*	if the key of workSheet1 does not contain the value of worksheetPropertyList.(key)
+		LogError "The worksheet function test failed for " & key
+	else 
+		log "The worksheet function test succeeded for " & key
+	end if*)
+end repeat

@@ -1,0 +1,4 @@
+﻿2017-01-31 14:31:40.268 -0700	START		Running Untitled9.script
+2017-01-31 14:31:40.466 -0700	typetext		hellothere[return]	8	on_untitled9	Untitled9.script
+2017-01-31 14:31:40.781 -0700	EndTestCase		(Duration:"0.512122", Errors:"0", Exceptions:"0", StartTime:"2017-01-31 14:31:40 -0700", Successes:"1", TestCase:"Untitled9.script", Warnings:"0")
+2017-01-31 14:31:40.791 -0700	SUCCESS		Execution Time 0:00:00 Untitled9.script

@@ -1,0 +1,5 @@
+﻿2017-01-31 12:18:59.126 -0700	START		Running Untitled14.script
+2017-01-31 12:18:59.783 -0700	click	MacCapture/image0001	at (251, 169)	1	on_untitled14	Untitled14.script
+2017-01-31 12:19:01.130 -0700	click	image0007	at (777, 424)	2	on_untitled14	Untitled14.script
+2017-01-31 12:19:01.628 -0700	EndTestCase		(Duration:"2.499866", Errors:"0", Exceptions:"0", StartTime:"2017-01-31 12:18:59 -0700", Successes:"1", TestCase:"Untitled14.script", Warnings:"0")
+2017-01-31 12:19:01.641 -0700	SUCCESS		Execution Time 0:00:02 Untitled14.script

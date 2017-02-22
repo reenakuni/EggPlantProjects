@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[847, 473, 917, 503], command:@"Image at", eventNum:2, hotSpot:[882, 209], imageName:@"", infoDict:{folderPath:@"/hithere", imageName:@"image0001", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[998, 308, 1016, 327], command:@"Image at", eventNum:3, hotSpot:[1001, 378], imageName:@"", infoDict:{folderPath:@"/hithere", imageName:@"image0002", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0003.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Image at "hithere/image0001"</string>
+		<string>Image at "hithere/image0002"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key>hithere</key>
+		<array>
+			<string>image0001.png</string>
+			<string>image0001.png</string>
+			<string>image0002.png</string>
+			<string>image0002.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>rapidSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

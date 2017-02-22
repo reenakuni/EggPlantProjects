@@ -1,0 +1,4 @@
+﻿2017-01-30 15:05:24.819 -0700	START		Running NewFolder/Untitled1.script
+2017-01-30 15:06:49.084 -0700	moveto	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(218,11), ImageRectangle:(210,7,227,15), Language:"English", text:"New", TextDifference:"1", TextPlatform:"Generic OCR", WaitFor:"2")	at (218, 11)	1	on_newfolder_untitled1	NewFolder/Untitled1.script
+2017-01-30 15:06:49.654 -0700	EndTestCase		(Duration:"84.831477", Errors:"0", Exceptions:"0", StartTime:"2017-01-30 15:05:24 -0700", Successes:"1", TestCase:"NewFolder/Untitled1.script", Warnings:"0")
+2017-01-30 15:06:49.750 -0700	SUCCESS		Execution Time 0:01:24 NewFolder/Untitled1.script

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[140, 567, 217, 583], command:@"Click", eventNum:2, hotSpot:[3.0169531200000000e+02, 2.3470703100000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"yChange", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {command:@"Click", eventNum:4, hotSpot:[8.8228515600000003e+02, 2.4316796900000000e+02], imageName:@"", screenShotFile:@"Screen0004.png"}, {command:@"Click", eventNum:6, hotSpot:[3.0771484400000003e+02, 5.6425781199999994e+02], imageName:@"", screenShotFile:@"Screen0006.png"}, {command:@"Click", eventNum:8, hotSpot:[4.3547265599999997e+02, 3.4329296900000003e+02], imageName:@"", screenShotFile:@"Screen0008.png"}, {command:@"Click", eventNum:10, hotSpot:[5.8719140600000003e+02, 2.4332031200000000e+02], imageName:@"", screenShotFile:@"Screen0010.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Click "yChange"</string>
+		<string>Click ""</string>
+		<string>Click ""</string>
+		<string>Click ""</string>
+		<string>Click ""</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>yChange.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>turboSession</string>
+	<key>unnamedImageCount</key>
+	<integer>4</integer>
+</dict>
+</plist>

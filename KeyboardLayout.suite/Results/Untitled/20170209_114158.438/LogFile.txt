@@ -1,0 +1,8 @@
+﻿2017-02-09 11:41:58.440 -0700	START		Running Untitled.script
+2017-02-09 11:41:58.866 -0700	typetext		ABCDEFGHIJKLMNOPQRSTUVWXYZ	1	on_untitled	Untitled.script
+2017-02-09 11:41:59.580 -0700	typetext		[return]	2	on_untitled	Untitled.script
+2017-02-09 11:42:00.604 -0700	typetext		abcdefghijklmnopqrstuvwxyz	3	on_untitled	Untitled.script
+2017-02-09 11:42:01.321 -0700	typetext		[return]	4	on_untitled	Untitled.script
+2017-02-09 11:42:02.062 -0700	typetext		[controlKey][windowsAltKey]z	12	on_untitled	Untitled.script
+2017-02-09 11:42:03.526 -0700	EndTestCase		(Duration:"5.084149", Errors:"0", Exceptions:"0", StartTime:"2017-02-09 11:41:58 -0700", Successes:"1", TestCase:"Untitled.script", Warnings:"0")
+2017-02-09 11:42:03.532 -0700	SUCCESS		Execution Time 0:00:05 Untitled.script

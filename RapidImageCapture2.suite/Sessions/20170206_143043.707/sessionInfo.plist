@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[526, 564, 596, 594], command:@"Click", eventNum:2, hotSpot:[5.6143494899999996e+02, 2.1377207400000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"Automator", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0002.png", useExistingImage:@"YES"}, {captureRect:[396, 548, 455, 607], command:@"Click", eventNum:4, hotSpot:[4.3091794199999998e+02, 2.1677398400000001e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"appstore", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0004.png"}, {captureRect:[672, 553, 742, 583], command:@"Click", eventNum:6, hotSpot:[7.0771449800000005e+02, 2.2402250000000001e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"calc", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0006.png", skipStep:@"YES", useExistingImage:@"YES"}, {captureRect:[851, 563, 875, 588], command:@"Click", eventNum:8, hotSpot:[8.6026413700000001e+02, 2.2508133500000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"ULl", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0008.png"}, {captureRect:[980, 551, 1043, 603], command:@"Click", eventNum:10, hotSpot:[1.0167797620000000e+03, 2.2125713800000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"chess", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0010.png"}, {captureRect:[980, 433, 1044, 498], command:@"Click", eventNum:12, hotSpot:[1.0023185590000001e+03, 3.3115634899999998e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0088", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0012.png", skipStep:@"YES"}, {captureRect:[844, 434, 887, 497], command:@"Click", eventNum:14, hotSpot:[8.4688456599999995e+02, 3.3027774099999999e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0089", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0014.png", skipStep:@"YES"}, {captureRect:[693, 435, 744, 496], command:@"Click", eventNum:16, hotSpot:[7.0366964299999995e+02, 3.2020191100000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0090", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0016.png", skipStep:@"YES"}, {captureRect:[567, 449, 578, 473], command:@"Click", eventNum:18, hotSpot:[5.7044855399999994e+02, 3.3415825999999998e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"dash", searchType:@"Tolerant", skipStep:False, useExistingImage:True, waitFor:@""}, screenShotFile:@"Screen0018.png", skipStep:@"YES", useExistingImage:@"YES"}, {captureRect:[396, 211, 455, 270], command:@"Click", eventNum:20, hotSpot:[4.2911522100000002e+02, 5.6557007799999997e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0091", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0020.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Click "Automator" // use Existing Image </string>
+		<string>Click "appstore"</string>
+		<string>-skipped- Click "calc" // use Existing Image </string>
+		<string>Click "ULl"</string>
+		<string>Click "chess"</string>
+		<string>-skipped- Click "image0088"</string>
+		<string>-skipped- Click "image0089"</string>
+		<string>-skipped- Click "image0090"</string>
+		<string>-skipped- Click "dash" // use Existing Image </string>
+		<string>Click "image0091"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>Automator.png</string>
+			<string>appstore.png</string>
+			<string>ULl.png</string>
+			<string>chess.png</string>
+			<string>image0088.png</string>
+			<string>image0089.png</string>
+			<string>image0090.png</string>
+			<string>dash.png</string>
+			<string>Automator.png</string>
+			<string>appstore.png</string>
+			<string>ULl.png</string>
+			<string>chess.png</string>
+			<string>dash.png</string>
+			<string>image0091.png</string>
+			<string>image0091.png</string>
+			<string>calc.png</string>
+			<string>Automator.png</string>
+			<string>appstore.png</string>
+			<string>calc.png</string>
+			<string>ULl.png</string>
+			<string>chess.png</string>
+			<string>dash.png</string>
+			<string>image0091.png</string>
+			<string>Automator.png</string>
+			<string>appstore.png</string>
+			<string>ULl.png</string>
+			<string>chess.png</string>
+			<string>image0091.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>turboSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

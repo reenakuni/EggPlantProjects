@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{command:@"TypeText", eventNum:3, origText:@"\"I can \"", screenShotFile:@"Screen0003.png", text:@"\"I can \" "}, {command:@"TypeText", eventNum:15, screenShotFile:@"Screen0008.png", text:@"\"enter it in the\",Backspace,Backspace,Backspace,\"redmine and assign it to somebody\""}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>TypeText "I can " </string>
+		<string>TypeText "enter it in the",Backspace,Backspace,Backspace,"redmine and assign it to somebody"</string>
+	</array>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

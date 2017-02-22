@@ -1,0 +1,4 @@
+﻿2017-01-30 15:10:07.130 -0700	START		Running NewFolder/Untitled1.script
+2017-01-30 15:11:00.125 -0700	Exception		Searching For Image: OCR Error: OCR operation was aborted	1	on_newfolder_untitled1	NewFolder/Untitled1.script
+2017-01-30 15:11:00.708 -0700	EndTestCase		(Duration:"53.575597", Errors:"1", Exceptions:"1", StartTime:"2017-01-30 15:10:07 -0700", Successes:"0", TestCase:"NewFolder/Untitled1.script", Warnings:"0")
+2017-01-30 15:11:00.710 -0700	ABORTED		Execution Time 0:00:53 NewFolder/Untitled1.script

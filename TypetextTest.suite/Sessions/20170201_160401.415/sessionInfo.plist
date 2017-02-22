@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[355, 527, 468, 545], command:@"Click", eventNum:2, hotSpot:[5.1861718800000006e+02, 2.6036328099999997e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"appleappleapple", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {command:@"TypeText", eventNum:4, origText:@"\"aap\"", screenShotFile:@"Screen0004.png", text:@"\"aap\""}, {command:@"TypeText", eventNum:9, origText:@"\" le\"", screenShotFile:@"Screen0004.png", skipStep:@"YES", text:@"\" le khjjkhhjkhjjh\""}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Click "appleappleapple"</string>
+		<string>TypeText "aap"</string>
+		<string>-skipped- TypeText " le khjjkhhjkhjjh"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>appleappleapple.png</string>
+			<string>appleappleapple.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>turboSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

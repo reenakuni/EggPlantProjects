@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[183, 587, 280, 601], command:@"Image at", eventNum:2, hotSpot:[259, 202], imageName:@"", infoDict:{folderPath:@"/", imageName:@"From0003png", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[53, 774, 116, 789], command:@"Image at", eventNum:3, hotSpot:[84.269306, 13.436192], imageName:@"", infoDict:{folderPath:@"/", imageName:@"eggplantFileEdit", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0003.png"}, {captureRect:[19, 776, 521, 793], command:@"Image at", eventNum:4, hotSpot:[35.067408, 12.325548], imageName:@"", infoDict:{folderPath:@"/", imageName:@"UeggplantFileEditRunConnection", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0004.png"}, {captureRect:[19, 776, 521, 793], command:@"Image at", eventNum:5, hotSpot:[49.670157, 13.141178], imageName:@"", infoDict:{folderPath:@"/", imageName:@"UeggplantFileEditRunConnection_0001", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0005.png"}, {captureRect:[20, 775, 34, 792], command:@"Image at", eventNum:6, hotSpot:[29.717114, 13.141178], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0051", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0006.png"}, {captureRect:[20, 775, 34, 792], command:@"Image at", eventNum:7, hotSpot:[30.718668, 12.954624], imageName:@"", infoDict:{folderPath:@"/", imageName:@"UeggplantFileEditRunConnection_0002", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0007.png"}, {captureRect:[53, 774, 116, 789], command:@"Image at", eventNum:8, hotSpot:[102.414349, 12.954624], imageName:@"", infoDict:{folderPath:@"/", imageName:@"eggplantFileEdit_0001", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0008.png"}, {captureRect:[19, 776, 521, 793], command:@"Image at", eventNum:9, hotSpot:[132.820844, 12.954624], imageName:@"", infoDict:{folderPath:@"/", imageName:@"UeggplantFileEditRunConnection_0003", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0009.png"}, {captureRect:[218, 776, 243, 789], command:@"Image at", eventNum:10, hotSpot:[233, 10.256106], imageName:@"", infoDict:{folderPath:@"/", imageName:@"EditRunConnectionControlWindow", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0010.png"}, {captureRect:[230, 752, 255, 765], command:@"Image at", eventNum:11, hotSpot:[246, 38], imageName:@"", infoDict:{folderPath:@"/", imageName:@"RunWindow", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0011.png"}, {captureRect:[230, 721, 255, 734], command:@"Image at", eventNum:12, hotSpot:[246, 67], imageName:@"", infoDict:{folderPath:@"/", imageName:@"RunScript", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0012.png"}, {captureRect:[210, 676, 399, 740], command:@"Image at", eventNum:13, hotSpot:[250, 93], imageName:@"", infoDict:{folderPath:@"/", imageName:@"JRunSelection", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0013.png"}, {captureRect:[229, 650, 269, 665], command:@"Image at", eventNum:14, hotSpot:[250, 135], imageName:@"", infoDict:{folderPath:@"/", imageName:@"ScriptAnimation", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0014.png"}, {captureRect:[229, 631, 269, 646], command:@"Image at", eventNum:15, hotSpot:[247, 153], imageName:@"", infoDict:{folderPath:@"/", imageName:@"FronScriptTracing", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0015.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Image at "From0003png"</string>
+		<string>Image at "eggplantFileEdit"</string>
+		<string>Image at "UeggplantFileEditRunConnection"</string>
+		<string>Image at "UeggplantFileEditRunConnection_0001"</string>
+		<string>Image at "image0051"</string>
+		<string>Image at "UeggplantFileEditRunConnection_0002"</string>
+		<string>Image at "eggplantFileEdit_0001"</string>
+		<string>Image at "UeggplantFileEditRunConnection_0003"</string>
+		<string>Image at "EditRunConnectionControlWindow"</string>
+		<string>Image at "RunWindow"</string>
+		<string>Image at "RunScript"</string>
+		<string>Image at "JRunSelection"</string>
+		<string>Image at "ScriptAnimation"</string>
+		<string>Image at "FronScriptTracing"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>From0003png.png</string>
+			<string>eggplantFileEdit.png</string>
+			<string>UeggplantFileEditRunConnection.png</string>
+			<string>UeggplantFileEditRunConnection_0001.png</string>
+			<string>image0051.png</string>
+			<string>UeggplantFileEditRunConnection_0002.png</string>
+			<string>eggplantFileEdit_0001.png</string>
+			<string>UeggplantFileEditRunConnection_0003.png</string>
+			<string>EditRunConnectionControlWindow.png</string>
+			<string>RunWindow.png</string>
+			<string>RunScript.png</string>
+			<string>JRunSelection.png</string>
+			<string>ScriptAnimation.png</string>
+			<string>FronScriptTracing.png</string>
+			<string>From0003png.png</string>
+			<string>eggplantFileEdit.png</string>
+			<string>UeggplantFileEditRunConnection.png</string>
+			<string>UeggplantFileEditRunConnection_0001.png</string>
+			<string>image0051.png</string>
+			<string>UeggplantFileEditRunConnection_0002.png</string>
+			<string>eggplantFileEdit_0001.png</string>
+			<string>UeggplantFileEditRunConnection_0003.png</string>
+			<string>EditRunConnectionControlWindow.png</string>
+			<string>RunWindow.png</string>
+			<string>RunScript.png</string>
+			<string>JRunSelection.png</string>
+			<string>ScriptAnimation.png</string>
+			<string>FronScriptTracing.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>rapidSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

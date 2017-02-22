@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[870, 470, 940, 500], command:@"Click", eventNum:2, hotSpot:[905, 212], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0043", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[973, 331, 1019, 346], command:@"Click", eventNum:4, hotSpot:[986, 357], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0044", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0004.png"}, {captureRect:[834, 301, 904, 331], command:@"Click", eventNum:6, hotSpot:[869, 381], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0045", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0006.png"}, {captureRect:[720, 287, 783, 342], command:@"Click", eventNum:8, hotSpot:[752, 381], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0046", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0008.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Click "image0043"</string>
+		<string>Click "image0044"</string>
+		<string>Click "image0045"</string>
+		<string>Click "image0046"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>image0043.png</string>
+			<string>image0043.png</string>
+			<string>image0044.png</string>
+			<string>image0044.png</string>
+			<string>image0045.png</string>
+			<string>image0045.png</string>
+			<string>image0046.png</string>
+			<string>image0046.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>turboSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

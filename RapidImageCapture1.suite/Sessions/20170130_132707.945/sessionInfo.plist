@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[214, 590, 293, 656], command:@"DoubleClick", eventNum:2, hotSpot:[2.5460156200000000e+02, 1.6730078100000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0453", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[0, 0, 0, 0], command:@"Click", eventNum:6, hotSpot:[6.8757031199999994e+02, 3.2238671900000003e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0453", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0006.png"}, {command:@"Click", eventNum:8, hotSpot:[1.8968359400000000e+02, 1.3889843800000000e+02], imageName:@"", screenShotFile:@"Screen0008.png"}, {command:@"Click", eventNum:10, hotSpot:[2.3226562000000001e+01, 3.5066406000000001e+01], imageName:@"", screenShotFile:@"Screen0010.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>DoubleClick "image0453"</string>
+		<string>Click "Cance_0003"</string>
+		<string>Click ""</string>
+		<string>Click ""</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>image0453.png</string>
+			<string>image0453.png</string>
+			<string>image0453.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>turboSession</string>
+	<key>unnamedImageCount</key>
+	<integer>2</integer>
+</dict>
+</plist>

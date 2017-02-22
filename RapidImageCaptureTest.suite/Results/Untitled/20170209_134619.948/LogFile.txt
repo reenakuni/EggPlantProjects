@@ -1,0 +1,8 @@
+﻿2017-02-09 13:46:19.949 -0700	START		Running Untitled.script
+2017-02-09 13:46:20.476 -0700	click	start_session	at (257, 75)	1	on_untitled	Untitled.script
+2017-02-09 13:46:21.680 -0700	click	start_rapid_image_capture_session	at (391, 102)	2	on_untitled	Untitled.script
+2017-02-09 13:46:22.830 -0700	click	eggplant	at (158, 300)	3	on_untitled	Untitled.script
+2017-02-09 13:46:53.464 -0700	click	update	at (694, 248)	4	on_untitled	Untitled.script
+2017-02-09 13:47:23.967 -0700	Exception	bash	No Image Found On Screen: "bash"	5	on_untitled	Untitled.script
+2017-02-09 13:47:25.467 -0700	EndTestCase		(Duration:"65.516097", Errors:"1", Exceptions:"1", StartTime:"2017-02-09 13:46:19 -0700", Successes:"0", TestCase:"Untitled.script", Warnings:"0")
+2017-02-09 13:47:25.707 -0700	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "bash" -- Execution Time 0:01:05 Untitled.script

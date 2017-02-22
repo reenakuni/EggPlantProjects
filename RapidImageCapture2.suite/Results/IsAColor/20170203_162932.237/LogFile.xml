@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="IsAColor.script" package="RapidImageCapture2.suite" timestamp="2017-02-03 16:29:32.237 -0700"
+ tests="1" successes="0" errors="1" time="0.515119">
+  <properties>
+   <property name="RunDate" value="2017-02-03 16:29:32.237 -0700"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="IsAColor.script" assertions="1" successes="0" errors="1" time="0.511682">
+  </testcase>
+ </testsuite>
+</testsuites>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[396, 548, 455, 607], command:@"Image at", eventNum:2, hotSpot:[4.2881101200000001e+02, 2.1809752800000001e+02], imageName:@"", infoDict:{folderPath:@"/hello123", imageName:@"image0001", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[568, 565, 590, 581], command:@"Image at", eventNum:3, hotSpot:[5.7685384799999997e+02, 2.2160069600000000e+02], imageName:@"", infoDict:{folderPath:@"/hello123", imageName:@"image0002", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0003.png"}, {captureRect:[705, 568, 775, 598], command:@"Image at", eventNum:4, hotSpot:[7.4003954099999999e+02, 2.0964374300000000e+02], imageName:@"", infoDict:{folderPath:@"/hello123", imageName:@"image0003", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0004.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Image at "image0001"</string>
+		<string>Image at "hello123/image0002"</string>
+		<string>Image at "hello123/image0003"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key>hello123</key>
+		<array>
+			<string>image0001.png</string>
+			<string>image0002.png</string>
+			<string>image0003.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>rapidSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

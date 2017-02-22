@@ -1,0 +1,7 @@
+﻿2017-02-14 08:43:28.745 -0700	START		Running Untitled.script
+2017-02-14 08:43:36.311 -0700	LogWarning		Unable to Find Image:image0002 -- AutoUpdate engaged	1	on_untitled	Untitled.script
+2017-02-14 08:43:37.085 -0700	AutoUpdateCaptureScreen	AutoUpdate_0001.png		1	on_untitled	Untitled.script
+2017-02-14 08:43:37.087 -0700	AutoUpdateWarning	image0002	Found Alternate Image -- Using Scaling Search 1.0000	1	on_untitled	Untitled.script	"Name" = "Scaling Search"; "Info" = "1.0000"; 
+2017-02-14 08:43:37.580 -0700	click	image0002	at (492, 491)	1	on_untitled	Untitled.script
+2017-02-14 08:43:38.439 -0700	EndTestCase		(Duration:"9.692716", Errors:"0", Exceptions:"0", StartTime:"2017-02-14 08:43:28 -0700", Successes:"1", TestCase:"Untitled.script", Warnings:"1")
+2017-02-14 08:43:38.445 -0700	SUCCESS		Execution Time 0:00:09 Untitled.script

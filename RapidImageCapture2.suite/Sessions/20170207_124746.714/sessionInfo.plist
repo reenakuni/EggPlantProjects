@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[214, 590, 293, 656], command:@"Click", eventNum:2, hotSpot:[2.4552343800000000e+02, 1.7417578100000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"chess", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[471, 484, 541, 514], command:@"Click", eventNum:4, hotSpot:[5.0669140599999997e+02, 2.9384375000000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"photos", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0004.png"}, {captureRect:[581, 487, 596, 519], command:@"Click", eventNum:6, hotSpot:[5.8316406199999994e+02, 2.7859375000000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"dash", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0006.png", useExistingImage:@"YES"}, {captureRect:[635, 359, 705, 389], command:@"Click", eventNum:8, hotSpot:[6.7088671899999997e+02, 4.1882812500000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0140", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0008.png", useExistingImage:@"YES"}, {captureRect:[277, 260, 345, 294], command:@"Click", eventNum:10, hotSpot:[3.2092578099999997e+02, 5.1705078100000003e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"image0141", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0010.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Click "chess"</string>
+		<string>Click "photos"</string>
+		<string>Click "dash" // use Existing Image </string>
+		<string>Click "image0140" // use Existing Image </string>
+		<string>Click "image0141"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>chess.png</string>
+			<string>photos.png</string>
+			<string>dash.png</string>
+			<string>chess.png</string>
+			<string>photos.png</string>
+			<string>dash.png</string>
+			<string>image0140.png</string>
+			<string>image0140.png</string>
+			<string>image0141.png</string>
+			<string>image0141.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>turboSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

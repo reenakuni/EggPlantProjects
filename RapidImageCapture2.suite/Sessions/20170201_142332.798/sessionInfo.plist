@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[396, 466, 455, 525], command:@"Click", eventNum:2, hotSpot:[4.2720703099999997e+02, 2.9167578099999997e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"photos", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[689, 466, 748, 525], command:@"Click", eventNum:4, hotSpot:[7.2665625000000000e+02, 3.0348437500000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"photos", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0004.png"}, {captureRect:[1102, 201, 1108, 387], command:@"Drag", eventNum:6, hotSpot:[1.1068632809999999e+03, 4.1844531200000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"session", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0006.png"}, {captureRect:[1100, 414, 1107, 600], command:@"Drop", eventNum:6, hotSpot:[1.1027382809999999e+03, 2.0641406200000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"photos", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0007.png"}, {captureRect:[980, 551, 1043, 603], command:@"Click", eventNum:8, hotSpot:[1.0128750000000000e+03, 2.2451171900000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"photos", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0008.png"}, {captureRect:[543, 435, 602, 494], command:@"Click", eventNum:10, hotSpot:[5.7583203100000003e+02, 3.2684765599999997e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"appstore", searchType:@"Tolerant", waitFor:@"2"}, screenShotFile:@"Screen0010.png", useExistingImage:@"YES"}, {captureRect:[396, 548, 455, 607], command:@"Click", eventNum:12, hotSpot:[4.4664453099999997e+02, 2.1888671900000000e+02], imageName:@"", infoDict:{folderPath:@"/", imageName:@"chess", searchType:@"Tolerant", waitFor:@"4"}, screenShotFile:@"Screen0012.png", useExistingImage:@"YES"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Click "photos"</string>
+		<string>Click "photos"</string>
+		<string>Drag "session"</string>
+		<string>Drop "photos"</string>
+		<string>Click "photos"</string>
+		<string>-useExisting- Click (Image:"appstore", WaitFor:2)</string>
+		<string>-useExisting- Click (Image:"chess", WaitFor:4)</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key></key>
+		<array>
+			<string>photos.png</string>
+			<string>photos.png</string>
+			<string>session.png</string>
+			<string>photos.png</string>
+			<string>photos.png</string>
+			<string>appstore.png</string>
+			<string>chess.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>turboSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>
