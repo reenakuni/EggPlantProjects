@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[565, 500, 579, 513], command:@"Image at", eventNum:2, hotSpot:[577, 339], imageName:@"", infoDict:{folderPath:@"/reenaamar", imageName:@"image0001", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[275, 244, 347, 306], command:@"Image at", eventNum:3, hotSpot:[299, 582], imageName:@"", infoDict:{folderPath:@"/reenaamar", imageName:@"image0002", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0003.png"}, {captureRect:[1188, 285, 1258, 315], command:@"Image at", eventNum:4, hotSpot:[1223, 550], imageName:@"", infoDict:{folderPath:@"/reenaamar", imageName:@"image0003", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0004.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Image at "reenaamar/image0001"</string>
+		<string>Image at "reenaamar/image0002"</string>
+		<string>Image at "reenaamar/image0003"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key>reenaamar</key>
+		<array>
+			<string>image0001.png</string>
+			<string>image0001.png</string>
+			<string>image0002.png</string>
+			<string>image0002.png</string>
+			<string>image0003.png</string>
+			<string>image0003.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>rapidSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandList</key>
+	<string>[{captureRect:[214, 396, 294, 462], command:@"Image at", eventNum:2, hotSpot:[231, 170], imageName:@"", infoDict:{folderPath:@"/reena1", imageName:@"image0001", searchType:@"Tolerant", waitFor:@""}, screenShotFile:@"Screen0002.png"}, {captureRect:[114, 586, 269, 600], command:@"Image at", eventNum:3, hotSpot:[218, 17.46875], imageName:@"", infoDict:{folderPath:@"/reena1", imageName:@"FileEditViewGo", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0003.png"}, {captureRect:[198, 584, 387, 600], command:@"Image at", eventNum:4, hotSpot:[259, 13.300781], imageName:@"", infoDict:{folderPath:@"/reena1", imageName:@"ViewGoWindowHelp", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0004.png"}, {captureRect:[114, 586, 339, 600], command:@"Image at", eventNum:5, hotSpot:[293, 13.300781], imageName:@"", infoDict:{folderPath:@"/reena1", imageName:@"FileEditViewGoWindow", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0005.png"}, {captureRect:[248, 584, 387, 600], command:@"Image at", eventNum:6, hotSpot:[372, 8.441406], imageName:@"", infoDict:{folderPath:@"/reena1", imageName:@"GoWindowHelp", searchType:@"Smooth", waitFor:@""}, screenShotFile:@"Screen0006.png"}]</string>
+	<key>generatedCommands</key>
+	<array>
+		<string>Image at "reena1/image0001"</string>
+		<string>Image at "reena1/FileEditViewGo"</string>
+		<string>Image at "reena1/ViewGoWindowHelp"</string>
+		<string>Image at "reena1/FileEditViewGoWindow"</string>
+		<string>Image at "reena1/GoWindowHelp"</string>
+	</array>
+	<key>locallyAddedFiles</key>
+	<dict>
+		<key>reena1</key>
+		<array>
+			<string>image0001.png</string>
+			<string>image0001.png</string>
+			<string>FileEditViewGo.png</string>
+			<string>FileEditViewGo.png</string>
+			<string>ViewGoWindowHelp.png</string>
+			<string>ViewGoWindowHelp.png</string>
+			<string>FileEditViewGoWindow.png</string>
+			<string>FileEditViewGoWindow.png</string>
+			<string>GoWindowHelp.png</string>
+			<string>GoWindowHelp.png</string>
+		</array>
+	</dict>
+	<key>sessionType</key>
+	<string>rapidSession</string>
+	<key>unnamedImageCount</key>
+	<integer>0</integer>
+</dict>
+</plist>

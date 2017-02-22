@@ -1,0 +1,9 @@
+<?xml version="1.0"?><TableScript xmlns="http://www.testplant.com/xmlns/TableScript/2014">
+<Lines>
+<Line><Action>Click</Action><Arguments>"reena"</Arguments><ExpectedValueExpression></ExpectedValueExpression><Comment></Comment></Line>
+<Line><Action>Click</Action><Arguments>"vhghgh"</Arguments><ExpectedValueExpression></ExpectedValueExpression><Comment></Comment></Line>
+<Line><Action>BeginTimer</Action><Arguments>hello</Arguments><ExpectedValueExpression></ExpectedValueExpression><Comment></Comment></Line>
+<Line><Action>BeginTimer</Action><Arguments>fdfdfd</Arguments><ExpectedValueExpression></ExpectedValueExpression><Comment></Comment></Line>
+<Line><Action>EndTimer</Action><Arguments>hello</Arguments><ExpectedValueExpression></ExpectedValueExpression><Comment></Comment></Line>
+</Lines>
+</TableScript>

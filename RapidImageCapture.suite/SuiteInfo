@@ -1,5 +1,5 @@
 ﻿{
-    EPVersionNumber = 1702140217;
+    EPVersionNumber = 1702210217;
     Schedules =     (
     );
     ScriptMetaData =     {
@@ -8,5 +8,8 @@
     helpedSuitesInfo =     (
     );
     helperSuitesInfo =     (
+                {
+            filePath = "/Users/reenakuni/Documents/OtherePFSuites/DougsBankingTutorial.suite";
+        }
     );
 }
